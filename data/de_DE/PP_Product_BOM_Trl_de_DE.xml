@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="PP_Product_BOM">
+ <row id="145" trl="Y">
+  <value column="Name" original="Patio Furniture Set">Gartensitzgruppe</value>
+  <value column="Description" original="1 table, 4 Chairs and 1 Sun Screen">1 Tisch, 4 Stühle und 1 Sonnenschirm</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="50000" trl="Y">
+  <value column="Name" original="Patio Chair">Gartenstuhl</value>
+  <value column="Description" original="Nice Chair for outdoors">Schöner Gartenstuhl</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Assembly Back Leg">Fertigung hinteres Bein</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="50003" trl="Y">
+  <value column="Name" original="Assembly Front Leg">Fertigung vorderes Bein</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="50004" trl="Y">
+  <value column="Name" original="Fertilizer #50">Dünger 25 kg</value>
+  <value column="Description" original="50 # Bag of Lawn Fertilizer">25 kg Sack Rasendünger</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="50005" trl="Y">
+  <value column="Name" original="Fertilizer #70">Dünger 25 kg</value>
+  <value column="Description" original="70 # Bag of Lawn Fertilizer">25 kg Sack Rasendünger</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="50006" trl="Y">
+  <value column="Name" original="Lawn Fertilizer">Rasendünger</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+</adempiereTrl>

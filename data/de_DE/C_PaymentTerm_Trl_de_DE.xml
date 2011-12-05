@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="C_PaymentTerm">
+ <row id="100" trl="Y">
+  <value column="Name" original="30 Net">30 Netto</value>
+  <value column="Description" original=""/>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="105" trl="Y">
+  <value column="Name" original="Immediate">Sofort</value>
+  <value column="Description" original=""/>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="106" trl="Y">
+  <value column="Name" original="2%10 Net 30">2 % 10 Netto 30</value>
+  <value column="Description" original="2% discount if paid in 10 days, net due in 30 days">2 % Skonto wenn innerhalb von 10 Tagen gezahlt, netto fällig in 30 Tagen.</value>
+  <value column="DocumentNote" original="Payment Term Note: Long Term Contracts are eligible for payment discounts.">Anmerkung zu den Zahlungsbedingungen: Langfristige Verträge sind skontofähig.</value>
+ </row>
+ <row id="107" trl="Y">
+  <value column="Name" original="30 Days Net">30 Tage netto</value>
+  <value column="Description" original=""/>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="108" trl="Y">
+  <value column="Name" original="50% Immediate - 50% in 30 days">50 % Sofort - 50 % in 30 Tagen.</value>
+  <value column="Description" original=""/>
+  <value column="DocumentNote" original=""/>
+ </row>
+</adempiereTrl>
