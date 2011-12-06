@@ -8,7 +8,7 @@ GERMANHOME=/var/lib/jenkins/jobs/GermanLocalisation/workspace
 cd $ADEMPIEREHOME/Adempiere 
 echo ==== Copy Translation files and import language...
 cp $GERMANHOME/data/de_DE/*.xml $ADEMPIEREHOME/Adempiere/data/de_DE/
-cp $ADEMPIEREHOME/utils/myEnvironment.sh $GERMANHOME
+cp $ADEMPIEREHOME/Adempiere/utils/myEnvironment.sh $GERMANHOME
 echo
 cd $GERMANHOME
 sh ./utils/RUN_TrlImport.sh
