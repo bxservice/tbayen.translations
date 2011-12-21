@@ -5,6 +5,11 @@ WORKSPACE=/var/lib/jenkins/jobs/adempiere361/workspace
 ADEMPIEREHOME=$WORKSPACE/adempiere
 GERMANHOME=/var/lib/jenkins/jobs/GermanLocalisation/workspace
 
+#APPLY MIGRATION SCRIPTS
+$WORKSPACE/adempiere/Adempiere/migration/migrate_postgresql.sh \
+$GERMANHOME/workspace/migration/postgresql commit \
+|psql -U adempiere -d adempiere 
+
 cd $ADEMPIEREHOME/Adempiere 
 echo == COMMENT: get de_DE language xml files
 rm -R data/de_DE
