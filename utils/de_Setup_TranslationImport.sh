@@ -7,7 +7,7 @@ GERMANHOME=/var/lib/jenkins/jobs/GermanLocalisation/workspace
 
 #APPLY MIGRATION SCRIPTS
 $WORKSPACE/migration/migrate_postgresql.sh \
-$GERMANHOME/migration/postgresql commit \
+$GERMANHOME/migration commit \
 |psql -U adempiere -d adempiere 
 
 cd $ADEMPIEREHOME/Adempiere 
