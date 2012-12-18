@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="C_ElementValue">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
+<idempiereTrl language="de_DE" table="C_ElementValue">
  <row id="419" trl="Y">
   <value column="Name" original="Tree Farm Payable">Verbindlichkeiten Tree Farm</value>
   <value column="Description" original="Tree Farm Payable">Verbindlichkeiten Tree Farm</value>
@@ -141,7 +143,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="455" trl="Y">
-  <value column="Name" original="Retirement (Pension, Proft Sharing, 401k)">Renten (Altersrenten, Gewinnbeteiligung, 401k)</value>
+  <value column="Name" original="Retirement (Pension, Profit Sharing, 401k)">Renten (Altersrenten, Gewinnbeteiligung, 401k)</value>
   <value column="Description" original=""/>
  </row>
  <row id="456" trl="Y">
@@ -249,7 +251,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="482" trl="Y">
-  <value column="Name" original="Other Advertising &amp; Promotion"><![CDATA[Weitere Werbung und Promotion.]]></value>
+  <value column="Name" original="Other Advertising &amp; Promotion">Weitere Werbung und Promotion.</value>
   <value column="Description" original=""/>
  </row>
  <row id="483" trl="Y">
@@ -458,7 +460,7 @@
  </row>
  <row id="534" trl="Y">
   <value column="Name" original="Tax credit A/R">Steuergutschrift FaLL</value>
-  <value column="Description" original="Tax to be re-imbursed - before tax declaration">Steuerrückerstattung vor Steuererklärung</value>
+  <value column="Description" original="Tax to be reimbursed - before tax declaration">Steuerrückerstattung vor Steuererklärung</value>
  </row>
  <row id="535" trl="Y">
   <value column="Name" original="Tax receivables">Forderungen aus Steuern</value>
@@ -489,7 +491,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="542" trl="Y">
-  <value column="Name" original="Prepaid Expenses, Deposits &amp; Other Current Assets"><![CDATA[Vorauszahlungen, Einlagen, und anderes Umlaufvermögen]]></value>
+  <value column="Name" original="Prepaid Expenses, Deposits &amp; Other Current Assets">Vorauszahlungen, Einlagen, und anderes Umlaufvermögen</value>
   <value column="Description" original=""/>
  </row>
  <row id="543" trl="Y">
@@ -624,8 +626,8 @@
   <value column="Name" original="Vehicles Accumulated Depreciation">Akkumulierte Abschreibungen auf den Fuhrpark</value>
   <value column="Description" original=""/>
  </row>
- <row id="576" trl="Y">
-  <value column="Name" original="Data Processing Equipment Accumulated Depreciation">Akkumulierte Abschreibungen Betriebsmittel zur Datenverarbeitung</value>
+ <row id="576" trl="N">
+  <value column="Name" original="Data Processing Equipment Accumulated Depreciation">Data Processing Equipment Accumulated Depreciation</value>
   <value column="Description" original=""/>
  </row>
  <row id="577" trl="Y">
@@ -649,7 +651,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="582" trl="Y">
-  <value column="Name" original="Accumulated Amorization">Akkumulierte Abschreibungen</value>
+  <value column="Name" original="Accumulated Amortization">Akkumulierte Abschreibungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="583" trl="Y">
@@ -773,7 +775,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="613" trl="Y">
-  <value column="Name" original="Federal Unemployment Empolyers Contribution">Beiträge zur Arbeitslosenversicherung Bund</value>
+  <value column="Name" original="Federal Unemployment Employers Contribution">Beiträge zur Arbeitslosenversicherung Bund</value>
   <value column="Description" original=""/>
  </row>
  <row id="614" trl="Y">
@@ -901,7 +903,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="645" trl="Y">
-  <value column="Name" original="Data Processung Other Expense">Sonstige Aufwendungen für Datenverarbeitung</value>
+  <value column="Name" original="Data Processing Other Expense">Sonstige Aufwendungen für Datenverarbeitung</value>
   <value column="Description" original=""/>
  </row>
  <row id="646" trl="Y">
@@ -921,7 +923,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="650" trl="Y">
-  <value column="Name" original="Business Meals &amp; Entertainment (50%)"><![CDATA[Geschäftsessen und Unterhaltung (50 %)]]></value>
+  <value column="Name" original="Business Meals &amp; Entertainment (50%)">Geschäftsessen und Unterhaltung (50 %)</value>
   <value column="Description" original=""/>
  </row>
  <row id="651" trl="Y">
@@ -973,7 +975,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="663" trl="Y">
-  <value column="Name" original="Dues &amp; Subscription"><![CDATA[Abgaben und Abonnements]]></value>
+  <value column="Name" original="Dues &amp; Subscription">Abgaben und Abonnements</value>
   <value column="Description" original=""/>
  </row>
  <row id="664" trl="Y">
@@ -993,7 +995,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="668" trl="Y">
-  <value column="Name" original="Posting &amp; Shipping"><![CDATA[Post und Transport]]></value>
+  <value column="Name" original="Posting &amp; Shipping">Post und Transport</value>
   <value column="Description" original=""/>
  </row>
  <row id="669" trl="Y">
@@ -1013,7 +1015,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="673" trl="Y">
-  <value column="Name" original="Inventory &amp; Use Taxes"><![CDATA[Bestands- und Gebrauchssteuern]]></value>
+  <value column="Name" original="Inventory &amp; Use Taxes">Bestands- und Gebrauchssteuern</value>
   <value column="Description" original=""/>
  </row>
  <row id="674" trl="Y">
@@ -1021,7 +1023,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="675" trl="Y">
-  <value column="Name" original="Business Licenses &amp; Fees"><![CDATA[Geschäftslizenzen und -gebühren]]></value>
+  <value column="Name" original="Business Licenses &amp; Fees">Geschäftslizenzen und -gebühren</value>
   <value column="Description" original=""/>
  </row>
  <row id="676" trl="Y">
@@ -1033,7 +1035,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="678" trl="Y">
-  <value column="Name" original="Education Meals &amp; Entertainment (50%)"><![CDATA[Fortbildungsverpflegung und Unterhaltung (50 %)]]></value>
+  <value column="Name" original="Education Meals &amp; Entertainment (50%)">Fortbildungsverpflegung und Unterhaltung (50 %)</value>
   <value column="Description" original=""/>
  </row>
  <row id="679" trl="Y">
@@ -1049,27 +1051,27 @@
   <value column="Description" original=""/>
  </row>
  <row id="682" trl="Y">
-  <value column="Name" original="Repairs &amp; Maintenance"><![CDATA[Reparaturen und Verwaltung]]></value>
+  <value column="Name" original="Repairs &amp; Maintenance">Reparaturen und Verwaltung</value>
   <value column="Description" original=""/>
  </row>
  <row id="683" trl="Y">
-  <value column="Name" original="Building Repairs &amp; Maintenence"><![CDATA[Gebäudereparaturen und -verwaltung]]></value>
+  <value column="Name" original="Building Repairs &amp; Maintenance">Gebäudereparaturen und -verwaltung</value>
   <value column="Description" original=""/>
  </row>
  <row id="684" trl="Y">
-  <value column="Name" original="Furniture, Equipment Repairs &amp; Maintenence"><![CDATA[Verwaltung und Reparaturen von Möbeln, Zubehör ]]></value>
+  <value column="Name" original="Furniture, Equipment Repairs &amp; Maintenance">Verwaltung und Reparaturen von Möbeln, Zubehör </value>
   <value column="Description" original=""/>
  </row>
  <row id="685" trl="Y">
-  <value column="Name" original="Software Maintenence">Verwaltung Software</value>
+  <value column="Name" original="Software Maintenance">Verwaltung Software</value>
   <value column="Description" original=""/>
  </row>
  <row id="686" trl="Y">
-  <value column="Name" original="Vehicle Repairs &amp; Maintenence"><![CDATA[Verwaltung und Reparaturen Fuhrpark]]></value>
+  <value column="Name" original="Vehicle Repairs &amp; Maintenance">Verwaltung und Reparaturen Fuhrpark</value>
   <value column="Description" original=""/>
  </row>
  <row id="687" trl="Y">
-  <value column="Name" original="Repairs &amp; Maintenance Other"><![CDATA[Sonstige Reparaturen und Verwaltung]]></value>
+  <value column="Name" original="Repairs &amp; Maintenance Other">Sonstige Reparaturen und Verwaltung</value>
   <value column="Description" original=""/>
  </row>
  <row id="688" trl="Y">
@@ -1145,7 +1147,7 @@
   <value column="Description" original="Bank interest revenue">Zinserträge Bank </value>
  </row>
  <row id="706" trl="Y">
-  <value column="Name" original="Divident Income">Erträge aus Dividenden</value>
+  <value column="Name" original="Dividend Income">Erträge aus Dividenden</value>
   <value column="Description" original=""/>
  </row>
  <row id="707" trl="Y">
@@ -1193,7 +1195,7 @@
   <value column="Description" original="Bank interest expense">Zinsaufwendungen Bank</value>
  </row>
  <row id="718" trl="Y">
-  <value column="Name" original="Mortage Interest Expense">Zinsaufwendungen für Hypotheken</value>
+  <value column="Name" original="Mortgage Interest Expense">Zinsaufwendungen für Hypotheken</value>
   <value column="Description" original=""/>
  </row>
  <row id="719" trl="Y">
@@ -1233,7 +1235,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="728" trl="Y">
-  <value column="Name" original="Income Tax &amp; Summary"><![CDATA[Einkommenssteuer und Zusammenfassung.]]></value>
+  <value column="Name" original="Income Tax &amp; Summary">Einkommenssteuer und Zusammenfassung.</value>
   <value column="Description" original=""/>
  </row>
  <row id="729" trl="Y">
@@ -1349,7 +1351,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="757" trl="Y">
-  <value column="Name" original="Dividents">Dividenden</value>
+  <value column="Name" original="Dividends">Dividenden</value>
   <value column="Description" original=""/>
  </row>
  <row id="758" trl="Y">
@@ -1377,7 +1379,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="764" trl="Y">
-  <value column="Name" original="Data Processing Repairs &amp; Maintenence"><![CDATA[Verwaltung und Reparaturen der Datenverarbeitung]]></value>
+  <value column="Name" original="Data Processing Repairs &amp; Maintenance">Verwaltung und Reparaturen der Datenverarbeitung</value>
   <value column="Description" original=""/>
  </row>
  <row id="765" trl="Y">
@@ -1421,7 +1423,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="775" trl="Y">
-  <value column="Name" original="Licenses &amp; Fees - Other"><![CDATA[Andere Lizenzen und Gebühren]]></value>
+  <value column="Name" original="Licenses &amp; Fees - Other">Andere Lizenzen und Gebühren</value>
   <value column="Description" original=""/>
  </row>
  <row id="776" trl="Y">
@@ -1458,31 +1460,31 @@
  </row>
  <row id="50001" trl="Y">
   <value column="Name" original="Using Variance">Gebrauchsabnutzung</value>
-  <value column="Description" original="Account for Using Variance">Konto für &quot;Gebrauchsabnutzung&quot;.</value>
+  <value column="Description" original="Account for Using Variance">Konto für "Gebrauchsabnutzung".</value>
  </row>
  <row id="50002" trl="Y">
   <value column="Name" original="Method Change Variance">Abweichung Methodenänderung</value>
-  <value column="Description" original="Account for Method Change Variance">Konto für &quot;Abweichung Methodenänderung&quot;.</value>
+  <value column="Description" original="Account for Method Change Variance">Konto für "Abweichung Methodenänderung".</value>
  </row>
  <row id="50003" trl="Y">
   <value column="Name" original="Rate Variance">Gebührensatzabweichung</value>
-  <value column="Description" original="Account for Rate Variance">Konto für &quot;Gebührensatzabweichung&quot;.</value>
+  <value column="Description" original="Account for Rate Variance">Konto für "Gebührensatzabweichung".</value>
  </row>
  <row id="50004" trl="Y">
   <value column="Name" original="Mix Variance">Abweichung Mischung</value>
-  <value column="Description" original="Account for Rate Variance">Konto für &quot;Gebührensatzabweichung&quot;.</value>
+  <value column="Description" original="Account for Rate Variance">Konto für "Gebührensatzabweichung".</value>
  </row>
  <row id="50005" trl="Y">
   <value column="Name" original="Work In Process">Work In Progress</value>
-  <value column="Description" original="Work In Process Account">Konto &quot;Work In Progress&quot;.</value>
+  <value column="Description" original="Work In Process Account">Konto "Work In Progress".</value>
  </row>
  <row id="50006" trl="Y">
   <value column="Name" original="Floor Stock">Bestand Produktionsstätte</value>
-  <value column="Description" original="Floor Stock Account">Konto &quot;Bestand Produktionsstätte&quot;.</value>
+  <value column="Description" original="Floor Stock Account">Konto "Bestand Produktionsstätte".</value>
  </row>
  <row id="50007" trl="Y">
   <value column="Name" original="Labor (Absorbed)">Arbeit (verrechnet)</value>
-  <value column="Description" original="Labor Absorbed account">Konto für &quot;Arbeit (verrechnet)&quot;.</value>
+  <value column="Description" original="Labor Absorbed account">Konto für "Arbeit (verrechnet)".</value>
  </row>
  <row id="50008" trl="Y">
   <value column="Name" original="Expense (Absorbed)">Aufwendungen (verrechnet)</value>
@@ -1490,15 +1492,15 @@
  </row>
  <row id="50009" trl="Y">
   <value column="Name" original="Burden (Absorbed)">Belastungen (verrechnet)</value>
-  <value column="Description" original="Burden Absorbed account">Konto für &quot;Belastungen (verrechnet)&quot;.</value>
+  <value column="Description" original="Burden Absorbed account">Konto für "Belastungen (verrechnet)".</value>
  </row>
  <row id="50010" trl="Y">
   <value column="Name" original="Cost Of Production">Produktionskosten</value>
-  <value column="Description" original="Cost Of Production Account">Konto für &quot;Produktionskosten&quot;.</value>
+  <value column="Description" original="Cost Of Production Account">Konto für "Produktionskosten".</value>
  </row>
  <row id="50011" trl="Y">
   <value column="Name" original="Outside Processing (Subcontract)">Externe Bearbeitungsschritte (Untervertrag)</value>
-  <value column="Description" original="Outside Processing Account">Konto für &quot;Externe Bearbeitungsschritte&quot;.</value>
+  <value column="Description" original="Outside Processing Account">Konto für "Externe Bearbeitungsschritte".</value>
  </row>
  <row id="50014" trl="Y">
   <value column="Name" original="Overhead (Applied)">Overhead (angewendet)</value>
@@ -1506,10 +1508,10 @@
  </row>
  <row id="50016" trl="Y">
   <value column="Name" original="Scrap">Ausschuss</value>
-  <value column="Description" original="Scrap Account">Konto für &quot;Ausschuss&quot;.</value>
+  <value column="Description" original="Scrap Account">Konto für "Ausschuss".</value>
  </row>
  <row id="50017" trl="Y">
   <value column="Name" original="Average Cost Variance">Abweichung Durchschnittskosten</value>
-  <value column="Description" original="Account for Average Cost Variance">Konto für die &quot;Abweichung Durchschnittskosten&quot;.</value>
+  <value column="Description" original="Account for Average Cost Variance">Konto für die "Abweichung Durchschnittskosten".</value>
  </row>
-</adempiereTrl>
+</idempiereTrl>

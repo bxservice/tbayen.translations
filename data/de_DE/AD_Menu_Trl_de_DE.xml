@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="AD_Menu">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
+<idempiereTrl language="de_DE" table="AD_Menu">
  <row id="100" trl="Y">
   <value column="Name" original="Invoice Inquiry">Rechnungsübersichten</value>
   <value column="Description" original=""/>
@@ -170,7 +172,7 @@
  </row>
  <row id="53016" trl="Y">
   <value column="Name" original="Engineering Management">Verwaltung Konstruktion.</value>
-  <value column="Description" original="Engineering management involves the overall management of organizations with an orientation to manufacturing, engineering, technology or production.">Die &quot;Verwaltung Konstruktion&quot; beinhaltet die gesamte Verwaltung von Organisationen mit einer Ausrichtung auf Herstellung, Konstruktion, Technologie und Produktion.</value>
+  <value column="Description" original="Engineering management involves the overall management of organizations with an orientation to manufacturing, engineering, technology or production.">Die "Verwaltung Konstruktion" beinhaltet die gesamte Verwaltung von Organisationen mit einer Ausrichtung auf Herstellung, Konstruktion, Technologie und Produktion.</value>
  </row>
  <row id="53017" trl="Y">
   <value column="Name" original="Resource Manufacturing">Ressourcenfertigung</value>
@@ -304,4 +306,4 @@
   <value column="Name" original="EDI">EDI</value>
   <value column="Description" original=""/>
  </row>
-</adempiereTrl>
+</idempiereTrl>

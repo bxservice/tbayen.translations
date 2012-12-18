@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="C_Currency">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
+<idempiereTrl language="de_DE" table="C_Currency">
  <row id="100" trl="Y">
   <value column="Description" original="US Dollar">Dollar (100 Cent)</value>
   <value column="CurSymbol" original="$">$</value>
@@ -696,4 +698,4 @@
   <value column="Description" original="Serbian Dinar">Dinar (100 Para)</value>
   <value column="CurSymbol" original="RSD">RSD</value>
  </row>
-</adempiereTrl>
+</idempiereTrl>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="C_Country">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
+<idempiereTrl language="de_DE" table="C_Country">
  <row id="100" trl="Y">
   <value column="Name" original="United States">Vereinigte Staaten von Amerika</value>
   <value column="Description" original="United States of America">Vereinigte Staaten von Amerika</value>
@@ -898,7 +900,7 @@
  <row id="286" trl="Y">
   <value column="Name" original="Russian Federation">Russische Föderation</value>
   <value column="Description" original="Russian Federation">Russische Föderation</value>
-  <value column="RegionName" original=""/>
+  <value column="RegionName" original="Federal Subject"/>
  </row>
  <row id="287" trl="Y">
   <value column="Name" original="Rwanda">Ruanda</value>
@@ -1235,4 +1237,4 @@
   <value column="Description" original="Saint Martin">Saint Martin</value>
   <value column="RegionName" original="State">Land</value>
  </row>
-</adempiereTrl>
+</idempiereTrl>

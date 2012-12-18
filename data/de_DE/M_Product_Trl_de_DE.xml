@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="M_Product">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
+<idempiereTrl language="de_DE" table="M_Product">
  <row id="122" trl="Y">
   <value column="Name" original="Standard">Standard</value>
   <value column="Description" original=""/>
@@ -118,7 +120,7 @@
  <row id="145" trl="Y">
   <value column="Name" original="Patio Furniture Set">Gartensitzgruppe</value>
   <value column="Description" original="1 table, 4 Chairs and 1 Sun Screen">1 Tisch, 4 Stühle und 1 Sonnenschirm</value>
-  <value column="DocumentNote" original="	">	</value>
+  <value column="DocumentNote" original="&#9;">	</value>
  </row>
  <row id="146" trl="Y">
   <value column="Name" original="How To Plant">Richtig gärtnern</value>
@@ -211,7 +213,7 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="50017" trl="Y">
-  <value column="Name" original="Whater">Wasser</value>
+  <value column="Name" original="Water">Wasser</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
@@ -265,4 +267,4 @@
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
-</adempiereTrl>
+</idempiereTrl>

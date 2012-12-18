@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="AD_FieldGroup">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
+<idempiereTrl language="de_DE" table="AD_FieldGroup">
  <row id="101" trl="Y">
   <value column="Name" original="Status">Status</value>
  </row>
@@ -141,7 +143,13 @@
  <row id="50012" trl="Y">
   <value column="Name" original="Logo">Logo</value>
  </row>
- <row id="1000000" trl="Y">
-  <value column="Name" original="SIP configuration">SIP-Konfiguration</value>
+ <row id="200000" trl="N">
+  <value column="Name" original="Swing Position">Swing Position</value>
  </row>
-</adempiereTrl>
+ <row id="200001" trl="N">
+  <value column="Name" original="Web Position">Web Position</value>
+ </row>
+ <row id="200003" trl="N">
+  <value column="Name" original="User Locking">User Locking</value>
+ </row>
+</idempiereTrl>

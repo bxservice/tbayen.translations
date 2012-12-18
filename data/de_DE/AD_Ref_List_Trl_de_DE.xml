@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE adempiereTrl PUBLIC "-//ComPiere, Inc.//DTD Adempiere Translation 1.0//EN" "http://www.adempiere.com/dtd/adempiereTrl.dtd">--><adempiereTrl language="de_DE" table="AD_Ref_List">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
+<idempiereTrl language="de_DE" table="AD_Ref_List">
  <row id="51" trl="Y">
   <value column="Name" original="Organization">Organisation</value>
   <value column="Description" original=""/>
@@ -118,11 +120,11 @@
  </row>
  <row id="122" trl="Y">
   <value column="Name" original="Revenue">Umsatz</value>
-  <value column="Description" original="Revenue (P&amp;L) Account"><![CDATA[Umsatzkonto (GuV).]]></value>
+  <value column="Description" original="Revenue (P&amp;L) Account">Umsatzkonto (GuV).</value>
  </row>
  <row id="123" trl="Y">
   <value column="Name" original="Expense">Aufwand</value>
-  <value column="Description" original="Expense (P&amp;L) Account"><![CDATA[Aufwandskonto (GuV).]]></value>
+  <value column="Description" original="Expense (P&amp;L) Account">Aufwandskonto (GuV).</value>
  </row>
  <row id="124" trl="Y">
   <value column="Name" original="Owner's Equity">Eigenkapital</value>
@@ -130,7 +132,7 @@
  </row>
  <row id="125" trl="Y">
   <value column="Name" original="Memo">Memo</value>
-  <value column="Description" original="Memo (Non Balance Sheet nor P&amp;L) Account"><![CDATA[Memokonto (weder Bilanz noch GuV).]]></value>
+  <value column="Description" original="Memo (Non Balance Sheet nor P&amp;L) Account">Memokonto (weder Bilanz noch GuV).</value>
  </row>
  <row id="126" trl="Y">
   <value column="Name" original="Natural">Standard</value>
@@ -2133,7 +2135,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="681" trl="Y">
-  <value column="Name" original="Not Mandatary">Nicht notwendig</value>
+  <value column="Name" original="Not Mandatory">Nicht notwendig</value>
   <value column="Description" original=""/>
  </row>
  <row id="682" trl="Y">
@@ -2537,7 +2539,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="785" trl="Y">
-  <value column="Name" original="PO Commitment &amp; Reservation"><![CDATA[Bindende Bestellungen und Reservierungen.]]></value>
+  <value column="Name" original="PO Commitment &amp; Reservation">Bindende Bestellungen und Reservierungen.</value>
   <value column="Description" original=""/>
  </row>
  <row id="786" trl="Y">
@@ -3329,7 +3331,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="52000" trl="Y">
-  <value column="Name" original="Mixed">Gemischt</value>
+  <value column="Name" original="Mixed POS Payment">Gemischt</value>
   <value column="Description" original=""/>
  </row>
  <row id="52001" trl="Y">
@@ -3353,7 +3355,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53223" trl="Y">
-  <value column="Name" original="PO/SO Commitment &amp; Reservation"><![CDATA[Bindende Bestellungen/Einkäufe und Reservierungen.]]></value>
+  <value column="Name" original="PO/SO Commitment &amp; Reservation">Bindende Bestellungen/Einkäufe und Reservierungen.</value>
   <value column="Description" original=""/>
  </row>
  <row id="53224" trl="Y">
@@ -3442,7 +3444,7 @@
  </row>
  <row id="53252" trl="Y">
   <value column="Name" original="Continuous Flow">Fließfertigung</value>
-  <value column="Description" original="Continuous flow usually referes to the production or processing of fluids waster powders basic metals  etc.">In &quot;Fließfertigung&quot; werden z. B. Flüssigkeiten, Pulver, basische Metallen usw. produziert.</value>
+  <value column="Description" original="Continuous flow usually referes to the production or processing of fluids waster powders basic metals  etc.">In "Fließfertigung" werden z. B. Flüssigkeiten, Pulver, basische Metallen usw. produziert.</value>
  </row>
  <row id="53253" trl="Y">
   <value column="Name" original="Dedicate Repetititive Flow">Wiederholungsflow anwenden</value>
@@ -3450,7 +3452,7 @@
  </row>
  <row id="53254" trl="Y">
   <value column="Name" original="Job Shop">Jobshop</value>
-  <value column="Description" original="A Job Shop is characterized by the organitation of similar equipmnnet by function. As Job flow from Work Center to Work Center or Departament to Departament and the diferent type of operation is performance in each center or departament">Ein &quot;Jobshop&quot; zeichnet sich durch gleiche Ausrüstung einer Organisation nach Funktion aus. Ein Job durchläuft alle Arbeitsplätze oder Abteilungen und die unterschiedlichen Arbeitsschritte werden an jedem Arbeitsplatz bzw. in jeder Abteilung durchgeführt.</value>
+  <value column="Description" original="A Job Shop is characterized by the organitation of similar equipmnnet by function. As Job flow from Work Center to Work Center or Departament to Departament and the diferent type of operation is performance in each center or departament">Ein "Jobshop" zeichnet sich durch gleiche Ausrüstung einer Organisation nach Funktion aus. Ein Job durchläuft alle Arbeitsplätze oder Abteilungen und die unterschiedlichen Arbeitsschritte werden an jedem Arbeitsplatz bzw. in jeder Abteilung durchgeführt.</value>
  </row>
  <row id="53255" trl="Y">
   <value column="Name" original="Mixed Repetitive Flow">Gemischter Wiederholungsflow</value>
@@ -3517,7 +3519,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53271" trl="Y">
-  <value column="Name" original="Replace &amp; Expire"><![CDATA[Ersetzen und auslaufen lassen.]]></value>
+  <value column="Name" original="Replace &amp; Expire">Ersetzen und auslaufen lassen.</value>
   <value column="Description" original=""/>
  </row>
  <row id="53272" trl="Y">
@@ -3834,11 +3836,11 @@
  </row>
  <row id="53358" trl="Y">
   <value column="Name" original="Period">Periode</value>
-  <value column="Description" original="Amount entered in the Manual Depreciation Field is by period">Der Wert im Feld &quot;Manuelle Abschreibung&quot; versteht sich pro Periode.</value>
+  <value column="Description" original="Amount entered in the Manual Depreciation Field is by period">Der Wert im Feld "Manuelle Abschreibung" versteht sich pro Periode.</value>
  </row>
  <row id="53359" trl="Y">
   <value column="Name" original="Yearly">Jährlich</value>
-  <value column="Description" original="The amount entered into the manual depreciation field is for the year">Der Wert im Feld &quot;Manuelle Abschreibung&quot; versteht sich pro Jahr.</value>
+  <value column="Description" original="The amount entered into the manual depreciation field is for the year">Der Wert im Feld "Manuelle Abschreibung" versteht sich pro Jahr.</value>
  </row>
  <row id="53360" trl="Y">
   <value column="Name" original="Depreciation">Abschreibung</value>
@@ -4158,7 +4160,7 @@
  </row>
  <row id="53441" trl="Y">
   <value column="Name" original="Natural Balance">Ursprungssaldo</value>
-  <value column="Description" original="BY for P &amp; L account, BT for Balance Sheet account"><![CDATA[BY für GuV-Konto, BT für Konto Bilanzaufstellung]]></value>
+  <value column="Description" original="BY for P &amp; L account, BT for Balance Sheet account">BY für GuV-Konto, BT für Konto Bilanzaufstellung</value>
  </row>
  <row id="53442" trl="Y">
   <value column="Name" original="Material Receipt">Wareneingang</value>
@@ -4402,7 +4404,7 @@
  </row>
  <row id="53540" trl="Y">
   <value column="Name" original="Natural">Standard</value>
-  <value column="Description" original="Year for P &amp; L account, Total for Balance Sheet account"><![CDATA[Jahr für GuV-Konto, Gesamt für Konto Bilanzaufstellung]]></value>
+  <value column="Description" original="Year for P &amp; L account, Total for Balance Sheet account">Jahr für GuV-Konto, Gesamt für Konto Bilanzaufstellung</value>
  </row>
  <row id="53541" trl="Y">
   <value column="Name" original="Balance (expected sign)">Saldo (erwartetes Vorzeichen)</value>
@@ -4464,4 +4466,200 @@
   <value column="Name" original="Cron Scheduling Pattern">Cron Zeitplanungsmuster</value>
   <value column="Description" original="Use cron style scheduling pattern">Verwende Cron Zeitplanungsmuster</value>
  </row>
-</adempiereTrl>
+ <row id="53578" trl="N">
+  <value column="Name" original="Keyboard">Keyboard</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53579" trl="N">
+  <value column="Name" original="Numberpad">Numberpad</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53580" trl="N">
+  <value column="Name" original="Product">Product</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53583" trl="N">
+  <value column="Name" original="Custom Separator Char">Custom Separator Char</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53624" trl="N">
+  <value column="Name" original="Bank In Transit">Bank In Transit</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53625" trl="N">
+  <value column="Name" original="Payment Clearing (Unalloc Cash/Payment Selection)">Payment Clearing (Unalloc Cash/Payment Selection)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53626" trl="N">
+  <value column="Name" original="AR/AP Trade (Receivables/Vendor Liabilities)">AR/AP Trade (Receivables/Vendor Liabilities)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53627" trl="N">
+  <value column="Name" original="GL Reconciliation">GL Reconciliation</value>
+  <value column="Description" original="SQL subquery used in GL Reconciliation (auto)">SQL subquery used in GL Reconciliation (auto)</value>
+ </row>
+ <row id="53660" trl="N">
+  <value column="Name" original="Both">Both</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53661" trl="N">
+  <value column="Name" original="Sales">Sales</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53662" trl="N">
+  <value column="Name" original="Purchases">Purchases</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53663" trl="N">
+  <value column="Name" original="Financing">Financing</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53664" trl="N">
+  <value column="Name" original="Investment">Investment</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53665" trl="N">
+  <value column="Name" original="Operational">Operational</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53666" trl="N">
+  <value column="Name" original="Daily">Daily</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53667" trl="N">
+  <value column="Name" original="Weekly">Weekly</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53668" trl="N">
+  <value column="Name" original="Fortnightly">Fortnightly</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53669" trl="N">
+  <value column="Name" original="Biweekly">Biweekly</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53670" trl="N">
+  <value column="Name" original="Monthly">Monthly</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53671" trl="N">
+  <value column="Name" original="Bimonthly">Bimonthly</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53672" trl="N">
+  <value column="Name" original="Quarterly">Quarterly</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53673" trl="N">
+  <value column="Name" original="Semiannual">Semiannual</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53674" trl="N">
+  <value column="Name" original="Yearly">Yearly</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53675" trl="N">
+  <value column="Name" original="1_Initial Balance">1_Initial Balance</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53676" trl="N">
+  <value column="Name" original="2_Plan">2_Plan</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53677" trl="N">
+  <value column="Name" original="3_Commitments (Orders)">3_Commitments (Orders)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53678" trl="N">
+  <value column="Name" original="4_Actual Debt (Invoices)">4_Actual Debt (Invoices)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53708" trl="N">
+  <value column="Name" original="Distribution Order">Distribution Order</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53709" trl="N">
+  <value column="Name" original="Inventory Movement">Inventory Movement</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53710" trl="N">
+  <value column="Name" original="Purchase Order">Purchase Order</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53711" trl="N">
+  <value column="Name" original="Requistion">Requistion</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53712" trl="N">
+  <value column="Name" original="Production">Production</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200008" trl="N">
+  <value column="Name" original="New">New</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200009" trl="N">
+  <value column="Name" original="Pending">Pending</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200010" trl="N">
+  <value column="Name" original="Finished">Finished</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200011" trl="N">
+  <value column="Name" original="In-Progress">In-Progress</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200012" trl="N">
+  <value column="Name" original="Skipped">Skipped</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200013" trl="N">
+  <value column="Name" original="Delayed">Delayed</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200014" trl="N">
+  <value column="Name" original="Wizard">Wizard</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200020" trl="N">
+  <value column="Name" original="Charged">Charged</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200021" trl="N">
+  <value column="Name" original="Delayed">Delayed</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200022" trl="N">
+  <value column="Name" original="Replaced">Replaced</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200023" trl="N">
+  <value column="Name" original="Received">Received</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200024" trl="N">
+  <value column="Name" original="Returned">Returned</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200025" trl="N">
+  <value column="Name" original="Cash">Cash</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200026" trl="N">
+  <value column="Name" original="Card">Card</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200027" trl="N">
+  <value column="Name" original="Column">Column</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200028" trl="N">
+  <value column="Name" original="Fixed">Fixed</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200029" trl="N">
+  <value column="Name" original="Same">Same</value>
+  <value column="Description" original=""/>
+ </row>
+</idempiereTrl>
