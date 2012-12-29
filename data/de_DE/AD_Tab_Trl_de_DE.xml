@@ -1173,10 +1173,10 @@
   <value column="Help" original="The Request Processor Tab allows you to define processes that you want to occur and the frequency and timing of these processes. If no other user is found, the items are assigned to the supervisor. A Request Processor can be just for a specific Request Type or for all.">Im Register "Anfrageprozessor" können Sie verschiedene Prozesse festlegen, die durchgeführt werden sollen. Zusätzlich ist es möglich, Durchführungsfrequenz und Timing zu bestimmen. Wenn kein anderer Nutzer vorhanden ist, werden die Elemente dem Supervisor zugeordnet. Der Anfrageprozessor kann nur für eine oder aber für alle Anfragearten eingesetzt werden.</value>
  </row>
  <row id="347" trl="Y">
-  <value column="Name" original="Mail Template">Emailtemplate</value>
+  <value column="Name" original="Mail Template">E-Mail Vorlage</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Maintain Mail Template">Verwaltung Emailtemplates.</value>
-  <value column="Help" original="A mail template can contain variables, e.g. @Name@.  &#10;The variables are replaced based on the context. First, the the User is searched to find the variables.&#10;Additional objects are used for dunning (business partner, dunning entry), asset delivery (asset) and invoice print (business partner, invoice)">Ein Emailtemplate kann Variablen enthalten, z . B. @Name@. Die Variablen werden auf Grundlage des Kontexts ersetzt. Als erstes wird der Nutzer gesucht, um die Variablen zu finden. Für Mahnvorgänge (Geschäftspartner, Mahneintrag), Anlagenauslieferung (Anlagen) und Rechnungsdruck (Geschäftspartner, Rechnung) werden weitere Objekte verwendet.</value>
+  <value column="Description" original="Maintain Mail Template">Verwaltung E-Mail Vorlagen.</value>
+  <value column="Help" original="A mail template can contain variables, e.g. @Name@.  &#10;The variables are replaced based on the context. First, the the User is searched to find the variables.&#10;Additional objects are used for dunning (business partner, dunning entry), asset delivery (asset) and invoice print (business partner, invoice)">Eine E-Mail Vorlage kann Variablen enthalten, z . B. @Name@. Die Variablen werden auf Grundlage des Kontexts ersetzt. Als erstes wird der Nutzer gesucht, um die Variablen zu finden. Für Mahnvorgänge (Geschäftspartner, Mahneintrag), Anlagenauslieferung (Anlagen) und Rechnungsdruck (Geschäftspartner, Rechnung) werden weitere Objekte verwendet.</value>
  </row>
  <row id="348" trl="Y">
   <value column="Name" original="History">History</value>
@@ -3201,7 +3201,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="702" trl="Y">
-  <value column="Name" original="Request Status">Anfragestatus.</value>
+  <value column="Name" original="Request Status">Anfragestatus</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Maintain Request Status">Verwaltung Anfragestatus.</value>
   <value column="Help" original="Status if the request (open, closed, investigating, ..)">Status einer Anfrage, z. B. offen, geschlossen, in Bearbeitung.</value>
@@ -3213,7 +3213,7 @@
   <value column="Help" original="Text blocks to be copied into request response text">Textblöcke, die in Antworten kopiert werden.</value>
  </row>
  <row id="704" trl="Y">
-  <value column="Name" original="Request Resolution">Anfrageergebnis.</value>
+  <value column="Name" original="Request Resolution">Anfrageergebnis</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Maintain Request Resolutions">Verwaltung Anfrageergebnis.</value>
   <value column="Help" original="Resolution status (e.g. Fixed, Rejected, ..)">Ergebnis einer Anfrage, z. B. gelöst, verworfen.</value>
@@ -3225,7 +3225,7 @@
   <value column="Help" original="Group of requests (e.g. version numbers, responsibility, ...). &#10;If a BOM is referenced  and enabled in Request Type, a BOM Change Request is automatically created.">Gruppe von Anfragen (Versionsnummern, Verantwortlichkeiten,...). Wird auf eine Stückliste verwiesen und ist diese aktiv, wird automatisch eine Änderungsanfrage für die Stückliste erstellt.</value>
  </row>
  <row id="706" trl="Y">
-  <value column="Name" original="Request Category">Anfragekategorie.</value>
+  <value column="Name" original="Request Category">Anfragekategorie</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Maintain Request Category">Verwaltung Anfragekategorien.</value>
   <value column="Help" original="Category or Topic of the Request ">Kategorie/Gegenstand einer Anfrage.</value>
@@ -3239,7 +3239,7 @@
  <row id="708" trl="Y">
   <value column="Name" original="User Mail">Nutzermails</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Mail sent to the user">An Nutzer versendete Mails.</value>
+  <value column="Description" original="Mail sent to the user">An Nutzer versendete E-Mails.</value>
   <value column="Help" original=""/>
  </row>
  <row id="709" trl="Y">
@@ -3285,7 +3285,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="716" trl="Y">
-  <value column="Name" original="Request Updates">Aktualisierungsanfragen.</value>
+  <value column="Name" original="Request Updates">Aktualisierungsanfragen</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="List Recipients for to receive Request Updates">Liste der Empfänger von Aktualisierungsanfragen.</value>
   <value column="Help" original=""/>
@@ -5324,11 +5324,11 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53311" trl="N">
-  <value column="Name" original="Key Sequence">Key Sequence</value>
+ <row id="53311" trl="Y">
+  <value column="Name" original="Key Sequence">Schnelltastenbelegung mit Produkten</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Key Sequence">Key Sequence</value>
-  <value column="Help" original=""/>
+  <value column="Description" original="Key Sequence">Schnelltastenbelegung mit Produkten</value>
+  <value column="Help" original="">Einige Schnelltasten mit Produkten vorbelegen und deren Reihenfolge festlegen.</value>
  </row>
  <row id="53335" trl="N">
   <value column="Name" original="Import Inventory Move">Import Inventory Move</value>
@@ -5378,11 +5378,11 @@
   <value column="Description" original="Invoice Payment Schedule">Invoice Payment Schedule</value>
   <value column="Help" original=""/>
  </row>
- <row id="53374" trl="N">
-  <value column="Name" original="Payment Schedule">Payment Schedule</value>
+ <row id="53374" trl="Y">
+  <value column="Name" original="Payment Schedule">Zahlungsplan</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Order Payment Schedule">Order Payment Schedule</value>
-  <value column="Help" original=""/>
+  <value column="Description" original="Order Payment Schedule">Zahlungsplan</value>
+  <value column="Help" original="">Fälligkeiten, Rabatt, Skontofristen und Beträge verwalten.</value>
  </row>
  <row id="53375" trl="N">
   <value column="Name" original="Payment Schedule">Payment Schedule</value>

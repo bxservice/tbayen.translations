@@ -423,9 +423,9 @@
   <value column="Help" original="The Request Processor Window allows you to define different processes that you want to occur and the frequency and timing of these processes  A Request Processor can be just for a specific Request Type or for all.">Im Fenster "Anfrageprozessor" können Sie verschiedene durchzuführende Prozesse, sowie deren Frequenz und Timing festlegen. Der Anfrageprozessor kann nur für eine oder für alle Anfragearten eingesetzt werden.</value>
  </row>
  <row id="204" trl="Y">
-  <value column="Name" original="Mail Template">Emailtemplate</value>
-  <value column="Description" original="Maintain Mail Template">Verwaltung Emailtemplates.</value>
-  <value column="Help" original="Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection."><![CDATA[Emailtemplates können Variablen von Nutzern, Geschäftspartnern oder allgemeine Variablen enthalten. Priorität bei der Zuordnung hat "Nutzer", dann "Geschäftspartner", danach weitere Objekte wie "Anfrage", "Mahnung" und "Workflow".<br> Also wird @Name@ als erstes durch den Namen des Nutzers ersetzt (wenn definiert). Sonst wird der Name des Geschäftspartners verwendet (wenn definiert), und ansonsten die Bezeichnung eines der oben genannten Objekte.<br>In mehrsprachigen Systemen wird das Template je nach Sprachwahl des Geschäftspartners übersetzt.]]></value>
+  <value column="Name" original="Mail Template">E-Mail Vorlage</value>
+  <value column="Description" original="Maintain Mail Template">Verwaltung E-Mail Vorlagen (Templates).</value>
+  <value column="Help" original="Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection."><![CDATA[E-Mail Vorlagen (Templates) können Variablen von Nutzern, Geschäftspartnern oder allgemeine Variablen enthalten. Priorität bei der Zuordnung hat "Nutzer", dann "Geschäftspartner", danach weitere Objekte wie "Anfrage", "Mahnung" und "Workflow".<br> Also wird @Name@ als erstes durch den Namen des Nutzers ersetzt (wenn definiert). Sonst wird der Name des Geschäftspartners verwendet (wenn definiert), und ansonsten die Bezeichnung eines der oben genannten Objekte.<br>In mehrsprachigen Systemen wird das Template je nach Sprachwahl des Geschäftspartners übersetzt.]]></value>
  </row>
  <row id="205" trl="Y">
   <value column="Name" original="View Allocation">View Zuordnung</value>
@@ -1098,7 +1098,7 @@
   <value column="Help" original="Maintain Product Cost Elements">Verwaltung Produktkostenarten.</value>
  </row>
  <row id="345" trl="Y">
-  <value column="Name" original="Request Category">Anfragekategorie.</value>
+  <value column="Name" original="Request Category">Anfragekategorie</value>
   <value column="Description" original="Maintain Request Category">Verwaltung Anfragekategorien.</value>
   <value column="Help" original="Category or Topic of the Request ">Kategorie/Gegenstand einer Anfrage.</value>
  </row>
@@ -1108,7 +1108,7 @@
   <value column="Help" original="Group of requests (e.g. version numbers, responsibility, ...)">Gruppe von Anfragen, z. B. Versionsnummern, Verantwortlichkeiten usw.</value>
  </row>
  <row id="347" trl="Y">
-  <value column="Name" original="Request Resolution">Anfrageergebnis.</value>
+  <value column="Name" original="Request Resolution">Anfrageergebnis</value>
   <value column="Description" original="Maintain Request Resolutions">Verwaltung Anfrageergebnis.</value>
   <value column="Help" original="Resolution status (e.g. Fixed, Rejected, ..)">Ergebnis einer Anfrage, z. B. gelöst, verworfen.</value>
  </row>
@@ -1118,7 +1118,7 @@
   <value column="Help" original="Text blocks to be copied into request response text">Textblöcke, die in Antworten kopiert werden.</value>
  </row>
  <row id="349" trl="Y">
-  <value column="Name" original="Request Status">Anfragestatus.</value>
+  <value column="Name" original="Request Status">Anfragestatus</value>
   <value column="Description" original="Maintain Request Status">Verwaltung Anfragestatus.</value>
   <value column="Help" original="Status if the request (open, closed, investigating, ..)">Status einer Anfrage, z. B. offen, geschlossen, in Bearbeitung.</value>
  </row>

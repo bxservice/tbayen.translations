@@ -284,7 +284,7 @@
   <value column="MsgTip" original=""/>
  </row>
  <row id="171" trl="Y">
-  <value column="MsgText" original="Change of the default Cashbook ignored.&#10;Please change Cashbook only after completion of transaction">Änderung #des Standardkassenbuchs ignoriert. Bitte ändern Sie ein Kassenbuch nur nach Abschluss einer Transaktion.</value>
+  <value column="MsgText" original="Change of the default Cashbook ignored. Please change Cashbook only after completion of transaction">Änderung #des Standardkassenbuchs ignoriert. Bitte ändern Sie ein Kassenbuch nur nach Abschluss einer Transaktion.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="172" trl="Y">
@@ -5459,8 +5459,8 @@
   <value column="MsgText" original="Invalid cron scheduling pattern">Ungültiges Cron Zeitplanungsmuster</value>
   <value column="MsgTip" original="Invalid cron scheduling pattern - check syntax">Ungültiges Cron Zeitplanungsmuster - überprüfen Sie die Syntax.</value>
  </row>
- <row id="53096" trl="N">
-  <value column="MsgText" original="Subtotal">Subtotal</value>
+ <row id="53096" trl="Y">
+  <value column="MsgText" original="Subtotal">Nettobetrag</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53097" trl="N">

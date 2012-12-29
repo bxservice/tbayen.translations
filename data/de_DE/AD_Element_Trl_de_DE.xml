@@ -3923,10 +3923,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="881" trl="Y">
-  <value column="Name" original="EMail Address">Emailadresse</value>
-  <value column="PrintName" original="EMail">Email</value>
-  <value column="Description" original="Electronic Mail Address">Emailadresse</value>
-  <value column="Help" original="The Email Address is the Electronic Mail ID for this User and should be fully qualified (e.g. joe.smith@company.com). The Email Address is used to access the self service application functionality from the web.">Die "Emailadresse" ist die ID für diesen Nutzer und sollte vollständig sein, z. B. anna.blume@firma.de. Mit einer Emailadresse haben Sie Zugang zu diversen Selbstverwaltungsfunktionen und -aktionen im Web.</value>
+  <value column="Name" original="EMail Address">E-Mail Adresse</value>
+  <value column="PrintName" original="EMail">E-Mail</value>
+  <value column="Description" original="Electronic Mail Address">E-Mail Adresse</value>
+  <value column="Help" original="The Email Address is the Electronic Mail ID for this User and should be fully qualified (e.g. joe.smith@company.com). The Email Address is used to access the self service application functionality from the web.">Die "E-Mail Adresse" ist die ID für diesen Nutzer und sollte vollständig sein, z. B. anna.blume@firma.de. Mit einer E-Mail Adresse haben Sie Zugang zu diversen Selbstverwaltungsfunktionen und -aktionen im Web.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -4884,10 +4884,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1070" trl="Y">
-  <value column="Name" original="Template B.Partner">Template Geschäftspartner</value>
-  <value column="PrintName" original="Template BPartner">Template GPartner</value>
-  <value column="Description" original="Business Partner used for creating new Business Partners on the fly">Mit einem Geschäftspartnertemplate können Sie schnell neue Geschäftspartner anlegen.</value>
-  <value column="Help" original="When creating a new Business Partner from the Business Partner Search Field (right-click: Create), the selected business partner is used as a template, e.g. to define price list, payment terms, etc.">Wenn Sie aus dem Suchfeld "Geschäftspartner" einen neuen Geschäftspartner anlegen (Rechtsklick: "Neuer Eintrag"), wird der ausgewählte Geschäftspartner als Template für Preisliste, Zahlungsbedingungen usw. verwendet.</value>
+  <value column="Name" original="Template B.Partner">Vorlage Geschäftspartner</value>
+  <value column="PrintName" original="Template BPartner">Vorlage Geschäftspartner</value>
+  <value column="Description" original="Business Partner used for creating new Business Partners on the fly">Mit einem Geschäftspartnertemplate können Sie schnell neue Geschäftspartner anlegen. </value>
+  <value column="Help" original="When creating a new Business Partner from the Business Partner Search Field (right-click: Create), the selected business partner is used as a template, e.g. to define price list, payment terms, etc.">Wenn Sie aus dem Suchfeld "Geschäftspartner" einen neuen Geschäftspartner anlegen (Rechtsklick: "Neuer Eintrag"), wird der ausgewählte Geschäftspartner als Vorlage (Template) für Preisliste, Zahlungsbedingungen usw. verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -5986,7 +5986,7 @@
  <row id="1264" trl="Y">
   <value column="Name" original="Error EMail">Fehlermail</value>
   <value column="PrintName" original="Error EMail">Fehlermail</value>
-  <value column="Description" original="Email address to send error messages to">Emailadresse für die Zusendung von Fehlermeldungen.</value>
+  <value column="Description" original="Email address to send error messages to">E-Mail Adresse für die Zusendung von Fehlermeldungen.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -5994,9 +5994,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1265" trl="Y">
-  <value column="Name" original="From EMail">Email Absender</value>
-  <value column="PrintName" original="From EMail">Email Absender</value>
-  <value column="Description" original="Full EMail address used to send requests - e.g. edi@organization.com">Voll qualifizierte Emailadresse für die Anfrageversendung - z.B. edi@beispielorganisation.de.</value>
+  <value column="Name" original="From EMail">E-Mail Absender</value>
+  <value column="PrintName" original="From EMail">E-Mail Absender</value>
+  <value column="Description" original="Full EMail address used to send requests - e.g. edi@organization.com">Voll qualifizierte E-Mail Adresse für die Anfrageversendung - z.B. edi@beispielorganisation.de.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -6004,9 +6004,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1266" trl="Y">
-  <value column="Name" original="From EMail Password">Emailkennwort Absender</value>
-  <value column="PrintName" original="From EMail Pwd">Emailkennwort Absender</value>
-  <value column="Description" original="Password of the sending EMail address">Kennwort der absendenden Emailadresse.</value>
+  <value column="Name" original="From EMail Password">E-Mail Kennwort Absender</value>
+  <value column="PrintName" original="From EMail Pwd">E-Mail Kennwort Absender</value>
+  <value column="Description" original="Password of the sending EMail address">Kennwort der absendenden E-Mail Adresse.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -6014,9 +6014,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1267" trl="Y">
-  <value column="Name" original="From EMail User ID">User-ID der versendenden Emailadresse.</value>
-  <value column="PrintName" original="From EMail User">Emailnutzer Absender</value>
-  <value column="Description" original="User ID of the sending EMail address (on default SMTP Host) - e.g. edi">Nutzer-ID der absendenden Emailadresse (auf dem Standard-SMTP-Server) - z.B. edi.</value>
+  <value column="Name" original="From EMail User ID">User-ID der versendenden E-Mail Adresse.</value>
+  <value column="PrintName" original="From EMail User">E-Mail Nutzer Absender</value>
+  <value column="Description" original="User ID of the sending EMail address (on default SMTP Host) - e.g. edi">Nutzer-ID der absendenden E-Mail Adresse (auf dem Standard-SMTP-Server) - z.B. edi.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -6034,9 +6034,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1269" trl="Y">
-  <value column="Name" original="To EMail">Email Empfänger</value>
-  <value column="PrintName" original="To EMail">Email Empfänger</value>
-  <value column="Description" original="EMail address to send requests to - e.g. edi@manufacturer.com ">Voll qualifizierte Emailadresse für den Empfang von Anfragen - z. B. edi@beispielhersteller.de.</value>
+  <value column="Name" original="To EMail">E-Mail Empfänger</value>
+  <value column="PrintName" original="To EMail">E-Mail Empfänger</value>
+  <value column="Description" original="EMail address to send requests to - e.g. edi@manufacturer.com ">Voll qualifizierte E-Mail Adresse für den Empfang von Anfragen - z. B. edi@beispielhersteller.de.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -6584,10 +6584,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1351" trl="Y">
-  <value column="Name" original="Account EMail">Konto Email</value>
-  <value column="PrintName" original="EMail">Email</value>
-  <value column="Description" original="Email Address">Emailadresse</value>
-  <value column="Help" original="The EMail Address indicates the EMail address off the Credit Card or Account holder.">"Konto Email" zeigt die Emailadresse des Eigentümers von Kreditkarte oder Konto an.</value>
+  <value column="Name" original="Account EMail">Konto E-Mail</value>
+  <value column="PrintName" original="EMail">Konto E-Mail</value>
+  <value column="Description" original="Email Address">E-Mail Adresse</value>
+  <value column="Help" original="The EMail Address indicates the EMail address off the Credit Card or Account holder.">"Konto E-Mail" zeigt die E-Mail Adresse des Eigentümers von Kreditkarte oder Konto an.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -7944,10 +7944,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1515" trl="Y">
-  <value column="Name" original="Mail Template">Emailtemplate</value>
-  <value column="PrintName" original="Mail Template">Emailtemplate</value>
-  <value column="Description" original="Text templates for mailings">Texttemplates für Emails.</value>
-  <value column="Help" original="The Mail Template indicates the mail template for return messages. Mail text can include variables.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection."><![CDATA["Emailtemplate" ist ein Template für das Verfassen einer Antwortmail. Ein Emailtext kann Variablen enthalten. Priorität bei der Zuordnung hat "Nutzer", dann "Geschäftspartner", danach weitere Objekte wie "Anfrage", "Mahnung" und "Workflow".<br> Also wird @Name@ als erstes durch den Namen des Nutzers ersetzt (wenn definiert). Sonst wird der Name des Geschäftspartners verwendet (wenn definiert), und ansonsten die Bezeichnung eines der oben genannten Objekte.<br>In mehrsprachigen Systemen wird das Template je nach Sprachwahl des Geschäftspartners übersetzt.]]></value>
+  <value column="Name" original="Mail Template">E-Mail Vorlage</value>
+  <value column="PrintName" original="Mail Template">E-Mail Vorlage</value>
+  <value column="Description" original="Text templates for mailings">Vorlagen (Templates) für E-Mails</value>
+  <value column="Help" original="The Mail Template indicates the mail template for return messages. Mail text can include variables.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection."><![CDATA["E-Mail Vorlage" ist eine Vorlage (Template) für das Verfassen einer Antwortmail. Ein E-Mail Text kann Variablen enthalten. Priorität bei der Zuordnung hat "Nutzer", dann "Geschäftspartner", danach weitere Objekte wie "Anfrage", "Mahnung" und "Workflow".<br> Also wird @Name@ als erstes durch den Namen des Nutzers ersetzt (wenn definiert). Sonst wird der Name des Geschäftspartners verwendet (wenn definiert), und ansonsten die Bezeichnung eines der oben genannten Objekte.<br>In mehrsprachigen Systemen wird das Template je nach Sprachwahl des Geschäftspartners übersetzt.]]></value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -9454,10 +9454,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1698" trl="Y">
-  <value column="Name" original="Request EMail">Anfrage Email</value>
-  <value column="PrintName" original="Request EMail">Anfrage Email</value>
-  <value column="Description" original="EMail address to send automated mails from or receive mails for automated processing (fully qualified)">Emailadresse für den Versand oder Empfang von Mails bei automatisierter Bearbeitung (voll qualifiziert).</value>
-  <value column="Help" original="EMails for requests, alerts and escalation are sent from this email address as well as delivery information if the sales rep does not have an email account. The address must be filly qualified (e.g. joe.smith@company.com) and should be a valid address.">Wenn der Vertriebsbeauftragte keinen Emailaccount hat, werden Anfrage-, Erinnerungs- und Eskalierungsmails sowie Versandinformationen von dieser Emailadresse aus versendet. Es muss eine vollständige und gültige Adresse sein, z. B. anna.blume@firma.de.</value>
+  <value column="Name" original="Request EMail">Anfrage E-Mail</value>
+  <value column="PrintName" original="Request EMail">Anfrage E-Mail</value>
+  <value column="Description" original="EMail address to send automated mails from or receive mails for automated processing (fully qualified)">E-Mail Adresse für den Versand oder Empfang von E-Mails bei automatisierter Bearbeitung (voll qualifiziert).</value>
+  <value column="Help" original="EMails for requests, alerts and escalation are sent from this email address as well as delivery information if the sales rep does not have an email account. The address must be filly qualified (e.g. joe.smith@company.com) and should be a valid address.">Wenn der Vertriebsbeauftragte keinen Emailaccount hat, werden Anfrage-, Erinnerungs- und Eskalierungsmails sowie Versandinformationen von dieser E-Mail Adresse aus versendet. Es muss eine vollständige und gültige Adresse sein, z. B. anna.blume@firma.de.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -11274,8 +11274,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1895" trl="Y">
-  <value column="Name" original="Subscribe Date">Datum Abo</value>
-  <value column="PrintName" original="Subscribe Date">Datum Abo</value>
+  <value column="Name" original="Subscribe Date">Datum Anmeldung</value>
+  <value column="PrintName" original="Subscribe Date">Datum Anmeldung</value>
   <value column="Description" original="Date the contact actively subscribed">Datum, an dem das Abo eines Kontakts begann.</value>
   <value column="Help" original="Date the contact subscribe the interest area">Datum, an dem ein Kontakt ein Interessengebiet abonnierte.</value>
   <value column="PO_Description" original=""/>
@@ -11284,19 +11284,19 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1896" trl="Y">
-  <value column="Name" original="EMail User ID">Email Nutzer-ID</value>
-  <value column="PrintName" original="EMail User">Email Nutzer</value>
-  <value column="Description" original="User Name (ID) in the Mail System">Nutzername (ID) im Emailsystem.</value>
-  <value column="Help" original="The user name in the mail system is usually the string before the @ of your email address.  Required if the mail server requires authentification to send emails.">Der Nutzername im Emailsystem ist der Teil vor dem @ Ihrer Emailadresse. Ist notwendig, wenn der Emailserver vor Emailversand eine Anmeldung verlangt.</value>
+  <value column="Name" original="EMail User ID">E-Mail Nutzer-ID</value>
+  <value column="PrintName" original="EMail User">E-Mail Nutzer-ID</value>
+  <value column="Description" original="User Name (ID) in the Mail System">Nutzername (ID) im E-Mail System.</value>
+  <value column="Help" original="The user name in the mail system is usually the string before the @ of your email address.  Required if the mail server requires authentification to send emails.">Der Nutzername im E-Mail System ist der Teil vor dem @ Ihrer Emailadresse. Ist notwendig, wenn der Emailserver vor Emailversand eine Anmeldung verlangt.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1897" trl="Y">
-  <value column="Name" original="EMail User Password">Kennwort Emailnutzer</value>
-  <value column="PrintName" original="EMail Password">Emailkennwort</value>
-  <value column="Description" original="Password of your email user id">Kennwort einer Emailnutzer-ID.</value>
+  <value column="Name" original="EMail User Password">Kennwort E-Mail Nutzer</value>
+  <value column="PrintName" original="EMail Password">Kennwort E-Mail Nutzer</value>
+  <value column="Description" original="Password of your email user id">Kennwort einer E-Mail Nutzer-ID.</value>
   <value column="Help" original="Required if the mail server requires authentification to send emails.">Ist notwendig, wenn der Emailserver vor Emailversand eine Anmeldung verlangt.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -11344,10 +11344,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1903" trl="Y">
-  <value column="Name" original="Registered EMail">Registrierte Email</value>
-  <value column="PrintName" original="Registered EMail">Registrierte Email</value>
-  <value column="Description" original="Email of the responsible for the System">Email des Systemverantwortlichen.</value>
-  <value column="Help" original="Email of the responsible person for the system (registered in WebStore)">Email des Systemverantwortlichen, im Webshop registriert.</value>
+  <value column="Name" original="Registered EMail">Registrierte E-Mail</value>
+  <value column="PrintName" original="Registered EMail">Registrierte E-Mail</value>
+  <value column="Description" original="Email of the responsible for the System">E-Mail des Systemverantwortlichen.</value>
+  <value column="Help" original="Email of the responsible person for the system (registered in WebStore)">E-Mail des Systemverantwortlichen, im Webshop registriert.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -11824,9 +11824,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1953" trl="Y">
-  <value column="Name" original="EMail PDF">Email PDF</value>
-  <value column="PrintName" original="EMail PDF">Email PDF</value>
-  <value column="Description" original="Email Document PDF files to Business Partner">Emailbeleg PDF-Datei für Geschäftspartner.</value>
+  <value column="Name" original="EMail PDF">E-Mail PDF</value>
+  <value column="PrintName" original="EMail PDF">E-Mail PDF</value>
+  <value column="Description" original="Email Document PDF files to Business Partner">E-Mail Beleg als PDF-Datei für Geschäftspartner.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -12074,10 +12074,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1978" trl="Y">
-  <value column="Name" original="Send EMail">Email senden</value>
-  <value column="PrintName" original="Send EMail">Email senden</value>
-  <value column="Description" original="Enable sending Document EMail">Belegversand per Mail ermöglichen.</value>
-  <value column="Help" original="Send emails with document attached (e.g. Invoice, Delivery Note, etc.)">Emails mit Anhang, z. B. Rechnung, Lieferschein etc., senden.</value>
+  <value column="Name" original="Send EMail">E-Mail senden</value>
+  <value column="PrintName" original="Send EMail">E-Mail senden</value>
+  <value column="Description" original="Enable sending Document EMail">Belegversand per E-Mail ermöglichen.</value>
+  <value column="Help" original="Send emails with document attached (e.g. Invoice, Delivery Note, etc.)">E-Mails mit Anhang, z. B. Rechnung, Lieferschein etc., senden.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -12214,9 +12214,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1993" trl="Y">
-  <value column="Name" original="Web Order EMail">Webauftragsemail</value>
-  <value column="PrintName" original="Web Order EMail">Webauftragsemail</value>
-  <value column="Description" original="EMail address to receive notifications when web orders were processed">Emailadresse für den Empfang von Benachrichtigungen bei der Bearbeitung von Webaufträgen.</value>
+  <value column="Name" original="Web Order EMail">E-Mail Webauftrag</value>
+  <value column="PrintName" original="Web Order EMail">E-Mail Webauftrag</value>
+  <value column="Description" original="EMail address to receive notifications when web orders were processed">E-Mail Adresse für den Empfang von Benachrichtigungen bei der Bearbeitung von Webaufträgen.</value>
   <value column="Help" original="When processing a web order, a confirmation is sent to the EMail address of the customer from the request EMail address copying this email address when entered.">Bei der Bearbeitung eines Webauftrages wird eine Bestätigung der Anfragemail an die Mailadresse des Kunden versendet - mit Kopie an diese Adresse (wenn eingegeben).</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -17544,9 +17544,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2567" trl="Y">
-  <value column="Name" original="New EMail Address">Neue Emailadresse</value>
-  <value column="PrintName" original="New EMail Address">Neue Emailadresse</value>
-  <value column="Description" original="Enter new EMail Address - not changed if empty">Geben Sie eine neue Emailadresse ein - die alte Adresse wird nicht verändert, wenn das Feld leer bleibt.</value>
+  <value column="Name" original="New EMail Address">Neue E-Mail Adresse</value>
+  <value column="PrintName" original="New EMail Address">Neue E-Mail Adresse</value>
+  <value column="Description" original="Enter new EMail Address - not changed if empty">Geben Sie eine neue E-Mail Adresse ein - die alte Adresse wird nicht verändert, wenn das Feld leer bleibt.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -17554,9 +17554,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2568" trl="Y">
-  <value column="Name" original="New EMail User ID">Neue Email Nutzer-ID</value>
-  <value column="PrintName" original="New EMail User ID">Neue Email Nutzer-ID</value>
-  <value column="Description" original="Enter new User ID of your internal EMail System - not changed if empty">Geben Sie eine neue Email Nutzer-ID Ihres internen Emailsystems ein - die alte Nutzer-ID wird nicht geändert, wenn das Feld leer bleibt.</value>
+  <value column="Name" original="New EMail User ID">Neue E-Mail Nutzer-ID</value>
+  <value column="PrintName" original="New EMail User ID">Neue E-Mail Nutzer-ID</value>
+  <value column="Description" original="Enter new User ID of your internal EMail System - not changed if empty">Geben Sie eine neue E-Mail Nutzer-ID Ihres internen E-Mail Systems ein - die alte Nutzer-ID wird nicht geändert, wenn das Feld leer bleibt.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -17564,9 +17564,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2569" trl="Y">
-  <value column="Name" original="New EMail User PW">Neues Emailnutzerkennwort</value>
-  <value column="PrintName" original="New EMail User PW">Neues Emailnutzerkennwort</value>
-  <value column="Description" original="Enter new User Password of your internal EMail System - not changed if empty">Geben Sie ein neues Emailnutzerkennwort Ihres internen Systems ein - das alte Kennwort wird nicht geändert, wenn das Feld leer bleibt.</value>
+  <value column="Name" original="New EMail User PW">Neues E-Mail Nutzerkennwort</value>
+  <value column="PrintName" original="New EMail User PW">Neues E-Mail Nutzerkennwort</value>
+  <value column="Description" original="Enter new User Password of your internal EMail System - not changed if empty">Geben Sie ein neues E-Mail Nutzerkennwort Ihres internen Systems ein - das alte Kennwort wird nicht geändert, wenn das Feld leer bleibt.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -18184,20 +18184,20 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2632" trl="Y">
-  <value column="Name" original="EMail when Due">Email wenn fällig</value>
-  <value column="PrintName" original="EMail when Due">Email wenn fällig</value>
-  <value column="Description" original="Send EMail when Request becomes due">Bei Fälligkeit einer Anfrage wird eine Email versendet.</value>
-  <value column="Help" original="Send EMail when Request becomes due">Bei Fälligkeit einer Anfrage wird eine Email versendet.</value>
+  <value column="Name" original="EMail when Due">E-Mail wenn fällig</value>
+  <value column="PrintName" original="EMail when Due">E-Mail wenn fällig</value>
+  <value column="Description" original="Send EMail when Request becomes due">Bei Fälligkeit einer Anfrage wird eine E-Mail versendet. </value>
+  <value column="Help" original="Send EMail when Request becomes due">Bei Fälligkeit einer Anfrage wird eine E-Mail versendet. </value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2633" trl="Y">
-  <value column="Name" original="EMail when Overdue">Email wenn überfällig</value>
-  <value column="PrintName" original="EMail when Overdue">Email wenn überfällig</value>
-  <value column="Description" original="Send EMail when Request becomes overdue">Es wird eine Email versendet, wenn die Anfrage überfällig wird.</value>
-  <value column="Help" original="Send EMail when Request becomes overdue">Es wird eine Email versendet, wenn die Anfrage überfällig wird.</value>
+  <value column="Name" original="EMail when Overdue">E-Mail wenn überfällig</value>
+  <value column="PrintName" original="EMail when Overdue">E-Mail wenn überfällig</value>
+  <value column="Description" original="Send EMail when Request becomes overdue">Es wird eine E-Mail versendet, wenn die Anfrage überfällig wird. </value>
+  <value column="Help" original="Send EMail when Request becomes overdue">Es wird eine E-Mail versendet, wenn die Anfrage überfällig wird. </value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19064,9 +19064,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2726" trl="Y">
-  <value column="Name" original="EMail Verify">Email überprüft</value>
-  <value column="PrintName" original="EMail Verify">Email überprüft</value>
-  <value column="Description" original="Date Email was verified">Datum der Emailüberprüfung.</value>
+  <value column="Name" original="EMail Verify">E-Mail überprüft</value>
+  <value column="PrintName" original="EMail Verify">E-Mail überprüft</value>
+  <value column="Description" original="Date Email was verified">Datum der E-Mail Überprüfung.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19114,10 +19114,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2731" trl="Y">
-  <value column="Name" original="Web Store EMail">Webshopmail</value>
-  <value column="PrintName" original="Web Store EMail">Webshopmail</value>
-  <value column="Description" original="EMail address used as the sender (From)">Emailadresse des Senders (Absender).</value>
-  <value column="Help" original="The EMail address is used to send mails to users of the web store">Eine Emailadresse wird zum Versenden von Mails an Webshop-Kunden verwendet.</value>
+  <value column="Name" original="Web Store EMail">Webshop E-Mail</value>
+  <value column="PrintName" original="Web Store EMail">Webshop E-Mail</value>
+  <value column="Description" original="EMail address used as the sender (From)">E-Mail Adresse des Senders (Absender).</value>
+  <value column="Help" original="The EMail address is used to send mails to users of the web store">Eine E-Mail Adresse wird zum Versenden von E-Mails an Webshop-Kunden verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19244,20 +19244,20 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2744" trl="Y">
-  <value column="Name" original="EMail Header">Email Kopfzeile</value>
-  <value column="PrintName" original="EMail Header">Email Kopfzeile</value>
-  <value column="Description" original="Header added to EMails">Kopfzeile von Emails.</value>
-  <value column="Help" original="The header is added to every email.">Jeder Email wird eine Kopfzeile hinzugefügt.</value>
+  <value column="Name" original="EMail Header">E-Mail Kopfzeile</value>
+  <value column="PrintName" original="EMail Header">E-Mail Kopfzeile</value>
+  <value column="Description" original="Header added to EMails">Kopfzeile von E-Mails.</value>
+  <value column="Help" original="The header is added to every email.">Jeder E-Mail wird eine Kopfzeile hinzugefügt.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2745" trl="Y">
-  <value column="Name" original="EMail Footer">Email Fußzeile</value>
-  <value column="PrintName" original="EMail Footer">Email Fußzeile</value>
-  <value column="Description" original="Footer added to EMails">Fußzeile von Emails.</value>
-  <value column="Help" original="The footer is added to every email.">Jeder Email wird eine Fußzeile hinzugefügt.</value>
+  <value column="Name" original="EMail Footer">E-Mail Fußzeile</value>
+  <value column="PrintName" original="EMail Footer">E-Mail Fußzeile</value>
+  <value column="Description" original="Footer added to EMails">Fußzeile von E-Mails.</value>
+  <value column="Help" original="The footer is added to every email.">Jeder E-Mail wird eine Fußzeile hinzugefügt.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19834,8 +19834,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2806" trl="Y">
-  <value column="Name" original="EMail Test">Email Test</value>
-  <value column="PrintName" original="EMail Test">Email Test</value>
+  <value column="Name" original="EMail Test">E-Mail Test</value>
+  <value column="PrintName" original="EMail Test">E-Mail Test</value>
   <value column="Description" original="Test EMail">Test Mail</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -19856,8 +19856,8 @@
  <row id="2808" trl="Y">
   <value column="Name" original="Server EMail">Mail Server</value>
   <value column="PrintName" original="Server EMail">Mail Server</value>
-  <value column="Description" original="Send EMail from Server">Emails werden vom Server versendet.</value>
-  <value column="Help" original="When selected, mail is sent from the server rather then the client.  This decreases availability.  You would select this when you do not want to enable email relay for the client addresses in your mail server.">Wenn ausgewählt, wird Mail eher vom Server als vom Client gesendet. Dies verringert die Verfügbarkeit. Wählen Sie diese Variante, wenn Sie Verspätungen für Mandantenadressen auf Ihrem Server vermeiden wollen.</value>
+  <value column="Description" original="Send EMail from Server">E-Mails werden vom Server versendet.</value>
+  <value column="Help" original="When selected, mail is sent from the server rather then the client.  This decreases availability.  You would select this when you do not want to enable email relay for the client addresses in your mail server.">Wenn ausgewählt, wird die E-Mail eher vom Server als vom Client gesendet. Dies verringert die Verfügbarkeit. Wählen Sie diese Variante, wenn Sie Verspätungen für Mandantenadressen auf Ihrem Server vermeiden wollen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -20534,9 +20534,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2879" trl="Y">
-  <value column="Name" original="EMail Recipient">Emailempfänger</value>
-  <value column="PrintName" original="EMail Recipient">Emailempfänger</value>
-  <value column="Description" original="Recipient of the EMail">Empfänger einer Email.</value>
+  <value column="Name" original="EMail Recipient">E-Mail Empfänger</value>
+  <value column="PrintName" original="EMail Recipient">E-Mail Empfänger</value>
+  <value column="Description" original="Recipient of the EMail">Empfänger einer E-Mail.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -21116,8 +21116,8 @@
  <row id="2940" trl="Y">
   <value column="Name" original="Support EMail">Supportmail</value>
   <value column="PrintName" original="Support EMail">Supportmail</value>
-  <value column="Description" original="EMail address to send support information and updates to">Emailadresse, an die Supportinformationen und Updates gesendet werden.</value>
-  <value column="Help" original="If not entered the registered email is used.">Wurde nichts eingegeben, wird die registrierte Emailadresse verwendet.</value>
+  <value column="Description" original="EMail address to send support information and updates to">E-Mail Adresse, an die Supportinformationen und Updates gesendet werden.</value>
+  <value column="Help" original="If not entered the registered email is used.">Wurde nichts eingegeben, wird die registrierte E-Mail Adresse verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -29184,21 +29184,21 @@
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="54134" trl="N">
-  <value column="Name" original="On Screen Keyboard layout">On Screen Keyboard layout</value>
-  <value column="PrintName" original="On Screen Keyboard layout">On Screen Keyboard layout</value>
-  <value column="Description" original="The key layout to use for on screen keyboard for text fields.">The key layout to use for on screen keyboard for text fields.</value>
-  <value column="Help" original="If empty, the on screen keyboard will not be used.">If empty, the on screen keyboard will not be used.</value>
+ <row id="54134" trl="Y">
+  <value column="Name" original="On Screen Keyboard layout">Layout der Bildschirmtastatur</value>
+  <value column="PrintName" original="On Screen Keyboard layout">Layout der Bildschirmtastatur</value>
+  <value column="Description" original="The key layout to use for on screen keyboard for text fields.">Das ausgewählte Layout wird für die Bildschirmtastatur im Textbereich verwendet. </value>
+  <value column="Help" original="If empty, the on screen keyboard will not be used.">Wenn dieses Feld leer ist wird die Bildschirmtastatur nicht verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="54135" trl="N">
-  <value column="Name" original="On Screen Number Pad layout">On Screen Number Pad layout</value>
-  <value column="PrintName" original="On Screen Number Pad layout">On Screen Number Pad layout</value>
-  <value column="Description" original="The key layout to use for on screen number pad for numeric fields.">The key layout to use for on screen number pad for numeric fields.</value>
-  <value column="Help" original="If empty, the on screen numberpad will not be used.">If empty, the on screen numberpad will not be used.</value>
+ <row id="54135" trl="Y">
+  <value column="Name" original="On Screen Number Pad layout">Nummernblock Bildschrimtastatur</value>
+  <value column="PrintName" original="On Screen Number Pad layout">Nummernblock Bildschrimtastatur</value>
+  <value column="Description" original="The key layout to use for on screen number pad for numeric fields.">Das ausgewählte Layout wird für das Nummernfeld der Bildschirmtastatur verwendet. </value>
+  <value column="Help" original="If empty, the on screen numberpad will not be used.">Wenn dieses Feld leer bleibt wird kein Nummernblock in der Bildschirmtastatur verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -29234,33 +29234,33 @@
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="54139" trl="N">
-  <value column="Name" original="Columns">Columns</value>
-  <value column="PrintName" original="Columns">Columns</value>
-  <value column="Description" original="Number of columns">Number of columns</value>
-  <value column="Help" original="The number of columns in the layout grid">The number of columns in the layout grid</value>
+ <row id="54139" trl="Y">
+  <value column="Name" original="Columns">Spaltenanzahl</value>
+  <value column="PrintName" original="Columns">Spaltenanzahl</value>
+  <value column="Description" original="Number of columns">Spaltenanzahl</value>
+  <value column="Help" original="The number of columns in the layout grid">Die Anzahl der Spalten im Layout-Raster</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="54140" trl="N">
-  <value column="Name" original="POS Key Layout Type">POS Key Layout Type</value>
-  <value column="PrintName" original="POS Key Layout Type">POS Key Layout Type</value>
-  <value column="Description" original="The type of Key Layout">The type of Key Layout</value>
-  <value column="Help" original="Keyboard: used for POS text field on screen keyboard&#10;Numberpad: used for POS numeric field on screen numberpad&#10;Product: used to quickly add products to POS order">Keyboard: used for POS text field on screen keyboard
-Numberpad: used for POS numeric field on screen numberpad
-Product: used to quickly add products to POS order</value>
+ <row id="54140" trl="Y">
+  <value column="Name" original="POS Key Layout Type">Layout-Typ-Schlüsse</value>
+  <value column="PrintName" original="POS Key Layout Type">Layout-Typ-Schlüsse</value>
+  <value column="Description" original="The type of Key Layout">Typ des Layout Schlüssels </value>
+  <value column="Help" original="Keyboard: used for POS text field on screen keyboard&#10;Numberpad: used for POS numeric field on screen numberpad&#10;Product: used to quickly add products to POS order"><![CDATA[Tastatur: Verwendet im Textfeld der Bildschirmtastatur <br>>
+Nummernblock: Verwendet im Nummernblock der Bildschirmtastatur <br>> 
+Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="54141" trl="N">
-  <value column="Name" original="Auto Logout Delay">Auto Logout Delay</value>
-  <value column="PrintName" original="Auto Logout Delay">Auto Logout Delay</value>
-  <value column="Description" original="Automatically logout if terminal inactive for this period">Automatically logout if terminal inactive for this period</value>
-  <value column="Help" original="Measured in seconds, zero for no automatic logout">Measured in seconds, zero for no automatic logout</value>
+ <row id="54141" trl="Y">
+  <value column="Name" original="Auto Logout Delay">Automatische Abmeldung</value>
+  <value column="PrintName" original="Auto Logout Delay">Automatische Abmeldung</value>
+  <value column="Description" original="Automatically logout if terminal inactive for this period">Automatische Abmeldung, wenn der Terminal eine bestimmte Zeit nicht verwendet wurde.</value>
+  <value column="Help" original="Measured in seconds, zero for no automatic logout">Automatische Abmeldung, wenn der Terminal eine bestimmte Zeit nicht verwendet wird. Die Zeitangabe wird in Sekunden eingegeben. Bei einer Eingabe von null wird die automatische Abmeldung nicht verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -29386,10 +29386,10 @@ Product: used to quickly add products to POS order</value>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="54392" trl="N">
-  <value column="Name" original="Payment Term Usage">Payment Term Usage</value>
-  <value column="PrintName" original="Payment Term Usage">Payment Term Usage</value>
-  <value column="Description" original="Payment term usage indicates if this payment term is used for sales, purchases or both.">Payment term usage indicates if this payment term is used for sales, purchases or both.</value>
+ <row id="54392" trl="Y">
+  <value column="Name" original="Payment Term Usage">Einsatz der Zahlungsfrist</value>
+  <value column="PrintName" original="Payment Term Usage">Einsatz der Zahlungsfrist</value>
+  <value column="Description" original="Payment term usage indicates if this payment term is used for sales, purchases or both.">Der "Einsatz der Zahlungsfrist" zeigt die Verwendung für die zahlungsfrist an: Einkauf, Verkauf oder beide</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -37957,8 +37957,8 @@ Product: used to quickly add products to POS order</value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200177" trl="N">
-  <value column="Name" original="Customer Payment Profile ID">Customer Payment Profile ID</value>
-  <value column="PrintName" original="Customer Payment Profile ID">Customer Payment Profile ID</value>
+  <value column="Name" original="Customer Payment Profile ID">Profil-ID für Kundenzahlung </value>
+  <value column="PrintName" original="Customer Payment Profile ID">Profil-ID für Kundenzahlung </value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -37966,9 +37966,9 @@ Product: used to quickly add products to POS order</value>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="200178" trl="N">
-  <value column="Name" original="Customer Profile ID">Customer Profile ID</value>
-  <value column="PrintName" original="Customer Profile ID">Customer Profile ID</value>
+ <row id="200178" trl="Y">
+  <value column="Name" original="Customer Profile ID">Profil-ID für Kundenzahlung</value>
+  <value column="PrintName" original="Customer Profile ID">Profil-ID für Kundenzahlung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -37976,9 +37976,9 @@ Product: used to quickly add products to POS order</value>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="200179" trl="N">
-  <value column="Name" original="Customer Address ID">Customer Address ID</value>
-  <value column="PrintName" original="Customer Address ID">Customer Address ID</value>
+ <row id="200179" trl="Y">
+  <value column="Name" original="Customer Address ID">ID - Kundenadresse </value>
+  <value column="PrintName" original="Customer Address ID">ID - Kundenadresse </value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
