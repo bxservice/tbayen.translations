@@ -428,9 +428,9 @@
   <value column="Help" original="Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection."><![CDATA[E-Mail Vorlagen (Templates) können Variablen von Nutzern, Geschäftspartnern oder allgemeine Variablen enthalten. Priorität bei der Zuordnung hat "Nutzer", dann "Geschäftspartner", danach weitere Objekte wie "Anfrage", "Mahnung" und "Workflow".<br> Also wird @Name@ als erstes durch den Namen des Nutzers ersetzt (wenn definiert). Sonst wird der Name des Geschäftspartners verwendet (wenn definiert), und ansonsten die Bezeichnung eines der oben genannten Objekte.<br>In mehrsprachigen Systemen wird das Template je nach Sprachwahl des Geschäftspartners übersetzt.]]></value>
  </row>
  <row id="205" trl="Y">
-  <value column="Name" original="View Allocation">View Zuordnung</value>
+  <value column="Name" original="View Allocation">Zuordnung einsehen/ändern</value>
   <value column="Description" original="View and Reverse Allocations ">Einsehen und Ändern/Aufheben von Zuordnungen.</value>
-  <value column="Help" original="The Reverse Allocation Window allows you to view and reverse a payment allocation">Im Fenster "View Zuordnung" können Sie Zahlungszuordnungen anzeigen und ändern.</value>
+  <value column="Help" original="The Reverse Allocation Window allows you to view and reverse a payment allocation">Im Fenster "Zuordnung einsehen/ändern" können Sie Zahlungszuordnungen anzeigen und ändern.</value>
  </row>
  <row id="206" trl="Y">
   <value column="Name" original="Payment Selection">Auswahl Zahlung</value>

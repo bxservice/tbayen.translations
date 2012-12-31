@@ -6884,10 +6884,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1383" trl="Y">
-  <value column="Name" original="Business Partner Group">Gruppe Geschäftspartner</value>
-  <value column="PrintName" original="BPartner Group">Gruppe GPartner</value>
-  <value column="Description" original="Business Partner Group">Gruppe Geschäftspartner</value>
-  <value column="Help" original="The Business Partner Group provides a method of defining defaults to be used for individual Business Partners.">Unter "Gruppe Geschäftspartner" können Sie allgemeine Standardwerte festlegen, die dann für einzelne Geschäftspartner verwendet werden.</value>
+  <value column="Name" original="Business Partner Group">Geschäftspartnergruppe</value>
+  <value column="PrintName" original="BPartner Group">Geschäftspartnergruppe</value>
+  <value column="Description" original="Business Partner Group">Geschäftspartnergruppe</value>
+  <value column="Help" original="The Business Partner Group provides a method of defining defaults to be used for individual Business Partners.">Unter "Geschäftspartnergruppe" können Sie allgemeine Standardwerte festlegen, die dann für einzelne Geschäftspartner verwendet werden.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -7914,10 +7914,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1512" trl="Y">
-  <value column="Name" original="Mail Text">Emailtext</value>
-  <value column="PrintName" original="Mail Text">Emailtext</value>
-  <value column="Description" original="Text used for Mail message">In einer Email verwendeter Text.</value>
-  <value column="Help" original="The Mail Text indicates the text used for mail messages.">Das Feld "Emailtext" zeigt den in einer Email verwendeten Text an.</value>
+  <value column="Name" original="Mail Text">E-Mail Text</value>
+  <value column="PrintName" original="Mail Text">E-Mail Text</value>
+  <value column="Description" original="Text used for Mail message">In einer E-Mail verwendeter Text.</value>
+  <value column="Help" original="The Mail Text indicates the text used for mail messages.">Das Feld "E-Mail Text" zeigt den in einer E-Mail verwendeten Text an.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19084,20 +19084,20 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2728" trl="Y">
-  <value column="Name" original="Mail Text 2">Emailtext 2</value>
-  <value column="PrintName" original="Mail Text 2">Emailtext 2</value>
-  <value column="Description" original="Optional second text part used for Mail message">Optionaler zweiter Textteil für Emails.</value>
-  <value column="Help" original="The Mail Text indicates the text used for mail messages.">Das Feld "Emailtext" zeigt den in einer Email verwendeten Text an.</value>
+  <value column="Name" original="Mail Text 2">E-Mail Text 2</value>
+  <value column="PrintName" original="Mail Text 2">E-Mail Text 2</value>
+  <value column="Description" original="Optional second text part used for Mail message">Optionaler zweiter Textteil für E-Mails.</value>
+  <value column="Help" original="The Mail Text indicates the text used for mail messages.">Das Feld "E-Mail Text" zeigt den in einer E-Mail verwendeten Text an.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2729" trl="Y">
-  <value column="Name" original="Mail Text 3">Emailtext 3</value>
-  <value column="PrintName" original="Mail Text 3">Emailtext 3</value>
-  <value column="Description" original="Optional third text part used for Mail message">Optionaler dritter Textteil für Emails.</value>
-  <value column="Help" original="The Mail Text indicates the text used for mail messages.">Das Feld "Emailtext" zeigt den in einer Email verwendeten Text an.</value>
+  <value column="Name" original="Mail Text 3">E-Mail Text 3</value>
+  <value column="PrintName" original="Mail Text 3">E-Mail Text 3</value>
+  <value column="Description" original="Optional third text part used for Mail message">Optionaler dritter Textteil für E-Mails.</value>
+  <value column="Help" original="The Mail Text indicates the text used for mail messages.">Das Feld "E-Mail Text" zeigt den in einer E-Mail verwendeten Text an.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -37386,20 +37386,20 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="200077" trl="N">
-  <value column="Name" original="Header Color">Header Color</value>
-  <value column="PrintName" original="Header Color">Header Color</value>
-  <value column="Description" original="Header color of calendar dashlet">Header color of calendar dashlet</value>
+ <row id="200077" trl="Y">
+  <value column="Name" original="Header Color">Farbe-Kopfdaten</value>
+  <value column="PrintName" original="Header Color">Farbe-Kopfdaten</value>
+  <value column="Description" original="Header color of calendar dashlet">Farbe der Kopfdaten im Kalender</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="200078" trl="N">
-  <value column="Name" original="Content Color">Content Color</value>
-  <value column="PrintName" original="Content Color">Content Color</value>
-  <value column="Description" original="Content color of calendar dashlet">Content color of calendar dashlet</value>
+ <row id="200078" trl="Y">
+  <value column="Name" original="Content Color">Farbe-Inhalt</value>
+  <value column="PrintName" original="Content Color">Farbe-Inhalt</value>
+  <value column="Description" original="Content color of calendar dashlet">Farbe des Kalenderinhaltes</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>

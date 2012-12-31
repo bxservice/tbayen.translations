@@ -104,7 +104,7 @@
  </row>
  <row id="121" trl="Y">
   <value column="Name" original="Open Orders">Aufträge offen</value>
-  <value column="Description" original="Open Order Report">Report zu offenen Aufträgen.</value>
+  <value column="Description" original="Open Order Report">Bericht zu offenen Aufträgen.</value>
   <value column="Help" original="Orders with quantities to deliver (Backordered) or quantities to invoice">Aufträge mit zu liefernden (nachbestellten) oder zu berechnenden Mengen.</value>
  </row>
  <row id="122" trl="Y">
@@ -135,26 +135,26 @@
  <row id="127" trl="Y">
   <value column="Name" original="Invoice Transactions (Acct)">Rechnungstransaktionen (Buchen)</value>
   <value column="Description" original="Invoice Transactions by Accounting Date">Rechnungstransaktionen nach Buchungsdatum.</value>
-  <value column="Help" original="The report lists the invoice transactions by accounting date">Der Report erstellt eine Liste der Rechnungstransaktionen geordnet nach Buchungsdatum.</value>
+  <value column="Help" original="The report lists the invoice transactions by accounting date">Der Bericht erstellt eine Liste der Rechnungstransaktionen geordnet nach Buchungsdatum.</value>
  </row>
  <row id="128" trl="Y">
   <value column="Name" original="Daily Invoice">Rechnung täglich</value>
-  <value column="Description" original="Invoice Report per Day">Rechnungsreport pro Tag.</value>
+  <value column="Description" original="Invoice Report per Day">Rechnungsbericht pro Tag.</value>
   <value column="Help" original="Invoiced amount by Organization and Sales Rep">Rechnungsbetrag nach Organisation und Vertriebsbeauftragten.</value>
  </row>
  <row id="129" trl="Y">
   <value column="Name" original="Monthly Invoice">Rechnung monatlich</value>
-  <value column="Description" original="Invoice Report per Month">Rechnungsreport pro Monat.</value>
+  <value column="Description" original="Invoice Report per Month">Rechnungsbericht pro Monat.</value>
   <value column="Help" original="Invoiced amount by Organization and Sales Rep">Rechnungsbetrag nach Organisation und Vertriebsbeauftragten.</value>
  </row>
  <row id="130" trl="Y">
   <value column="Name" original="Weekly Invoice">Rechnung wöchentlich</value>
-  <value column="Description" original="Invoice Report per Week">Rechnungsreport pro Woche.</value>
+  <value column="Description" original="Invoice Report per Week">Rechnungsbericht pro Woche.</value>
   <value column="Help" original="Invoiced amount by Organization and Sales Rep">Rechnungsbetrag nach Organisation und Vertriebsbeauftragten.</value>
  </row>
  <row id="131" trl="Y">
   <value column="Name" original="Weekly Invoice Prod Cat">Rechnung Produktkategorie wöchentlich</value>
-  <value column="Description" original="Invoice Report by Product Category per Week">Rechnungsreport nach Produktkategorie pro Woche.</value>
+  <value column="Description" original="Invoice Report by Product Category per Week">Rechnungsbericht nach Produktkategorie pro Woche.</value>
   <value column="Help" original="Invoiced Amount by Product Category">Rechnungsbetrag nach Produktkategorie.</value>
  </row>
  <row id="132" trl="Y">
@@ -164,7 +164,7 @@
  </row>
  <row id="133" trl="Y">
   <value column="Name" original="Monthly Invoice Vendor">Rechnung Lieferant monatlich</value>
-  <value column="Description" original="Invoice Report by Product Vendor per Month">Rechnungsreport nach Lieferanten pro Monat.</value>
+  <value column="Description" original="Invoice Report by Product Vendor per Month">Rechnungsbericht nach Lieferanten pro Monat.</value>
   <value column="Help" original="Invoiced Amount by Vendor and Product Category">Rechnungsbetrag nach Lieferant und Produktkategorie.</value>
  </row>
  <row id="134" trl="Y">
@@ -189,12 +189,12 @@
  </row>
  <row id="138" trl="Y">
   <value column="Name" original="Quarterly Invoice Customer by Product">Kundenrechnungen quartalsweise nach Produkt</value>
-  <value column="Description" original="Invoice Report by Customer and Product Category per Quarter">Rechnungsreport quartalsweise nach Kunde und Produkt.</value>
+  <value column="Description" original="Invoice Report by Customer and Product Category per Quarter">Rechnungsbericht quartalsweise nach Kunde und Produkt.</value>
   <value column="Help" original="Invoiced Amount by Customer and Product Category">Rechnungsbetrag nach Kunde und Produktkategorie.</value>
  </row>
  <row id="139" trl="Y">
   <value column="Name" original="Quarterly Invoice Customer by Vendor">Kundenrechnungen quartalsweise nach Lieferant</value>
-  <value column="Description" original="Invoice Report by Customer and Product Vendor per Quarter">Rechnungsreport quartalsweise nach Kunde und Produktlieferant.</value>
+  <value column="Description" original="Invoice Report by Customer and Product Vendor per Quarter">Rechnungsbericht quartalsweise nach Kunde und Produktlieferant.</value>
   <value column="Help" original="Invoiced Amount by Customer and Vendor (what customer bought from which vendor)">Rechnungsbetrag nach Kunden und Lieferanten, d. h. welcher Kunde kauft bei welchem Lieferanten.</value>
  </row>
  <row id="140" trl="Y">
@@ -220,7 +220,7 @@
  <row id="146" trl="Y">
   <value column="Name" original="UnReconciled Payments">Nicht abgeglichene Zahlungen</value>
   <value column="Description" original="Payments not reconciled with Bank Statement">Nicht mit  Kontoauszug abgeglichene Zahlungen.</value>
-  <value column="Help" original="The report lists payments which are not reconciled with a bank statement. Payments with a zero payment amount are not listed.">Der Report zeigt Zahlungen an, die nicht mit dem Kontoauszug abgeglichen wurden. Zahlungen mit einem Betrag gleich 0 sind nicht aufgeführt.</value>
+  <value column="Help" original="The report lists payments which are not reconciled with a bank statement. Payments with a zero payment amount are not listed.">Der Bericht zeigt Zahlungen an, die nicht mit dem Kontoauszug abgeglichen wurden. Zahlungen mit einem Betrag gleich 0 sind nicht aufgeführt.</value>
  </row>
  <row id="147" trl="Y">
   <value column="Name" original="Process Statement">Kontoauszug bearbeiten</value>
@@ -230,7 +230,7 @@
  <row id="148" trl="Y">
   <value column="Name" original="Allocation">Zuordnung</value>
   <value column="Description" original="Payment - Invoice - Allocation">Zuordnung von Rechnungen zu Zahlungen.</value>
-  <value column="Help" original="The report displays invoice allocations to payments and cash journals.  Previous allocations are displayed as reversed.">Der Report zeigt Zuordnungen von Rechnungen zu Zahlungen und Kassenjournaleinträgen an. Vorherige Zuordnungen werden als aufgehoben angezeigt.</value>
+  <value column="Help" original="The report displays invoice allocations to payments and cash journals.  Previous allocations are displayed as reversed.">Der Bericht zeigt Zuordnungen von Rechnungen zu Zahlungen und Kassenjournaleinträgen an. Vorherige Zuordnungen werden als aufgehoben angezeigt.</value>
  </row>
  <row id="149" trl="Y">
   <value column="Name" original="Process Payment">Zahlung bearbeiten</value>
@@ -245,12 +245,12 @@
  <row id="151" trl="Y">
   <value column="Name" original="Invoice Transactions (Doc)">Rechnungstransaktionen (Belege)</value>
   <value column="Description" original="Invoice Transactions by Invoice Date">Rechnungstransaktionen nach Rechnungsdatum.</value>
-  <value column="Help" original="The report lists the invoice transactiobs by invoice date">Der Report zeigt die Rechnungsbuchungen nach Buchungsdatum geordnet an.</value>
+  <value column="Help" original="The report lists the invoice transactiobs by invoice date">Der Bericht zeigt die Rechnungsbuchungen nach Buchungsdatum geordnet an.</value>
  </row>
  <row id="152" trl="Y">
   <value column="Name" original="Invoice Detail &amp; Margin">Rechnungsdetail und Marge</value>
-  <value column="Description" original="Invoice (Line) Detail and Margin Report">Reportüber Rechnungsdetails (Positionen) und Marge.</value>
-  <value column="Help" original="The Report lists Customer and Vendor Invoice Details with Margines.">Der Report erstellt eine detaillierte Liste der Kunden- und Lieferantenrechnungen inklusive Margen.</value>
+  <value column="Description" original="Invoice (Line) Detail and Margin Report">Bericht über Rechnungsdetails (Positionen) und Marge.</value>
+  <value column="Help" original="The Report lists Customer and Vendor Invoice Details with Margines.">Der Bericht erstellt eine detaillierte Liste der Kunden- und Lieferantenrechnungen inklusive Margen.</value>
  </row>
  <row id="153" trl="Y">
   <value column="Name" original="Online Process">Onlineprozess</value>
@@ -455,7 +455,7 @@
  <row id="200" trl="Y">
   <value column="Name" original="Print Invoices">Rechnungen drucken</value>
   <value column="Description" original="Print Invoices to paper or send PDF">Drucken Sie Rechnungen oder versenden Sie sie als PDF.</value>
-  <value column="Help" original="(Re)Print Invoices or send them as PDF attachments to the Business Partner Contact with a valid EMail addres.&#10;&lt;br&gt;&#10;Remark: If you only enter a Document No FROM value, all invoices greater or equal that document number are printed; you can alternatively use the % character as a widcard."><![CDATA[Drucken Sie (wiederholt) Rechnungen oder versenden Sie Rechnungen als PDF-Anhang an einen Geschäftspartnerkontakt mit gültiger Emailadresse. <br>Anmerkung: Wenn Sie nur einen Wert für "Belegnummer ab" eingeben, werden alle Rechnungen mit dieser oder einer höheren Belegnummer gedruckt; alternativ können Sie das %-Zeichen als Platzhalter verwenden.]]></value>
+  <value column="Help" original="(Re)Print Invoices or send them as PDF attachments to the Business Partner Contact with a valid EMail addres.&#10;&lt;br&gt;&#10;Remark: If you only enter a Document No FROM value, all invoices greater or equal that document number are printed; you can alternatively use the % character as a widcard."><![CDATA[Drucken Sie (wiederholt) Rechnungen oder versenden Sie Rechnungen als PDF-Anhang an einen Geschäftspartnerkontakt mit gültiger E-Mail Adresse. <br>Anmerkung: Wenn Sie nur einen Wert für "Belegnummer ab" eingeben, werden alle Rechnungen mit dieser oder einer höheren Belegnummer gedruckt; alternativ können Sie das %-Zeichen als Platzhalter verwenden.]]></value>
  </row>
  <row id="201" trl="Y">
   <value column="Name" original="Deliver Assets">Anlagen Lieferung</value>
@@ -500,7 +500,7 @@
  <row id="209" trl="Y">
   <value column="Name" original="Send Mail Text">E-Mail Text senden</value>
   <value column="Description" original="Send EMails to active subscribers of an Interest Area OR a Business Partner Group from a selected User">Senden Sie von einem ausgewählten Nutzer aus E-Mails an aktive Abonnenten eines Interessengebietes ODER an eine Geschäftspartnergruppe.</value>
-  <value column="Help" original="Select the Interest Area to which subscribers you send the Mail Text from the User selected.  Additionally, you can send mails to the Contacts of a Business Partner Group.&lt;br&gt;&#10;The User to send emails from needs to have valid EMail information. If you don't select a user, the Mail is sent from the Client's Request Mail User."><![CDATA[Wählen Sie das Interessengebiet der Abonnenten denen Sie den E-Mail Text vom ausgewählten Nutzer aus senden möchten. Zusätzlich können Sie Emails an die Kontakte einer Geschäftspartnergruppe senden.<br>Der Absender muss gültige Emaildaten haben. Wenn Sie keinen Nutzer auswählen, wird die Email vom Anfragenutzer des Mandanten aus gesendet.]]></value>
+  <value column="Help" original="Select the Interest Area to which subscribers you send the Mail Text from the User selected.  Additionally, you can send mails to the Contacts of a Business Partner Group.&lt;br&gt;&#10;The User to send emails from needs to have valid EMail information. If you don't select a user, the Mail is sent from the Client's Request Mail User."><![CDATA[Wählen Sie das Interessengebiet der Abonnenten denen Sie den E-Mail Text vom ausgewählten Nutzer aus senden möchten. Zusätzlich können Sie E-Mails an die Kontakte einer Geschäftspartnergruppe senden.<br>Der Absender muss gültige E-Mail Daten haben. Wenn Sie keinen Nutzer auswählen, wird die E-Mail vom Anfragenutzer des Mandanten aus gesendet.]]></value>
  </row>
  <row id="210" trl="Y">
   <value column="Name" original="Copy Lines">Positionen kopieren</value>
@@ -646,8 +646,8 @@
  </row>
  <row id="238" trl="Y">
   <value column="Name" original="Aging">Fälligkeit</value>
-  <value column="Description" original="Aging Report">Fälligkeitsreport</value>
-  <value column="Help" original="The aging report allows you to report on Open Items (Invoices). Select the aging buckets, you want to have in your report. If you select a currency, you get only invoices of that currency, otherwise the amounts are converted to your primary accounting currency. If you do not select a Statement Date, the system date is used to calculate the buckets. If you do not list the individual invoices, the Due Date is the earliest due date for the business partner and the Due Days are the average due days of all invoices.&lt;br&gt;&#10;&lt;br&gt;&#10;If you select an Account Date the report will generate the Aging as of that date. The report will exclude documents after the selected date.&lt;br&gt;&#10;&lt;br&gt;&#10;For example: A customer has one invoice for $100 with the Account Date of 03/31/08 and one payment for $100 with the Account Date of 05/01/08. The report will show the following balances based on the Account Date selected: 03/15/08= 0; 04/15/08=100; 05/15/08 = 0.&#10;"><![CDATA[Mit dem Fälligkeitsreport erstellen Sie Reports über offene Posten (Rechnungen). Wählen Sie den Jahresordner, in dem der Report gespeichert werden soll. Wenn Sie eine Währung wählen, erhalten Sie ausschließlich Rechnungen in der gewählten Währung, ansonsten werden die Beträge in Ihre Standardbuchführungswährung umgerechnet. Wählen Sie kein Datum für Kontoauszüge, wird das Systemdatum zur Berechnung der Posten verwendet. Wenn Sie keine einzelnen Rechnungen auflisten, wird als Fälligkeitsdatum das frühest mögliche für den Geschäftspartner gesetzt; die Anzahl der Mahntage wird nach dem Durchschnitt aller Mahntage der bisherigen Rechnungen berechnet. <br> <br> Wenn Sie ein Buchungsdatum wählen, richtet sich das Fälligkeitsdatum des Reports nach dem Buchungsdatum. Der Report schließt Belege nach dem ausgewählten Datum aus. <br> <br> Zum Beispiel liegt für einen Kunden eine Rechnung über 100 Euro mit Rechnungsdatum 31.3.2010 und eine Zahlung mit dem Buchungsdatum 1.5.2010 vor. Der Report wird auf Basis des gewählten Buchungsdatums folgenden Saldo erstellen: 15.3.2008 = 0; 15.4.2008 = 100; 15.5.2008 = 0.]]></value>
+  <value column="Description" original="Aging Report">Fälligkeitsbericht</value>
+  <value column="Help" original="The aging report allows you to report on Open Items (Invoices). Select the aging buckets, you want to have in your report. If you select a currency, you get only invoices of that currency, otherwise the amounts are converted to your primary accounting currency. If you do not select a Statement Date, the system date is used to calculate the buckets. If you do not list the individual invoices, the Due Date is the earliest due date for the business partner and the Due Days are the average due days of all invoices.&lt;br&gt;&#10;&lt;br&gt;&#10;If you select an Account Date the report will generate the Aging as of that date. The report will exclude documents after the selected date.&lt;br&gt;&#10;&lt;br&gt;&#10;For example: A customer has one invoice for $100 with the Account Date of 03/31/08 and one payment for $100 with the Account Date of 05/01/08. The report will show the following balances based on the Account Date selected: 03/15/08= 0; 04/15/08=100; 05/15/08 = 0.&#10;"><![CDATA[Mit dem Fälligkeitsbericht erstellen Sie Berichte über offene Posten (Rechnungen). Wählen Sie den Jahresordner, in dem der Bericht gespeichert werden soll. Wenn Sie eine Währung wählen, erhalten Sie ausschließlich Rechnungen in der gewählten Währung, ansonsten werden die Beträge in Ihre Standardbuchführungswährung umgerechnet. Wählen Sie kein Datum für Kontoauszüge, wird das Systemdatum zur Berechnung der Posten verwendet. Wenn Sie keine einzelnen Rechnungen auflisten, wird als Fälligkeitsdatum das frühest mögliche für den Geschäftspartner gesetzt; die Anzahl der Mahntage wird nach dem Durchschnitt aller Mahntage der bisherigen Rechnungen berechnet. <br> <br> Wenn Sie ein Buchungsdatum wählen, richtet sich das Fälligkeitsdatum des Berichtes nach dem Buchungsdatum. Der Bericht schließt Belege nach dem ausgewählten Datum aus. <br> <br> Zum Beispiel liegt für einen Kunden eine Rechnung über 100 Euro mit Rechnungsdatum 31.3.2010 und eine Zahlung mit dem Buchungsdatum 1.5.2010 vor. Der Bericht wird auf Basis des gewählten Buchungsdatums folgenden Saldo erstellen: 15.3.2008 = 0; 15.4.2008 = 100; 15.5.2008 = 0.]]></value>
  </row>
  <row id="239" trl="Y">
   <value column="Name" original="Clicks Monthy">Monatliche Klicks</value>
@@ -710,9 +710,9 @@
   <value column="Help" original="We will NOT make the data available to any third party or use the information for other than statistical purposes.  &#10;It will help us, if you would allow to publish your use of Adempiere. We will contact you directly before we publish any information.&#10;">Ihre Daten werden weder Dritten zur Verfügung gestellt noch für andere Zwecke außer statistischen verwendet. Es hilft uns sehr, wenn wir Ihre Nutzung von ADempiere öffentlich machen dürfen. Wir werden Sie direkt kontaktieren, bevor wir Sie betreffende Information veröffentlichen.</value>
  </row>
  <row id="251" trl="Y">
-  <value column="Name" original="Invoice Tax">Steuern Rechnung</value>
+  <value column="Name" original="Invoice Tax">Rechnungssteuer</value>
   <value column="Description" original="Invoice Tax Reconciliation">Abgleich von Rechnungssteuern.</value>
-  <value column="Help" original="The Report lists Invoice Tax lines with Business Partner Tax information.">Dieser Report erstellt eine Liste der Rechnungssteuerpositionen mit Steuerinformationen zu den Geschäftspartnern.</value>
+  <value column="Help" original="The Report lists Invoice Tax lines with Business Partner Tax information.">Dieser Bericht erstellt eine Liste der Rechnungssteuerpositionen mit Steuerinformationen zu den Geschäftspartnern.</value>
  </row>
  <row id="252" trl="Y">
   <value column="Name" original="Accounting Fact Details">Buchführungsdaten Details</value>
@@ -922,12 +922,12 @@
  <row id="293" trl="Y">
   <value column="Name" original="Material Receipt Details">Wareneingang Details</value>
   <value column="Description" original="Material Receipt Detail Information">Detailinformationen zum Wareneingang.</value>
-  <value column="Help" original="The report provides Material Repecipt Header and Line with locator information.">Der Report bietet Kopf (Header) und Positionen des Wareneingangs mit Lagerort.</value>
+  <value column="Help" original="The report provides Material Repecipt Header and Line with locator information.">Der Bericht bietet Kopf (Header) und Positionen des Wareneingangs mit Lagerort.</value>
  </row>
  <row id="294" trl="Y">
   <value column="Name" original="Shipment Details">Lieferscheindetails</value>
   <value column="Description" original="Shipment Detail Information">Detailinformation zum Lieferschein.</value>
-  <value column="Help" original="The report provides Material Shipment Header and Line with locator information.  You can use the report to create a Consolidated Picking List.">Der Reportstellt die Kopfzeilen und die Positionen einer Warenlieferung mit Lagerort zu Verfügung. Sie können den Report auch zur Erstellung eines konsolidierten Kommissionierscheins verwenden.</value>
+  <value column="Help" original="The report provides Material Shipment Header and Line with locator information.  You can use the report to create a Consolidated Picking List.">Der Bericht stellt die Kopfzeilen und die Positionen einer Warenlieferung mit Lagerort zu Verfügung. Sie können den Bericht auch zur Erstellung eines konsolidierten Kommissionierscheins verwenden.</value>
  </row>
  <row id="295" trl="Y">
   <value column="Name" original="Role Access Update">Rollenzugriff aktualisieren</value>
@@ -967,7 +967,7 @@
  <row id="302" trl="Y">
   <value column="Name" original="Auto Allocation">Autozuordnung</value>
   <value column="Description" original="Automatic allocation of invoices to payments">Automatische Zuordnung von Rechnungen zu Zahlungen.</value>
-  <value column="Help" original="Try to allocate invoices to payments for a business partner or group.  You may want to reset existing allocations first.&lt;br&gt;&#10;The allocation is based on (1) payments entered with reference to invoices (2) payment selections (3) business partner balance (4) matching amount of invoice &amp; payment.  Allocation is based on exact amount and includes AP/AR imvoices/payments.&lt;br&gt;&#10;Optionally as (5), you can enable to allocate payments to the oldest invoice. In this case, there might be an unallocated amount remaining."><![CDATA[Versuchen Sie, Rechnungen zu Zahlungen eines Geschäftspartners oder einer Gruppe zuzuordnen. Eventuell möchten Sie zuerst bereits bestehende Zuordnungen zurücksetzen.<br> Die Zuordnung basiert 1. auf Zahlungen, die mit Rechnungszuordnung eingegeben wurden, 2. auf einer Zahlungsauswahl, 3. auf dem Geschäftspartnersaldo oder 4. auf der Übereinstimmung von Rechnungs- und Zahlungswert. Die Zuordnung basiert auf dem exakten Betrag und umfasst Rechnungen/Zahlungen auf Debitoren-/Kreditorenkonten. Optional können Sie 5. auswählen, dass Zahlungen den ältesten Rechnungen zugeordnet werden. In diesem Fall könnte ein Restbetrag verbleiben, der nicht zugeordnet werden kann.]]></value>
+  <value column="Help" original="Try to allocate invoices to payments for a business partner or group.  You may want to reset existing allocations first.&lt;br&gt;&#10;The allocation is based on (1) payments entered with reference to invoices (2) payment selections (3) business partner balance (4) matching amount of invoice &amp; payment.  Allocation is based on exact amount and includes AP/AR imvoices/payments.&lt;br&gt;&#10;Optionally as (5), you can enable to allocate payments to the oldest invoice. In this case, there might be an unallocated amount remaining."><![CDATA[Versuchen Sie, Rechnungen zu Zahlungen eines Geschäftspartners oder einer Gruppe zuzuordnen. Eventuell möchten Sie zuerst bereits bestehende Zuordnungen zurücksetzen.<br> Die Zuordnung basiert <br>1. auf Zahlungen, die mit Rechnungszuordnung eingegeben wurden, <br>2. auf einer Zahlungsauswahl, <br>3. auf dem Geschäftspartnersaldo oder <br>4. auf der Übereinstimmung von Rechnungs- und Zahlungswert. Die Zuordnung basiert auf dem exakten Betrag und umfasst Rechnungen/Zahlungen auf Debitoren-/Kreditorenkonten. Optional können Sie <br>5. auswählen, dass Zahlungen den ältesten Rechnungen zugeordnet werden. In diesem Fall könnte ein Restbetrag verbleiben, der nicht zugeordnet werden kann.]]></value>
  </row>
  <row id="303" trl="Y">
   <value column="Name" original="Reset Allocation">Zuordnung aufheben</value>
@@ -1017,7 +1017,7 @@
  <row id="312" trl="Y">
   <value column="Name" original="Print Dunning Letters">Mahnbriefe drucken</value>
   <value column="Description" original="Print Dunning letters to paper or send PDF">Mahnbriefe auf Papier drucken oder als PDF senden.</value>
-  <value column="Help" original="(Re)Print Dunning Letters or send them as PDF attachments to the Business Partner Contact with a valid EMail addres.&#10;">Drucken Sie (wiederholt) Mahnungen oder senden Sie diese als PDF-Anhang an einen Geschäftspartnerkontakt mit gültiger Emailadresse.</value>
+  <value column="Help" original="(Re)Print Dunning Letters or send them as PDF attachments to the Business Partner Contact with a valid EMail addres.&#10;">Drucken Sie (wiederholt) Mahnungen oder senden Sie diese als PDF-Anhang an einen Geschäftspartnerkontakt mit gültiger E-Mail Adresse.</value>
  </row>
  <row id="313" trl="Y">
   <value column="Name" original="Payment Print ">Zahlungen drucken</value>
@@ -1037,22 +1037,22 @@
  <row id="316" trl="Y">
   <value column="Name" original="UnAllocated Invoices">Nicht zugeordnete Rechnungen</value>
   <value column="Description" original="Invoices not allocated to Payments">Rechnungen, die keiner Zahlung zugeordnet sind.</value>
-  <value column="Help" original="Report of not allocated Invoices (for partially paid/allocated invoices see Open Item)">Report über nicht zugeordnete Rechnungen. Teilweise bezahlte/zugeordnete Rechnungen finden Sie unter "Offene Posten".</value>
+  <value column="Help" original="Report of not allocated Invoices (for partially paid/allocated invoices see Open Item)">Bericht über nicht zugeordnete Rechnungen. Teilweise bezahlte/zugeordnete Rechnungen finden Sie unter "Offene Posten".</value>
  </row>
  <row id="317" trl="Y">
   <value column="Name" original="UnAllocated Payments">Nicht zugeordnete Zahlungen</value>
   <value column="Description" original="Payments not allocated to Invoices">Zahlungen, die nicht zu Rechnungen zugeordnet sind.</value>
-  <value column="Help" original="Report of not allocated Payments (for partially allocated payments, use Payment Detail)">Report nicht zugeordneter Zahlungen. Teilweise bezahlte/zugeordnete Zahlungen finden Sie unter "Zahlungsdetails".</value>
+  <value column="Help" original="Report of not allocated Payments (for partially allocated payments, use Payment Detail)">Bericht über nicht zugeordneter Zahlungen. Teilweise bezahlte/zugeordnete Zahlungen finden Sie unter "Zahlungsdetails".</value>
  </row>
  <row id="318" trl="Y">
   <value column="Name" original="Payment Details">Zahlungsdetails</value>
-  <value column="Description" original="Payment Detail Report">Detailreport Zahlungen.</value>
-  <value column="Help" original="Type adjusted payments (receipts positive, payments negative) with allocated and available amounts">Der Reporterstellt eine Liste zugeordneter Zahlungen (eingehend positiv, ausgehend negativ) mit zugeordneten und verfügbaren Beträgen.</value>
+  <value column="Description" original="Payment Detail Report">Detailbericht Zahlungen.</value>
+  <value column="Help" original="Type adjusted payments (receipts positive, payments negative) with allocated and available amounts">Der Bericht erstellt eine Liste zugeordneter Zahlungen (eingehend positiv, ausgehend negativ) mit zugeordneten und verfügbaren Beträgen.</value>
  </row>
  <row id="319" trl="Y">
   <value column="Name" original="Business Partner Open">Offene Posten Geschäftspartner</value>
   <value column="Description" original="Business Partner Open Amount">Geschäftspartner - Offene Beträge</value>
-  <value column="Help" original="The report lists open invoices and payments">Der Report zeigt offene Rechnungen und Zahlungen an.</value>
+  <value column="Help" original="The report lists open invoices and payments">Der Bericht zeigt offene Rechnungen und Zahlungen an.</value>
  </row>
  <row id="320" trl="Y">
   <value column="Name" original="Commission Run Detail">Provisionslauf Details</value>
@@ -1077,7 +1077,7 @@
  <row id="324" trl="Y">
   <value column="Name" original="Invoice Requests">Anfragen zu Rechnungen</value>
   <value column="Description" original="Create Invoice for Requests">Rechnungen für Anfragen erstellen.</value>
-  <value column="Help" original="Create invoice for Request Type with optional Request Group, Category for Business Partner.  If the used product for invoicing is not defined, the product defined in the parameter is used.">Erstellen Sie eine Rechnung für einen Anfragetyp, optional mit Anfragegruppe, Kategorie für Geschäftspartner... Wenn das zu berechnende Produkt nicht festgelegt wurde, wird das im Parameter festgelegte Produkt verwendet.</value>
+  <value column="Help" original="Create invoice for Request Type with optional Request Group, Category for Business Partner.  If the used product for invoicing is not defined, the product defined in the parameter is used."><![CDATA[Erstellen Sie eine Rechnung für einen Anfragetyp, optional mit Anfragegruppe, Kategorie für Geschäftspartner... <br><br>Wenn das zu berechnende Produkt nicht festgelegt wurde, wird das im Parameter festgelegte Produkt verwendet.]]></value>
  </row>
  <row id="325" trl="Y">
   <value column="Name" original="Storage Cleanup">Lager aufräumen</value>
@@ -1086,8 +1086,8 @@
  </row>
  <row id="326" trl="Y">
   <value column="Name" original="Invoice Not Realized Gain/Loss">Rechnung - Nicht realisierter Gewinn/Verlust</value>
-  <value column="Description" original="Invoice Not Realized Gain &amp; Loss Report">Report zu Rechnungen - Nicht realisierter Gewinn/Verlust</value>
-  <value column="Help" original="The Report lists not fully paid invoices with open amount, the GL amounts and the revalued amounts.  If an invoice is partially paid, the percentage of the open amount is used to calculate the revaluation amount.&lt;br&gt;&#10;If you select a currency, only invoices of that currency are included; if you select Include All Currencies, all invoices are included and you can use the report to reconcile your AP/AR accounts.&lt;br&gt;&#10;If you select a GL Document Type, a GL Journal is created. &#10;Note that the report only includes posted invoices."><![CDATA[Der Report erstellt eine Liste nicht vollständig beglichener Rechnungen, d. h. mit den offenen Beträgen, Hauptbuch- und Neubewertungsbeträgen. Wurde eine Rechnung teilweise bezahlt, wird der Prozentsatz des offenen Betrags zur Berechnung des Neubewertungsbetrags verwendet. <br> Wählen Sie eine bestimmte Währung, werden nur Rechnungen dieser Währung berücksichtigt. Wurde "Alle Währungen" gewählt, berücksichtigt der Report Rechnungen mit allen Währungen und Sie können den Report verwenden, um die Debitoren-/Kreditorenkonten in Einklang zu bringen. <br> Wählen Sie eine Belegart des Hauptbuchs, wird ein Hauptbuchjournal erstellt. Bitte beachten Sie, dass der Report nur gebuchte Rechnungen umfasst.]]></value>
+  <value column="Description" original="Invoice Not Realized Gain &amp; Loss Report">Bericht zu Rechnungen - Nicht realisierter Gewinn/Verlust</value>
+  <value column="Help" original="The Report lists not fully paid invoices with open amount, the GL amounts and the revalued amounts.  If an invoice is partially paid, the percentage of the open amount is used to calculate the revaluation amount.&lt;br&gt;&#10;If you select a currency, only invoices of that currency are included; if you select Include All Currencies, all invoices are included and you can use the report to reconcile your AP/AR accounts.&lt;br&gt;&#10;If you select a GL Document Type, a GL Journal is created. &#10;Note that the report only includes posted invoices."><![CDATA[Der Bericht erstellt eine Liste nicht vollständig beglichener Rechnungen, d. h. mit den offenen Beträgen, Hauptbuch- und Neubewertungsbeträgen. Wurde eine Rechnung teilweise bezahlt, wird der Prozentsatz des offenen Betrags zur Berechnung des Neubewertungsbetrags verwendet. <br> Wählen Sie eine bestimmte Währung, werden nur Rechnungen dieser Währung berücksichtigt. Wurde "Alle Währungen" gewählt, berücksichtigt der Bericht Rechnungen mit allen Währungen und Sie können den Bericht verwenden, um die Debitoren-/Kreditorenkonten in Einklang zu bringen. <br> Wählen Sie eine Belegart des Hauptbuchs, wird ein Hauptbuchjournal erstellt. Bitte beachten Sie, dass der Bericht nur gebuchte Rechnungen umfasst.]]></value>
  </row>
  <row id="327" trl="Y">
   <value column="Name" original="Test EMail">Test Mail</value>
@@ -1121,13 +1121,13 @@
  </row>
  <row id="333" trl="Y">
   <value column="Name" original="Order Detail">Auftragsdetails</value>
-  <value column="Description" original="Order Detail Report">Report mit Auftragsdetails.</value>
-  <value column="Help" original="The report includes order detail information including lost sales.  The report can be used for Sales and Purchasing.">Der Report enthält auch Informationen zu Auftragsdetails und entgangenem Umsatz. Dieser Report kann für Vertrieb und Einkauf verwendet werden.</value>
+  <value column="Description" original="Order Detail Report">Bericht mit Auftragsdetails.</value>
+  <value column="Help" original="The report includes order detail information including lost sales.  The report can be used for Sales and Purchasing.">Der Bericht enthält auch Informationen zu Auftragsdetails und entgangenem Umsatz. Dieser Bericht kann für Vertrieb und Einkauf verwendet werden.</value>
  </row>
  <row id="334" trl="Y">
   <value column="Name" original="Business Partner Detail">Details Geschäftspartner</value>
-  <value column="Description" original="Business Partner Detail Report">Detailreport Geschäftspartner.</value>
-  <value column="Help" original="The report list details of Business Partner, Addresses and Contacts for any active Business Partner with an Address and Contact">Dieser Report erstellt eine Liste mit Details aller Geschäftspartner, mit Adressen und Kontakten für jeden aktiven Geschäftspartner, der mit Adresse und Kontakt angelegt ist.</value>
+  <value column="Description" original="Business Partner Detail Report">Detailbericht Geschäftspartner</value>
+  <value column="Help" original="The report list details of Business Partner, Addresses and Contacts for any active Business Partner with an Address and Contact">Dieser Bericht erstellt eine Liste mit Details aller Geschäftspartner, mit Adressen und Kontakten für jeden aktiven Geschäftspartner, der mit Adresse und Kontakt angelegt ist.</value>
  </row>
  <row id="335" trl="Y">
   <value column="Name" original="Create Costing Records">Kosteneinträge erstellen</value>
@@ -1156,12 +1156,12 @@
  </row>
  <row id="340" trl="Y">
   <value column="Name" original="Monthly Invoice Product">Rechnung Produkt monatlich</value>
-  <value column="Description" original="Invoice Report by Product per Month">Rechnungsreport nach Produkt pro Monat.</value>
+  <value column="Description" original="Invoice Report by Product per Month">Rechnungsbericht nach Produkt pro Monat.</value>
   <value column="Help" original="Invoiced Amount by Product and Month">Berechneter Betrag pro Produkt und Monat.</value>
  </row>
  <row id="341" trl="Y">
   <value column="Name" original="Quarter Invoice Product">Rechnung Produkt quartalsweise</value>
-  <value column="Description" original="Invoice Report by Product per Quarter">Rechnungsreport nach Produkt pro Quartal</value>
+  <value column="Description" original="Invoice Report by Product per Quarter">Rechnungsbericht nach Produkt pro Quartal</value>
   <value column="Help" original="Invoiced Amount by Product and Quarter">Berechneter Betrag pro Produkt und Quartal.</value>
  </row>
  <row id="342" trl="Y">
@@ -1701,7 +1701,7 @@
  </row>
  <row id="53176" trl="Y">
   <value column="Name" original="Order Transactions">Auftragstransaktionen</value>
-  <value column="Description" original="Sales Order Transaction Report">Report über Auftragstransaktionen.</value>
+  <value column="Description" original="Sales Order Transaction Report">Bericht über Auftragstransaktionen.</value>
   <value column="Help" original=""/>
  </row>
  <row id="53179" trl="Y">
