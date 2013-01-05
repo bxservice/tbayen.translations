@@ -8754,8 +8754,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1615" trl="Y">
-  <value column="Name" original="Report Line Set">Reportpositionssatz</value>
-  <value column="PrintName" original="Report Line Set">Reportpositionssatz</value>
+  <value column="Name" original="Report Line Set">Berichtspositionssatz</value>
+  <value column="PrintName" original="Report Line Set">Berichtspositionssatz</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -23294,8 +23294,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="50070" trl="Y">
-  <value column="Name" original="Parent Product Category">Parent Produktkategorie</value>
-  <value column="PrintName" original="Parent Product Category">Parent Produktkategorie</value>
+  <value column="Name" original="Parent Product Category">Übergeordnete Produktkategorie</value>
+  <value column="PrintName" original="Parent Product Category">Übergeordnete Produktkategorie</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29356,11 +29356,11 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="54377" trl="N">
-  <value column="Name" original="Disallow Negative Inventory">Disallow Negative Inventory</value>
-  <value column="PrintName" original="Disallow Negative Inventory">Disallow Negative Inventory</value>
-  <value column="Description" original="Negative Inventory is not allowed in this warehouse">Negative Inventory is not allowed in this warehouse</value>
-  <value column="Help" original="If checked, any transaction that results in the onhand inventory being driven negative will be prevented.">If checked, any transaction that results in the onhand inventory being driven negative will be prevented.</value>
+ <row id="54377" trl="Y">
+  <value column="Name" original="Disallow Negative Inventory">Negative Bestände verbieten</value>
+  <value column="PrintName" original="Disallow Negative Inventory">Negative Bestände verbieten</value>
+  <value column="Description" original="Negative Inventory is not allowed in this warehouse">Negative Bestände sind in diesem Lager nicht erlaubt.</value>
+  <value column="Help" original="If checked, any transaction that results in the onhand inventory being driven negative will be prevented.">Wenn der Haken bei "Negative Bestände verbieten" gesetzt ist werden alle Buchungen, die negative Bestände verursachen verhindert.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -36686,9 +36686,9 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="55236" trl="N">
-  <value column="Name" original="Quantity Used">Quantity Used</value>
-  <value column="PrintName" original="Quantity Used in production">Quantity Used in production</value>
+ <row id="55236" trl="Y">
+  <value column="Name" original="Quantity Used">Verwendete Menge</value>
+  <value column="PrintName" original="Quantity Used in production">In der Produktion eingesetzte Menge</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -36706,9 +36706,9 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="55238" trl="N">
-  <value column="Name" original="Quality Test Result">Quality Test Result</value>
-  <value column="PrintName" original="Quality Test Result">Quality Test Result</value>
+ <row id="55238" trl="Y">
+  <value column="Name" original="Quality Test Result">Ergebnis Qualitätsprüfung</value>
+  <value column="PrintName" original="Quality Test Result">Ergebnis Qualitätsprüfung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -36716,9 +36716,9 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="55239" trl="N">
-  <value column="Name" original="Quality Test">Quality Test</value>
-  <value column="PrintName" original="Quality Test">Quality Test</value>
+ <row id="55239" trl="Y">
+  <value column="Name" original="Quality Test">Qualitätsprüfung</value>
+  <value column="PrintName" original="Quality Test">Qualitätsprüfung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -36736,9 +36736,9 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="55241" trl="N">
-  <value column="Name" original="Expected Result">Expected Result</value>
-  <value column="PrintName" original="Expected Result">Expected Result</value>
+ <row id="55241" trl="Y">
+  <value column="Name" original="Expected Result">Erwartetes Ergebnis</value>
+  <value column="PrintName" original="Expected Result">Erwartetes Ergebnis</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -36766,20 +36766,20 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="55244" trl="N">
-  <value column="Name" original="Kanban controlled">Kanban controlled</value>
-  <value column="PrintName" original="Kanban controlled">Kanban controlled</value>
-  <value column="Description" original="This part is Kanban controlled">This part is Kanban controlled</value>
+ <row id="55244" trl="Y">
+  <value column="Name" original="Kanban controlled">Kanban gesteuert</value>
+  <value column="PrintName" original="Kanban controlled">Kanban gesteuert</value>
+  <value column="Description" original="This part is Kanban controlled">Dieses Produkt ist Kanban gesteuert.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="55245" trl="N">
-  <value column="Name" original="Manufactured">Manufactured</value>
-  <value column="PrintName" original="Manufactured">Manufactured</value>
-  <value column="Description" original="This product is manufactured">This product is manufactured</value>
+ <row id="55245" trl="Y">
+  <value column="Name" original="Manufactured">Hergestellt</value>
+  <value column="PrintName" original="Manufactured">Hergestellt</value>
+  <value column="Description" original="This product is manufactured">Dieses Produkt wird hergestellt</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>

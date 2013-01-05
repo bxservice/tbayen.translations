@@ -1289,43 +1289,43 @@
  <row id="371" trl="Y">
   <value column="Name" original="Measure">Leistungskenngröße</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Performance Measure">Leistungskenngrößen.</value>
+  <value column="Description" original="Performance Measure">Leistungskenngrößen</value>
   <value column="Help" original="The Performance Measure Tab defines the date range and method to be used for measuring performance.">Im Register "Leistungskenngröße" legen Sie den Datenbereich und Methode der Leistungsmessung fest.</value>
  </row>
  <row id="372" trl="Y">
-  <value column="Name" original="Financial Report">Finanzreport</value>
+  <value column="Name" original="Financial Report">Finanzbericht</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="373" trl="Y">
-  <value column="Name" original="Report Column Set">Reportspaltensatz</value>
+  <value column="Name" original="Report Column Set">Berichtsspaltensatz</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Maintain Financial Report Column Sets">Verwaltung Reportspaltensätze.</value>
-  <value column="Help" original="Column Sets are the combination of Columns to be included in a Financial Report">Reportsätze sind Kombinationen von Spalten, die in einen Finanzreport einfließen sollen.</value>
+  <value column="Description" original="Maintain Financial Report Column Sets">Verwaltung Berichtsspaltensätze.</value>
+  <value column="Help" original="Column Sets are the combination of Columns to be included in a Financial Report">Berichtssätze sind Kombinationen von Spalten, die in einen Finanzbericht einfließen sollen.</value>
  </row>
  <row id="374" trl="Y">
-  <value column="Name" original="Report Column">Spalte Report</value>
+  <value column="Name" original="Report Column">Spalte Bericht</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Maintain Financial Report Column">Verwaltung Finanzreportspalte.</value>
-  <value column="Help" original="A column represents a column in a Financial Report">Eine Spalte ist eine Spalte in einem Finanzreport.</value>
+  <value column="Description" original="Maintain Financial Report Column">Verwaltung Finanzberichtsspalte.</value>
+  <value column="Help" original="A column represents a column in a Financial Report">Eine Spalte ist eine Spalte in einem Finanzbericht.</value>
  </row>
  <row id="375" trl="Y">
-  <value column="Name" original="Report Line Set">Reportpositionssatz</value>
+  <value column="Name" original="Report Line Set">Berichtspositionssatz</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Maintain Financial Report Line Set">Verwaltung Finanzreportpositionssatz.</value>
   <value column="Help" original=""/>
  </row>
  <row id="376" trl="Y">
-  <value column="Name" original="Report Line">Reportposition</value>
+  <value column="Name" original="Report Line">Berichtsposition</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Maintain Financial Report Line">Verwaltung der Positionen des Finanzreports.</value>
+  <value column="Description" original="Maintain Financial Report Line">Verwaltung der Positionen des Finanzberichtes.</value>
   <value column="Help" original=""/>
  </row>
  <row id="377" trl="Y">
-  <value column="Name" original="Report Source">Reportquelle</value>
+  <value column="Name" original="Report Source">Berichtsquelle</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Maintain Segment Values of Report Line Source ">Verwaltung der Segmentwerte der Reportpositionsquelle.</value>
+  <value column="Description" original="Maintain Segment Values of Report Line Source ">Verwaltung der Segmentwerte der Berichtspositionsquelle.</value>
   <value column="Help" original=""/>
  </row>
  <row id="378" trl="Y">
@@ -3567,10 +3567,10 @@
   <value column="Help" original="Displays all accounting related information for reconcilation with documents. It includes all revenue/expense and tax entries as a base for detail reporting">Im Register "Buchführung" können Sie sich alle buchhalterischen Informationen zum Belegabgleich anzeigen lassen. Enthält alle Erträge/Aufwendungen und Steuereinträge als Basis für detaillierte Reports.</value>
  </row>
  <row id="766" trl="Y">
-  <value column="Name" original="Reporting Hierarchy">Reporthierarchie</value>
+  <value column="Name" original="Reporting Hierarchy">Berichtshierarchie</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Reporting Hierarchy">Reporthierarchie</value>
-  <value column="Help" original="Reporting Hierarchy allows you to select different Hierarchies/Trees for the report.&#10;Accounting Segments like Organization, Account, Product may have several hierarchies to accomodate different views on the business">Unter "Reporthierarchie" können Sie verschiedene Hierarchien/Bäume für einen Report auswählen. Buchungssegmente wie "Organisation", "Konto", "Produkt" können mehrere Hierarchien für verschiedene Sichtweisen auf ein Geschäft enthalten.</value>
+  <value column="Description" original="Reporting Hierarchy">Berichtshierarchie</value>
+  <value column="Help" original="Reporting Hierarchy allows you to select different Hierarchies/Trees for the report.&#10;Accounting Segments like Organization, Account, Product may have several hierarchies to accomodate different views on the business">Unter "Berichtshierarchie" können Sie verschiedene Hierarchien/Bäume für einen Bericht auswählen. Buchungssegmente wie "Organisation", "Konto", "Produkt" können mehrere Hierarchien für verschiedene Sichtweisen auf ein Geschäft enthalten.</value>
  </row>
  <row id="767" trl="Y">
   <value column="Name" original="Purchase Orders">Bestellungen</value>
@@ -5151,7 +5151,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="53219" trl="Y">
-  <value column="Name" original="Report Cube">Report</value>
+  <value column="Name" original="Report Cube">Bericht</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -5342,28 +5342,28 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53344" trl="N">
-  <value column="Name" original="Production">Production</value>
+ <row id="53344" trl="Y">
+  <value column="Name" original="Production">Produktion</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53345" trl="N">
-  <value column="Name" original="Production Line">Production Line</value>
+ <row id="53345" trl="Y">
+  <value column="Name" original="Production Line">Produktionszeile</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53346" trl="N">
-  <value column="Name" original="Part">Part</value>
+ <row id="53346" trl="Y">
+  <value column="Name" original="Part">Produkt</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="The Product that will be produced from this Bill of Materials">The Product that will be produced from this Bill of Materials</value>
-  <value column="Help" original=""/>
+  <value column="Description" original="The Product that will be produced from this Bill of Materials">Die Komponenten der Stückliste ergeben das fertige Produkt.</value>
+  <value column="Help" original="">Die Summe aller in der Stückliste genannten Produke ergeben, nach einer entsprechenden Bearbeitung wie z.B. Zusammenstellung, Montage usw., das fertige Produkt.</value>
  </row>
- <row id="53347" trl="N">
-  <value column="Name" original="Bill of Materials">Bill of Materials</value>
+ <row id="53347" trl="Y">
+  <value column="Name" original="Bill of Materials">Materialliste</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="The component products.">The component products.</value>
+  <value column="Description" original="The component products.">Die Komponenten des Produktes.</value>
   <value column="Help" original=""/>
  </row>
  <row id="53372" trl="N">
@@ -5408,20 +5408,20 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53422" trl="N">
-  <value column="Name" original="Test">Test</value>
+ <row id="53422" trl="Y">
+  <value column="Name" original="Test">Prüfung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53423" trl="N">
-  <value column="Name" original="Product">Product</value>
+ <row id="53423" trl="Y">
+  <value column="Name" original="Product">Produkt</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53424" trl="N">
-  <value column="Name" original="Type">Type</value>
+  <value column="Name" original="Type">Fertigungstyp</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>

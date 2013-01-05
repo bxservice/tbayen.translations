@@ -517,10 +517,10 @@
   <value column="Description" original="Process which will create production lines based on BOM, or recreate with an optional adjusted quantity">Process which will create production lines based on BOM, or recreate with an optional adjusted quantity</value>
   <value column="Help" original=""/>
  </row>
- <row id="62016" trl="N">
-  <value column="Name" original="Complete Production">Complete Production</value>
-  <value column="Description" original="Complete Production">Complete Production</value>
-  <value column="Help" original="Indication that this is complete">Indication that this is complete</value>
+ <row id="62016" trl="Y">
+  <value column="Name" original="Complete Production">Abgeschlossene Produktion</value>
+  <value column="Description" original="Complete Production">Produktion ist beendet</value>
+  <value column="Help" original="Indication that this is complete">Zeigt an, dass die Produktion abgeschlossen ist.</value>
  </row>
  <row id="200585" trl="N">
   <value column="Name" original="Only Currency">Only Currency</value>

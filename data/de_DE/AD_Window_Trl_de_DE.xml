@@ -443,7 +443,7 @@
   <value column="Help" original="Define how and when you want the commissions to be calculated and to whom to pay it.&#10;The Commissions Window allows you define how commissions and royalties will be paid. You can pay multiple commissions for the same order or invoice (e.g. to the person entering the transaction, to the person responsible for sale of the product (category) and or business partner (group).">Legen Sie fest, wie und wann Sie Provisionen oder Tantiemen berechnen und an wen sie gezahlt werden sollen. Im Fenster "Provision" legen Sie fest, wie Provisionen oder Tantiemen gezahlt werden.  Sie können mehrere Provisionen für denselben Auftrag oder dieselbe Rechnung zahlen, z. B. an die Person, die den Vorgang eingibt, sowie an den Verkäufer des Produkts/der Produktgruppe oder an den Verantwortlichen für den Kunden/die Kundengruppe.</value>
  </row>
  <row id="208" trl="Y">
-  <value column="Name" original="Project Reporting">Projektreports</value>
+  <value column="Name" original="Project Reporting">Projektberichte</value>
   <value column="Description" original="Maintain Project Reporting Cycles">Verwaltung Projektreportzyklen.</value>
   <value column="Help" original="The Project Cycle Window defines the steps associated with a specific Project.&#10;You may want to define several Project cycles to differentiate the different types of projects. Project cycles may use all or a subset of the used Project Status (e.g. Your opportunity project cycle may include the steps from prospect to contract - the service cycle may include steps from installation to customer acceptance.">Im Fenster "Projektreports" legen Sie die Schritte eines spezifischen Projekts fest. Vielleicht möchten Sie mehrere Projektzyklen definieren, um zwischen verschiedenen Projektarten zu unterscheiden. Projektzyklen können alle oder nur einige Merkmale des verwendeten Status' umfassen. Beispielsweise  kann der Zyklus Kaufgelegenheit die Schritte Interessent bis Vertrag, der Servicezyklus die Schritte Installation bis Kundenempfang umfassen.</value>
  </row>
@@ -463,23 +463,23 @@
   <value column="Help" original="The Performance Measure Calculation defines how performance measures will be calculated. &#10;The sql needs to return a single value.  Please check examples.&lt;br&gt;&#10;The date trestriction is defined in the Goal. &#10;Any restrictions for Organizations, Business Partners, Products, etc. are  as Performance Goal Restrictions."><![CDATA[In "Leistungskenngrößen Berechnung" legen Sie fest, wie Leistungskenngrößen berechnet werden. SQL muss wieder ein Einzelwert sein! Bitte sehen Sie sich Beispiele an.<br> Datenbeschränkungen sind im Ziel festgelegt. Jede Einschränkung für Organisationen, Geschäftspartner, Produkte usw. sind Einschränkungen des Leistungsziels.]]></value>
  </row>
  <row id="215" trl="Y">
-  <value column="Name" original="Performance Measure">Leistungskenngrößen.</value>
+  <value column="Name" original="Performance Measure">Leistungskenngrößen</value>
   <value column="Description" original="Define your Performance Measures">Definition von Leistungskenngrößen.</value>
   <value column="Help" original="The Performance Measure Window allows you to define the rules and restrictions for performance measurement.  You can, for example, restrict performance measurement to sales for a certain product category for a defined time frame.">Im Fenster "Leistungskenngrößen" können Sie Regeln und Beschränkungen für Kenngrößen festlegen.  Sie können z. B. die Kenngrößenermittlung für den Verkauf auf eine bestimmte Produktkategorie und einen bestimmten Zeitraum einschränken.</value>
  </row>
  <row id="216" trl="Y">
-  <value column="Name" original="Financial Report">Finanzreport</value>
-  <value column="Description" original="Maintain Financial Reports">Verwaltung Finanzreports.</value>
-  <value column="Help" original="Financial Reports are the combination of a Report Column Set and Line Set.">Ein "Finanzreport" ist eine Kombination aus Reportspaltensatz und Zeilensatz.</value>
+  <value column="Name" original="Financial Report">Finanzbericht</value>
+  <value column="Description" original="Maintain Financial Reports">Verwaltung des Finanzberichtes.</value>
+  <value column="Help" original="Financial Reports are the combination of a Report Column Set and Line Set.">Ein "Finanzbericht" ist eine Kombination aus Berichtsspaltensatz und Zeilensatz.</value>
  </row>
  <row id="217" trl="Y">
-  <value column="Name" original="Report Column Set">Reportspaltensatz</value>
-  <value column="Description" original="Maintain Financial Report Column Sets">Verwaltung Reportspaltensätze.</value>
-  <value column="Help" original="The Report Column Set defines what data is printed in the columns of a report.">Der "Reportspaltensatz" legt fest, welche Daten in die Spalten eines Reports gedruckt werden.</value>
+  <value column="Name" original="Report Column Set">Berichtsspaltensatz</value>
+  <value column="Description" original="Maintain Financial Report Column Sets">Verwaltung Berichtsspaltensätze.</value>
+  <value column="Help" original="The Report Column Set defines what data is printed in the columns of a report.">Der "Berichtsspaltensatz" legt fest, welche Daten in die Spalten eines Berichtes gedruckt werden.</value>
  </row>
  <row id="218" trl="Y">
-  <value column="Name" original="Report Line Set">Reportpositionssatz</value>
-  <value column="Description" original="Maintain Financial Report Line Sets">Verwaltung Positionssätze für Finanzreports.</value>
+  <value column="Name" original="Report Line Set">Berichtspositionssatz</value>
+  <value column="Description" original="Maintain Financial Report Line Sets">Verwaltung Positionssätze für Finanzberichte.</value>
   <value column="Help" original="The Line Set determines, which lines are printed in a Financial Report">Der Positionssatz legt fest, welche Positionen in einem Finanzreport gedruckt werden.</value>
  </row>
  <row id="220" trl="Y">
@@ -1168,9 +1168,9 @@
   <value column="Help" original="The tax declaration allows you to create supporting information and reconcile the documents with the accounting">Im Fenster "Steuererklärung" können Sie weitere Informationen eingeben und Belege mit der Buchführung abgleichen.</value>
  </row>
  <row id="360" trl="Y">
-  <value column="Name" original="Reporting Hierarchy">Reporthierarchie</value>
-  <value column="Description" original="Define Reporting Hierarchy">Legen Sie Reporthierarchien fest.</value>
-  <value column="Help" original="Reporting Hierarchy allows you to select different Hierarchies/Trees for the report.&#10;Accounting Segments like Organization, Account, Product may have several hierarchies to accomodate different views on the business">Unter "Reporthierarchie" können Sie verschiedene Hierarchien/Bäume für einen Report auswählen. Buchungssegmente wie "Organisation", "Konto", "Produkt" können mehrere Hierarchien für verschiedene Sichtweisen auf ein Geschäft enthalten.</value>
+  <value column="Name" original="Reporting Hierarchy">Berichtshierarchie</value>
+  <value column="Description" original="Define Reporting Hierarchy">Legen Sie Berichtshierarchien fest.</value>
+  <value column="Help" original="Reporting Hierarchy allows you to select different Hierarchies/Trees for the report.&#10;Accounting Segments like Organization, Account, Product may have several hierarchies to accomodate different views on the business">Unter "Berichtshierarchie" können Sie verschiedene Hierarchien/Bäume für einen Bericht auswählen. Buchungssegmente wie "Organisation", "Konto", "Produkt" können mehrere Hierarchien für verschiedene Sichtweisen auf ein Geschäft enthalten.</value>
  </row>
  <row id="361" trl="Y">
   <value column="Name" original="Budget Control">Budgetkontrolle</value>
@@ -1717,8 +1717,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="53078" trl="Y">
-  <value column="Name" original="Report Cube">Report</value>
-  <value column="Description" original="Define reporting cube for pre-calculation of summary accounting data.">Legen Sie einen "Report" für die Vorkalkulation der zusammengefassten Buchführungsdaten fest.</value>
+  <value column="Name" original="Report Cube">Bericht</value>
+  <value column="Description" original="Define reporting cube for pre-calculation of summary accounting data.">Legen Sie einen "Bericht" für die Vorkalkulation der zusammengefassten Buchführungsdaten fest.</value>
   <value column="Help" original="Summary data will be generated for each period of the selected calendar, grouped by the selected dimensions..">Für jede Periode eines gewählten Kalenders werden Datenzusammenfassungen erstellt. Die Daten werden nach den von Ihnen ausgewählten Dimensionen gruppiert.</value>
  </row>
  <row id="53085" trl="Y">
@@ -1791,15 +1791,15 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53127" trl="N">
-  <value column="Name" original="Production (Single Product)">Production (Single Product)</value>
+ <row id="53127" trl="Y">
+  <value column="Name" original="Production (Single Product)">Produktion (Einzelprodukt)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53128" trl="N">
-  <value column="Name" original="Parts and BOMs">Parts and BOMs</value>
-  <value column="Description" original="Maintain Bill of Materials">Maintain Bill of Materials</value>
-  <value column="Help" original="The Bill of Materials Window defines all product bills of materials used by an organization for light manufacturing.">The Bill of Materials Window defines all product bills of materials used by an organization for light manufacturing.</value>
+ <row id="53128" trl="Y">
+  <value column="Name" original="Parts and BOMs">Stücklistenverwaltung</value>
+  <value column="Description" original="Maintain Bill of Materials">Stücklistenverwaltung</value>
+  <value column="Help" original="The Bill of Materials Window defines all product bills of materials used by an organization for light manufacturing.">Für eine leichtere Organisation der Produktion werden in dem  Fenster "Stücklistenverwaltung" die Stücklisten angelegt und gepflegt.</value>
  </row>
  <row id="53134" trl="N">
   <value column="Name" original="Cash Plan">Cash Plan</value>
@@ -1807,13 +1807,13 @@ MRP - 110	 No exists Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="53149" trl="N">
-  <value column="Name" original="Quality Test">Quality Test</value>
+  <value column="Name" original="Quality Test">Qualitätssicherung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53150" trl="N">
-  <value column="Name" original="Part Type">Part Type</value>
-  <value column="Description" original="Manufacturing Part Types">Manufacturing Part Types</value>
+ <row id="53150" trl="Y">
+  <value column="Name" original="Part Type">Teileart</value>
+  <value column="Description" original="Manufacturing Part Types">Teileart</value>
   <value column="Help" original=""/>
  </row>
  <row id="200000" trl="N">

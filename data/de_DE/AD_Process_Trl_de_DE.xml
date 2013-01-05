@@ -120,12 +120,12 @@
  <row id="124" trl="Y">
   <value column="Name" original="Product Transaction Summary">Produkttransaktionen Zusammenfassung</value>
   <value column="Description" original="Product Transaction Summary">Produkttransaktionen Zusammenfassung</value>
-  <value column="Help" original="The report shows transaction summary for stored products">Der Report zeigt eine Zusammenfassung der Transaktionen für gelagerte Produkte an.</value>
+  <value column="Help" original="The report shows transaction summary for stored products">Der Bericht zeigt eine Zusammenfassung der Transaktionen für gelagerte Produkte an.</value>
  </row>
  <row id="125" trl="Y">
   <value column="Name" original="Replenish Report">Nachbestellung</value>
-  <value column="Description" original="Inventory Replenish Report">Report zur Bestandsnachbestellung.</value>
-  <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished."><![CDATA[Der Report erstellt eine Liste der Produkte, die nachbestellt werden müssen. Bitte beachten Sie, dass jedem Produkt nur ein aktueller Lieferant zugeordnet werden kann. Bei mehr als einem Lieferanten werden beide Einträge zurückgesetzt. Sie müssen den aktuellen Lieferanten manuell auswählen.<br> Bewegungen werden nur erstellt, wenn ein Quelllager für das Nachschublager festgelegt wurde.]]></value>
+  <value column="Description" original="Inventory Replenish Report">Bericht zur Bestandsnachbestellung.</value>
+  <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished."><![CDATA[Der Bericht erstellt eine Liste der Produkte, die nachbestellt werden müssen. Bitte beachten Sie, dass jedem Produkt nur ein aktueller Lieferant zugeordnet werden kann. Bei mehr als einem Lieferanten werden beide Einträge zurückgesetzt. Sie müssen den aktuellen Lieferanten manuell auswählen.<br> Bewegungen werden nur erstellt, wenn ein Quelllager für das Nachschublager festgelegt wurde.]]></value>
  </row>
  <row id="126" trl="Y">
   <value column="Name" original="Order Drilldown">Hierarchische Suche und Abfrage Aufträge</value>
@@ -280,7 +280,7 @@
  <row id="161" trl="Y">
   <value column="Name" original="Product Transaction Value">Produkttransaktionswert</value>
   <value column="Description" original="Product Transaction Value">Produkttransaktionswert</value>
-  <value column="Help" original="The report shows product transactions with current vendor prices">Der Report zeigt Warentransaktionen mit aktuellen Herstellerpreisen an.</value>
+  <value column="Help" original="The report shows product transactions with current vendor prices">Der Bericht zeigt Warentransaktionen mit aktuellen Herstellerpreisen an.</value>
  </row>
  <row id="162" trl="Y">
   <value column="Name" original="Project Status Summary">Projektstatus Übersicht</value>
@@ -358,9 +358,9 @@
   <value column="Help" original="You can Add Missing Translation entries (required after activating an additional System Language) - Delete Translation Records - or Re-Create the translation Records (first delete and add missing entries).&#10;Note that Adding the Missing Translation records creates them by copying the System Language (English).  You would apply the Language Pack after that process.  Run Syncronize Terminology after importing the translation.">Sie können fehlende Einträge hinzufügen (notwendig, nachdem eine weitere Systemsprache hinzugefügt wurde) - Übersetzungseinträge löschen - oder Übersetzungseinträge neu erstellen (erst löschen, dann fehlende Einträge hinzufügen). Beachten Sie, dass "Fehlende Einträge hinzufügen" die Einträge durch Kopie der Basisspracheinträge (Englisch) erstellt. Ein Sprachpaket würden Sie nach diesem Schritt einspielen. Starten Sie "Terminologie synchronisieren" nach dem Einspielen von Sprachdateien.</value>
  </row>
  <row id="180" trl="Y">
-  <value column="Name" original="Inventory Valuation Report">Report Bestandsbewertung</value>
-  <value column="Description" original="Inventory Valuation Report">Report Bestandsbewertung</value>
-  <value column="Help" original="Report lists products with their on-hand quantity and values at the valuation date. In addition to several prices, standard costs and an optional other cost element is used to calculate the inventory of the particular warehouse.">Der Report erstellt eine Produktliste mit Lagerbeständen und ihren Werten an einem Bewertungsdatum. Zusätzlich zu den verschiedenen Preisen werden die Standardkosten und optional weitere Kostenarten für die Bestandsbewertung des entsprechenden Lagers verwendet.</value>
+  <value column="Name" original="Inventory Valuation Report">Bericht Bestandsbewertung</value>
+  <value column="Description" original="Inventory Valuation Report">Bericht Bestandsbewertung</value>
+  <value column="Help" original="Report lists products with their on-hand quantity and values at the valuation date. In addition to several prices, standard costs and an optional other cost element is used to calculate the inventory of the particular warehouse.">Der Bericht erstellt eine Produktliste mit Lagerbeständen und ihren Werten an einem Bewertungsdatum. Zusätzlich zu den verschiedenen Preisen werden die Standardkosten und optional weitere Kostenarten für die Bestandsbewertung des entsprechenden Lagers verwendet.</value>
  </row>
  <row id="181" trl="Y">
   <value column="Name" original="Synchronize Column">Spalte synchronisieren</value>
@@ -473,9 +473,9 @@
   <value column="Help" original="This process is run automatically">Dieser Vorgang wird automatisch durchgeführt.</value>
  </row>
  <row id="204" trl="Y">
-  <value column="Name" original="Statement of Accounts">Rechenschaftsreport</value>
-  <value column="Description" original="Report Account Statement Beginning Balance and Transactions">Report zu Kontostand, Anfangsbestand und Buchungen.</value>
-  <value column="Help" original="Select a Period (current period if empty) or enter a Account Date Range. You can select an alternative Reporting Hierarchy.">Wählen Sie eine Periode. Wenn das Feld leer bleibt, wird die aktuelle Periode gewählt. Sie können auch einen Zeitraum eingeben. Sie können eine alternative Reporthierarchie auswählen.</value>
+  <value column="Name" original="Statement of Accounts">Rechenschaftsbericht</value>
+  <value column="Description" original="Report Account Statement Beginning Balance and Transactions">Bericht zu Kontostand, Anfangsbestand und Buchungen.</value>
+  <value column="Help" original="Select a Period (current period if empty) or enter a Account Date Range. You can select an alternative Reporting Hierarchy.">Wählen Sie eine Periode. Wenn das Feld leer bleibt, wird die aktuelle Periode gewählt. Sie können auch einen Zeitraum eingeben. Sie können eine alternative Berichtshierarchie auswählen.</value>
  </row>
  <row id="205" trl="Y">
   <value column="Name" original="Cache Reset">Cache leeren</value>
@@ -576,10 +576,10 @@
  <row id="224" trl="Y">
   <value column="Name" original="Issue to Project">Projektmaterial</value>
   <value column="Description" original="Issue Material to Project from Receipt or manual Inventory Location">Bestellen Sie Material aus einem Wareneingang oder einer manuellen Lagerortzuordnung und liefern Sie es an das Projekt.</value>
-  <value column="Help" original="Select a Project and either&#10;&lt;br&gt;- Material Receipt&#10;&lt;br&gt;- Expense Report&#10;&lt;br&lt;- Inventory Location and Project Line not issued yet&#10;&lt;br&gt;- Inventory Location, Product and Quantity&#10;The default Movement Date is today's date."><![CDATA[Wählen Sie ein Produkt und entweder <br>- einen Wareneingangsbeleg <br> - einen Aufwandsreport <br> - den Lagerort und die Projektposition (noch nicht thematisiert) <br> - den Lagerort, das Produkt und die Menge. Standardbewegungsdatum ist das heutige Datum.]]></value>
+  <value column="Help" original="Select a Project and either&#10;&lt;br&gt;- Material Receipt&#10;&lt;br&gt;- Expense Report&#10;&lt;br&lt;- Inventory Location and Project Line not issued yet&#10;&lt;br&gt;- Inventory Location, Product and Quantity&#10;The default Movement Date is today's date."><![CDATA[Wählen Sie ein Produkt und entweder <br>- einen Wareneingangsbeleg <br> - einen Aufwandsbericht <br> - den Lagerort und die Projektposition (noch nicht thematisiert) <br> - den Lagerort, das Produkt und die Menge. Standardbewegungsdatum ist das heutige Datum.]]></value>
  </row>
  <row id="225" trl="Y">
-  <value column="Name" original="Generate PO from Project">Bestellung aus Projekt</value>
+  <value column="Name" original="Generate PO from Project">Bestellung aus Projekt erzeugen</value>
   <value column="Description" original="Generate PO from Project Line(s)">Erstellen Sie Bestellungen aus Projektposition(en).</value>
   <value column="Help" original="&#10;">
 </value>
@@ -627,7 +627,7 @@
  <row id="234" trl="Y">
   <value column="Name" original="Project Margin (Work Order)">Projektmarge (Arbeitsauftrag)</value>
   <value column="Description" original="Work Order Project Lines (planned revenue) vs. Project Issues (costs)">Arbeitsauftragspositionen (geplanter Ertrag) vs. Projektsachverhalte (Kosten).</value>
-  <value column="Help" original="The Project Margin Report for Work Orders compares the Project lines (planned revenue) against the Project issues (actual effort and costs). The margin amount is calculated by subtracting the costs (issue) from the revenue (line).&#10;The costs are in the currency of the Accounting Schema - the lines are in the currency of the price list of the project.">Der Report über die Marge für Arbeitsaufträge vergleicht die Projektpositionen (geplante Einnahmen) mit den Projektmaterialien (aktuelle Aufwendungen und Kosten). Der Margenbetrag wird durch Subtraktion der Kosten (Sachverhalt) vom Ertrag (Position) berechnet. Kosten sind in der Währung des Buchführungsschemas angegeben, die Positionen in der Währung der Projektpreisliste.</value>
+  <value column="Help" original="The Project Margin Report for Work Orders compares the Project lines (planned revenue) against the Project issues (actual effort and costs). The margin amount is calculated by subtracting the costs (issue) from the revenue (line).&#10;The costs are in the currency of the Accounting Schema - the lines are in the currency of the price list of the project.">Der Bericht über die Marge für Arbeitsaufträge vergleicht die Projektpositionen (geplante Einnahmen) mit den Projektmaterialien (aktuelle Aufwendungen und Kosten). Der Margenbetrag wird durch Subtraktion der Kosten (Sachverhalt) vom Ertrag (Position) berechnet. Kosten sind in der Währung des Buchführungsschemas angegeben, die Positionen in der Währung der Projektpreisliste.</value>
  </row>
  <row id="235" trl="Y">
   <value column="Name" original="Verify Tree">Baum überprüfen</value>
@@ -636,13 +636,13 @@
  </row>
  <row id="236" trl="Y">
   <value column="Name" original="Storage Detail">Lagerdetails</value>
-  <value column="Description" original="Storage Detail Report">Report über Lagerdetails.</value>
-  <value column="Help" original="The report shows storage details including product instance (Lot, Serial No) info">Der Report zeigt Lagerdetails mit Informationen zu Produktinstanzen, z. B. Los, Seriennummer.</value>
+  <value column="Description" original="Storage Detail Report">Bericht über Lagerdetails.</value>
+  <value column="Help" original="The report shows storage details including product instance (Lot, Serial No) info">Der Bericht zeigt Lagerdetails mit Informationen zu Produktinstanzen, z. B. Los, Seriennummer.</value>
  </row>
  <row id="237" trl="Y">
   <value column="Name" original="Transaction Detail">Transaktionsdetails</value>
-  <value column="Description" original="Transaction Detail Report">Report mit Transaktionsdetails.</value>
-  <value column="Help" original="The report shows transaction details (receipts, shipments, inventory, movements, ...) including product instance (Lot, Serial No) info">Der Report zeigt Details der Bestandsbewegungen an, z. B. Wareneingang, Lieferung, Bewegungen, inklusive Informationen zu Produktinstanzen wie Los- oder Seriennummer.</value>
+  <value column="Description" original="Transaction Detail Report">Bericht mit Transaktionsdetails.</value>
+  <value column="Help" original="The report shows transaction details (receipts, shipments, inventory, movements, ...) including product instance (Lot, Serial No) info">Der Bericht zeigt Details der Bestandsbewegungen an, z. B. Wareneingang, Lieferung, Bewegungen, inklusive Informationen zu Produktinstanzen wie Los- oder Seriennummer.</value>
  </row>
  <row id="238" trl="Y">
   <value column="Name" original="Aging">Fälligkeit</value>
@@ -716,13 +716,13 @@
  </row>
  <row id="252" trl="Y">
   <value column="Name" original="Accounting Fact Details">Buchführungsdaten Details</value>
-  <value column="Description" original="Accounting Fact Details Report">Detaillierter Report zu Buchführungsdaten.</value>
-  <value column="Help" original="Report with detail accounting details.">Report mit detaillierten Buchführungsinformationen.</value>
+  <value column="Description" original="Accounting Fact Details Report">Detaillierter Bericht zu Buchführungsdaten.</value>
+  <value column="Help" original="Report with detail accounting details.">Bericht mit detaillierten Buchführungsinformationen.</value>
  </row>
  <row id="253" trl="Y">
   <value column="Name" original="Accounting Fact Daily">Buchführungsdaten täglich</value>
   <value column="Description" original="Accounting Fact Details summarized by Accounting Date">Buchführungsdetails zusammengefasst nach Buchungsdatum.</value>
-  <value column="Help" original="The report lists the daily summary of accounting transactions">Der Report erstellt eine Zusammenfassung der täglichen Buchführungstransaktionen.</value>
+  <value column="Help" original="The report lists the daily summary of accounting transactions">Der Bericht erstellt eine Zusammenfassung der täglichen Buchführungstransaktionen.</value>
  </row>
  <row id="254" trl="Y">
   <value column="Name" original="Accounting Fact Period">Buchführungsdaten periodisch</value>
@@ -877,12 +877,12 @@
  <row id="284" trl="Y">
   <value column="Name" original="Open Confirmation Details">Offene Bestätigungsdetails</value>
   <value column="Description" original="Open Shipment or Receipt Confirmation Details">Details offener Wareingangs- oder Lieferscheinbestätigungen.</value>
-  <value column="Help" original="The Report lists the open confirmation lines">Der Report zeigt die Details offener Bestätigungspositionen an.</value>
+  <value column="Help" original="The Report lists the open confirmation lines">Der Bericht zeigt die Details offener Bestätigungspositionen an.</value>
  </row>
  <row id="285" trl="Y">
   <value column="Name" original="Open Confirmations">Offene Bestätigungen</value>
   <value column="Description" original="Open Shipment or Receipt Confirmations">Offene Lieferungs- oder Wareneingangsbestätigungen.</value>
-  <value column="Help" original="The report lists the open confirmations">Der Report erstellt eine Liste der offenen Bestätigungen.</value>
+  <value column="Help" original="The report lists the open confirmations">Der Bericht erstellt eine Liste der offenen Bestätigungen.</value>
  </row>
  <row id="286" trl="Y">
   <value column="Name" original="Process Confirmation">Bestätigung bearbeiten</value>
@@ -1007,7 +1007,7 @@
  <row id="310" trl="Y">
   <value column="Name" original="Trial Balance">Rohbilanz</value>
   <value column="Description" original="Trial Balance for a period or date range">Rohbilanz einer Periode oder eines Zeitraums.</value>
-  <value column="Help" original="Select a Period (current period if empty) or enter a Account Date Range. If an account is selected, the balance is calculated based on the account type and the primary calendar of the client (i.e. for revenue/expense accounts from the beginning of the year). If no account is selected, the balance is the sum of all transactions before the selected account range or first day of the period selected. You can select an alternative Reporting Hierarchy.">Wählen Sie eine Periode. Wenn das Feld leer bleibt, wird die aktuelle Periode gewählt. Sie können auch einen Zeitraum eingeben. Wurde ein Konto ausgewählt, wird der Saldo basierend auf Kontentyp und Primärkalender des Mandanten berechnet, d. h. für Erfolgskonten ab Jahresbeginn. Wurde kein Konto ausgewählt, besteht der Saldo aus der Summe aller Transaktionen vor der gewählten Kontenrangfolge oder ab dem ersten Tag der gewählten Periode. Sie können eine alternative Reporthierarchie auswählen.</value>
+  <value column="Help" original="Select a Period (current period if empty) or enter a Account Date Range. If an account is selected, the balance is calculated based on the account type and the primary calendar of the client (i.e. for revenue/expense accounts from the beginning of the year). If no account is selected, the balance is the sum of all transactions before the selected account range or first day of the period selected. You can select an alternative Reporting Hierarchy.">Wählen Sie eine Periode. Wenn das Feld leer bleibt, wird die aktuelle Periode gewählt. Sie können auch einen Zeitraum eingeben. Wurde ein Konto ausgewählt, wird der Saldo basierend auf Kontentyp und Primärkalender des Mandanten berechnet, d. h. für Erfolgskonten ab Jahresbeginn. Wurde kein Konto ausgewählt, besteht der Saldo aus der Summe aller Transaktionen vor der gewählten Kontenrangfolge oder ab dem ersten Tag der gewählten Periode. Sie können eine alternative Berichtshierarchie auswählen.</value>
  </row>
  <row id="311" trl="Y">
   <value column="Name" original="Product UOM Convert">Produktkonvertierung Maßeinheiten</value>
@@ -1067,7 +1067,7 @@
  <row id="322" trl="Y">
   <value column="Name" original="Material Reference">Materialreferenz</value>
   <value column="Description" original="Material Transactions Cross Reference (used/resourced)">Referenz der Materialbewegung (Einsatzort/Ursprung)</value>
-  <value column="Help" original="The report displays, e.g. where Material Receipts are used or Customer Shipments are resourced from">Dieser Report zeigt z. B. an, wo ein Wareneingang benötigt wurde oder woher eine Kundenlieferung stammt.</value>
+  <value column="Help" original="The report displays, e.g. where Material Receipts are used or Customer Shipments are resourced from">Dieser Bericht zeigt z. B. an, wo ein Wareneingang benötigt wurde oder woher eine Kundenlieferung stammt.</value>
  </row>
  <row id="323" trl="Y">
   <value column="Name" original="Create Invoices">Rechnungen erstellen</value>
@@ -1101,18 +1101,18 @@
  </row>
  <row id="329" trl="Y">
   <value column="Name" original="Product Cost">Produktkosten</value>
-  <value column="Description" original="Product Cost Report">Report Produktkosten</value>
-  <value column="Help" original="The Product Cost  report lists the product costs for the product, cost type and cost element">Der "Report Produktkosten" erstellt eine Liste der Kosten für das Produkt, die Kostenart und das Kostenelement.</value>
+  <value column="Description" original="Product Cost Report">Bericht Produktkosten</value>
+  <value column="Help" original="The Product Cost  report lists the product costs for the product, cost type and cost element">Der "Bericht Produktkosten" erstellt eine Liste der Kosten für das Produkt, die Kostenart und das Kostenelement.</value>
  </row>
  <row id="330" trl="Y">
   <value column="Name" original="Product Cost Summary">Zusammenfassung Produktkosten</value>
-  <value column="Description" original="Product Cost Summary Report">Report über zusammengefasste Produktkosten.</value>
-  <value column="Help" original="The Product Cost  report lists the summarized product costs for the product">Der Report "Zusammenfassung Produktkosten" erstellt eine Liste der zusammengefassten Kosten des Produkts.</value>
+  <value column="Description" original="Product Cost Summary Report">Bericht über zusammengefasste Produktkosten.</value>
+  <value column="Help" original="The Product Cost  report lists the summarized product costs for the product">Der Bericht "Zusammenfassung Produktkosten" erstellt eine Liste der zusammengefassten Kosten des Produkts.</value>
  </row>
  <row id="331" trl="Y">
   <value column="Name" original="Product Cost Detail">Details Produktkosten</value>
-  <value column="Description" original="Product Invoice Cost Detail Report">Report über Produktrechnungen mit Kostendetails.</value>
-  <value column="Help" original="The Product Invoice Cost Detail Report lists the products with the individual invoice cost allocation">Der Report "Details Produktkosten" erstellt eine Produktliste mit individueller Rechnungskostenzuordnung.</value>
+  <value column="Description" original="Product Invoice Cost Detail Report">Bericht über Produktrechnungen mit Kostendetails.</value>
+  <value column="Help" original="The Product Invoice Cost Detail Report lists the products with the individual invoice cost allocation">Der Bericht "Details Produktkosten" erstellt eine Produktliste mit individueller Rechnungskostenzuordnung.</value>
  </row>
  <row id="332" trl="Y">
   <value column="Name" original="Distribute Costs">Distributionskosten</value>
@@ -1696,7 +1696,7 @@
  </row>
  <row id="53166" trl="Y">
   <value column="Name" original="Recalculate Cube">Würfel neu berechnen</value>
-  <value column="Description" original="Recalculate summary facts based on report cube definitions.">Die Datenzusammenfassung wird auf Grundlage der Reportwürfeldefinitionen neu berechnet.</value>
+  <value column="Description" original="Recalculate summary facts based on report cube definitions.">Die Datenzusammenfassung wird auf Grundlage der Berichtswürfeldefinitionen neu berechnet.</value>
   <value column="Help" original=""/>
  </row>
  <row id="53176" trl="Y">
@@ -1739,9 +1739,9 @@
   <value column="Description" original="Generate POS Keys from products.">Bereits festgelegte Schnelltasten für Produkte erzeugen</value>
   <value column="Help" original=""/>
  </row>
- <row id="53206" trl="N">
-  <value column="Name" original="Copy from product">Copy from product</value>
-  <value column="Description" original="Copy prices etc from other product">Copy prices etc from other product</value>
+ <row id="53206" trl="Y">
+  <value column="Name" original="Copy from product">Produkt kopieren</value>
+  <value column="Description" original="Copy prices etc from other product">Kopiert Preise usw. von einem anderen Produkt.</value>
   <value column="Help" original=""/>
  </row>
  <row id="53216" trl="N">
@@ -1759,30 +1759,30 @@
   <value column="Description" original="Reconcile account transactions according to standard rules">Reconcile account transactions according to standard rules</value>
   <value column="Help" original=""/>
  </row>
- <row id="53226" trl="N">
-  <value column="Name" original="Create Production">Create Production</value>
-  <value column="Description" original="Create production lines">Create production lines</value>
-  <value column="Help" original="Create Production will generate the production lines.">Create Production will generate the production lines.</value>
+ <row id="53226" trl="Y">
+  <value column="Name" original="Create Production">Produktion erzeugen</value>
+  <value column="Description" original="Create production lines">Produtkionszeile erzeugen</value>
+  <value column="Help" original="Create Production will generate the production lines."/>
  </row>
  <row id="53227" trl="N">
   <value column="Name" original="Post Production">Post Production</value>
   <value column="Description" original="Process the production">Process the production</value>
   <value column="Help" original="Post Production will process the production.">Post Production will process the production.</value>
  </row>
- <row id="53228" trl="N">
-  <value column="Name" original="Validate BOM Flags">Validate BOM Flags</value>
-  <value column="Description" original="Validate BOM Flags">Validate BOM Flags</value>
-  <value column="Help" original="The Validate BOM Flags process checks that all Products with bills of materials are correctly flagged.">The Validate BOM Flags process checks that all Products with bills of materials are correctly flagged.</value>
+ <row id="53228" trl="Y">
+  <value column="Name" original="Validate BOM Flags">Bestätigung Stücklisten</value>
+  <value column="Description" original="Validate BOM Flags">Bestätigung Stücklisten Kennzeichnung</value>
+  <value column="Help" original="The Validate BOM Flags process checks that all Products with bills of materials are correctly flagged.">Durch die "Bestätigung Stücklisten Kennzeichnung" wird überprüft ob Produkte mit Stücklisten ordnungsgemäß gekennzeichnet sind.</value>
  </row>
- <row id="53229" trl="N">
-  <value column="Name" original="Verify BOM Structure">Verify BOM Structure</value>
-  <value column="Description" original="Verify BOM for correctness">Verify BOM for correctness</value>
-  <value column="Help" original="The Verify BOM process checks for circular BOMs (unsupported).">The Verify BOM process checks for circular BOMs (unsupported).</value>
+ <row id="53229" trl="Y">
+  <value column="Name" original="Verify BOM Structure">Stücklistenstruktur prüfen</value>
+  <value column="Description" original="Verify BOM for correctness">Stücklistenstruktur prüfen</value>
+  <value column="Help" original="The Verify BOM process checks for circular BOMs (unsupported).">Stücklistenstruktur auf Zirkelbezüge prüfen. Zirkelbezüge werden nicht ünterstützt.</value>
  </row>
- <row id="53230" trl="N">
-  <value column="Name" original="Rollup BOM Cost">Rollup BOM Cost</value>
-  <value column="Description" original="Rollup BOM cost">Rollup BOM cost</value>
-  <value column="Help" original="Rollup BOM costs from the lowest level recursively.">Rollup BOM costs from the lowest level recursively.</value>
+ <row id="53230" trl="Y">
+  <value column="Name" original="Rollup BOM Cost">Stücklistenkosten ermitteln</value>
+  <value column="Description" original="Rollup BOM cost">Stücklistenkosten ermitteln</value>
+  <value column="Help" original="Rollup BOM costs from the lowest level recursively.">Die Stücklistenkosten werden ab der untersten Ebene der Stückliste ermittelt.</value>
  </row>
  <row id="53245" trl="N">
   <value column="Name" original="Validate">Validate</value>
@@ -1821,20 +1821,19 @@
   <value column="Help" original=""/>
  </row>
  <row id="53265" trl="N">
-  <value column="Name" original="Universal substitution">Universal substitution</value>
-  <value column="Description" original="Substitute one product for another in all BOMs">Substitute one product for another in all BOMs</value>
+  <value column="Name" original="Universal substitution">Produktersetzung</value>
+  <value column="Description" original="Substitute one product for another in all BOMs">Ersetzt in allen Stücklisten ein Produkt durch ein anderes Produkt.</value>
   <value column="Help" original=""/>
  </row>
- <row id="53266" trl="N">
-  <value column="Name" original="Indented Bill of Material">Indented Bill of Material</value>
-  <value column="Description" original="Indented BOM report">Indented BOM report</value>
+ <row id="53266" trl="Y">
+  <value column="Name" original="Indented Bill of Material">Eingerückter Stücklistenbericht</value>
+  <value column="Description" original="Indented BOM report">Eingerückter Stücklistenbericht mit Mengen und Wertangabe.</value>
   <value column="Help" original=""/>
  </row>
- <row id="53267" trl="N">
-  <value column="Name" original="Replenish Report incl. Production">Replenish Report incl. Production</value>
-  <value column="Description" original="Inventory Replenish Report">Inventory Replenish Report</value>
-  <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#13;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished."><![CDATA[Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.<br>
-Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished.]]></value>
+ <row id="53267" trl="Y">
+  <value column="Name" original="Replenish Report incl. Production">Bestellvorschlagsliste inkl. Produktion</value>
+  <value column="Description" original="Inventory Replenish Report">Bestellvorschlagsliste</value>
+  <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#13;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished."><![CDATA[Dieser Bericht listet alle Produkte auf die Nachbeschafft werden müssen. Beachten Sie bitte, dass ein Produkt nur einen aktuellen Lieferanten haben kann. Wenn mehr als ein Lieferant für ein Produkt aktiv ist muss der Lieferant manuell ausgewählt werden.<br>Bewegungen werden nur erstellt, wenn ein Lager als Empfangslager ausgewählt wurde.]]></value>
  </row>
  <row id="200005" trl="N">
   <value column="Name" original="Copy Details">Copy Details</value>

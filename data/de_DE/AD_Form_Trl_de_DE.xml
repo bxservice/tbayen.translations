@@ -172,12 +172,10 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53017" trl="N">
-  <value column="Name" original="BOM Viewer">BOM Viewer</value>
-  <value column="Description" original="Shows the parent-component relationship for the product entered in the Product field.">Shows the parent-component relationship for the product entered in the Product field.</value>
-  <value column="Help" original="Selecting a product will display a hierarchy of components and sub-BOMs for that product.&#13;&#10;&#13;&#10;Selecting the &quot;Where Used&quot; check box will display the BOMs that this product is used in.">Selecting a product will display a hierarchy of components and sub-BOMs for that product.&#13;
-&#13;
-Selecting the "Where Used" check box will display the BOMs that this product is used in.</value>
+ <row id="53017" trl="Y">
+  <value column="Name" original="BOM Viewer">Stücklisten Strukturansicht</value>
+  <value column="Description" original="Shows the parent-component relationship for the product entered in the Product field.">Zeigt die Komponenten des Produktes in einer Baumansicht.</value>
+  <value column="Help" original="Selecting a product will display a hierarchy of components and sub-BOMs for that product.&#13;&#10;&#13;&#10;Selecting the &quot;Where Used&quot; check box will display the BOMs that this product is used in.">Nach der Auswahl eines Produktes wird die Hirachie von Komponenten und Sub-Stücklisten angezeigt.</value>
  </row>
  <row id="200000" trl="N">
   <value column="Name" original="Setup Wizard">Setup Wizard</value>
