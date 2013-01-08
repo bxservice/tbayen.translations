@@ -26074,8 +26074,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53488" trl="Y">
-  <value column="Name" original="Accumulated Depreciation">A_Accumulated_Depr</value>
-  <value column="PrintName" original="Accumulated Depreciation">A_Accumulated_Depr</value>
+  <value column="Name" original="Accumulated Depreciation">Akkumulierte Abschreibung</value>
+  <value column="PrintName" original="Accumulated Depreciation">Akkumulierte Abschreibung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26084,8 +26084,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53489" trl="Y">
-  <value column="Name" original="Asset Cost">A_Asset_Cost</value>
-  <value column="PrintName" original="Asset Cost">A_Asset_Cost</value>
+  <value column="Name" original="Asset Cost">Anlagenkosten</value>
+  <value column="PrintName" original="Asset Cost">Anlagenkosten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26144,8 +26144,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53495" trl="Y">
-  <value column="Name" original="Period Posted">A_Period_Posted</value>
-  <value column="PrintName" original="Period Posted">A_Period_Posted</value>
+  <value column="Name" original="Period Posted">Gebuchte Periode</value>
+  <value column="PrintName" original="Period Posted">Gebuchte Periode</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26254,8 +26254,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53506" trl="Y">
-  <value column="Name" original="Start Asset">A_Start_Asset_ID</value>
-  <value column="PrintName" original="Start Asset">A_Start_Asset_ID</value>
+  <value column="Name" original="Start Asset">Anfang Anlagen-ID</value>
+  <value column="PrintName" original="Start Asset">Anfang Anlagen-ID</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26304,8 +26304,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53511" trl="Y">
-  <value column="Name" original="Reval. Effective Date">A_Reval_Effective_Date</value>
-  <value column="PrintName" original="Reval. Effective Date">A_Reval_Effective_Date</value>
+  <value column="Name" original="Reval. Effective Date">Datum Neubewertung</value>
+  <value column="PrintName" original="Reval. Effective Date">Datum Neubewertung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26454,8 +26454,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53526" trl="Y">
-  <value column="Name" original="Asset Creation Date">A_Asset_CreateDate</value>
-  <value column="PrintName" original="Asset Creation Date">A_Asset_CreateDate</value>
+  <value column="Name" original="Asset Creation Date">Anlage angelegt am</value>
+  <value column="PrintName" original="Asset Creation Date">Anlage angelegt am</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26464,8 +26464,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53527" trl="Y">
-  <value column="Name" original="Asset Reval. Date">A_Asset_RevalDate</value>
-  <value column="PrintName" original="Asset Reval. Date">A_Asset_RevalDate</value>
+  <value column="Name" original="Asset Reval. Date">Datum Anlagenneubewertung</value>
+  <value column="PrintName" original="Asset Reval. Date">Datum Anlagenneubewertung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26524,8 +26524,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53533" trl="Y">
-  <value column="Name" original="Revaluation Cost Offset for Prior Year">Verrechnung Kostenneubewertung Vorjahr</value>
-  <value column="PrintName" original="Revaluation Cost Offset for Prior Year">Verrechnung Kostenneubewertung Vorjahr</value>
+  <value column="Name" original="Revaluation Cost Offset for Prior Year">Gegenbuchung Kostenneubewertung Vorjahr</value>
+  <value column="PrintName" original="Revaluation Cost Offset for Prior Year">Gegenbuchung Kostenneubewertung Vorjahr</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26534,8 +26534,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53534" trl="Y">
-  <value column="Name" original="Revaluation Cost Offset for Current Year">Verrechnung Kostenneubewertung dieses Jahr</value>
-  <value column="PrintName" original="Revaluation Cost Offset for Current Year">Verrechnung Kostenneubewertung dieses Jahr</value>
+  <value column="Name" original="Revaluation Cost Offset for Current Year">Gegenbuchung Kostenneubewertung dieses Jahr</value>
+  <value column="PrintName" original="Revaluation Cost Offset for Current Year">Gegenbuchung Kostenneubewertung dieses Jahr</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26544,8 +26544,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53535" trl="Y">
-  <value column="Name" original="Revaluation Accumulated Depreciation Offset for Prior Year">Verrechnung akkumulierte Abschreibungsneubewertung Vorjahr</value>
-  <value column="PrintName" original="Revaluation Accumulated Depreciation Offset for Prior Year">Verrechnung akkumulierte Abschreibungsneubewertung Vorjahr</value>
+  <value column="Name" original="Revaluation Accumulated Depreciation Offset for Prior Year">Gegenbuchung akkumulierte Abschreibungsneubewertung Vorjahr</value>
+  <value column="PrintName" original="Revaluation Accumulated Depreciation Offset for Prior Year">Gegenbuchung akkumulierte Abschreibungsneubewertung Vorjahr</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26553,9 +26553,9 @@
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="53536" trl="N">
-  <value column="Name" original="Revaluation Accumulated Depreciation Offset for Current Year">Revaluation Accumulated Depreciation Offset for Current Year</value>
-  <value column="PrintName" original="Revaluation Accumulated Depreciation Offset for Current Year">Revaluation Accumulated Depreciation Offset for Current Year</value>
+ <row id="53536" trl="Y">
+  <value column="Name" original="Revaluation Accumulated Depreciation Offset for Current Year">Gegenbuchung  akkumul. Abschreibungsneubewertung dieses Jahr</value>
+  <value column="PrintName" original="Revaluation Accumulated Depreciation Offset for Current Year">Gegenbuchung  akkumul. Abschreibungsneubewertung dieses Jahr</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27404,8 +27404,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53625" trl="Y">
-  <value column="Name" original="User 1">A_User1</value>
-  <value column="PrintName" original="User 1">A_User1</value>
+  <value column="Name" original="User 1">Anwender 1 </value>
+  <value column="PrintName" original="User 1">Anwender 1</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27414,8 +27414,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53626" trl="Y">
-  <value column="Name" original="User 10">A_User10</value>
-  <value column="PrintName" original="User 10">A_User10</value>
+  <value column="Name" original="User 10">Anwender 10</value>
+  <value column="PrintName" original="User 10">Anwender 10</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27424,8 +27424,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53627" trl="Y">
-  <value column="Name" original="User 11">A_User11</value>
-  <value column="PrintName" original="User 11">A_User11</value>
+  <value column="Name" original="User 11">Anwender 11</value>
+  <value column="PrintName" original="User 11">Anwender 11</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27434,8 +27434,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53628" trl="Y">
-  <value column="Name" original="User 12">A_User12</value>
-  <value column="PrintName" original="User 12">A_User12</value>
+  <value column="Name" original="User 12">Anwender 12</value>
+  <value column="PrintName" original="User 12">Anwender 12</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27444,8 +27444,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53629" trl="Y">
-  <value column="Name" original="User 13">A_User13</value>
-  <value column="PrintName" original="User 13">A_User13</value>
+  <value column="Name" original="User 13">Anwender 13</value>
+  <value column="PrintName" original="User 13">Anwender 13</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27454,8 +27454,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53630" trl="Y">
-  <value column="Name" original="User 14">A_User14</value>
-  <value column="PrintName" original="User 14">A_User14</value>
+  <value column="Name" original="User 14">Anwender 14</value>
+  <value column="PrintName" original="User 14">Anwender 14</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27464,8 +27464,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53631" trl="Y">
-  <value column="Name" original="User 15">A_User15</value>
-  <value column="PrintName" original="User 15">A_User15</value>
+  <value column="Name" original="User 15">Anwender 15</value>
+  <value column="PrintName" original="User 15">Anwender 15</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27474,8 +27474,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53632" trl="Y">
-  <value column="Name" original="User 2">A_User2</value>
-  <value column="PrintName" original="User 2">A_User2</value>
+  <value column="Name" original="User 2">Anwender 2</value>
+  <value column="PrintName" original="User 2">Anwender 2</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27483,9 +27483,9 @@
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="53633" trl="Y">
-  <value column="Name" original="User 3">A_User3</value>
-  <value column="PrintName" original="User 3">A_User3</value>
+ <row id="53633" trl="N">
+  <value column="Name" original="User 3">Anwender 3</value>
+  <value column="PrintName" original="User 3">Anwender 3</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27494,8 +27494,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53634" trl="Y">
-  <value column="Name" original="User 4">A_User4</value>
-  <value column="PrintName" original="User 4">A_User4</value>
+  <value column="Name" original="User 4">Anwender 4</value>
+  <value column="PrintName" original="User 4">Anwender 4</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27504,8 +27504,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53635" trl="Y">
-  <value column="Name" original="User 5">A_User5</value>
-  <value column="PrintName" original="User 5">A_User5</value>
+  <value column="Name" original="User 5">Anwender 5</value>
+  <value column="PrintName" original="User 5">Anwender 5</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27514,8 +27514,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53636" trl="Y">
-  <value column="Name" original="User 6">A_User6</value>
-  <value column="PrintName" original="User 6">A_User6</value>
+  <value column="Name" original="User 6">Anwender 6</value>
+  <value column="PrintName" original="User 6">Anwender 6</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27524,8 +27524,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53637" trl="Y">
-  <value column="Name" original="User 7">A_User7</value>
-  <value column="PrintName" original="User 7">A_User7</value>
+  <value column="Name" original="User 7">Anwender 7</value>
+  <value column="PrintName" original="User 7">Anwender 7</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27534,8 +27534,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53638" trl="Y">
-  <value column="Name" original="User 8">A_User8</value>
-  <value column="PrintName" original="User 8">A_User8</value>
+  <value column="Name" original="User 8">Anwender 8</value>
+  <value column="PrintName" original="User 8">Anwender 8</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27544,8 +27544,8 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53639" trl="Y">
-  <value column="Name" original="User 9">A_User9</value>
-  <value column="PrintName" original="User 9">A_User9</value>
+  <value column="Name" original="User 9">Anwender 9</value>
+  <value column="PrintName" original="User 9">Anwender 9</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>

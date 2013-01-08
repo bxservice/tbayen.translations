@@ -279,8 +279,8 @@
   <value column="Description" original="Applications to Process Fixed Assets to the GL">Anwendung zur Bearbeitung von Anlagen im Hauptbuch.</value>
  </row>
  <row id="53155" trl="Y">
-  <value column="Name" original="Reporting">Reports</value>
-  <value column="Description" original="Reporting for fixed assets">Reports zu Anlagen.</value>
+  <value column="Name" original="Reporting">Berichte</value>
+  <value column="Description" original="Reporting for fixed assets">Berichte zu Anlagen.</value>
  </row>
  <row id="53163" trl="Y">
   <value column="Name" original="Setup and Maintain">Einrichtung und Verwaltung</value>

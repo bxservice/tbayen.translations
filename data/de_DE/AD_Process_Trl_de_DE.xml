@@ -565,12 +565,12 @@
  </row>
  <row id="222" trl="Y">
   <value column="Name" original="Customer Assets">Anlagen Kunden</value>
-  <value column="Description" original="Report Customer Assets with Delivery Count">Report zu Kundenanlagen mit Auslieferungsmenge.</value>
-  <value column="Help" original="The report lists the assets of business partners with the total asset delivery count.">Der Report zeigt die Anlagen der Geschäftspartner mit der Gesamtzahl der Auslieferungen.</value>
+  <value column="Description" original="Report Customer Assets with Delivery Count">Bericht zu Kundenanlagen mit Auslieferungsmenge.</value>
+  <value column="Help" original="The report lists the assets of business partners with the total asset delivery count.">Der Bericht zeigt die Anlagen der Geschäftspartner mit der Gesamtzahl der Auslieferungen.</value>
  </row>
  <row id="223" trl="Y">
   <value column="Name" original="Asset Delivery Details">Anlagenauslieferung Details</value>
-  <value column="Description" original="Report Asset Deliveries Details">Detaillierter Report zur Anlagenauslieferung.</value>
+  <value column="Description" original="Report Asset Deliveries Details">Detaillierter Bericht zur Anlagenauslieferung.</value>
   <value column="Help" original="The report lists the details of Asset Deliveries for the records selected.">Für die ausgewählten Einträge wird eine Liste der Anlagen und ihrer Auslieferungen erstellt.</value>
  </row>
  <row id="224" trl="Y">
@@ -826,8 +826,8 @@
  </row>
  <row id="274" trl="Y">
   <value column="Name" original="Asset Delivery Month">Anlagen Liefermonat </value>
-  <value column="Description" original="Report Asset Deliveries Summary per month">Report über die Anlageauslieferungen pro Monat.</value>
-  <value column="Help" original="The report lists the Asset and the deliveries per month for the records selected.">Der Report erstellt eine Liste der Anlagen, sowie der Auslieferungen pro Monat für die gewählten Einträge.</value>
+  <value column="Description" original="Report Asset Deliveries Summary per month">Bericht über die Anlageauslieferungen pro Monat.</value>
+  <value column="Help" original="The report lists the Asset and the deliveries per month for the records selected.">Der Bericht erstellt eine Liste der Anlagen, sowie der Auslieferungen pro Monat für die gewählten Einträge.</value>
  </row>
  <row id="275" trl="Y">
   <value column="Name" original="Validate Document Type">Belegart validieren</value>
@@ -1515,7 +1515,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="53097" trl="Y">
-  <value column="Name" original="Asset Disposal Expense Entry Rpt">Anlageentsorgung Aufwandsreport</value>
+  <value column="Name" original="Asset Disposal Expense Entry Rpt">Anlageentsorgung Aufwandsbericht</value>
   <value column="Description" original="Used to review Assets Disposed Entry">Wird zur Überprüfung von Einträgen zu entsorgten Anlagen verwendet.</value>
   <value column="Help" original=""/>
  </row>
@@ -1560,22 +1560,22 @@
   <value column="Help" original=""/>
  </row>
  <row id="53115" trl="Y">
-  <value column="Name" original="RV_Asset_Parent_Report">RV_Asset_Parent_Report</value>
+  <value column="Name" original="RV_Asset_Parent_Report">Übergeordneter Anlagenbericht</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53117" trl="Y">
-  <value column="Name" original="RV_Depreciation_Table">RV_Depreciation_Table</value>
+  <value column="Name" original="RV_Depreciation_Table">Abschreibungstabelle</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53119" trl="Y">
-  <value column="Name" original="Spread Report">Report verteilen</value>
+  <value column="Name" original="Spread Report">Bericht verteilen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53121" trl="Y">
-  <value column="Name" original="RV_Asset_Depreciation_Method">RV_Asset_Depreciation_Method</value>
+  <value column="Name" original="RV_Asset_Depreciation_Method">Abschreibungsmethoden</value>
   <value column="Description" original="List Depreciation Methods">Liste der Abschreibungsmethoden</value>
   <value column="Help" original=""/>
  </row>
@@ -1585,8 +1585,8 @@
   <value column="Help" original=""/>
  </row>
  <row id="53125" trl="Y">
-  <value column="Name" original="RV_Asset_Convention_Rpt">RV_Asset_Convention_Rpt</value>
-  <value column="Description" original="Asset Convention Report">Report zu Anlagekonventionen</value>
+  <value column="Name" original="RV_Asset_Convention_Rpt">Anlagekonventionen</value>
+  <value column="Description" original="Asset Convention Report">Bericht zu Anlagekonventionen</value>
   <value column="Help" original=""/>
  </row>
  <row id="53127" trl="Y">
@@ -1595,12 +1595,12 @@
   <value column="Help" original=""/>
  </row>
  <row id="53129" trl="Y">
-  <value column="Name" original="RV_Depreciation_Calculation_Methods">RV_Depreciation_Calculation_Methods</value>
+  <value column="Name" original="RV_Depreciation_Calculation_Methods">Methoden der Abschreibungsberechnung</value>
   <value column="Description" original="List Depreciation Calculation Methods Available">Liste der verfügbaren Methoden der Abschreibungsberechnung.</value>
   <value column="Help" original=""/>
  </row>
  <row id="53131" trl="Y">
-  <value column="Name" original="RV_Asset_Group_Defaults">RV_Asset_Group_Defaults</value>
+  <value column="Name" original="RV_Asset_Group_Defaults">Einstellungen und Standards von Anlagegruppen</value>
   <value column="Description" original="Lists Asset Group Settings &amp; Defaults">Zeigt Einstellungen und Standards von Anlagegruppen an.</value>
   <value column="Help" original=""/>
  </row>
@@ -1610,7 +1610,7 @@
   <value column="Help" original="This process processes charges to Fixed Assets from GL">Mit diesem Vorgang bearbeiten Sie die Gebühren für das Anlagevermögen (Hauptbuch).</value>
  </row>
  <row id="53135" trl="Y">
-  <value column="Name" original="Inbound Charge Entry Report">Report Eintrag Inlandsgebühren</value>
+  <value column="Name" original="Inbound Charge Entry Report">Bericht Eintrag Inlandsgebühren</value>
   <value column="Description" original="Used to review Assets Inbound Entry ">Wird zur Überprüfung von Einträgen zu Inlandsanlagen verwendet.</value>
   <value column="Help" original=""/>
  </row>
