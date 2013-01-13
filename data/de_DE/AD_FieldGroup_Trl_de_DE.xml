@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="AD_FieldGroup">
  <row id="101" trl="Y">
@@ -15,7 +15,7 @@
   <value column="Name" original="Reference">Referenz</value>
  </row>
  <row id="105" trl="Y">
-  <value column="Name" original="History">History</value>
+  <value column="Name" original="History">Verlauf</value>
  </row>
  <row id="106" trl="Y">
   <value column="Name" original="Product">Produkt</value>
@@ -54,16 +54,16 @@
   <value column="Name" original="Statistics">Statistik</value>
  </row>
  <row id="118" trl="Y">
-  <value column="Name" original="Defaults">Standards</value>
+  <value column="Name" original="Defaults">Voreinstellungen</value>
  </row>
  <row id="119" trl="Y">
-  <value column="Name" original="Request Management">Anfrageverwaltung</value>
+  <value column="Name" original="Request Management">Anfragenverwaltung</value>
  </row>
  <row id="120" trl="Y">
   <value column="Name" original="Web Store">Webshop</value>
  </row>
  <row id="121" trl="Y">
-  <value column="Name" original="Internal">Intern</value>
+  <value column="Name" original="Internal">Internes</value>
  </row>
  <row id="122" trl="Y">
   <value column="Name" original="External">Extern</value>
@@ -84,7 +84,7 @@
   <value column="Name" original="Simulation">Simulation</value>
  </row>
  <row id="128" trl="Y">
-  <value column="Name" original="Calculations">Berechnung</value>
+  <value column="Name" original="Calculations">Kalkulationen</value>
  </row>
  <row id="129" trl="Y">
   <value column="Name" original="Proxy">Proxy</value>
@@ -108,7 +108,7 @@
   <value column="Name" original="Access">Zugriff</value>
  </row>
  <row id="50000" trl="Y">
-  <value column="Name" original="Allow Info In Role">Information für die Rolle zulassen.</value>
+  <value column="Name" original="Allow Info In Role">Info in Rolle erlauben</value>
  </row>
  <row id="50001" trl="Y">
   <value column="Name" original="Accounts">Konten</value>
@@ -117,7 +117,7 @@
   <value column="Name" original="Setup">Einrichtung</value>
  </row>
  <row id="50003" trl="Y">
-  <value column="Name" original="Dates">Daten</value>
+  <value column="Name" original="Dates">Datumswerte</value>
  </row>
  <row id="50004" trl="Y">
   <value column="Name" original="Revaluation Accounts">Aufwertungskonten</value>
@@ -143,13 +143,31 @@
  <row id="50012" trl="Y">
   <value column="Name" original="Logo">Logo</value>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="Swing Position">Swing Position</value>
+ <row id="50016" trl="Y">
+  <value column="Name" original="Location">Standort</value>
  </row>
- <row id="200001" trl="N">
-  <value column="Name" original="Web Position">Web Position</value>
+ <row id="50017" trl="Y">
+  <value column="Name" original="Fixed Asset">Anlagevermögen</value>
  </row>
- <row id="200003" trl="N">
-  <value column="Name" original="User Locking">User Locking</value>
+ <row id="50018" trl="Y">
+  <value column="Name" original="Maintenance">Verwaltung</value>
+ </row>
+ <row id="50019" trl="Y">
+  <value column="Name" original="Funding">Finanzierung</value>
+ </row>
+ <row id="50020" trl="Y">
+  <value column="Name" original="Depreciation">Abschreibung</value>
+ </row>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Swing Position">Swing-Position</value>
+ </row>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Web Position">Web-Position</value>
+ </row>
+ <row id="200003" trl="Y">
+  <value column="Name" original="User Locking">Benutzersperren</value>
+ </row>
+ <row id="200004" trl="Y">
+  <value column="Name" original="Overwritten From Column">Überschrieben von Spalte</value>
  </row>
 </idempiereTrl>

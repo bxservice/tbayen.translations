@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="C_Currency">
  <row id="100" trl="Y">
@@ -8,7 +8,7 @@
  </row>
  <row id="102" trl="Y">
   <value column="Description" original="Euro">Euro (100 Cent)</value>
-  <value column="CurSymbol" original="E">E</value>
+  <value column="CurSymbol" original="E">€</value>
  </row>
  <row id="103" trl="Y">
   <value column="Description" original="Deutsche Mark">Deutsche Mark (100 Pfennig)</value>
@@ -408,7 +408,7 @@
  </row>
  <row id="270" trl="Y">
   <value column="Description" original="Nakfa">Nakfa (100 Cents)</value>
-  <value column="CurSymbol" original="KR">KR</value>
+  <value column="CurSymbol" original="KR">Nfa</value>
  </row>
  <row id="271" trl="Y">
   <value column="Description" original="Lek">Lek (100 Qindarka)</value>
@@ -468,7 +468,7 @@
  </row>
  <row id="285" trl="Y">
   <value column="Description" original="Estonian Kroon">Krone (100 Senti)</value>
-  <value column="CurSymbol" original="KR">KR</value>
+  <value column="CurSymbol" original="KR">Nfa</value>
  </row>
  <row id="286" trl="Y">
   <value column="Description" original="New Israeli Sheqel">Schekel (100 Agorot)</value>

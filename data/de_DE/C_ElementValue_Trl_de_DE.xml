@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="C_ElementValue">
  <row id="419" trl="Y">
@@ -11,16 +11,16 @@
   <value column="Description" original=""/>
  </row>
  <row id="422" trl="Y">
-  <value column="Name" original="Royalties Revenue">Ertrag aus Lizenzgewinnen</value>
+  <value column="Name" original="Royalties Revenue">Lizenzeinnahmen</value>
   <value column="Description" original=""/>
  </row>
  <row id="423" trl="Y">
   <value column="Name" original="Unearned revenue">Nicht realisierter Gewinn</value>
-  <value column="Description" original="We have invoiced, but not delivered yet">Wurde berechnet, aber noch nicht geliefert.</value>
+  <value column="Description" original="We have invoiced, but not delivered yet">Wurde berechnet, aber noch nicht geliefert</value>
  </row>
  <row id="424" trl="Y">
   <value column="Name" original="Not invoiced revenue">Nicht berechneter Gewinn</value>
-  <value column="Description" original="We delivered but have not invoiced yet">Geliefert, aber noch nicht berechnet.</value>
+  <value column="Description" original="We delivered but have not invoiced yet">Geliefert, aber noch nicht berechnet</value>
  </row>
  <row id="425" trl="Y">
   <value column="Name" original="Other Revenue">Sonstige Erträge</value>
@@ -28,7 +28,7 @@
  </row>
  <row id="426" trl="Y">
   <value column="Name" original="Trade Discounts">Handelsrabatte</value>
-  <value column="Description" original="Granted Trade discounts (corrects Product Revenue)">Gewährte Handelsrabatte korrigieren den Produktertrag.</value>
+  <value column="Description" original="Granted Trade discounts (corrects Product Revenue)">Gewährte Handelsrabatte (korrigieren den Produktertrag)</value>
  </row>
  <row id="427" trl="Y">
   <value column="Name" original="Payment discount revenue">Konto Rabatt-/Skontoertrag</value>
@@ -48,7 +48,7 @@
  </row>
  <row id="431" trl="Y">
   <value column="Name" original="Product Expense">Produktaufwand</value>
-  <value column="Description" original="Default Product or Service costs (I.e. not on inventory)">Standard Produkt- oder Servicekosten, d. h. nicht im Bestand enthalten.</value>
+  <value column="Description" original="Default Product or Service costs (I.e. not on inventory)">Standard Produkt- oder Servicekosten (d.h. nicht im Bestand enthalten)</value>
  </row>
  <row id="432" trl="Y">
   <value column="Name" original="Services Purchases">Einkauf Services</value>
@@ -63,15 +63,15 @@
   <value column="Description" original=""/>
  </row>
  <row id="435" trl="Y">
-  <value column="Name" original="Returns">RMAs</value>
+  <value column="Name" original="Returns">Retouren</value>
   <value column="Description" original=""/>
  </row>
  <row id="436" trl="Y">
-  <value column="Name" original="Returns Expense">Aufwendungen RMAs</value>
+  <value column="Name" original="Returns Expense">Aufwendungen Retouren</value>
   <value column="Description" original=""/>
  </row>
  <row id="437" trl="Y">
-  <value column="Name" original="Returns to Vendors">RMAs an Lieferanten</value>
+  <value column="Name" original="Returns to Vendors">Retouren an Lieferanten</value>
   <value column="Description" original=""/>
  </row>
  <row id="438" trl="Y">
@@ -83,16 +83,16 @@
   <value column="Description" original="Physical Inventory Gain/Loss">Gewinn/Verlust Inventur</value>
  </row>
  <row id="440" trl="Y">
-  <value column="Name" original="Inventory Write Down Below Cost">Abschreibungen auf den Bestand unter Selbstkosten.</value>
+  <value column="Name" original="Inventory Write Down Below Cost">Abschreibungen auf den Bestand unter Selbstkosten</value>
   <value column="Description" original=""/>
  </row>
  <row id="441" trl="Y">
   <value column="Name" original="Inventory Adjustment">Bestandskorrektur</value>
-  <value column="Description" original="Inventory Actual Accounting Value Adjustment">Buchung einer tatsächlichen Bestandsneubewertung.</value>
+  <value column="Description" original="Inventory Actual Accounting Value Adjustment">Buchung einer tatsächlichen Bestandsneubewertung</value>
  </row>
  <row id="442" trl="Y">
-  <value column="Name" original="Inventory Revaluation">Bestandsneubewertung</value>
-  <value column="Description" original="Difference to (lower cost) or market">Differenz zu niedrigeren Kosten oder Märkten.</value>
+  <value column="Name" original="Inventory Revaluation">Bestandsumbewertung</value>
+  <value column="Description" original="Difference to (lower cost) or market">Differenz zu niedrigeren Kosten oder Märkten</value>
  </row>
  <row id="443" trl="Y">
   <value column="Name" original="CoGS Variances">Abweichung Umsatzaufwendungen</value>
@@ -100,23 +100,23 @@
  </row>
  <row id="444" trl="Y">
   <value column="Name" original="Invoice price variance">Abweichung Rechnungspreis</value>
-  <value column="Description" original="Difference between product cost and invoice price (IPV)">Differenz Produktkosten - Rechnungspreis (IPV).</value>
+  <value column="Description" original="Difference between product cost and invoice price (IPV)">Differenz Produktkosten - Rechnungspreis (IPV)</value>
  </row>
  <row id="445" trl="Y">
   <value column="Name" original="Purchase price variance">Abweichung Einkaufspreis</value>
-  <value column="Description" original="Difference between purchase price and standard costs (PPV)">Differenz Einkaufspreis - Standardkosten (PPV).</value>
+  <value column="Description" original="Difference between purchase price and standard costs (PPV)">Differenz Einkaufspreis - Standardkosten (PPV)</value>
  </row>
  <row id="446" trl="Y">
-  <value column="Name" original="CoGs/Sales Discounts">Umsatzaufwendungen/Vertriebsrabatte</value>
+  <value column="Name" original="CoGs/Sales Discounts">Umsatzkosten/Verkaufsrabatte</value>
   <value column="Description" original=""/>
  </row>
  <row id="447" trl="Y">
   <value column="Name" original="Trade discounts received">Erhaltene Rabatte</value>
-  <value column="Description" original="Received Trade Discounts (corrects Product expense)">Erhaltene Handelsrabatte korrigieren den Produktaufwand.</value>
+  <value column="Description" original="Received Trade Discounts (corrects Product expense)">Erhaltene Handelsrabatte korrigieren den Produktaufwand</value>
  </row>
  <row id="448" trl="Y">
   <value column="Name" original="Payment discount revenue">Konto Rabatt-/Skontoertrag</value>
-  <value column="Description" original="Granted early payment discount from vendors">Von Lieferanten gewährte Rabatte für frühe Zahlung, Skonto.</value>
+  <value column="Description" original="Granted early payment discount from vendors">Von Lieferanten gewährte Rabatte für frühe Zahlung, Skonto</value>
  </row>
  <row id="449" trl="Y">
   <value column="Name" original="Expenses">Aufwand</value>
@@ -171,7 +171,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="462" trl="Y">
-  <value column="Name" original="Workers Compensation Insurance">Arbeiterunfallversicherung</value>
+  <value column="Name" original="Workers Compensation Insurance">Arbeitnehmerunfallversicherung</value>
   <value column="Description" original=""/>
  </row>
  <row id="463" trl="Y">
@@ -207,7 +207,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="471" trl="Y">
-  <value column="Name" original="Staff Picnic (100% Deductible)">Betriebsessen, zu 100 % absetzbar</value>
+  <value column="Name" original="Staff Picnic (100% Deductible)">Betriebsessen (zu 100 % absetzbar)</value>
   <value column="Description" original=""/>
  </row>
  <row id="472" trl="Y">
@@ -223,11 +223,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="475" trl="Y">
-  <value column="Name" original="Utilities">Betriebsmittel</value>
+  <value column="Name" original="Utilities">Nebenkosten</value>
   <value column="Description" original=""/>
  </row>
  <row id="476" trl="Y">
-  <value column="Name" original="Other Occupancy Costs">Weitere Aufwendungen für Betriebskosten.</value>
+  <value column="Name" original="Other Occupancy Costs">Weitere Aufwendungen für Betriebskosten</value>
   <value column="Description" original=""/>
  </row>
  <row id="477" trl="Y">
@@ -251,11 +251,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="482" trl="Y">
-  <value column="Name" original="Other Advertising &amp; Promotion">Weitere Werbung und Promotion.</value>
+  <value column="Name" original="Other Advertising &amp; Promotion">Weitere Werbung und Promotion</value>
   <value column="Description" original=""/>
  </row>
  <row id="483" trl="Y">
-  <value column="Name" original="Vendor Advertising Allowances">Vergütungen für Werbung durch Lieferanten.</value>
+  <value column="Name" original="Vendor Advertising Allowances">Vergütungen für Werbung durch Lieferanten</value>
   <value column="Description" original=""/>
  </row>
  <row id="484" trl="Y">
@@ -267,7 +267,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="486" trl="Y">
-  <value column="Name" original="Network Charges">Netzwerkgebühren</value>
+  <value column="Name" original="Network Charges">Netzgebühren</value>
   <value column="Description" original=""/>
  </row>
  <row id="487" trl="Y">
@@ -279,7 +279,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="489" trl="Y">
-  <value column="Name" original="Inventory Verification Fees">Gebühren für Inventurprüfungen.</value>
+  <value column="Name" original="Inventory Verification Fees">Gebühren für Inventurprüfungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="490" trl="Y">
@@ -291,11 +291,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="492" trl="Y">
-  <value column="Name" original="Janitorial Supplies">Material Hausmeister</value>
+  <value column="Name" original="Janitorial Supplies">Hausmeisterbedarf</value>
   <value column="Description" original=""/>
  </row>
  <row id="493" trl="Y">
-  <value column="Name" original="Data Processing Supplies">Material Datenverarbeitung</value>
+  <value column="Name" original="Data Processing Supplies">EDV-Bedarf</value>
   <value column="Description" original=""/>
  </row>
  <row id="494" trl="Y">
@@ -303,7 +303,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="495" trl="Y">
-  <value column="Name" original="Outside Computer Services">Externer Computerservice</value>
+  <value column="Name" original="Outside Computer Services">Externe EDV-Dienstleistungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="496" trl="Y">
@@ -327,11 +327,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="501" trl="Y">
-  <value column="Name" original="Equipment Depreciation">Abschreibungen auf Betriebseinrichtung.</value>
+  <value column="Name" original="Equipment Depreciation">Abschreibungen auf Betriebseinrichtung</value>
   <value column="Description" original=""/>
  </row>
  <row id="502" trl="Y">
-  <value column="Name" original="Data Processing Equipment Depreciation">Abschreibungen auf Geräte der DV</value>
+  <value column="Name" original="Data Processing Equipment Depreciation">Abschreibung EDV-Ausstattung</value>
   <value column="Description" original=""/>
  </row>
  <row id="503" trl="Y">
@@ -355,8 +355,8 @@
   <value column="Description" original=""/>
  </row>
  <row id="508" trl="Y">
-  <value column="Name" original="Checking Account">Bankkonto</value>
-  <value column="Description" original="Bank Asset">Anlagen Bank</value>
+  <value column="Name" original="Checking Account">Girokonto</value>
+  <value column="Description" original="Bank Asset">Bankanlagen</value>
  </row>
  <row id="509" trl="Y">
   <value column="Name" original="Checking In-Transfer">Überprüfung von Transaktionen</value>
@@ -371,7 +371,7 @@
   <value column="Description" original="Received, unallocated payments">Empfangene, nicht zugeordnete Zahlungen</value>
  </row>
  <row id="512" trl="Y">
-  <value column="Name" original="Checking Account 2">Bankkonto 2</value>
+  <value column="Name" original="Checking Account 2">Girokonto 2</value>
   <value column="Description" original=""/>
  </row>
  <row id="513" trl="Y">
@@ -379,15 +379,15 @@
   <value column="Description" original=""/>
  </row>
  <row id="514" trl="Y">
-  <value column="Name" original="Cash in Registers">Verkaufstheke/Kasse</value>
+  <value column="Name" original="Cash in Registers">Kassenbestand</value>
   <value column="Description" original=""/>
  </row>
  <row id="515" trl="Y">
-  <value column="Name" original="Petty Cash">Handkasse</value>
+  <value column="Name" original="Petty Cash">Portokasse</value>
   <value column="Description" original="Cash Book Asset">Kassenbuch Haben</value>
  </row>
  <row id="516" trl="Y">
-  <value column="Name" original="Petty Cash In-Transfer">Vorgänge Handkassenbuch</value>
+  <value column="Name" original="Petty Cash In-Transfer">Portokasse in Transfer</value>
   <value column="Description" original="Cash Book Transfer">Kassenbuchtransaktionen</value>
  </row>
  <row id="517" trl="Y">
@@ -396,7 +396,7 @@
  </row>
  <row id="518" trl="Y">
   <value column="Name" original="Accounts Receivable - Trade">Debitorenkonten - Handel</value>
-  <value column="Description" original="Accounts Receivables">Kreditorenkonten</value>
+  <value column="Description" original="Accounts Receivables">Debitorenkonten</value>
  </row>
  <row id="519" trl="Y">
   <value column="Name" original="A/R Non Sufficient Funds Returned Checks">Kontrollen nicht ausreichender Eingänge für FaLL</value>
@@ -408,7 +408,7 @@
  </row>
  <row id="521" trl="Y">
   <value column="Name" original="Not invoiced receivables">Nicht berechnete Forderungen</value>
-  <value column="Description" original="We delivered but have not invoiced yet">Geliefert, aber noch nicht berechnet.</value>
+  <value column="Description" original="We delivered but have not invoiced yet">Geliefert, aber noch nicht berechnet</value>
  </row>
  <row id="522" trl="Y">
   <value column="Name" original="Credit Card in Transit">Kreditkartenbuchvorgänge</value>
@@ -551,11 +551,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="557" trl="Y">
-  <value column="Name" original="Land Improvements">Grundstücksbestandteile</value>
+  <value column="Name" original="Land Improvements">Grundstücksverbesserungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="558" trl="Y">
-  <value column="Name" original="Building Improvements">Gebäudebestandteile</value>
+  <value column="Name" original="Building Improvements">Gebäudeverbesserungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="559" trl="Y">
@@ -575,15 +575,15 @@
   <value column="Description" original=""/>
  </row>
  <row id="563" trl="Y">
-  <value column="Name" original="Equipment">Betriebsmittel</value>
+  <value column="Name" original="Equipment">Ausrüstung</value>
   <value column="Description" original=""/>
  </row>
  <row id="564" trl="Y">
-  <value column="Name" original="Vehicles">Fuhrpark</value>
+  <value column="Name" original="Vehicles">Fahrzeuge</value>
   <value column="Description" original=""/>
  </row>
  <row id="565" trl="Y">
-  <value column="Name" original="Data Processing Equipment">Betriebsmittel zur DV</value>
+  <value column="Name" original="Data Processing Equipment">EDV-Ausrüstung</value>
   <value column="Description" original=""/>
  </row>
  <row id="566" trl="Y">
@@ -595,8 +595,8 @@
   <value column="Description" original="Created Asset">Geschaffene Anlagen</value>
  </row>
  <row id="568" trl="Y">
-  <value column="Name" original="Project WIP">Projekt WIP</value>
-  <value column="Description" original="Asset Work in Progress">Anlagen WIP</value>
+  <value column="Name" original="Project WIP">Projekt unfertige Arbeiten</value>
+  <value column="Description" original="Asset Work in Progress">Vermögenswerte unfertige Arbeiten</value>
  </row>
  <row id="569" trl="Y">
   <value column="Name" original="Building Accumulated Depreciation">Akkumulierte Abschreibung auf Gebäude</value>
@@ -626,8 +626,8 @@
   <value column="Name" original="Vehicles Accumulated Depreciation">Akkumulierte Abschreibungen auf den Fuhrpark</value>
   <value column="Description" original=""/>
  </row>
- <row id="576" trl="N">
-  <value column="Name" original="Data Processing Equipment Accumulated Depreciation">Data Processing Equipment Accumulated Depreciation</value>
+ <row id="576" trl="Y">
+  <value column="Name" original="Data Processing Equipment Accumulated Depreciation">EDV-Ausrüstung kumulierte Abschreibungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="577" trl="Y">
@@ -672,7 +672,7 @@
  </row>
  <row id="587" trl="Y">
   <value column="Name" original="Not invoiced receipts">Nicht berechnete Eingänge</value>
-  <value column="Description" original="Received products/services from vendors, but not invoiced">Von Lieferanten empfangene, aber nicht berechnete Produkte/Services.</value>
+  <value column="Description" original="Received products/services from vendors, but not invoiced">Von Lieferanten empfangene, aber nicht berechnete Produkte/Services</value>
  </row>
  <row id="588" trl="Y">
   <value column="Name" original="Accounts Payable Services">Konten Serviceverbindlichkeiten</value>
@@ -719,7 +719,7 @@
   <value column="Description" original="Withholding for 1099 or Quality Guarantee">Einbehalt für 1099 oder Qualitätsgarantie.</value>
  </row>
  <row id="599" trl="Y">
-  <value column="Name" original="Withholding (Other)">(Anderer) Einbehalt</value>
+  <value column="Name" original="Withholding (Other)">Einbehalt (Sonstige)</value>
   <value column="Description" original=""/>
  </row>
  <row id="600" trl="Y">
@@ -879,7 +879,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="639" trl="Y">
-  <value column="Name" original="Health Insurance Premium">Premiumkrankenversicherung</value>
+  <value column="Name" original="Health Insurance Premium">Krankenversicherungsbeitrag</value>
   <value column="Description" original=""/>
  </row>
  <row id="640" trl="Y">
@@ -895,7 +895,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="643" trl="Y">
-  <value column="Name" original="Other Consulting Fees">Andere Aufwendungen für Berater</value>
+  <value column="Name" original="Other Consulting Fees">Sonstige Beratungsgebühren</value>
   <value column="Description" original=""/>
  </row>
  <row id="644" trl="Y">
@@ -1063,15 +1063,15 @@
   <value column="Description" original=""/>
  </row>
  <row id="685" trl="Y">
-  <value column="Name" original="Software Maintenance">Verwaltung Software</value>
+  <value column="Name" original="Software Maintenance">Softwarewartung</value>
   <value column="Description" original=""/>
  </row>
  <row id="686" trl="Y">
-  <value column="Name" original="Vehicle Repairs &amp; Maintenance">Verwaltung und Reparaturen Fuhrpark</value>
+  <value column="Name" original="Vehicle Repairs &amp; Maintenance"><![CDATA[Fahrzeugreparaturen & Wartung]]></value>
   <value column="Description" original=""/>
  </row>
  <row id="687" trl="Y">
-  <value column="Name" original="Repairs &amp; Maintenance Other">Sonstige Reparaturen und Verwaltung</value>
+  <value column="Name" original="Repairs &amp; Maintenance Other">Sonstige Reparaturen und Wartungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="688" trl="Y">
@@ -1108,7 +1108,7 @@
  </row>
  <row id="696" trl="Y">
   <value column="Name" original="Default/Suspense Accounts">Standard-/Durchgangskonten</value>
-  <value column="Description" original="Temporary accounts - balance should be zero">Zeitweilige Konten - Saldo sollte 0 sein</value>
+  <value column="Description" original="Temporary accounts - balance should be zero">Temporäre Konten - Saldo sollte Null sein</value>
  </row>
  <row id="697" trl="Y">
   <value column="Name" original="Default account">Standardkonto</value>
@@ -1124,11 +1124,11 @@
  </row>
  <row id="700" trl="Y">
   <value column="Name" original="Cash book expense">Kassenbuch Aufwendungen</value>
-  <value column="Description" original="Default other expense for petty cash transactions">Andere Standardaufwendungen für Bargeldtransaktionen.</value>
+  <value column="Description" original="Default other expense for petty cash transactions">Andere Standardaufwendungen für Bargeldtransaktionen</value>
  </row>
  <row id="701" trl="Y">
   <value column="Name" original="Cash book receipts">Kassenbuch Eingänge</value>
-  <value column="Description" original="Default other revenue for petty cash transactions">Andere Standarderträge für Bargeldtransaktionen.</value>
+  <value column="Description" original="Default other revenue for petty cash transactions">Andere Standarderträge für Bargeldtransaktionen</value>
  </row>
  <row id="702" trl="Y">
   <value column="Name" original="Charge expense">Aufwendungen Gebühren</value>
@@ -1139,7 +1139,7 @@
   <value column="Description" original="Default other revenue">Andere Standarderträge</value>
  </row>
  <row id="704" trl="Y">
-  <value column="Name" original="Other Income">Anderes Einkommen</value>
+  <value column="Name" original="Other Income">Sonstiges Einkommen</value>
   <value column="Description" original=""/>
  </row>
  <row id="705" trl="Y">
@@ -1183,11 +1183,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="715" trl="Y">
-  <value column="Name" original="Other Income">Anderes Einkommen</value>
+  <value column="Name" original="Other Income">Sonstiges Einkommen</value>
   <value column="Description" original=""/>
  </row>
  <row id="716" trl="Y">
-  <value column="Name" original="Other Expense">Andere Aufwendungen</value>
+  <value column="Name" original="Other Expense">Sonstige Aufwendungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="717" trl="Y">
@@ -1215,8 +1215,8 @@
   <value column="Description" original="Difference between foreign currency receivables/payables and current rate">Differenz zwischen Forderungen in Fremdwährungen und tatsächlichem Kurs.</value>
  </row>
  <row id="723" trl="Y">
-  <value column="Name" original="Realized loss">Realer Verlust</value>
-  <value column="Description" original="Difference between invoice and payment currency">Differenz zwischen Zahlung und Zahlungswährung.</value>
+  <value column="Name" original="Realized loss">Realisierter Verlust</value>
+  <value column="Description" original="Difference between invoice and payment currency">Differenz zwischen Zahlung und Zahlungswährung</value>
  </row>
  <row id="724" trl="Y">
   <value column="Name" original="Currency balancing">Währungsausgleich</value>
@@ -1227,11 +1227,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="726" trl="Y">
-  <value column="Name" original="Fixed Asset Sale Loss">Verkaufsverlust Anlagevermögen</value>
+  <value column="Name" original="Fixed Asset Sale Loss">Fixes Asset Sale Loss</value>
   <value column="Description" original=""/>
  </row>
  <row id="727" trl="Y">
-  <value column="Name" original="Other Expense">Andere Aufwendungen</value>
+  <value column="Name" original="Other Expense">Sonstige Aufwendungen</value>
   <value column="Description" original=""/>
  </row>
  <row id="728" trl="Y">
@@ -1391,8 +1391,8 @@
   <value column="Description" original=""/>
  </row>
  <row id="767" trl="Y">
-  <value column="Name" original="Realized gain">Realer Gewinn</value>
-  <value column="Description" original="Difference between invoice and payment currency">Differenz zwischen Zahlung und Zahlungswährung.</value>
+  <value column="Name" original="Realized gain">Realisierter Gewinn</value>
+  <value column="Description" original="Difference between invoice and payment currency">Differenz zwischen Zahlung und Zahlungswährung</value>
  </row>
  <row id="768" trl="Y">
   <value column="Name" original="Uninsured Casualty Loss">Nicht versicherter Verlust durch Unfalltod</value>
@@ -1439,8 +1439,8 @@
   <value column="Description" original="Commissions Paid">Gezahlte Provisionen</value>
  </row>
  <row id="780" trl="Y">
-  <value column="Name" original="Inventory Clearing">Inventurverrechnung</value>
-  <value column="Description" original="Default Product costs (I.e. on inventory)">Standardproduktkosten (für Lagerbestand)</value>
+  <value column="Name" original="Inventory Clearing">Lagerräumung</value>
+  <value column="Description" original="Default Product costs (I.e. on inventory)">Standard Produktkosten (d.h. im Bestand) </value>
  </row>
  <row id="781" trl="Y">
   <value column="Name" original="Cost Adjustments">Kostenkorrekturen</value>
@@ -1475,8 +1475,8 @@
   <value column="Description" original="Account for Rate Variance">Konto für "Gebührensatzabweichung".</value>
  </row>
  <row id="50005" trl="Y">
-  <value column="Name" original="Work In Process">Work In Progress</value>
-  <value column="Description" original="Work In Process Account">Konto "Work In Progress".</value>
+  <value column="Name" original="Work In Process">Unfertige Arbeiten</value>
+  <value column="Description" original="Work In Process Account">Konto Unfertige Arbeiten</value>
  </row>
  <row id="50006" trl="Y">
   <value column="Name" original="Floor Stock">Bestand Produktionsstätte</value>
@@ -1496,7 +1496,7 @@
  </row>
  <row id="50010" trl="Y">
   <value column="Name" original="Cost Of Production">Produktionskosten</value>
-  <value column="Description" original="Cost Of Production Account">Konto für "Produktionskosten".</value>
+  <value column="Description" original="Cost Of Production Account">Konto Produktionskosten</value>
  </row>
  <row id="50011" trl="Y">
   <value column="Name" original="Outside Processing (Subcontract)">Externe Bearbeitungsschritte (Untervertrag)</value>
@@ -1508,7 +1508,7 @@
  </row>
  <row id="50016" trl="Y">
   <value column="Name" original="Scrap">Ausschuss</value>
-  <value column="Description" original="Scrap Account">Konto für "Ausschuss".</value>
+  <value column="Description" original="Scrap Account">Konto für "Ausschuss"</value>
  </row>
  <row id="50017" trl="Y">
   <value column="Name" original="Average Cost Variance">Abweichung Durchschnittskosten</value>

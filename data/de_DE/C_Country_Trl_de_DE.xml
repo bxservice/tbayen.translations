@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="C_Country">
  <row id="100" trl="Y">
@@ -33,7 +33,7 @@
   <value column="RegionName" original=""/>
  </row>
  <row id="107" trl="Y">
-  <value column="Name" original="Switzerland">Schweiz (Confoederatio Helvetica)</value>
+  <value column="Name" original="Switzerland">Schweiz</value>
   <value column="Description" original=""/>
   <value column="RegionName" original=""/>
  </row>
@@ -73,8 +73,8 @@
   <value column="RegionName" original=""/>
  </row>
  <row id="115" trl="Y">
-  <value column="Name" original="Angola">Angola</value>
-  <value column="Description" original="Angola">Angola</value>
+  <value column="Name" original="Angola">Andorra</value>
+  <value column="Description" original="Angola">Andorra</value>
   <value column="RegionName" original=""/>
  </row>
  <row id="116" trl="Y">
@@ -265,7 +265,7 @@
  <row id="156" trl="Y">
   <value column="Name" original="Colombia">Kolumbien</value>
   <value column="Description" original="Colombia">Kolumbien</value>
-  <value column="RegionName" original="Department">Abteilung</value>
+  <value column="RegionName" original="Department">Department</value>
  </row>
  <row id="157" trl="Y">
   <value column="Name" original="Comoros">Komoren</value>
@@ -363,8 +363,8 @@
   <value column="RegionName" original=""/>
  </row>
  <row id="176" trl="Y">
-  <value column="Name" original="Estonia">Estland (Reval)</value>
-  <value column="Description" original="Estonia">Estland (Reval)</value>
+  <value column="Name" original="Estonia">Estland</value>
+  <value column="Description" original="Estonia">Estland</value>
   <value column="RegionName" original=""/>
  </row>
  <row id="177" trl="Y">
@@ -373,8 +373,8 @@
   <value column="RegionName" original=""/>
  </row>
  <row id="178" trl="Y">
-  <value column="Name" original="Falkland Islands (malvinas)">Falklandinseln (Malwinen)</value>
-  <value column="Description" original="Falkland Islands (malvinas)">Falklandinseln (Malwinen)</value>
+  <value column="Name" original="Falkland Islands (malvinas)">Falkland Inseln</value>
+  <value column="Description" original="Falkland Islands (malvinas)">Falkland Inseln</value>
   <value column="RegionName" original=""/>
  </row>
  <row id="179" trl="Y">
@@ -900,7 +900,7 @@
  <row id="286" trl="Y">
   <value column="Name" original="Russian Federation">Russische Föderation</value>
   <value column="Description" original="Russian Federation">Russische Föderation</value>
-  <value column="RegionName" original="Federal Subject"/>
+  <value column="RegionName" original="Federal Subject">Federal Subject</value>
  </row>
  <row id="287" trl="Y">
   <value column="Name" original="Rwanda">Ruanda</value>
@@ -1013,8 +1013,8 @@
   <value column="RegionName" original=""/>
  </row>
  <row id="310" trl="Y">
-  <value column="Name" original="Suriname">Suriname</value>
-  <value column="Description" original="Suriname">Suriname</value>
+  <value column="Name" original="Suriname">Surinam</value>
+  <value column="Description" original="Suriname">Surinam</value>
   <value column="RegionName" original=""/>
  </row>
  <row id="311" trl="Y">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="AD_WF_Node">
  <row id="116" trl="Y">
@@ -8,99 +8,99 @@
  </row>
  <row id="118" trl="Y">
   <value column="Name" original="System Elements">Systemelemente</value>
-  <value column="Description" original="Translate System Elements">Systemelemente übersetzen.</value>
+  <value column="Description" original="Translate System Elements">Systemelemente übersetzen</value>
  </row>
  <row id="119" trl="Y">
   <value column="Name" original="Messages">Mitteilungen</value>
-  <value column="Description" original="Translate Messages">Mitteilungen übersetzen.</value>
+  <value column="Description" original="Translate Messages">Mitteilungen übersetzen</value>
  </row>
  <row id="120" trl="Y">
   <value column="Name" original="Reference">Referenz</value>
-  <value column="Description" original="Translate References">Referenzen übersetzen.</value>
+  <value column="Description" original="Translate References">Referenzen übersetzen</value>
  </row>
  <row id="121" trl="Y">
   <value column="Name" original="Window &amp; Tab"><![CDATA[Fenster & Register]]></value>
-  <value column="Description" original="Translate Windows and Tabs">Fenster und Register übersetzen.</value>
+  <value column="Description" original="Translate Windows and Tabs">Fenster und Register übersetzen</value>
  </row>
  <row id="122" trl="Y">
   <value column="Name" original="Form">Formular</value>
-  <value column="Description" original="Translate Forms">Formulare übersetzen.</value>
+  <value column="Description" original="Translate Forms">Formulare übersetzen</value>
  </row>
  <row id="123" trl="Y">
-  <value column="Name" original="Report &amp; Process"><![CDATA[Report & Prozess]]></value>
-  <value column="Description" original="Translate Reports and Processes">Reports und Prozesse übersetzen.</value>
+  <value column="Name" original="Report &amp; Process"><![CDATA[Bericht & Prozess]]></value>
+  <value column="Description" original="Translate Reports and Processes">Berichte und Prozesse übersetzen</value>
  </row>
  <row id="140" trl="Y">
-  <value column="Name" original="User">Nutzer</value>
-  <value column="Description" original="Define Sales Representative as User">Legen Sie einen Vertriebsbeauftragten als Nutzer fest.</value>
+  <value column="Name" original="User">Benutzer</value>
+  <value column="Description" original="Define Sales Representative as User">Legen Sie einen Vertriebsbeauftragten als Benutzer fest</value>
  </row>
  <row id="141" trl="Y">
   <value column="Name" original="Business Partner">Geschäftspartner</value>
-  <value column="Description" original="Set up Sales Representative as Business Partner">Legen Sie den Vertriebsbeauftragten als Geschäftspartner fest.</value>
+  <value column="Description" original="Set up Sales Representative as Business Partner">Legen Sie den Vertriebsbeauftragten als Geschäftspartner fest</value>
  </row>
  <row id="146" trl="Y">
   <value column="Name" original="Workflow">Workflow</value>
-  <value column="Description" original="Translate Workflows">Workflows übersetzen.</value>
+  <value column="Description" original="Translate Workflows">Workflows übersetzen</value>
  </row>
  <row id="152" trl="Y">
-  <value column="Name" original="Check Client Setup">Kontrolle Mandanteneinrichtung</value>
-  <value column="Description" original="Check Client setup for Requests">Prüfen Sie die Mandanteneinrichtung für Anfragen.</value>
+  <value column="Name" original="Check Client Setup">Ersteinrichtung Mandant überprüfen</value>
+  <value column="Description" original="Check Client setup for Requests">Prüfen Sie die Mandanteneinrichtung für Anfragen</value>
  </row>
  <row id="153" trl="Y">
-  <value column="Name" original="Check Users">Nutzer überprüfen</value>
-  <value column="Description" original="Check users for Request processing">Zur Bearbeitung der Anfrage Nutzer überprüfen.</value>
+  <value column="Name" original="Check Users">Benutzer überprüfen</value>
+  <value column="Description" original="Check users for Request processing">Zur Bearbeitung der Anfrage Benutzer überprüfen</value>
  </row>
  <row id="155" trl="Y">
   <value column="Name" original="Check Business Partners">Geschäftspartner überprüfen</value>
-  <value column="Description" original="Check Business Partners for Request processing">Zur Bearbeitung der Anfrage Geschäftspartner überprüfen.</value>
+  <value column="Description" original="Check Business Partners for Request processing">Zur Bearbeitung der Anfrage Geschäftspartner überprüfen</value>
  </row>
  <row id="166" trl="Y">
   <value column="Name" original="Tax Category">Steuerkategorie</value>
-  <value column="Description" original="Maintain Tax Categories">Verwaltung Steuerkategorien.</value>
+  <value column="Description" original="Maintain Tax Categories">Verwaltung Steuerkategorien</value>
  </row>
  <row id="167" trl="Y">
   <value column="Name" original="Product">Produkt</value>
-  <value column="Description" original="Maintain Products">Verwaltung Produkte.</value>
+  <value column="Description" original="Maintain Products">Verwaltung Produkte</value>
  </row>
  <row id="168" trl="Y">
   <value column="Name" original="Charge">Gebühr</value>
-  <value column="Description" original="Maintain Charges">Verwaltung Gebühren.</value>
+  <value column="Description" original="Maintain Charges">Verwaltung Gebühren</value>
  </row>
  <row id="169" trl="Y">
   <value column="Name" original="Tax Rate">Steuersatz</value>
-  <value column="Description" original="Maintain Taxes and their Rates">Verwaltung Steuern und Steuersätze.</value>
+  <value column="Description" original="Maintain Taxes and their Rates">Verwaltung Steuern und Steuersätze</value>
  </row>
  <row id="170" trl="Y">
   <value column="Name" original="Accounting Schema">Buchführungsschema</value>
   <value column="Description" original="Maintain Accounting Schema - For changes to become effective you must re-login">Verwaltung der Buchführungsschemata - Damit Änderungen wirksam werden, melden Sie sich bitte erneut an.</value>
  </row>
  <row id="180" trl="Y">
-  <value column="Name" original="Verify completed Requisition">Abgeschlossene Bedarfsanforderung verifizieren</value>
-  <value column="Description" original="Just a test case for a manual interaction.">Nur ein Testfall für eine manuelle Einwirkung.</value>
+  <value column="Name" original="Verify completed Requisition">Abgeschlossene Bedarfsanforderung überprüfen</value>
+  <value column="Description" original="Just a test case for a manual interaction.">Nur ein Testfall für eine manuelle Einwirkung</value>
  </row>
  <row id="50000" trl="Y">
-  <value column="Name" original="Manufacturing Workflow Setup">Einrichtung Fertigungsworkflow</value>
-  <value column="Description" original="Setup Manufacturing Workflow">Einrichtung Fertigungsworkflow</value>
+  <value column="Name" original="Manufacturing Workflow Setup">Einrichtung Fertigungs-Workflow</value>
+  <value column="Description" original="Setup Manufacturing Workflow">Einrichtung Fertigungs-Workflow</value>
  </row>
  <row id="50001" trl="Y">
   <value column="Name" original="Discrete Manufacturing Setup">Einrichtung Diskrete Fertigung</value>
   <value column="Description" original="Setup Manufacturing Management">Einrichtung Produktionsplanung</value>
  </row>
  <row id="50002" trl="Y">
-  <value column="Name" original="Bill of Material &amp; Formula Setup"><![CDATA[Einrichtung Stückliste & Formeln]]></value>
+  <value column="Name" original="Bill of Material &amp; Formula Setup"><![CDATA[Einrichtung Stückliste & Formel]]></value>
   <value column="Description" original="Setup Manufacturing Management">Einrichtung Produktionsplanung</value>
  </row>
  <row id="50003" trl="Y">
-  <value column="Name" original="Warehouse &amp; Locators"><![CDATA[Lager & Lagerort]]></value>
-  <value column="Description" original="Warehouse &amp; Locators"><![CDATA[Lager & Lagerort]]></value>
+  <value column="Name" original="Warehouse &amp; Locators"><![CDATA[Lager & Lagerorte]]></value>
+  <value column="Description" original="Warehouse &amp; Locators"><![CDATA[Lager & Lagerorte]]></value>
  </row>
  <row id="50004" trl="Y">
   <value column="Name" original="Resource Type">Ressourcenart</value>
   <value column="Description" original="Resource Type">Ressourcenart</value>
  </row>
  <row id="50005" trl="Y">
-  <value column="Name" original="Manufacturing Workflows">Fertigungsworkflow</value>
-  <value column="Description" original="Manufacturing Workflows">Fertigungsworkflow</value>
+  <value column="Name" original="Manufacturing Workflows">Fertigungs-Workflows</value>
+  <value column="Description" original="Manufacturing Workflows">Fertigungs-Workflows</value>
  </row>
  <row id="50006" trl="Y">
   <value column="Name" original="Manufacturing Resource">Fertigungsressource</value>
@@ -108,11 +108,11 @@
  </row>
  <row id="50007" trl="Y">
   <value column="Name" original="Unit of Measure">Maßeinheit</value>
-  <value column="Description" original="Maintain Unit of Measure ">Verwaltung Maßeinheiten.</value>
+  <value column="Description" original="Maintain Unit of Measure ">Verwaltung Maßeinheiten</value>
  </row>
  <row id="50008" trl="Y">
   <value column="Name" original="Product">Produkt</value>
-  <value column="Description" original="Maintain Products">Verwaltung Produkte.</value>
+  <value column="Description" original="Maintain Products">Verwaltung Produkte</value>
  </row>
  <row id="50009" trl="Y">
   <value column="Name" original="Material Requirement Planning Setup">Einrichtung Materialbedarfsplanung (MBP)</value>
@@ -143,16 +143,16 @@
   <value column="Description" original="Setup Material Requirement Planning">Einrichtung Materialbedarfsplanung</value>
  </row>
  <row id="50016" trl="Y">
-  <value column="Name" original="Manufacturing Workflow Setup">Einrichtung Fertigungsworkflow</value>
-  <value column="Description" original="Setup Manufacturing Workflow">Einrichtung Fertigungsworkflow</value>
+  <value column="Name" original="Manufacturing Workflow Setup">Einrichtung Fertigungs-Workflow</value>
+  <value column="Description" original="Setup Manufacturing Workflow">Einrichtung Fertigungs-Workflow</value>
  </row>
  <row id="50017" trl="Y">
-  <value column="Name" original="Calculate Capacity Plan">Kapazitätsplanung berechnen</value>
-  <value column="Description" original="Calculate Capacity Plan">Kapazitätsplanung berechnen</value>
+  <value column="Name" original="Calculate Capacity Plan">Kapazitätsplan berechnen</value>
+  <value column="Description" original="Calculate Capacity Plan">Kapazitätsplan berechnen</value>
  </row>
  <row id="50018" trl="Y">
-  <value column="Name" original="Resource Load View">View Ressourcenauslastung</value>
-  <value column="Description" original="It shows graphically of the required and available time for each manufacturing resource.">Stellt benötigte und verfügbare Zeit für jede Produktionsressource graphisch dar.</value>
+  <value column="Name" original="Resource Load View">Ansicht Ressourcenauslastung</value>
+  <value column="Description" original="It shows graphically of the required and available time for each manufacturing resource.">Stellt benötigte und verfügbare Zeit für jede Produktionsressource grafisch dar.</value>
  </row>
  <row id="50019" trl="Y">
   <value column="Name" original="Material Requirement Planning Setup">Einrichtung Materialbedarfsplanung (MBP)</value>
@@ -179,8 +179,8 @@
   <value column="Description" original="MRP Info">Info MBP</value>
  </row>
  <row id="50025" trl="Y">
-  <value column="Name" original="Calculate Distribution Plan">Distributionsplan kalkulieren</value>
-  <value column="Description" original="Calculate Distribution Plan">Distributionsplan kalkulieren</value>
+  <value column="Name" original="Calculate Distribution Plan">Distributionsplan berechnen</value>
+  <value column="Description" original="Calculate Distribution Plan">Distributionsplan berechnen</value>
  </row>
  <row id="50027" trl="Y">
   <value column="Name" original="(DocComplete)">(Beleg komplett)</value>
@@ -196,27 +196,27 @@
  </row>
  <row id="50034" trl="Y">
   <value column="Name" original="Freight Category">Frachtkategorie</value>
-  <value column="Description" original="Maintain Freight Categories">Verwaltung Frachtkategorien.</value>
+  <value column="Description" original="Maintain Freight Categories">Verwaltung Frachtkategorien</value>
  </row>
  <row id="50035" trl="Y">
   <value column="Name" original="Inventory Move">Bestandsbewegung</value>
   <value column="Description" original="Inventory Move">Bestandsbewegung</value>
  </row>
  <row id="50036" trl="Y">
-  <value column="Name" original="Shipper">Lieferweg</value>
-  <value column="Description" original="Maintain Shippers">Verwaltung Lieferwege.</value>
+  <value column="Name" original="Shipper">Lieferart</value>
+  <value column="Description" original="Maintain Shippers">Verwaltung Lieferarten</value>
  </row>
  <row id="50049" trl="Y">
-  <value column="Name" original="Multi Level BOM &amp; Formula Detail"><![CDATA[Stückliste mit mehreren Ebenen & Formeldetails]]></value>
-  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Beziehung zwischen Parentkomponente und eingegebenem Produkt in zwei verschiedenen Fenstern an.</value>
+  <value column="Name" original="Multi Level BOM &amp; Formula Detail"><![CDATA[Mehrstufige Stückliste & Formel Details]]></value>
+  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für das im Produktfeld angegebene Produkt in zwei verschiedenen Fensterbereichen.</value>
  </row>
  <row id="50050" trl="Y">
-  <value column="Name" original="BOM &amp; Formula Info"><![CDATA[Infos Stückliste & Formeln]]></value>
-  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Beziehung zwischen Parentkomponente und eingegebenem Produkt in zwei verschiedenen Fenstern an.</value>
+  <value column="Name" original="BOM &amp; Formula Info"><![CDATA[ Stückliste & Formel Info]]></value>
+  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für das im Produktfeld angegebene Produkt in zwei verschiedenen Fensterbereichen.</value>
  </row>
  <row id="50051" trl="Y">
-  <value column="Name" original="Bill of Materials &amp; Formula"><![CDATA[Stückliste & Formeln]]></value>
-  <value column="Description" original="Maintain Product Bill of Materials &amp; Formula "><![CDATA[Verwaltung Stückliste & Formeln.]]></value>
+  <value column="Name" original="Bill of Materials &amp; Formula"><![CDATA[Stückliste & Formel]]></value>
+  <value column="Description" original="Maintain Product Bill of Materials &amp; Formula "><![CDATA[Produkt Stückliste & Formel verwalten]]></value>
  </row>
  <row id="50052" trl="Y">
   <value column="Name" original="Product Planning">Produktplanung</value>
@@ -227,7 +227,7 @@
   <value column="Description" original="MRP is a set of techniques which uses Bills of Material, Inventory Data, and the Master Production Schedule to calculate requirements for materials.">Die MBP kalkuliert den Materialbedarf anhand von Stücklisten, Bestandsdaten und mit Hilfe des Masterproduktionsplans.</value>
  </row>
  <row id="50054" trl="Y">
-  <value column="Name" original="Calculate Material Plan">MBP berechnen</value>
+  <value column="Name" original="Calculate Material Plan">Materialplan berechnen</value>
   <value column="Description" original="MRP is a set of techniques which uses Bills of Material, Inventory Data, and the Master Production Schedule to calculate requirements for materials.">Die MBP kalkuliert den Materialbedarf anhand von Stücklisten, Bestandsdaten und mit Hilfe des Masterproduktionsplans.</value>
  </row>
  <row id="50055" trl="Y">
@@ -239,12 +239,12 @@
   <value column="Description" original="MRP is a set of techniques which uses Bills of Material, Inventory Data, and the Master Production Schedule to calculate requirements for materials.">Die MBP kalkuliert den Materialbedarf anhand von Stücklisten, Bestandsdaten und mit Hilfe des Masterproduktionsplans.</value>
  </row>
  <row id="50057" trl="Y">
-  <value column="Name" original="Print &amp; Release Order"><![CDATA[Auftrag Druck & Release]]></value>
-  <value column="Description" original="Print &amp; Release Order"><![CDATA[Auftrag Druck & Release]]></value>
+  <value column="Name" original="Print &amp; Release Order">Auftrag drucken und freigeben</value>
+  <value column="Description" original="Print &amp; Release Order">Auftrag drucken und freigeben</value>
  </row>
  <row id="50058" trl="Y">
-  <value column="Name" original="Order Receipt &amp; Issue"><![CDATA[Auftragseingang & Sachverhalte]]></value>
-  <value column="Description" original="Order Receipt &amp; Issue"><![CDATA[Auftragseingang & Sachverhalte]]></value>
+  <value column="Name" original="Order Receipt &amp; Issue"><![CDATA[Order Receipt & Issue]]></value>
+  <value column="Description" original="Order Receipt &amp; Issue"><![CDATA[Order Receipt & Issue]]></value>
  </row>
  <row id="50059" trl="Y">
   <value column="Name" original="Manufacturing Order">Arbeitsauftrag</value>
@@ -255,24 +255,24 @@
   <value column="Description" original="Component Check">Komponenten überprüfen</value>
  </row>
  <row id="50061" trl="Y">
-  <value column="Name" original="Generate Movement">Bestandsbewegung erstellen</value>
-  <value column="Description" original="Generate and print Movement from open Distribution Orders">Erstellen Sie Bestandsbewegungen aus offenen Distributionsaufträgen und drucken Sie diese.</value>
+  <value column="Name" original="Generate Movement">Bewegung erzeugen</value>
+  <value column="Description" original="Generate and print Movement from open Distribution Orders">Erzeugen Sie Bestandsbewegungen aus offenen Distributionsaufträgen und drucken Sie diese.</value>
  </row>
  <row id="50062" trl="Y">
-  <value column="Name" original="Generate Movement Manual">Bestandsbewegung Handbuch</value>
-  <value column="Description" original="Generate Movement to a Order Distribution">Bestandsbewegung zu einem Distributionsauftrag erstellen.</value>
+  <value column="Name" original="Generate Movement Manual">Bewegung manuell erzeugen</value>
+  <value column="Description" original="Generate Movement to a Order Distribution">Bestandsbewegung zu einem Distributionsauftrag erzeugen</value>
  </row>
  <row id="50063" trl="Y">
   <value column="Name" original="Distribution Order">Distributionsauftrag</value>
   <value column="Description" original="Distribution Order allow create Order inter warehouse to supply a demand ">Mit dem "Distributionsauftrag" erstellen Sie einen Zwischenlagerauftrag, um eine Nachfrage zu bedienen.</value>
  </row>
  <row id="50064" trl="Y">
-  <value column="Name" original="Import Proccesor">Import Prozessor</value>
-  <value column="Description" original="Import Proccesor">Import Prozessor</value>
+  <value column="Name" original="Import Proccesor">Importprozessor</value>
+  <value column="Description" original="Import Proccesor">Importprozessor</value>
  </row>
  <row id="50065" trl="Y">
-  <value column="Name" original="Import Processor Type">Art Importprozessor</value>
-  <value column="Description" original="Import Processor Type">Art Importprozessor</value>
+  <value column="Name" original="Import Processor Type">Typ Importprozessor</value>
+  <value column="Description" original="Import Processor Type">Typ Importprozessor</value>
  </row>
  <row id="50066" trl="Y">
   <value column="Name" original="Export Format">Exportformat</value>
@@ -283,15 +283,15 @@
   <value column="Description" original="Export Processor">Exportprozessor</value>
  </row>
  <row id="50068" trl="Y">
-  <value column="Name" original="Export Processor Type">Art Exportprozessor</value>
-  <value column="Description" original="Export Processor Type">Art Exportprozessor</value>
+  <value column="Name" original="Export Processor Type">Typ Exportprozessor</value>
+  <value column="Description" original="Export Processor Type">Typ Exportprozessor</value>
  </row>
  <row id="50069" trl="Y">
   <value column="Name" original="Replication Strategy">Replikationsstrategie</value>
   <value column="Description" original="Replication Strategy">Replikationsstrategie</value>
  </row>
  <row id="50074" trl="Y">
-  <value column="Name" original="Payroll">Gehaltsabrechnung</value>
+  <value column="Name" original="Payroll">Lohn- und Gehaltsabrechnung</value>
   <value column="Description" original=""/>
  </row>
  <row id="50075" trl="Y">
@@ -319,7 +319,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="50081" trl="Y">
-  <value column="Name" original="Payroll Action Notice">Gehaltsabrechnungsaktion Statusmeldung</value>
+  <value column="Name" original="Payroll Action Notice">Gehaltsabrechnung Aktionshinweis</value>
   <value column="Description" original=""/>
  </row>
  <row id="50082" trl="Y">
@@ -332,6 +332,90 @@
  </row>
  <row id="50084" trl="Y">
   <value column="Name" original="Payroll Concept Catalog">Gehaltsabrechnung Konzeptkatalog</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50099" trl="Y">
+  <value column="Name" original="(DocAuto)">(Beleg Auto)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50100" trl="Y">
+  <value column="Name" original="(DocComplete)">(Beleg komplett)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50101" trl="Y">
+  <value column="Name" original="(DocPrepare)">(Beleg vorbereiten)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50102" trl="Y">
+  <value column="Name" original="(Start)">(Start)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50103" trl="Y">
+  <value column="Name" original="Activation Approval">Genehmigung Aktivierung</value>
+  <value column="Description" original="Approve asset activation">Aktivierung des Vermögenswerts genehmigen</value>
+ </row>
+ <row id="50104" trl="Y">
+  <value column="Name" original="(DocAuto)">(Beleg Auto)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50105" trl="Y">
+  <value column="Name" original="(DocComplete)">(Beleg komplett)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50106" trl="Y">
+  <value column="Name" original="(DocPrepare)">(Beleg vorbereiten)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50107" trl="Y">
+  <value column="Name" original="(Start)">(Start)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50108" trl="Y">
+  <value column="Name" original="(DocAuto)">(Beleg Auto)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50109" trl="Y">
+  <value column="Name" original="(DocComplete)">(Beleg komplett)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50110" trl="Y">
+  <value column="Name" original="(DocPrepare)">(Beleg vorbereiten)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50111" trl="Y">
+  <value column="Name" original="(Start)">(Start)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50112" trl="Y">
+  <value column="Name" original="(DocAuto)">(Beleg Auto)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50113" trl="Y">
+  <value column="Name" original="(DocComplete)">(Beleg komplett)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50114" trl="Y">
+  <value column="Name" original="(DocPrepare)">(Beleg vorbereiten)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50115" trl="Y">
+  <value column="Name" original="(Start)">(Start)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50116" trl="Y">
+  <value column="Name" original="(Start)">(Start)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50117" trl="Y">
+  <value column="Name" original="(DocAuto)">(Beleg Auto)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50118" trl="Y">
+  <value column="Name" original="(DocComplete)">(Beleg komplett)</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50119" trl="Y">
+  <value column="Name" original="(DocPrepare)">(Beleg vorbereiten)</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>

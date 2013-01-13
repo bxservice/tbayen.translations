@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="C_DocType">
  <row id="0" trl="Y">
@@ -29,7 +29,7 @@
  </row>
  <row id="119" trl="Y">
   <value column="Name" original="AR Receipt">Zahlungseingang (Debitoren)</value>
-  <value column="PrintName" original="Receipt">Wareneingang</value>
+  <value column="PrintName" original="Receipt">Empfang</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="120" trl="Y">
@@ -78,8 +78,8 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="129" trl="Y">
-  <value column="Name" original="Proposal">Vorschlag</value>
-  <value column="PrintName" original="Proposal">Vorschlag</value>
+  <value column="Name" original="Proposal">Unverbindliches Angebot</value>
+  <value column="PrintName" original="Proposal">Unverbindliches Angebot</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="130" trl="Y">
@@ -88,7 +88,7 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="131" trl="Y">
-  <value column="Name" original="Customer Return Material">RMA Kunde</value>
+  <value column="Name" original="Customer Return Material">Kundenretoure</value>
   <value column="PrintName" original="Customer Return Material Authorization">RMA Kunde</value>
   <value column="DocumentNote" original=""/>
  </row>
@@ -113,18 +113,18 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="136" trl="Y">
-  <value column="Name" original="Project Issue">Projektsachverhalt</value>
-  <value column="PrintName" original="Project Issue">Projektsachverhalt</value>
+  <value column="Name" original="Project Issue">Projekt Issue</value>
+  <value column="PrintName" original="Project Issue">Projekt Issue</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="137" trl="Y">
-  <value column="Name" original="Payment Allocation">Zahlungen Zuordnung</value>
-  <value column="PrintName" original="Payment Allocation">Zahlungen Zuordnung</value>
+  <value column="Name" original="Payment Allocation">Zahlungszuordnung</value>
+  <value column="PrintName" original="Payment Allocation">Zahlungszuordnung</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="138" trl="Y">
-  <value column="Name" original="Match Invoice">Rechnung Zuordnung</value>
-  <value column="PrintName" original="Match Invoice">Rechnung Zuordnung</value>
+  <value column="Name" original="Match Invoice">Abgleich Rechnung</value>
+  <value column="PrintName" original="Match Invoice">Abgleich Rechnung</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="139" trl="Y">
@@ -143,13 +143,13 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="142" trl="Y">
-  <value column="Name" original="Match PO">Bestellung Zuordnung</value>
-  <value column="PrintName" original="Match PO">Bestellung Zuordnung</value>
+  <value column="Name" original="Match PO">Abgleich Bestellung</value>
+  <value column="PrintName" original="Match PO">Abgleich Bestellung</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="143" trl="Y">
-  <value column="Name" original="Material Movement">Warenbewegung</value>
-  <value column="PrintName" original="Material Movement">Warenbewegung</value>
+  <value column="Name" original="Material Movement">Materialbewegung</value>
+  <value column="PrintName" original="Material Movement">Materialbewegung</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="144" trl="Y">
@@ -163,8 +163,8 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="146" trl="Y">
-  <value column="Name" original="Bank Statement">Kontoauszug</value>
-  <value column="PrintName" original="Bank Statement">Kontoauszug</value>
+  <value column="Name" original="Bank Statement">Bankauszug</value>
+  <value column="PrintName" original="Bank Statement">Bankauszug</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="147" trl="Y">
@@ -183,22 +183,22 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="150" trl="Y">
-  <value column="Name" original="Vendor Return Material">RMA Lieferant</value>
+  <value column="Name" original="Vendor Return Material">Lieferantenretoure Material</value>
   <value column="PrintName" original="Vendor Return Material Authorization">RMA Lieferant</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="151" trl="Y">
   <value column="Name" original="MM Vendor Return">MW RMA Lieferant</value>
-  <value column="PrintName" original="Vendor Return Material">RMA Lieferant</value>
+  <value column="PrintName" original="Vendor Return Material">Lieferantenretoure Material</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="50000" trl="Y">
-  <value column="Name" original="Payroll">Gehaltsabrechnung</value>
-  <value column="PrintName" original="Payroll">Gehaltsabrechnung</value>
+  <value column="Name" original="Payroll">Lohn- und Gehaltsabrechnung</value>
+  <value column="PrintName" original="Payroll">Lohn- und Gehaltsabrechnung</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="50001" trl="Y">
-  <value column="Name" original="GL Journal Batch">Hauptbuchjournalsatz</value>
+  <value column="Name" original="GL Journal Batch">Hauptbuchjournal</value>
   <value column="PrintName" original="Journal Batch">Journalsatz</value>
   <value column="DocumentNote" original=""/>
  </row>
@@ -208,8 +208,8 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="50010" trl="Y">
-  <value column="Name" original="Maintenance Order">Verwaltung Auftrag.</value>
-  <value column="PrintName" original="Maintenance Order">Verwaltung Auftrag.</value>
+  <value column="Name" original="Maintenance Order">Wartungsauftrag</value>
+  <value column="PrintName" original="Maintenance Order">Wartungsauftrag</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="50011" trl="Y">

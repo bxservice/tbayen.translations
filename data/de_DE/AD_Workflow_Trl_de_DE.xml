@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--ADempiere(r) Release 3.6.0LTS_2010-06-14 -Smart Suite ERP,CRM and SCM- (c) 1999-2010 ADempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
+<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="AD_Workflow">
  <row id="101" trl="Y">
-  <value column="Name" original="Project Setup and Use">Projekteinrichtung und -verwendung</value>
-  <value column="Description" original="Setup of projects and project reporting">Einrichtung von Projekten und Projektreports.</value>
+  <value column="Name" original="Project Setup and Use">Projekteinrichtung und Verwendung</value>
+  <value column="Description" original="Setup of projects and project reporting">Einrichtung von Projekten und Projektberichten</value>
  </row>
  <row id="103" trl="Y">
   <value column="Name" original="Language Setup">Einrichtung Sprache</value>
-  <value column="Description" original="Setup a new Language of the system and translate elements">Einrichtung einer neuen Systemsprache und Übersetzung der Elemente.</value>
+  <value column="Description" original="Setup a new Language of the system and translate elements">Einrichtung einer neuen Systemsprache und Übersetzung der Elemente</value>
  </row>
  <row id="104" trl="Y">
   <value column="Name" original="Initial Client Setup Review">Überprüfung Ersteinrichtung Mandant</value>
-  <value column="Description" original="Review of system level setup of a new  Client">Überprüfung der Ersteinrichtung eines neuen Mandanten auf Systemebene.</value>
+  <value column="Description" original="Review of system level setup of a new  Client">Überprüfung der Ersteinrichtung eines neuen Mandanten auf Systemebene</value>
  </row>
  <row id="105" trl="Y">
   <value column="Name" original="Accounting Setup">Einrichtung Buchführung</value>
-  <value column="Description" original="Review and change Accounting Setup">Überprüfung und Anpassung der Einrichtung Buchführung.</value>
+  <value column="Description" original="Review and change Accounting Setup">Überprüfung und Anpassung der Einrichtung Buchführung</value>
  </row>
  <row id="106" trl="Y">
   <value column="Name" original="Business Partner Setup">Einrichtung Geschäftspartner</value>
-  <value column="Description" original="Setup Business Partner Rules">Einrichtung Geschäftspartnereinstellungen.</value>
+  <value column="Description" original="Setup Business Partner Rules">Einrichtung Geschäftspartnereinstellungen</value>
  </row>
  <row id="107" trl="Y">
   <value column="Name" original="Product Setup">Einrichtung Produkt</value>
-  <value column="Description" original="Set up Products">Einrichtung Produkte.</value>
+  <value column="Description" original="Set up Products">Einrichtung Produkte</value>
  </row>
  <row id="108" trl="Y">
   <value column="Name" original="Price List Setup">Einrichtung Preisliste</value>
-  <value column="Description" original="Define your Price Lists and Discounts">Legen Sie Preislisten und Rabatte/Skonti an.</value>
+  <value column="Description" original="Define your Price Lists and Discounts">Legen Sie Preislisten und Rabatte/Skonti an</value>
  </row>
  <row id="109" trl="Y">
   <value column="Name" original="Replication Setup">Einrichtung Replikation</value>
-  <value column="Description" original="Setup of data replication">Einrichtung Replikation</value>
+  <value column="Description" original="Setup of data replication">Einrichtung Datenreplikation</value>
  </row>
  <row id="110" trl="Y">
   <value column="Name" original="Tax Setup">Einrichtung Steuern</value>
-  <value column="Description" original="Setup tax calculation">Einrichtung Steuerberechnung.</value>
+  <value column="Description" original="Setup tax calculation">Einrichtung Steuerberechnung</value>
  </row>
  <row id="111" trl="Y">
   <value column="Name" original="Sales Setup">Einrichtung Vertrieb</value>
@@ -48,10 +48,10 @@
  </row>
  <row id="113" trl="Y">
   <value column="Name" original="Request Setup">Einrichtung Anfragen</value>
-  <value column="Description" original="Set up the client to process requests">Richten Sie die Anfragebearbeitung für einen Mandanten ein.</value>
+  <value column="Description" original="Set up the client to process requests">Richten Sie die Anfragebearbeitung für einen Mandanten ein</value>
  </row>
  <row id="114" trl="Y">
-  <value column="Name" original="Requisition Setup">Einrichtung Anforderungen</value>
+  <value column="Name" original="Requisition Setup">Einrichtung Bedarfsanforderung</value>
   <value column="Description" original=""/>
  </row>
  <row id="115" trl="Y">
@@ -120,19 +120,19 @@
  </row>
  <row id="131" trl="Y">
   <value column="Name" original="Business Partner Approval">Genehmigung Geschäftspartner</value>
-  <value column="Description" original="Example Document based workflow">Beispiel für einen belegbasierten Workflow.</value>
+  <value column="Description" original="Example Document based workflow">Beispiel Belegbasierter Workflow</value>
  </row>
  <row id="50000" trl="Y">
   <value column="Name" original="Manufacturing Management Setup">Einrichtung Produktionsplanung</value>
   <value column="Description" original="Setup Manufacturing Management">Einrichtung Produktionsplanung</value>
  </row>
  <row id="50001" trl="Y">
-  <value column="Name" original="Manufacturing Workflow Setup">Einrichtung Fertigungsworkflow</value>
-  <value column="Description" original="Setup Manufacturing Workflow">Einrichtung Fertigungsworkflow</value>
+  <value column="Name" original="Manufacturing Workflow Setup">Einrichtung Fertigungs-Workflow</value>
+  <value column="Description" original="Setup Manufacturing Workflow">Einrichtung Fertigungs-Workflow</value>
  </row>
  <row id="50002" trl="Y">
-  <value column="Name" original="Bill of Material &amp; Formula Setup"><![CDATA[Einrichtung Stückliste & Formeln]]></value>
-  <value column="Description" original="Setup Bill of Material &amp; Formula"><![CDATA[Einrichtung Stückliste & Formeln]]></value>
+  <value column="Name" original="Bill of Material &amp; Formula Setup"><![CDATA[Einrichtung Stückliste & Formel]]></value>
+  <value column="Description" original="Setup Bill of Material &amp; Formula"><![CDATA[Stückliste & Formel einrichten]]></value>
  </row>
  <row id="50003" trl="Y">
   <value column="Name" original="Planning Management Setup">Einrichtung Planungsmanagement</value>
@@ -172,18 +172,18 @@
  </row>
  <row id="50012" trl="Y">
   <value column="Name" original="Setup Replication">Einrichtung Replikation</value>
-  <value column="Description" original="Setup of data replication">Einrichtung Replikation</value>
+  <value column="Description" original="Setup of data replication">Einrichtung Datenreplikation</value>
  </row>
  <row id="50013" trl="Y">
   <value column="Name" original="Process_Payroll">Process_Payroll</value>
   <value column="Description" original="(Standard Process Payroll)">(Standardvorgehen Lohn- und Gehaltsabrechnung)</value>
  </row>
  <row id="50014" trl="Y">
-  <value column="Name" original="Setup Human Resource &amp; Payroll"><![CDATA[Einrichtung Personal & Gehaltsabrechnung]]></value>
-  <value column="Description" original="Setup Human Resource &amp; Payroll"><![CDATA[Einrichtung Personal & Gehaltsabrechnung]]></value>
+  <value column="Name" original="Setup Human Resource &amp; Payroll"><![CDATA[Einrichtung Personal & Lohn und Gehalt]]></value>
+  <value column="Description" original="Setup Human Resource &amp; Payroll"><![CDATA[Einrichtung Personal & Lohn und Gehalt]]></value>
  </row>
  <row id="50015" trl="Y">
-  <value column="Name" original="Patio Chair">Gartenstuhl</value>
+  <value column="Name" original="Patio Chair">Terassenstuhl</value>
   <value column="Description" original="Routing for Assembly the Patio Chair">Die Steuerung für die Montage des Gartenstuhls.</value>
  </row>
  <row id="50016" trl="Y">
@@ -191,11 +191,31 @@
   <value column="Description" original=""/>
  </row>
  <row id="50017" trl="Y">
-  <value column="Name" original="Fertilizer Packing Process">Verpackungsprozess des Düngers.</value>
+  <value column="Name" original="Fertilizer Packing Process">Dünger Verpackungsprozess</value>
   <value column="Description" original="Production Line to Packing the Fertilizer Bag 50 and 70 kg ">Produktionsposition zur Verpackung des Düngers in Säcke à 50 und 70 kg.</value>
  </row>
  <row id="50018" trl="Y">
   <value column="Name" original="Patio Furniture Set">Gartensitzgruppe</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50020" trl="Y">
+  <value column="Name" original="Process_Asset_Adition">Process_Asset_Adition</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50021" trl="Y">
+  <value column="Name" original="Process_Asset_Disposed">Process_Asset_Disposed</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50022" trl="Y">
+  <value column="Name" original="Process_Asset_Transfer">Process_Asset_Transfer</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50023" trl="Y">
+  <value column="Name" original="Process_Asset_Reval">Process_Asset_Reval</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50024" trl="Y">
+  <value column="Name" original="Process Asset Depreciation Entry">Process Asset Depreciation Entry</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>
