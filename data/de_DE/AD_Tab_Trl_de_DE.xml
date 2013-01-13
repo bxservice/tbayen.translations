@@ -4018,7 +4018,7 @@ The creation of  "Client and Org" shared records is the default and is ignored.]
   <value column="Help" original="Link a Template with an Advertisement Category">Verbinden Sie eine Vorlage mit einer Werbekategorie</value>
  </row>
  <row id="831" trl="Y">
-  <value column="Name" original="Entity Type">Entitätsart</value>
+  <value column="Name" original="Entity Type">Entitätstyp</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="System Entity Type">Systementitätstyp</value>
   <value column="Help" original="The entity type determines the ownership of Application Dictionary entries.  The types &quot;Dictionary&quot; and &quot;Adempiere&quot; should not be used and are maintainted by Adempiere (i.e. all changes are reversed during migration to the current definition).">Der Entitätstyp bestimmt die Eigentümerschaft der Einträge im Application Dictionary. Die Typen "Dictionary" und "iDempiere" sollten nicht von iDempiere benutzt und verwaltet werden. D.h. alle Änderungen werden während der Migration zur aktuellen Definition umgewandelt.</value>
@@ -5810,7 +5810,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original="Used when booking a shipment online to define the label format that will be printed.">Verwendet wenn eine Lieferung online gebucht wird um das Etikettenformat zu bestimmen das gedruckt wird.</value>
  </row>
  <row id="200039" trl="Y">
-  <value column="Name" original="Pickup Types">Abholungsarten</value>
+  <value column="Name" original="Pickup Types">Abholarten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Methods that the Shipper will support for picking up from your location">Methoden die der Spediteur unterstützt um Abholungen an Ihrem Standort durchzuführen</value>
   <value column="Help" original=""/>
@@ -5888,7 +5888,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original="Used when booking a shipment online to define the label format that will be printed.">Verwendet wenn eine Lieferung online gebucht wird um das Etikettenformat zu bestimmen das gedruckt wird.</value>
  </row>
  <row id="200055" trl="Y">
-  <value column="Name" original="Pickup Types">Abholungsarten</value>
+  <value column="Name" original="Pickup Types">Abholarten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Methods that the Shipper will support for picking up from your location">Methoden die der Spediteur unterstützt um Abholungen an Ihrem Standort durchzuführen</value>
   <value column="Help" original=""/>
@@ -5912,7 +5912,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original="Used when booking a shipment online to define the label format that will be printed.">Verwendet wenn eine Lieferung online gebucht wird um das Etikettenformat zu bestimmen das gedruckt wird.</value>
  </row>
  <row id="200060" trl="Y">
-  <value column="Name" original="Pickup Types">Abholungsarten</value>
+  <value column="Name" original="Pickup Types">Abholarten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Methods that the Shipper will support for picking up from your location">Methoden die der Spediteur unterstützt um Abholungen an Ihrem Standort durchzuführen</value>
   <value column="Help" original=""/>

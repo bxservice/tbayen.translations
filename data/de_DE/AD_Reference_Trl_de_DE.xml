@@ -848,8 +848,8 @@
   <value column="Help" original=""/>
  </row>
  <row id="245" trl="Y">
-  <value column="Name" original="_Entity Type">_Entity Type</value>
-  <value column="Description" original="Entity Type (Dictionary, ..)">Eintragsart (Dictionary, ..)</value>
+  <value column="Name" original="_Entity Type">_Entitätstyp</value>
+  <value column="Description" original="Entity Type (Dictionary, ..)">Entitätstyp (Dictionary, ...)</value>
   <value column="Help" original=""/>
  </row>
  <row id="246" trl="Y">

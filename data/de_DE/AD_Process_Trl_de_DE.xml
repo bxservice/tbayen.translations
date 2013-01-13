@@ -337,7 +337,7 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
  <row id="173" trl="Y">
   <value column="Name" original="Create Columns from DB">Spalten aus Datenbank erzeugen</value>
   <value column="Description" original="Create Dictionary Columns of Table not existing as a Column but in the Database">Erstellt Dictionaryspalten einer Tabelle, die noch nicht als Spalten, aber in einer Datenbank existieren</value>
-  <value column="Help" original="If you have added columns in the database to this table, this procedure creates the Column records in the Dictionary.  Please be aware, that they may deleted, if the entity type is not set to User.">Wenn Sie in der Datenbank Spalten zu dieser Tabelle hinzugefügt haben, können Sie mit diesem Vorgang die Einträge auch im Dictionary anlegen. Beachten Sie, dass sie gelöscht werden können, wenn als Eintragsart nicht "Benutzer" gesetzt wird.</value>
+  <value column="Help" original="If you have added columns in the database to this table, this procedure creates the Column records in the Dictionary.  Please be aware, that they may deleted, if the entity type is not set to User.">Wenn Sie in der Datenbank Spalten zu dieser Tabelle hinzugefügt haben, können Sie mit diesem Vorgang die Einträge auch im Dictionary anlegen. Beachten Sie, dass sie gelöscht werden können, falls als Entitätstyp nicht "Benutzer" gesetzt wird.</value>
  </row>
  <row id="174" trl="Y">
   <value column="Name" original="Create Fields">Felder erstellen</value>

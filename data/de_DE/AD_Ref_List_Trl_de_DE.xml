@@ -4311,7 +4311,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53505" trl="Y">
-  <value column="Name" original="Entity Type">Entitätsart</value>
+  <value column="Name" original="Entity Type">Entitätstyp</value>
   <value column="Description" original=""/>
  </row>
  <row id="53514" trl="Y">

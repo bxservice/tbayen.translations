@@ -1284,7 +1284,7 @@ Before(!) entering transactions, Start the Replication Run to set up the remote 
   <value column="Help" original="Chat Types">Chat-Typen</value>
  </row>
  <row id="381" trl="Y">
-  <value column="Name" original="Entity Type">Entitätsart</value>
+  <value column="Name" original="Entity Type">Entitätstyp</value>
   <value column="Description" original="Maintain System Entity Type">Verwaltung Systementitätstypen</value>
   <value column="Help" original="The entity type determines the ownership of Application Dictionary entries.  The types &quot;Dictionary&quot; and &quot;Adempiere&quot; should not be used and are maintainted by Adempiere (i.e. all changes are reversed during migration to the current definition).">Der Entitätstyp bestimmt die Eigentümerschaft der Einträge im Application Dictionary. Die Typen "Dictionary" und "iDempiere" sollten nicht von iDempiere benutzt und verwaltet werden. D.h. alle Änderungen werden während der Migration zur aktuellen Definition umgewandelt.</value>
  </row>

@@ -7036,7 +7036,7 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1395" trl="Y">
-  <value column="Name" original="Discount Amount">Rabat- / Skontobetrag</value>
+  <value column="Name" original="Discount Amount">Rabatt- / Skontobetrag</value>
   <value column="PrintName" original="Discount">Rabatt</value>
   <value column="Description" original="Calculated amount of discount">Berechneter Skonto-/Rabattbetrag.</value>
   <value column="Help" original="The Discount Amount indicates the discount amount for a document or line.">Der "Rabatt-/Skontobetrag" gibt den Rabatt-/Skontobetrag eines Belegs oder einer Position an.</value>
@@ -9397,10 +9397,10 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1682" trl="Y">
-  <value column="Name" original="Entity Type">Eintragsart</value>
-  <value column="PrintName" original="Entity Type">Eintragsart</value>
-  <value column="Description" original="Dictionary Entity Type; Determines ownership and synchronization">Eintragsart im Dictionary. Legt Urheberschaft und Synchronisation fest.</value>
-  <value column="Help" original="The Entity Types &quot;Dictionary&quot;, &quot;Adempiere&quot; and &quot;Application&quot; might be automatically synchronized and customizations deleted or overwritten.  &#10;&#10;For customizations, copy the entity and select &quot;User&quot;!">Die Eintragsarten "Dictionary", "ADempiere", "iDempiere" und "Application" könnten automatisch synchronisiert und Anpassungen gelöscht oder überschrieben werden. Für Anpassungen den Eintrag kopieren und "Benutzerverwaltet" auswählen!</value>
+  <value column="Name" original="Entity Type">Entitätstyp</value>
+  <value column="PrintName" original="Entity Type">Entitätstyp</value>
+  <value column="Description" original="Dictionary Entity Type; Determines ownership and synchronization">Entitätstyp im Dictionary. Legt Besitz und Synchronisation fest.</value>
+  <value column="Help" original="The Entity Types &quot;Dictionary&quot;, &quot;Adempiere&quot; and &quot;Application&quot; might be automatically synchronized and customizations deleted or overwritten.  &#10;&#10;For customizations, copy the entity and select &quot;User&quot;!">Die Entitätstypen "Dictionary", "ADempiere", "iDempiere" und "Application" könnten automatisch synchronisiert und Anpassungen gelöscht oder überschrieben werden. Für Anpassungen die Entität kopieren und "Benutzerverwaltet" auswählen!</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -12357,8 +12357,8 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2000" trl="Y">
-  <value column="Name" original="Due Date">Datum Fälligkeit</value>
-  <value column="PrintName" original="Due Date">Datum Fälligkeit</value>
+  <value column="Name" original="Due Date">Fälligkeitsdatum</value>
+  <value column="PrintName" original="Due Date">Fälligkeitsdatum</value>
   <value column="Description" original="Date when the payment is due">Datum, zu dem eine Zahlung fällig ist.</value>
   <value column="Help" original="Date when the payment is due without deductions or discount">Datum, zu dem eine Zahlung ohne Abzüge oder Rabattierung fällig ist.</value>
   <value column="PO_Description" original=""/>
@@ -12467,8 +12467,8 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2012" trl="Y">
-  <value column="Name" original="Instance Attribute">Ausprägungsattribut</value>
-  <value column="PrintName" original="Instance Attribute">Ausprägungsattribut</value>
+  <value column="Name" original="Instance Attribute">Instanzattribut</value>
+  <value column="PrintName" original="Instance Attribute">Instanzattribut</value>
   <value column="Description" original="The product attribute is specific to the instance (like Serial No, Lot or Guarantee Date)">Je nach Ausprägung unterscheiden sich Produktmerkmale, z.B. Seriennummern, Chargen oder Garantiedaten.</value>
   <value column="Help" original="If selected, the individual instance of the product has this attribute - like the individual Serial or Lot Numbers or  Guarantee Date of a product instance.  If not selected, all instances of the product share the attribute (e.g. color=green).">Ist die Option aktiviert, besitzt eine EINZELNE Produktausprägung ein Merkmal, z.B. die individuelle Serien-/Chargennummer oder das Garantiedatum. Ist die Option inaktiv, so teilen ALLE Produktausprägungen ein Merkmal, z.B. die Farbe grün.</value>
   <value column="PO_Description" original=""/>
@@ -14094,7 +14094,7 @@ Asset - erzeugen von Projekt Asset Transaktionen - Fähigkeit Material auszugebe
  <row id="2187" trl="Y">
   <value column="Name" original="Label printer">Etikettendrucker</value>
   <value column="PrintName" original="Label printer">Etikettendrucker</value>
-  <value column="Description" original="Label Printer Definition">Legen Sie einen Etikettendrucker fest.</value>
+  <value column="Description" original="Label Printer Definition">Legen Sie einen Etikettendrucker fest</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -14104,7 +14104,7 @@ Asset - erzeugen von Projekt Asset Transaktionen - Fähigkeit Material auszugebe
  <row id="2188" trl="Y">
   <value column="Name" original="Label printer Function">Funktion des Etikettendruckers</value>
   <value column="PrintName" original="Label printer Function">Funktion des Etikettendruckers</value>
-  <value column="Description" original="Function of Label Printer">Funktion eines Etikettendruckers.</value>
+  <value column="Description" original="Function of Label Printer">Funktion eines Etikettendruckers</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -18436,7 +18436,7 @@ Note that the SQL based logic checks for duplicate workflows (i.e. a workflow is
  <row id="2648" trl="Y">
   <value column="Name" original="Only Set Customization">Nur vorgenommene Anpassungen</value>
   <value column="PrintName" original="Only Set Customization">Nur vorgenommene Anpassungen</value>
-  <value column="Description" original="Set Customization for change records records with Dictionary Entity Type">Einstellungen zum Ändern von Einträgen mit der Eintragsart Dictionary.</value>
+  <value column="Description" original="Set Customization for change records records with Dictionary Entity Type">Einstellungen zum Ändern von Datensätzen mit dem Entitätstyp Dictionary</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -18947,7 +18947,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2703" trl="Y">
   <value column="Name" original="Cost Distribution">Kostenverteilung</value>
   <value column="PrintName" original="Cost Distribution">Kostenverteilung</value>
-  <value column="Description" original="Landed Cost Distribution">Distribution der Einstandskosten.</value>
+  <value column="Description" original="Landed Cost Distribution">Distribution der Einstandskosten</value>
   <value column="Help" original="How landed costs are distributed to material receipts">Eine "Kostendistribution" legt die Verteilung von Einstandskosten auf Wareneingänge fest.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -18958,7 +18958,7 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="Name" original="Group">Gruppe</value>
   <value column="PrintName" original="Group">Gruppe</value>
   <value column="Description" original="Request Group">Anfragegruppe</value>
-  <value column="Help" original="Group of requests (e.g. version numbers, responsibility, ...)">Gruppe von Anfragen, z.B. Versionsnummern, Verantwortlichkeiten usw.</value>
+  <value column="Help" original="Group of requests (e.g. version numbers, responsibility, ...)">Gruppe von Anfragen (z.B. Versionsnummern, Verantwortlichkeiten, ...)</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -18967,7 +18967,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2705" trl="Y">
   <value column="Name" original="Category">Kategorie</value>
   <value column="PrintName" original="Category">Kategorie</value>
-  <value column="Description" original="Request Category">Anfragekategorie.</value>
+  <value column="Description" original="Request Category">Anfragekategorie</value>
   <value column="Help" original="Category or Topic of the Request ">Kategorie/Gegenstand einer Anfrage.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -18977,7 +18977,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2706" trl="Y">
   <value column="Name" original="Status">Status</value>
   <value column="PrintName" original="Status">Status</value>
-  <value column="Description" original="Request Status">Anfragestatus.</value>
+  <value column="Description" original="Request Status">Anfragestatus</value>
   <value column="Help" original="Status if the request (open, closed, investigating, ..)">Status einer Anfrage, z.B. offen, geschlossen, in Bearbeitung.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -18987,7 +18987,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2707" trl="Y">
   <value column="Name" original="Resolution">Ergebnis</value>
   <value column="PrintName" original="Resolution">Ergebnis</value>
-  <value column="Description" original="Request Resolution">Anfrageergebnis.</value>
+  <value column="Description" original="Request Resolution">Anfrageergebnis</value>
   <value column="Help" original="Resolution status (e.g. Fixed, Rejected, ..)">Ergebnis einer Anfrage, z.B. gelöst, verworfen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -18995,8 +18995,8 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2708" trl="Y">
-  <value column="Name" original="User Importance">Anfrageergebnis</value>
-  <value column="PrintName" original="User Importance">Anfrageergebnis</value>
+  <value column="Name" original="User Importance">Benutzer Priorität</value>
+  <value column="PrintName" original="User Importance">Benutzer Priorität</value>
   <value column="Description" original="Priority of the issue for the User">Wichtigkeit eines Sachverhalts für einen Benutzer.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -19005,9 +19005,9 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2709" trl="Y">
-  <value column="Name" original="Confidentiality">Anfrage-Ergebnisse verwalten</value>
-  <value column="PrintName" original="Confidentiality">Anfrage-Ergebnisse verwalten</value>
-  <value column="Description" original="Type of Confidentiality">Art der Vertraulichkeit.</value>
+  <value column="Name" original="Confidentiality">Vertraulichkeit</value>
+  <value column="PrintName" original="Confidentiality">Vertraulichkeit</value>
+  <value column="Description" original="Type of Confidentiality">Art der Vertraulichkeit</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19015,19 +19015,19 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2710" trl="Y">
-  <value column="Name" original="Related Request">Anfragegruppe</value>
-  <value column="PrintName" original="Related Request">Anfragegruppe</value>
-  <value column="Description" original="Related Request (Master Issue, ..)">Ähnliche Anfrage, z.B. MasterSachverhalt usw.</value>
-  <value column="Help" original="Request related to this request">Eine dieser Anfrage ähnliche Anfrage.</value>
+  <value column="Name" original="Related Request">Verwandte Anfrage</value>
+  <value column="PrintName" original="Related Request">Verwandte Anfrage</value>
+  <value column="Description" original="Related Request (Master Issue, ..)">Verwandte Anfrage (z.B. Master Problem, ...)</value>
+  <value column="Help" original="Request related to this request">Verwandte Anfrage</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2711" trl="Y">
-  <value column="Name" original="Entry Confidentiality">Anfrage-Gruppen verwalten</value>
-  <value column="PrintName" original="Entry Confidentiality">Anfrage-Gruppen verwalten</value>
-  <value column="Description" original="Confidentiality of the individual entry">Die Vertraulichkeit eines Einzeleintrags.</value>
+  <value column="Name" original="Entry Confidentiality">Vertraulichkeit des Eintrags</value>
+  <value column="PrintName" original="Entry Confidentiality">Vertraulichkeit des Eintrags</value>
+  <value column="Description" original="Confidentiality of the individual entry">Vertraulichkeit des Einzeleintrags</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19035,8 +19035,8 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2712" trl="Y">
-  <value column="Name" original="Standard Response">Anfragekategorie</value>
-  <value column="PrintName" original="Std Response">Standardantwort</value>
+  <value column="Name" original="Standard Response">Standardantwort</value>
+  <value column="PrintName" original="Std Response">Std Antwort</value>
   <value column="Description" original="Request Standard Response ">Standardantwort auf eine Anfrage</value>
   <value column="Help" original="Text blocks to be copied into request response text">Textblöcke, die in Antworten kopiert werden.</value>
   <value column="PO_Description" original=""/>
@@ -19045,9 +19045,9 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2713" trl="Y">
-  <value column="Name" original="Start Time">Anfrage-Kategorien verwalten</value>
-  <value column="PrintName" original="Start Time">Anfrage-Kategorien verwalten</value>
-  <value column="Description" original="Time started">Der Startzeitpunkt.</value>
+  <value column="Name" original="Start Time">Startzeit</value>
+  <value column="PrintName" original="Start Time">Startzeit</value>
+  <value column="Description" original="Time started">Der Startzeitpunkt</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19055,9 +19055,9 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2714" trl="Y">
-  <value column="Name" original="End Time">Webshop definieren</value>
-  <value column="PrintName" original="End Time">Webshop definieren</value>
-  <value column="Description" original="End of the time span">Der Beendungszeitpunkt.</value>
+  <value column="Name" original="End Time">Endzeit</value>
+  <value column="PrintName" original="End Time">Endzeit</value>
+  <value column="Description" original="End of the time span">Der Beendungszeitpunkt</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19065,9 +19065,9 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2715" trl="Y">
-  <value column="Name" original="Quantity Used">Verwalten von Jobpositionen</value>
-  <value column="PrintName" original="Qty Used">Verwendete Menge</value>
-  <value column="Description" original="Quantity used for this event">Die für ein Ereignis verwendete Menge.</value>
+  <value column="Name" original="Quantity Used">Verwendete Menge</value>
+  <value column="PrintName" original="Qty Used">Menge verwendet</value>
+  <value column="Description" original="Quantity used for this event">Für dieses Ereignis verwendete Menge</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19085,20 +19085,20 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2717" trl="Y">
-  <value column="Name" original="Request Invoice">Anfrage-Rechnung</value>
-  <value column="PrintName" original="Request Invoice">Anfrage-Rechnung</value>
-  <value column="Description" original="The generated invoice for this request">Zu einer Anfrage erstellte Rechnung.</value>
-  <value column="Help" original="The optionally generated invoice for the request">Optional erstellte Rechnung zu einer Anfrage.</value>
+  <value column="Name" original="Request Invoice">Anfragerechnung</value>
+  <value column="PrintName" original="Request Invoice">Anfragerechnung</value>
+  <value column="Description" original="The generated invoice for this request">Zu dieser Anfrage erzeugte Rechnung</value>
+  <value column="Help" original="The optionally generated invoice for the request">Die optional für die Anfrage generierte Rechnung</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2719" trl="Y">
-  <value column="Name" original="Response Text">Antwort-Text</value>
-  <value column="PrintName" original="Response Text">Antwort-Text</value>
+  <value column="Name" original="Response Text">Antworttext</value>
+  <value column="PrintName" original="Response Text">Antworttext</value>
   <value column="Description" original="Request Response Text">Antworttext für Anfragen.</value>
-  <value column="Help" original="Text block to be copied into request response text">Textblöcke, die in Antworten auf Anfragen kopiert werden.</value>
+  <value column="Help" original="Text block to be copied into request response text">Textblöcke, die in Antworten auf Anfragen kopiert werden</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19147,7 +19147,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2725" trl="Y">
   <value column="Name" original="Product Download">Produkt-Download</value>
   <value column="PrintName" original="Product Download">Produkt-Download</value>
-  <value column="Description" original="Product downloads">Produktdownloads.</value>
+  <value column="Description" original="Product downloads">Produktdownloads</value>
   <value column="Help" original="Define download for a product. If the product is an asset, the user can download the data.">Richten Sie den Download eines Produkts ein. Handelt es sich bei dem Produkt um eine Anlage, so kann der Benutzer die Daten herunterladen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19157,7 +19157,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2726" trl="Y">
   <value column="Name" original="EMail Verify">E-Mail überprüft</value>
   <value column="PrintName" original="EMail Verify">E-Mail überprüft</value>
-  <value column="Description" original="Date Email was verified">Datum der E-Mailüberprüfung.</value>
+  <value column="Description" original="Date Email was verified">Datum der E-Mailüberprüfung</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19165,10 +19165,10 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2727" trl="Y">
-  <value column="Name" original="One Asset Per UOM">ein Asset pro UOM</value>
-  <value column="PrintName" original="One Asset Per UOM">ein Asset pro UOM</value>
-  <value column="Description" original="Create one asset per UOM">Eine Anlage pro Maßeinheit erstellen.</value>
-  <value column="Help" original="If selected, one asset per UOM is created, otherwise one asset with the quantity received/shipped.  If you have multiple lines, one asset is created per line.">Wenn ausgewählt, so wird eine Anlage pro Maßeinheit erstellt, ansonsten eine Anlage mit der eingegangenen/gelieferten Menge. Bei mehreren Positionen wird eine Anlage pro Position erstellt.</value>
+  <value column="Name" original="One Asset Per UOM">Ein Vermögenswert pro Maßeinheit</value>
+  <value column="PrintName" original="One Asset Per UOM">Ein Vermögenswert pro Maßeinheit</value>
+  <value column="Description" original="Create one asset per UOM">Ein Vermögenswert pro Maßeinheit erstellen</value>
+  <value column="Help" original="If selected, one asset per UOM is created, otherwise one asset with the quantity received/shipped.  If you have multiple lines, one asset is created per line.">Wenn ausgewählt, wird ein Vermögenswert pro Maßeinheit erstellt, ansonsten ein Vermögenswert mit der eingegangenen/gelieferten Menge. Bei mehreren Positionen wird ein Vermögenswert pro Position erstellt.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19216,7 +19216,7 @@ The class is called for the client and alows to validate documents in the prepar
  </row>
  <row id="2732" trl="Y">
   <value column="Name" original="WebStore User">Webshop-Benutzer</value>
-  <value column="PrintName" original="Web Store User">Kunde des Webshops..</value>
+  <value column="PrintName" original="Web Store User">Webshop Kunde</value>
   <value column="Description" original="User ID of the Web Store EMail address">Benutzer-ID der E-Mailadresse des Webshops.</value>
   <value column="Help" original="User ID to connect to the Mail Server">Benutzer-ID zur Verbindung mit dem Mailserver.</value>
   <value column="PO_Description" original=""/>
@@ -19236,7 +19236,7 @@ The class is called for the client and alows to validate documents in the prepar
  </row>
  <row id="2734" trl="Y">
   <value column="Name" original="Menu Assets">Menü Anlagen</value>
-  <value column="PrintName" original="Assets">Anlagen</value>
+  <value column="PrintName" original="Assets">Vermögenswerte</value>
   <value column="Description" original="Show Menu Assets">Zeigt das Menü Anlagen an.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -19245,7 +19245,7 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2735" trl="Y">
-  <value column="Name" original="Menu Orders">Men -Aufträge</value>
+  <value column="Name" original="Menu Orders">Menü Aufträge</value>
   <value column="PrintName" original="Orders">Aufträge</value>
   <value column="Description" original="Show Menu Orders">Zeigt das Menü Aufträge an.</value>
   <value column="Help" original=""/>
@@ -19367,7 +19367,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2747" trl="Y">
   <value column="Name" original="Message Type">Mitteilungsart</value>
   <value column="PrintName" original="Message Type">Mitteilungsart</value>
-  <value column="Description" original="Mail Message Type">E-Mailart.</value>
+  <value column="Description" original="Mail Message Type">E-Mail Vorlagentyp</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19377,8 +19377,8 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2748" trl="Y">
   <value column="Name" original="Subject">Betreff</value>
   <value column="PrintName" original="Subject">Betreff</value>
-  <value column="Description" original="Email Message Subject">Betreff einer E-Mail.</value>
-  <value column="Help" original="Subject of the EMail ">Betreff einer E-Mail.</value>
+  <value column="Description" original="Email Message Subject">E-Mail Betreff</value>
+  <value column="Help" original="Subject of the EMail ">Betreffzeile der E-Mail</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19387,28 +19387,28 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2749" trl="Y">
   <value column="Name" original="Message">Mitteilung</value>
   <value column="PrintName" original="Message">Mitteilung</value>
-  <value column="Description" original="EMail Message">E-Mail</value>
-  <value column="Help" original="Message of the EMail">Mitteilung einer E-Mail.</value>
+  <value column="Description" original="EMail Message">E-Mail Nachricht</value>
+  <value column="Help" original="Message of the EMail">Nachrichtentext der E-Mail</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2750" trl="Y">
-  <value column="Name" original="Message 2">Meldung 2</value>
-  <value column="PrintName" original="Message 2">Meldung 2</value>
-  <value column="Description" original="Optional second part of the EMail Message">Optionaler zweiter Teil einer E-Mail.</value>
-  <value column="Help" original="Message of the EMail">Mitteilung einer E-Mail.</value>
+  <value column="Name" original="Message 2">Nachricht 2</value>
+  <value column="PrintName" original="Message 2">Nachricht 2</value>
+  <value column="Description" original="Optional second part of the EMail Message">Optionaler zweiter Teil der E-Mail Nachricht</value>
+  <value column="Help" original="Message of the EMail">Nachrichtentext der E-Mail</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2751" trl="Y">
-  <value column="Name" original="Message 3">Meldung 3</value>
-  <value column="PrintName" original="Message 3">Meldung 3</value>
-  <value column="Description" original="Optional third part of the EMail Message">Optionaler dritter Teil einer E-Mail.</value>
-  <value column="Help" original="Message of the EMail">Mitteilung einer E-Mail.</value>
+  <value column="Name" original="Message 3">Nachricht 3</value>
+  <value column="PrintName" original="Message 3">Nachricht 3</value>
+  <value column="Description" original="Optional third part of the EMail Message">Optionaler dritter Teil der E-Mail Nachricht</value>
+  <value column="Help" original="Message of the EMail">Nachrichtentext der E-Mail</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19417,7 +19417,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2752" trl="Y">
   <value column="Name" original="User Mail">E-Mail des Benutzers</value>
   <value column="PrintName" original="User Mail">E-Mail des Benutzers</value>
-  <value column="Description" original="Mail sent to the user">An Benutzer versendete Mails.</value>
+  <value column="Description" original="Mail sent to the user">An den Benutzer gesendete E-Mail</value>
   <value column="Help" original="Archive of mails sent to users">Archiv der an einen Benutzer gesendeten E-Mails.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19425,8 +19425,8 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2753" trl="Y">
-  <value column="Name" original="Referenced Payment">Eingetragene Zahlung</value>
-  <value column="PrintName" original="Ref Payment">Eingetragene Zahlung</value>
+  <value column="Name" original="Referenced Payment">Zugeordnete Zahlung</value>
+  <value column="PrintName" original="Ref Payment">Zug. Zahlung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -19435,18 +19435,18 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2754" trl="Y">
-  <value column="Name" original="Create As Active">Erstellen wie Aktiv</value>
-  <value column="PrintName" original="Create Active">Aktiv erstellen</value>
-  <value column="Description" original="Create Asset and activate it">Anlage erstellen und aktivieren.</value>
-  <value column="Help" original="You may want to consider not to automatically make the asset active if you need to get some additional information">Eine Anlage muss nicht automatisch aktiviert werden wenn Sie zusätzliche Informationen benötigen.</value>
+  <value column="Name" original="Create As Active">Als aktiv erstellen</value>
+  <value column="PrintName" original="Create Active">Als aktiv erstellen</value>
+  <value column="Description" original="Create Asset and activate it">Vermögenswert erstellen und aktivieren</value>
+  <value column="Help" original="You may want to consider not to automatically make the asset active if you need to get some additional information">Ein Vermögenswert muss nicht automatisch aktiviert werden wenn Sie zusätzliche Informationen benötigen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2755" trl="Y">
-  <value column="Name" original="Notification Type">Benachrichtigungs-Art</value>
-  <value column="PrintName" original="Notification Type">Benachrichtigungs-Art</value>
+  <value column="Name" original="Notification Type">Benachrichtigungsart</value>
+  <value column="PrintName" original="Notification Type">Benachrichtigungsart</value>
   <value column="Description" original="Type of Notifications">Art der Benachrichtigung.</value>
   <value column="Help" original="Emails or Notification sent out for Request Updates, etc.">Gewählte Art der Benachrichtigung bei geänderten anfragen o. Ä., z.B. per E-Mail.</value>
   <value column="PO_Description" original=""/>
@@ -19537,7 +19537,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2764" trl="Y">
   <value column="Name" original="Remuneration">Vergütung</value>
   <value column="PrintName" original="Remuneration">Vergütung</value>
-  <value column="Description" original="Wage or Salary">Lohn oder Gehalt.</value>
+  <value column="Description" original="Wage or Salary">Lohn oder Gehalt</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19547,7 +19547,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2765" trl="Y">
   <value column="Name" original="Remuneration Type">Vergütungsart</value>
   <value column="PrintName" original="Remuneration Type">Vergütungsart</value>
-  <value column="Description" original="Type of Remuneration">Art einer Vergütung.</value>
+  <value column="Description" original="Type of Remuneration">Art einer Vergütung</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19577,7 +19577,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2768" trl="Y">
   <value column="Name" original="Gross Cost">Bruttokosten</value>
   <value column="PrintName" original="Gross Cost">Bruttokosten</value>
-  <value column="Description" original="Gross Remuneration Costs">Kosten der Bruttovergütung.</value>
+  <value column="Description" original="Gross Remuneration Costs">Kosten der Bruttovergütung</value>
   <value column="Help" original="Gross Salary or Wage Costs (without Overtime, with Benefits and Employer overhead)">Bruttokosten Lohn oder Gehalt, ohne Überstunden, mit Nebenleistungen und fixem Arbeitgeberoverhead.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19587,7 +19587,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2769" trl="Y">
   <value column="Name" original="Overtime Amount">Menge Überstunden</value>
   <value column="PrintName" original="Overtime Amount">Menge Überstunden</value>
-  <value column="Description" original="Hourly Overtime Rate">Überstundensatz pro Stunde.</value>
+  <value column="Description" original="Hourly Overtime Rate">Überstundensatz pro Stunde</value>
   <value column="Help" original="Hourly Amount without Benefits and Employer overhead">Kosten pro Stunde ohne Nebenleistungen und fixen Arbeitgeberoverhead.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19597,7 +19597,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2770" trl="Y">
   <value column="Name" original="Overtime Cost">Kosten Überstunden</value>
   <value column="PrintName" original="Overtime Cost">Kosten Überstunden</value>
-  <value column="Description" original="Hourly Overtime Cost">Überstundenkosten pro Stunde.</value>
+  <value column="Description" original="Hourly Overtime Cost">Überstundenkosten pro Stunde</value>
   <value column="Help" original="Hourly Amount with Benefits and Employer overhead">Kosten pro Stunde mit Nebenleistungen und fixem Arbeitgeberoverhead.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19607,7 +19607,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2771" trl="Y">
   <value column="Name" original="Position Remuneration">Vergütung Position</value>
   <value column="PrintName" original="Position Remuneration">Vergütung Position</value>
-  <value column="Description" original="Remuneration for the Position">Vergütung der Position.</value>
+  <value column="Description" original="Remuneration for the Position">Vergütung der Position</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19618,7 +19618,7 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="Name" original="Employee Remuneration">Vergütung Mitarbeiter</value>
   <value column="PrintName" original="Employee Remuneration">Vergütung Mitarbeiter</value>
   <value column="Description" original="Employee Wage or Salary Overwrite">Angestelltenlohn oder -gehalt überschreiben.</value>
-  <value column="Help" original="Overwrite the standard Remuneration">Standardvergütung überschreiben.</value>
+  <value column="Help" original="Overwrite the standard Remuneration">Standardvergütung überschreiben</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19647,7 +19647,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2777" trl="Y">
   <value column="Name" original="Setup Time">Zeit einrichten</value>
   <value column="PrintName" original="Setup Time">Zeit einrichten</value>
-  <value column="Description" original="Setup time before starting Production">Rüstzeit vor Produktionsbeginn.</value>
+  <value column="Description" original="Setup time before starting Production">Rüstzeit vor Produktionsbeginn</value>
   <value column="Help" original="Once per operation">Einmal pro Vorgang</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19667,7 +19667,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2779" trl="Y">
   <value column="Name" original="Teardown Time">Abschlusszeit</value>
   <value column="PrintName" original="Teardown Time">Abschlusszeit</value>
-  <value column="Description" original="Time at the end of the operation">Zeit am Ende eines Vorgangs.</value>
+  <value column="Description" original="Time at the end of the operation">Zeit am Ende eines Vorgangs</value>
   <value column="Help" original="Once per operation">Einmal pro Vorgang</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19677,7 +19677,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2780" trl="Y">
   <value column="Name" original="Operation Resource">Vorgangs-Ressource</value>
   <value column="PrintName" original="Operation Resource">Vorgangs-Ressource</value>
-  <value column="Description" original="Product Operation Resource">Ressource eines Arbeitsablaufs.</value>
+  <value column="Description" original="Product Operation Resource">Ressource eines Arbeitsablaufs</value>
   <value column="Help" original="Resources for the Operation. You can have multiple resources (e.g. tool, labor) per operation.">Ressourcen für einen Vorgang/Arbeitsablauf. Sie können über verschiedene Ressourcen pro Arbeitsablauf verfügen, z.B. Werkzeug, Personal.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19688,7 +19688,7 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="Name" original="BOM">Stückliste</value>
   <value column="PrintName" original="BOM">Stückliste</value>
   <value column="Description" original="Bill of Material">Stückliste</value>
-  <value column="Help" original="The composition of the Product">Zusammensetzung eines Produkts.</value>
+  <value column="Help" original="The composition of the Product">Zusammensetzung eines Produkts</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -19705,8 +19705,8 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2784" trl="Y">
-  <value column="Name" original="BOM Use">BOM Verbrauch</value>
-  <value column="PrintName" original="BOM Use">BOM Verbrauch</value>
+  <value column="Name" original="BOM Use">Stückliste Verbrauch</value>
+  <value column="PrintName" original="BOM Use">Stückliste Verbrauch</value>
   <value column="Description" original="The use of the Bill of Material">Verwendung der Komponenten einer Stückliste.</value>
   <value column="Help" original="By default the Master BOM is used, if the alternatives are not defined">Wenn keine Alternativen festgelegt wurden, wird standardmäßig die Masterstückliste gesetzt.</value>
   <value column="PO_Description" original=""/>
@@ -19747,7 +19747,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2788" trl="Y">
   <value column="Name" original="Phantom">Virtuelle Komponente</value>
   <value column="PrintName" original="Phantom">Virtuelle Komponente</value>
-  <value column="Description" original="Phantom Component">Eine Phantomkomponente.</value>
+  <value column="Description" original="Phantom Component">Eine Phantomkomponente</value>
   <value column="Help" original="Phantom Component are not stored and produced with the product. This is an option to avild maintaining an Engineering and Manufacturing Bill of Materials.">Eine "Virtuelle Komponente" wird nicht gelagert und zusammen mit dem Produkt produziert. So können Sie die Pflege einer Konstruktions- und einer Produktionsstückliste vermeiden.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19777,7 +19777,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2791" trl="Y">
   <value column="Name" original="Request Update">Aktualisierungsabfrage</value>
   <value column="PrintName" original="Request Update">Aktualisierungsabfrage</value>
-  <value column="Description" original="Request Updates">Aktualisierungsanfragen.</value>
+  <value column="Description" original="Request Updates">Aktualisierungsanfragen</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19817,7 +19817,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2795" trl="Y">
   <value column="Name" original="Priority Base">Prioritätsbasis</value>
   <value column="PrintName" original="Priority Base">Prioritätsbasis</value>
-  <value column="Description" original="Base of Priority">Basis für Priorität.</value>
+  <value column="Description" original="Base of Priority">Basis für Priorität</value>
   <value column="Help" original="When deriving the Priority from Importance, the Base is &quot;added&quot; to the User Importance.">Wenn die Priorität von der Wichtigkeit abgeleitet wird, wird die Basispriorität auf die Wichtigkeit für einen individuellen Benutzer "aufgeschlagen".</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19887,7 +19887,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2802" trl="Y">
   <value column="Name" original="Revaluated Amount Dr">Aufgewerteter Betrag Dr</value>
   <value column="PrintName" original="Revaluated Amt Dr">Aufgewerteter Betrag Debitor</value>
-  <value column="Description" original="Revaluated Dr Amount">Aufgewerteter Betrag Debitor.</value>
+  <value column="Description" original="Revaluated Dr Amount">Aufgewerteter Betrag Debitor</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19917,7 +19917,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2805" trl="Y">
   <value column="Name" original="Revaluation Date">Aufwertungsdatum</value>
   <value column="PrintName" original="Reval Date">Aufwertungsdatum</value>
-  <value column="Description" original="Date of Revaluation">Datum der Aufwertung.</value>
+  <value column="Description" original="Date of Revaluation">Datum der Aufwertung</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -19927,7 +19927,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2806" trl="Y">
   <value column="Name" original="EMail Test">E-Mail Test</value>
   <value column="PrintName" original="EMail Test">E-Mail Test</value>
-  <value column="Description" original="Test EMail">Test Mail</value>
+  <value column="Description" original="Test EMail">Test-E-Mail</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -20067,7 +20067,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2820" trl="Y">
   <value column="Name" original="Adjust COGS">Umsatzaufwendungen anpassen</value>
   <value column="PrintName" original="Adjust COGS">Umsatzaufwendungen anpassen</value>
-  <value column="Description" original="Adjust Cost of Good Sold">Umsatzaufwendungen anpassen.</value>
+  <value column="Description" original="Adjust Cost of Good Sold">Umsatzaufwendungen anpassen</value>
   <value column="Help" original="For Invoice costing methods, you can adjust the cost of goods sold. At the time of shipment, you may not have received the invoice for the receipt or cost adjustments like freight, customs, etc.">Mit der Kostenrechnungsmethode können Umsatzaufwendungen für Rechnungen angepasst werden. Zum Lieferzeitpunkt haben Sie evtl. noch keine Rechnung für die Lieferung oder Kostenanpassungen wie Fracht o. Ä. erhalten.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -20088,17 +20088,17 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="Name" original="Accumulated Amt">Kumulierter Betrag</value>
   <value column="PrintName" original="Accumulated Amt">Kumulierter Betrag</value>
   <value column="Description" original="Total Amount">Gesamtbetrag</value>
-  <value column="Help" original="Sum of all amounts">Summe der Beträge.</value>
+  <value column="Help" original="Sum of all amounts">Summer aller Beträge</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2823" trl="Y">
-  <value column="Name" original="Accumulated Qty">Kumulierte Menge</value>
-  <value column="PrintName" original="Accumulated Qty">Kumulierte Menge</value>
+  <value column="Name" original="Accumulated Qty">Akkumulierte Menge</value>
+  <value column="PrintName" original="Accumulated Qty">Akkumulierte Menge</value>
   <value column="Description" original="Total Quantity">Gesamtmenge</value>
-  <value column="Help" original="Sum of the quantities">Summe der Mengen.</value>
+  <value column="Help" original="Sum of the quantities">Summe der Mengen</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -20127,7 +20127,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2826" trl="Y">
   <value column="Name" original="Lost Sales Qty">Verlorene Verkaufsmenge</value>
   <value column="PrintName" original="Lost Sales Qty">Verlorene Verkaufsmenge</value>
-  <value column="Description" original="Quantity of potential sales">Menge möglicher Umsätze.</value>
+  <value column="Description" original="Quantity of potential sales">Menge möglicher Umsätze</value>
   <value column="Help" original="When an order is closed and there is a difference between the ordered quantity and the delivered (invoiced) quantity is the Lost Sales Quantity.  Note that the Lost Sales Quantity is 0 if you void an order, so close the order if you want to track lost opportunities.  [Void = data entry error - Close = the order is finished]">Wenn ein Auftrag geschlossen wird und eine Differenz zwischen bestellter und ausgelieferter (berechneter) Menge besteht, dann wird diese Differenz als "Menge entgangener Umsätze" definiert. Bitte beachten Sie, dass die "Menge entgangener Umsätze" 0 beträgt, wenn Sie eine Rechnung auf "Ungültig" setzen. Es ist also vorteilhafter, einen Auftrag nur zu schließen, wenn Sie entgangene Umsätze nachverfolgen möchten. [Ungültig = Eingabefehler - Schließen = Auftrag ist abgeschlossen]</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -22226,10 +22226,10 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="3052" trl="Y">
-  <value column="Name" original="Entity Type">Eintragsart</value>
-  <value column="PrintName" original="Entity Type">Eintragsart</value>
-  <value column="Description" original="System Entity Type">Systemeintragstyp</value>
-  <value column="Help" original="The entity type determines the ownership of Application Dictionary entries.  The types &quot;Dictionary&quot; and &quot;Adempiere&quot; should not be used and are maintained by Adempiere (i.e. all changes are reversed during migration to the current definition).">Ein "Eintragstyp" legt die Eigentümer der Einträge im Application Dictionary fest.Die Typen "Dictionary" und "iDempiere" sollten nicht von iDempiere benutzt und verwaltet werden. D.h., alle Änderungen während der Migration werden zur aktuellen Definition umgewandelt.</value>
+  <value column="Name" original="Entity Type">Entitätstyp</value>
+  <value column="PrintName" original="Entity Type">Entitätstyp</value>
+  <value column="Description" original="System Entity Type">Systementitätstyp</value>
+  <value column="Help" original="The entity type determines the ownership of Application Dictionary entries.  The types &quot;Dictionary&quot; and &quot;Adempiere&quot; should not be used and are maintained by Adempiere (i.e. all changes are reversed during migration to the current definition).">Der "Entitätstyp" legt die Eigentümer der Einträge im Application Dictionary fest.Die Typen "Dictionary" und "iDempiere" sollten nicht von iDempiere benutzt und verwaltet werden. D.h., alle Änderungen während der Migration werden zur aktuellen Definition umgewandelt.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -23296,9 +23296,9 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="50057" trl="Y">
-  <value column="Name" original="Confidentiality">Anfrage-Ergebnisse verwalten</value>
-  <value column="PrintName" original="Confidentiality">Anfrage-Ergebnisse verwalten</value>
-  <value column="Description" original="Type of Confidentiality">Art der Vertraulichkeit.</value>
+  <value column="Name" original="Confidentiality">Vertraulichkeit</value>
+  <value column="PrintName" original="Confidentiality">Vertraulichkeit</value>
+  <value column="Description" original="Type of Confidentiality">Art der Vertraulichkeit</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -23336,8 +23336,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="50061" trl="Y">
-  <value column="Name" original="User Importance">Anfrageergebnis</value>
-  <value column="PrintName" original="User Importance">Anfrageergebnis</value>
+  <value column="Name" original="User Importance">Benutzer Priorität</value>
+  <value column="PrintName" original="User Importance">Benutzer Priorität</value>
   <value column="Description" original="Priority of the issue for the User">Wichtigkeit eines Sachverhalts für einen Benutzer.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26056,8 +26056,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53477" trl="Y">
-  <value column="Name" original="Asset Period">Asset Period</value>
-  <value column="PrintName" original="Asset Period">Asset Period</value>
+  <value column="Name" original="Asset Period">Vermögenswert Periode</value>
+  <value column="PrintName" original="Asset Period">Vermögenswert Periode</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26336,8 +26336,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53505" trl="Y">
-  <value column="Name" original="To Asset">To Asset</value>
-  <value column="PrintName" original="To Asset">To Asset</value>
+  <value column="Name" original="To Asset">Bis Vermögenswert</value>
+  <value column="PrintName" original="To Asset">Bis Vermögenswert</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26346,8 +26346,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53506" trl="Y">
-  <value column="Name" original="From Asset">From Asset</value>
-  <value column="PrintName" original="From Asset">From Asset</value>
+  <value column="Name" original="From Asset">Von Vermögenswert</value>
+  <value column="PrintName" original="From Asset">Von Vermögenswert</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26726,8 +26726,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53544" trl="Y">
-  <value column="Name" original="Depreciation Method">Depreciation Method</value>
-  <value column="PrintName" original="Depreciation Method">Depreciation Method</value>
+  <value column="Name" original="Depreciation Method">Abschreibungsmethode</value>
+  <value column="PrintName" original="Depreciation Method">Abschreibungsmethode</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26766,8 +26766,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53548" trl="Y">
-  <value column="Name" original="Accumulated Depreciation Account">Accumulated Depreciation Account</value>
-  <value column="PrintName" original="Accumulated Depreciation Account">Accumulated Depreciation Account</value>
+  <value column="Name" original="Accumulated Depreciation Account">Konto Akkumulierte Abschreibungen</value>
+  <value column="PrintName" original="Accumulated Depreciation Account">Konto Akkumulierte Abschreibungen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26786,8 +26786,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53550" trl="Y">
-  <value column="Name" original="Asset Disposed">Asset Disposed</value>
-  <value column="PrintName" original="Asset Disposed">Asset Disposed</value>
+  <value column="Name" original="Asset Disposed">Vermögenswert entsorgt</value>
+  <value column="PrintName" original="Asset Disposed">Vermögenswert entsorgt</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26806,8 +26806,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53552" trl="Y">
-  <value column="Name" original="Disposed Reason">Disposed Reason</value>
-  <value column="PrintName" original="Disposed Reason">Disposed Reason</value>
+  <value column="Name" original="Disposed Reason">Entsorgungsgrund</value>
+  <value column="PrintName" original="Disposed Reason">Entsorgungsgrund</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26816,8 +26816,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53553" trl="Y">
-  <value column="Name" original="Asset Proceeds">Asset Proceeds</value>
-  <value column="PrintName" original="Asset Proceeds">Asset Proceeds</value>
+  <value column="Name" original="Asset Proceeds">Vermögenswert Erlöse</value>
+  <value column="PrintName" original="Asset Proceeds">Vermögenswert Erlöse</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -26836,8 +26836,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53555" trl="Y">
-  <value column="Name" original="Asset Trade">A_Asset_Trade_ID</value>
-  <value column="PrintName" original="Asset Trade">A_Asset_Trade_ID</value>
+  <value column="Name" original="Asset Trade">Vermögenswert Handel</value>
+  <value column="PrintName" original="Asset Trade">Vermögenswert Handel</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27276,8 +27276,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53600" trl="Y">
-  <value column="Name" original="Asset Monthly Payment">Asset Monthly Payment</value>
-  <value column="PrintName" original="Asset Monthly Payment">Asset Monthly Payment</value>
+  <value column="Name" original="Asset Monthly Payment">Vermögenswert monatliche Zahlung</value>
+  <value column="PrintName" original="Asset Monthly Payment">Vermögenswert monatliche Zahlung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27286,8 +27286,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53601" trl="Y">
-  <value column="Name" original="Asset Expired Date">Asset Expired Date</value>
-  <value column="PrintName" original="Asset Expired Date">Asset Expired Date</value>
+  <value column="Name" original="Asset Expired Date">Vermögenswert Ablaufdatum</value>
+  <value column="PrintName" original="Asset Expired Date">Vermögenswert Ablaufdatum</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27386,8 +27386,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53614" trl="Y">
-  <value column="Name" original="Asset License Fee">Asset License Fee</value>
-  <value column="PrintName" original="Asset License Fee">Asset License Fee</value>
+  <value column="Name" original="Asset License Fee">Vermögenswert Lizenzgebühr</value>
+  <value column="PrintName" original="Asset License Fee">Vermögenswert Lizenzgebühr</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27396,8 +27396,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53615" trl="Y">
-  <value column="Name" original="Asset Renewal Date">Asset Renewal Date</value>
-  <value column="PrintName" original="Asset Renewal Date">Asset Renewal Date</value>
+  <value column="Name" original="Asset Renewal Date">Vermögenswert Erneuerungsdatum</value>
+  <value column="PrintName" original="Asset Renewal Date">Vermögenswert Erneuerungsdatum</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27406,8 +27406,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53616" trl="Y">
-  <value column="Name" original="Asset License No">Asset License No</value>
-  <value column="PrintName" original="Asset License No">Asset License No</value>
+  <value column="Name" original="Asset License No">Vermögenswert Lizenznummer</value>
+  <value column="PrintName" original="Asset License No">Vermögenswert Lizenznummer</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27436,8 +27436,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53619" trl="Y">
-  <value column="Name" original="Asset Insurance Value">Asset Insurance Value</value>
-  <value column="PrintName" original="Asset Insurance Value">Asset Insurance Value</value>
+  <value column="Name" original="Asset Insurance Value">Vermögenswert Versicherungswert</value>
+  <value column="PrintName" original="Asset Insurance Value">Vermögenswert Versicherungswert</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27446,8 +27446,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53620" trl="Y">
-  <value column="Name" original="Asset Policy No">Asset Policy No</value>
-  <value column="PrintName" original="Asset Policy No">Asset Policy No</value>
+  <value column="Name" original="Asset Policy No">Vermögenswert Policennr.</value>
+  <value column="PrintName" original="Asset Policy No">Vermögenswert Policennr.</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27456,8 +27456,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53621" trl="Y">
-  <value column="Name" original="Asset Replace Cost">Asset Replace Cost</value>
-  <value column="PrintName" original="Asset Replace Cost">Asset Replace Cost</value>
+  <value column="Name" original="Asset Replace Cost">Vermögenswert Ersatzkosten</value>
+  <value column="PrintName" original="Asset Replace Cost">Vermögenswert Ersatzkosten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27646,8 +27646,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53640" trl="Y">
-  <value column="Name" original="Source Type">Source Type</value>
-  <value column="PrintName" original="Source Type">Source Type</value>
+  <value column="Name" original="Source Type">Quellentyp</value>
+  <value column="PrintName" original="Source Type">Quellentyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -27656,8 +27656,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53641" trl="Y">
-  <value column="Name" original="Capital/Expense">Capital/Expense</value>
-  <value column="PrintName" original="Capital/Expense">Capital/Expense</value>
+  <value column="Name" original="Capital/Expense">Kapital/Aufwand</value>
+  <value column="PrintName" original="Capital/Expense">Kapital/Aufwand</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -28932,8 +28932,8 @@ Credit Work in Process Account ]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53896" trl="Y">
-  <value column="Name" original="Included Role">Included Role</value>
-  <value column="PrintName" original="Included Role">Included Role</value>
+  <value column="Name" original="Included Role">Enthaltene Rolle</value>
+  <value column="PrintName" original="Included Role">Enthaltene Rolle</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29444,8 +29444,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54158" trl="Y">
-  <value column="Name" original="Separator Character">Separator Character</value>
-  <value column="PrintName" original="Separator Character">Separator Character</value>
+  <value column="Name" original="Separator Character">Trennzeichen</value>
+  <value column="PrintName" original="Separator Character">Trennzeichen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29454,8 +29454,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54165" trl="Y">
-  <value column="Name" original="Asset class">Asset class</value>
-  <value column="PrintName" original="Asset class">Asset class</value>
+  <value column="Name" original="Asset class">Vermögenswert Klasse</value>
+  <value column="PrintName" original="Asset class">Vermögenswert Klasse</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29464,8 +29464,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54166" trl="Y">
-  <value column="Name" original="Asset Status">Asset Status</value>
-  <value column="PrintName" original="Asset Status">Asset Status</value>
+  <value column="Name" original="Asset Status">Vermögenswert Status</value>
+  <value column="PrintName" original="Asset Status">Vermögenswert Status</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29474,8 +29474,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54167" trl="Y">
-  <value column="Name" original="Asset Action">Asset Action</value>
-  <value column="PrintName" original="Asset Action">Asset Action</value>
+  <value column="Name" original="Asset Action">Vermögenswert Aktion</value>
+  <value column="PrintName" original="Asset Action">Vermögenswert Aktion</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29504,8 +29504,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54170" trl="Y">
-  <value column="Name" original="Asset Type">Asset Type</value>
-  <value column="PrintName" original="Asset Type">Asset Type</value>
+  <value column="Name" original="Asset Type">Vermögenswert Typ</value>
+  <value column="PrintName" original="Asset Type">Vermögenswert Typ</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29514,8 +29514,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54171" trl="Y">
-  <value column="Name" original="Asset Type">Asset Type</value>
-  <value column="PrintName" original="Asset Type">Asset Type</value>
+  <value column="Name" original="Asset Type">Vermögenswert Typ</value>
+  <value column="PrintName" original="Asset Type">Vermögenswert Typ</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29524,8 +29524,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54172" trl="Y">
-  <value column="Name" original="Manufactured Year">Manufactured Year</value>
-  <value column="PrintName" original="Manufactured Year">Manufactured Year</value>
+  <value column="Name" original="Manufactured Year">Herstellungsjahr</value>
+  <value column="PrintName" original="Manufactured Year">Herstellungsjahr</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29544,7 +29544,7 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54174" trl="Y">
-  <value column="Name" original="All Assets">All Assets</value>
+  <value column="Name" original="All Assets">Alle Vermögenswerte</value>
   <value column="PrintName" original="AllAssets">AllAssets</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -29554,8 +29554,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54175" trl="Y">
-  <value column="Name" original="Accumulated Depreciation (fiscal)">Accumulated Depreciation (fiscal)</value>
-  <value column="PrintName" original="Accumulated Depreciation (fiscal)">Accumulated Depreciation (fiscal)</value>
+  <value column="Name" original="Accumulated Depreciation (fiscal)">Akkumulierte Abschreibung (fiskal)</value>
+  <value column="PrintName" original="Accumulated Depreciation (fiscal)">Akkumulierte Abschreibung (fiskal)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29784,8 +29784,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54198" trl="Y">
-  <value column="Name" original="Depreciation Method (fiscal)">Depreciation Method (fiscal)</value>
-  <value column="PrintName" original="Depreciation Method (fiscal)">Depreciation Method (fiscal)</value>
+  <value column="Name" original="Depreciation Method (fiscal)">Abschreibungsmethode (fiskal)</value>
+  <value column="PrintName" original="Depreciation Method (fiscal)">Abschreibungsmethode (fiskal)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29794,8 +29794,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54199" trl="Y">
-  <value column="Name" original="Depreciation (fiscal)">Depreciation (fiscal)</value>
-  <value column="PrintName" original="Depreciation (fiscal)">Depreciation (fiscal)</value>
+  <value column="Name" original="Depreciation (fiscal)">Abschreibung (fiskal)</value>
+  <value column="PrintName" original="Depreciation (fiscal)">Abschreibung (fiskal)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29864,8 +29864,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54206" trl="Y">
-  <value column="Name" original="Adjust Accumulated Depreciation">Adjust Accumulated Depreciation</value>
-  <value column="PrintName" original="Adjust Accumulated Depreciation">Adjust Accumulated Depreciation</value>
+  <value column="Name" original="Adjust Accumulated Depreciation">Akkumulierte Abschreibung anpassen</value>
+  <value column="PrintName" original="Adjust Accumulated Depreciation">Akkumulierte Abschreibung anpassen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29894,8 +29894,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54209" trl="Y">
-  <value column="Name" original="Disposal Amount">Disposal Amount</value>
-  <value column="PrintName" original="Disposal Amt">Disposal Amt</value>
+  <value column="Name" original="Disposal Amount">Entsorgungsbetrag</value>
+  <value column="PrintName" original="Disposal Amt">Entsorgungsbetrag</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29904,8 +29904,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54210" trl="Y">
-  <value column="Name" original="Accumulated Depreciation (delta)">Accumulated Depreciation (delta)</value>
-  <value column="PrintName" original="Accumulated Depreciation (delta)">Accumulated Depreciation (delta)</value>
+  <value column="Name" original="Accumulated Depreciation (delta)">Akkumulierte Abschreibung (delta)</value>
+  <value column="PrintName" original="Accumulated Depreciation (delta)">Akkumulierte Abschreibung (delta)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -29914,8 +29914,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54211" trl="Y">
-  <value column="Name" original="Account (debit)">Account (debit)</value>
-  <value column="PrintName" original="Account (debit)">Account (debit)</value>
+  <value column="Name" original="Account (debit)">Konto (Soll)</value>
+  <value column="PrintName" original="Account (debit)">Konto (Soll)</value>
   <value column="Description" original="Account used">Das verwendete Konto.</value>
   <value column="Help" original="The (natural) account used">Das verwendete (Basis-)Konto.</value>
   <value column="PO_Description" original=""/>
@@ -29924,8 +29924,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54212" trl="Y">
-  <value column="Name" original="Account (credit)">Account (credit)</value>
-  <value column="PrintName" original="Account (credit)">Account (credit)</value>
+  <value column="Name" original="Account (credit)">Konto (Haben)</value>
+  <value column="PrintName" original="Account (credit)">Konto (Haben)</value>
   <value column="Description" original="Account used">Das verwendete Konto.</value>
   <value column="Help" original="The (natural) account used">Das verwendete (Basis-)Konto.</value>
   <value column="PO_Description" original=""/>
@@ -37594,7 +37594,7 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="55236" trl="Y">
-  <value column="Name" original="Quantity Used">Verwalten von Jobpositionen</value>
+  <value column="Name" original="Quantity Used">Verwendete Menge</value>
   <value column="PrintName" original="Quantity Used in production">In der Produktion eingesetzte Menge</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -39634,8 +39634,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200266" trl="Y">
-  <value column="Name" original="Box Count">Box Count</value>
-  <value column="PrintName" original="Box Count">Box Count</value>
+  <value column="Name" original="Box Count">Anzahl Pakete</value>
+  <value column="PrintName" original="Box Count">Anzahl Pakete</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -39684,8 +39684,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200271" trl="Y">
-  <value column="Name" original="Handling Charge">Handling Charge</value>
-  <value column="PrintName" original="Handling Charge">Handling Charge</value>
+  <value column="Name" original="Handling Charge">Bearbeitungsgebühr</value>
+  <value column="PrintName" original="Handling Charge">Bearbeitungsgebühr</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -39854,8 +39854,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200288" trl="Y">
-  <value column="Name" original="Label Print">Label Print</value>
-  <value column="PrintName" original="Label Print">Label Print</value>
+  <value column="Name" original="Label Print">Etikettendruck</value>
+  <value column="PrintName" original="Label Print">Etikettendruck</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -39864,8 +39864,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200289" trl="Y">
-  <value column="Name" original="Latest Pickup Time">Latest Pickup Time</value>
-  <value column="PrintName" original="Latest Pickup Time">Latest Pickup Time</value>
+  <value column="Name" original="Latest Pickup Time">Späteste Abholzeit</value>
+  <value column="PrintName" original="Latest Pickup Time">Späteste Abholzeit</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -39934,8 +39934,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200296" trl="Y">
-  <value column="Name" original="Surcharges">Surcharges</value>
-  <value column="PrintName" original="Surcharges">Surcharges</value>
+  <value column="Name" original="Surcharges">Zuschläge</value>
+  <value column="PrintName" original="Surcharges">Zuschläge</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -39964,8 +39964,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200299" trl="Y">
-  <value column="Name" original="Shipper Labels">Shipper Labels</value>
-  <value column="PrintName" original="Shipper Labels">Shipper Labels</value>
+  <value column="Name" original="Shipper Labels">Frachtetiketten</value>
+  <value column="PrintName" original="Shipper Labels">Frachtetiketten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -39984,8 +39984,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200301" trl="Y">
-  <value column="Name" original="Label Print Method">Label Print Method</value>
-  <value column="PrintName" original="Label Print Method">Label Print Method</value>
+  <value column="Name" original="Label Print Method">Etikettendruckmethode</value>
+  <value column="PrintName" original="Label Print Method">Etikettendruckmethode</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -39994,8 +39994,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200302" trl="Y">
-  <value column="Name" original="Shipper Packaging">Shipper Packaging</value>
-  <value column="PrintName" original="Shipper Packaging">Shipper Packaging</value>
+  <value column="Name" original="Shipper Packaging">Frachtverpackung</value>
+  <value column="PrintName" original="Shipper Packaging">Frachtverpackung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -40014,8 +40014,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200304" trl="Y">
-  <value column="Name" original="Shipper Pickup Types">Shipper Pickup Types</value>
-  <value column="PrintName" original="Shipper Pickup Types">Shipper Pickup Types</value>
+  <value column="Name" original="Shipper Pickup Types">Spediteur Abholarten</value>
+  <value column="PrintName" original="Shipper Pickup Types">Spediteur Abholarten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -40414,8 +40414,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200603" trl="Y">
-  <value column="Name" original="Shipper Labels">Shipper Labels</value>
-  <value column="PrintName" original="Shipper Labels">Shipper Labels</value>
+  <value column="Name" original="Shipper Labels">Frachtetiketten</value>
+  <value column="PrintName" original="Shipper Labels">Frachtetiketten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -40434,8 +40434,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200605" trl="Y">
-  <value column="Name" original="Shipper Packaging">Shipper Packaging</value>
-  <value column="PrintName" original="Shipper Packaging">Shipper Packaging</value>
+  <value column="Name" original="Shipper Packaging">Frachtverpackung</value>
+  <value column="PrintName" original="Shipper Packaging">Frachtverpackung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -40454,8 +40454,8 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200607" trl="Y">
-  <value column="Name" original="Shipper Pickup Types">Shipper Pickup Types</value>
-  <value column="PrintName" original="Shipper Pickup Types">Shipper Pickup Types</value>
+  <value column="Name" original="Shipper Pickup Types">Spediteur Abholarten</value>
+  <value column="PrintName" original="Shipper Pickup Types">Spediteur Abholarten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>

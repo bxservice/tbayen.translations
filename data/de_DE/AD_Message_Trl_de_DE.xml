@@ -2364,7 +2364,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="699" trl="Y">
-  <value column="MsgText" original="Asset Info">Info Anlage</value>
+  <value column="MsgText" original="Asset Info">Info Vermögenswerte</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="700" trl="Y">
@@ -5146,7 +5146,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="52495" trl="Y">
-  <value column="MsgText" original="Discount Amount">Rabat- / Skontobetrag</value>
+  <value column="MsgText" original="Discount Amount">Rabatt- / Skontobetrag</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="52496" trl="Y">

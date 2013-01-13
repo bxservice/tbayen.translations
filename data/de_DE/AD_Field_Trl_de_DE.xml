@@ -331,7 +331,7 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original="Sum of all amounts&#10;&#10;This field shows the sum of the amounts of the product that have had movements.">Summe aller Beträge Dieses Feld zeigt die Summe der Beträge des Produkts das Bewegungen gehabt hat.</value>
  </row>
  <row id="53904" trl="Y">
-  <value column="Name" original="Version No">Versions-Nr.</value>
+  <value column="Name" original="Version No">Versionsnr.</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
