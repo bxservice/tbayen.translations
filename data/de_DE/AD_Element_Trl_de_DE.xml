@@ -1133,10 +1133,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="253" trl="Y">
-  <value column="Name" original="Rate">Rate / Satz</value>
-  <value column="PrintName" original="Rate">Rate / Satz</value>
+  <value column="Name" original="Rate">Rate/Satz</value>
+  <value column="PrintName" original="Rate">Rate/Satz</value>
   <value column="Description" original="Currency Conversion Rate">Wechselkurs</value>
-  <value column="Help" original="The Currency Conversion Rate indicates the rate to use when converting the source currency to the accounting currency">Das Feld "Wechselkurs" zeigt den Kurs zur Umrechnung einer Ausgangswährung in eine Buchführungswährung an.</value>
+  <value column="Help" original="The Currency Conversion Rate indicates the rate to use when converting the source currency to the accounting currency">Das Feld "Wechselkurs" zeigt den Kurs zur Umrechnung einer Ausgangswährung in eine Buchführungswährung an. Dieser Text kann auch bei einem Steuersatz erscheinen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -13908,8 +13908,8 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2168" trl="Y">
-  <value column="Name" original="Only Validate Data">Nur gültige Daten</value>
-  <value column="PrintName" original="Validate Only">Nur gültig</value>
+  <value column="Name" original="Only Validate Data">Nur Daten überprüfen</value>
+  <value column="PrintName" original="Validate Only">Nur prüfen</value>
   <value column="Description" original="Validate the date and do not process">Datum überprüfen und nicht bearbeiten.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -20535,10 +20535,10 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2870" trl="Y">
-  <value column="Name" original="Sales Tax">Verkaufssteuer</value>
-  <value column="PrintName" original="Sales Tax">Verkaufssteuer</value>
-  <value column="Description" original="This is a sales tax (i.e. not a value added tax)">Dies ist eine Verkaufssteuer (d.h. keine Mehrwertsteuer)</value>
-  <value column="Help" original="If selected AP tax is handled as expense, otherwise it is handled as a VAT credit.">Wenn Verbindlichkeiten ausgewählt wurden, wird die Steuer als Aufwendung behandelt ansonsten als Vorsteuerüberhang.</value>
+  <value column="Name" original="Sales Tax">Verbrauchsteuer</value>
+  <value column="PrintName" original="Sales Tax">Verbrauchsteuer</value>
+  <value column="Description" original="This is a sales tax (i.e. not a value added tax)">Dies ist eine Verbrauchsteuer (d.h. keine Umsatzsteuer)</value>
+  <value column="Help" original="If selected AP tax is handled as expense, otherwise it is handled as a VAT credit.">Beim Verkauf wird die Steuer als Aufwendung behandelt ansonsten als Vorsteuerüberhang.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
