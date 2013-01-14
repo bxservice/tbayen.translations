@@ -1583,7 +1583,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="539" trl="Y">
-  <value column="Name" original="Item">Stück</value>
+  <value column="Name" original="Item">Ware</value>
   <value column="Description" original=""/>
  </row>
  <row id="540" trl="Y">
