@@ -151,7 +151,7 @@ Zugriffsinformationen werden zwischengespeichert. Nach Änderungen ist eine Neua
   <value column="Help" original="The GL Category Window allows you to define categories to be used in journals.  These categories provide a method of optionally grouping and reporting on journals.">Im Fenster "Hauptbuchkategorie" können Sie Kategorien für Journale festlegen. Diese Kategorien ermöglichen eine wunschgemäße Gruppierung und Berichterstellung in Journalen.</value>
  </row>
  <row id="132" trl="Y">
-  <value column="Name" original="GL Journal Batch">Hauptbuchjournal</value>
+  <value column="Name" original="GL Journal Batch">Journalstapel</value>
   <value column="Description" original="Enter and change Manual Journal Entries">Journaleinträge manuell eingeben und ändern</value>
   <value column="Help" original="The GL Journal Window allows you to enter and modify manual journal entries">Im Fenster "Hauptbuchjournal" können Sie Journaleinträge manuell eingeben und ändern.</value>
  </row>
@@ -778,7 +778,7 @@ If you created a web click for http://www.adempiere.de, you will be able to see 
   <value column="Help" original=""/>
  </row>
  <row id="278" trl="Y">
-  <value column="Name" original="Import GL Journal">Import des Hauptbuchjournals</value>
+  <value column="Name" original="Import GL Journal">Import eines Journals</value>
   <value column="Description" original="Import General Ledger Journals">Importieren Sie Hauptbuchjournale</value>
   <value column="Help" original="You way want to check the balance of the import with &quot;Validate Only&quot; before importing. &#10;Unbalanced Journals are imported; the handling is based on your settings for the posting process. The optional balance check checks the entire import, not individual batches and journals.">Vor dem Import möchten Sie vielleicht den Importsaldo mit "Nur gültig" überprüfen. Nicht saldierte Journale werden importiert. Das Handling ist in Ihren Buchführungseinstellungen festgelegt. Der optionale Saldencheck gilt für den gesamten Import, nicht für einzelne Läufe oder Journale.</value>
  </row>
@@ -1888,7 +1888,7 @@ MRP - 110	 No exists Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="200005" trl="Y">
-  <value column="Name" original="GL Journal">Hauptbuchjournal</value>
+  <value column="Name" original="GL Journal">Journal</value>
   <value column="Description" original="Enter and change Manual Journal Entries">Journaleinträge manuell eingeben und ändern</value>
   <value column="Help" original="The GL Journal Window allows you to enter and modify manual journal entries">Im Fenster "Hauptbuchjournal" können Sie Journaleinträge manuell eingeben und ändern.</value>
  </row>
@@ -1913,7 +1913,7 @@ MRP - 110	 No exists Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="200013" trl="Y">
-  <value column="Name" original="GL Journal Generator">Hauptbuch Journal-Generator</value>
+  <value column="Name" original="GL Journal Generator">Journal-Generator</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

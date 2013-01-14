@@ -494,7 +494,7 @@
  </row>
  <row id="161" trl="Y">
   <value column="Name" original="Accounted Credit">Haben gebucht</value>
-  <value column="PrintName" original="Acct Credit">Haben gebucht</value>
+  <value column="PrintName" original="Acct Credit">Haben</value>
   <value column="Description" original="Accounted Credit Amount">Gebuchter Betrag Haben in Standardwährung</value>
   <value column="Help" original="The Account Credit Amount indicates the transaction amount converted to this organization's accounting currency">Das Feld "Gebuchte Forderung" zeigt den in Buchführungswährung umgerechneten Transaktionsbetrag an.</value>
   <value column="PO_Description" original=""/>
@@ -504,7 +504,7 @@
  </row>
  <row id="162" trl="Y">
   <value column="Name" original="Accounted Debit">Soll gebucht</value>
-  <value column="PrintName" original="Acct Debit">Soll gebucht</value>
+  <value column="PrintName" original="Acct Debit">Soll</value>
   <value column="Description" original="Accounted Debit Amount">Gebuchter Betrag Soll in Standardwährung</value>
   <value column="Help" original="The Account Debit Amount indicates the transaction amount converted to this organization's accounting currency">Das Feld "Gebuchte Verbindlichkeit" zeigt den in Buchführungswährung umgerechneten Transaktionsbetrag an.</value>
   <value column="PO_Description" original=""/>
@@ -1586,9 +1586,9 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="313" trl="Y">
-  <value column="Name" original="Journal Batch">Journalsatz</value>
-  <value column="PrintName" original="Journal Batch">Journalsatz</value>
-  <value column="Description" original="General Ledger Journal Batch">Hauptbuchjournalsatz</value>
+  <value column="Name" original="Journal Batch">Journalstapel</value>
+  <value column="PrintName" original="Journal Batch">Journalstapel</value>
+  <value column="Description" original="General Ledger Journal Batch">Journalstapel</value>
   <value column="Help" original="The General Ledger Journal Batch identifies a group of journals to be processed as a group.">Ein "Journalsatz" besteht aus mehreren Journalen, die als Gruppe bearbeitet werden sollen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -1608,7 +1608,7 @@ Example of format "(000)_000-0000"]]></value>
  <row id="315" trl="Y">
   <value column="Name" original="Journal">Journal</value>
   <value column="PrintName" original="Journal">Journal</value>
-  <value column="Description" original="General Ledger Journal">Hauptbuchjournal</value>
+  <value column="Description" original="General Ledger Journal">Journal</value>
   <value column="Help" original="The General Ledger Journal identifies a group of journal lines which represent a logical business transaction">Das "Journal" bezeichnet mehrere Journalpositionen, die eine Geschäftstransaktion repräsentieren.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -3426,8 +3426,8 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="596" trl="Y">
-  <value column="Name" original="Total Credit">Haben Gesamt</value>
-  <value column="PrintName" original="Total Credit">Haben Gesamt</value>
+  <value column="Name" original="Total Credit">Haben Saldo</value>
+  <value column="PrintName" original="Total Credit">Haben Saldo</value>
   <value column="Description" original="Total Credit in document currency">Haben Gesamt in Belegwährung.</value>
   <value column="Help" original="The Total Credit indicates the total credit amount for a journal or journal batch in the source currency">Das Feld "Haben Gesamt" zeigt die Gesamthabensumme eines Journals oder eines Journalsatzes in der Ausgangswährung an.</value>
   <value column="PO_Description" original=""/>
@@ -3436,8 +3436,8 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="597" trl="Y">
-  <value column="Name" original="Total Debit">Soll Gesamt</value>
-  <value column="PrintName" original="Total Debit">Soll Gesamt</value>
+  <value column="Name" original="Total Debit">Soll Saldo</value>
+  <value column="PrintName" original="Total Debit">Soll Saldo</value>
   <value column="Description" original="Total debit in document currency">Gesamtsoll in Belegwährung.</value>
   <value column="Help" original="The Total Debit indicates the total debit amount for a journal or journal batch in the source currency">Das Feld "Gesamtsoll" zeigt die Gesamtsollsumme eines Journals oder eines Journalsatzes in der Ausgangswährung an.</value>
   <value column="PO_Description" original=""/>
@@ -4030,7 +4030,7 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="889" trl="Y">
-  <value column="Name" original="Fee Amount">Menge Gebühren</value>
+  <value column="Name" original="Fee Amount">Gebührenbetrag</value>
   <value column="PrintName" original="Fee">Gebühren</value>
   <value column="Description" original="Fee amount in invoice currency">Der Gebührenbetrag in Rechnungswährung</value>
   <value column="Help" original="The Fee Amount indicates the charge amount on a dunning letter for overdue invoices.  This field will only display if the charge fee checkbox has been selected.">Das Feld "Gebührenbetrag" zeigt den Betrag an Mahngebühren für überfällige Rechnungen an. Das Feld wird nur angezeigt, wenn das Optionsfeld "Mahngebühr" aktiviert wurde.</value>
