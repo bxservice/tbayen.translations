@@ -96,7 +96,7 @@ Zugriffsinformationen werden zwischengespeichert. Nach Änderungen ist eine Neua
   <value column="Help" original="The Calendar Year and Periods defines the calendars that will be used for period control and reporting. You can also define non-standard calendars (e.g. business year from July to June).">Im Fenster "Kalender" können Sie Kalender für die Periodenkontrolle und die Berichtsteuerung verwalten. Es ist auch möglich, alternative Kalender anzulegen, z.B. für Geschäftsjahre von Juli bis Juni.</value>
  </row>
  <row id="118" trl="Y">
-  <value column="Name" original="Account Element">Buchführungselement</value>
+  <value column="Name" original="Account Element">Kontenplan</value>
   <value column="Description" original="Maintain Account Elements">Verwaltung Kontenpläne</value>
   <value column="Help" original="The Account Element Window is used to define and maintain the Accounting Element and User Defined Elements. &#10;One of the account segments is your natural account segment (Chart of Account). You may add a new account element for parallel reporting or for user defined accounting segments.">Im Fenster "Kontenplan" können Sie Kontenpläne und benutzerdefinierte Pläne verwalten. Einer der Kontenpläne ist Ihr Basiskontenplan. Sie könnenKontenpläne hinzufügen, um weitere Berichte oder benutzerdefinierte Buchführungssegmente zu erstellen.</value>
  </row>

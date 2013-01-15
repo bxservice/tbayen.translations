@@ -271,7 +271,7 @@ The action (actibity) type determines the execution: "Route" may be used in rout
   <value column="Help" original=""/>
  </row>
  <row id="153" trl="Y">
-  <value column="Name" original="Element">Element</value>
+  <value column="Name" original="Element">Kontenplan</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Account Element definition">Kontenplan festlegen</value>
   <value column="Help" original="The Element Tab defines the Name, Description and Format for an Element.  Additionally, a Type of Account or User Defined is selected. Each Account Schema must have an Account Element type.  The User Defined Elements are optional.">Im Register "Kontenplan" legen Sie Namen, Beschreibung und Format eines Plans fest. Zusätzlich werden die Kontenart oder ein angelegter Benutzer gewählt. Jedem Kontenschema muss ein Kontenplantyp zugeordnet sein. Die nutzerdefinierten Elemente sind optional.</value>
@@ -472,9 +472,9 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original="The Accounting Schema Tab defines the controls used for accounting.  You can define multiple accounting schema per client (for parallel accounting).  &#10;Postings are generated for an accounting schema, if the schema is valid and you have defined GL and Default accounts and after completion of the Add / Copy Accounts process.">Im Register "Buchführungsschema" legen Sie Buchungskontrollen fest. Für die parallele Buchführung können Sie mehrere Buchführungsschemata proMandant festlegen. Es werden Buchungen für ein Kontenschema erstellt, wenn das Schema gültig ist, wenn Hauptbuch und Standardkonten festgelegt wurden und wenn Konten hinzugefügt oder kopiert wurden.</value>
  </row>
  <row id="200" trl="Y">
-  <value column="Name" original="General Ledger">Hauptbuch</value>
+  <value column="Name" original="General Ledger">Hauptbuchvorgaben</value>
   <value column="CommitWarning" original="For changes to become effective, you must re-login and re-start the Application Server.">Damit die Änderungen wirksam werden, melden Sie sich bitte neu an und starten Sie den Anwendungsserver neu.</value>
-  <value column="Description" original="Accounts for GL">Konten für Hauptbuch</value>
+  <value column="Description" original="Accounts for GL">Kontenvorgaben für Hauptbuch</value>
   <value column="Help" original="The General Ledger Tab defines error and balance handling to use as well as  the necessary accounts for posting to General Ledger.  ">Im Register "Hauptbuch" legen Sie den Umgang mit Fehlern und Salden sowie die zur Buchung ins Hauptbuch benötigten Konten fest.</value>
  </row>
  <row id="201" trl="Y">
@@ -730,7 +730,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="252" trl="Y">
-  <value column="Name" original="Defaults">Standardwerte</value>
+  <value column="Name" original="Defaults">Standardkonten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Default Accounts">Standardkonten</value>
   <value column="Help" original="The Defaults Tab displays the Default accounts for an Accounting Schema.  These values will display when a new document is opened.  The user can override these defaults within the document.">Das Register "Standardkonten" zeigt die Standardkonten eines Buchführungsschemas an. Diese werden beim Öffnen eines neuen Belegs geöffnet. Der Benutzer kann die Standards innerhalb des Belegs überschreiben.</value>

@@ -104,7 +104,7 @@
  </row>
  <row id="118" trl="Y">
   <value column="Name" original="Account">Konto</value>
-  <value column="Description" original="Account Element">Buchführungselement</value>
+  <value column="Description" original="Account Element">Konto laut Kontenplan</value>
  </row>
  <row id="119" trl="Y">
   <value column="Name" original="User defined">Benutzerdefiniert</value>

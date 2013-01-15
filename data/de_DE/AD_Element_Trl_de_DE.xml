@@ -713,9 +713,9 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="198" trl="Y">
-  <value column="Name" original="Account Element">Buchführungselement</value>
-  <value column="PrintName" original="Account Element">Buchführungselement</value>
-  <value column="Description" original="Account Element">Buchführungselement</value>
+  <value column="Name" original="Account Element">Kontenplan</value>
+  <value column="PrintName" original="Account Element">Kontenplan</value>
+  <value column="Description" original="Account Element">Kontenplan</value>
   <value column="Help" original="Account Elements can be natural accounts or user defined values.">Ein "Kontenplan" kann aus Basiskonten oder nutzerdefinierten Konten bestehen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -723,10 +723,10 @@
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="199" trl="Y">
-  <value column="Name" original="Element">Element</value>
-  <value column="PrintName" original="Element">Element</value>
-  <value column="Description" original="Accounting Element">Buchführungselement</value>
-  <value column="Help" original="The Account Element uniquely identifies an Account Type.  These are commonly known as a Chart of Accounts.">Das Feld "Element" zeigt eine eindeutige Kontenart an. Ist allgemein als Kontenplan bekannt.</value>
+  <value column="Name" original="Element">Konto</value>
+  <value column="PrintName" original="Element">Konto</value>
+  <value column="Description" original="Accounting Element">Buchführungskonto</value>
+  <value column="Help" original="The Account Element uniquely identifies an Account Type.  These are commonly known as a Chart of Accounts.">Das Feld "Konto" zeigt ein eindeutiges Konto für Buchungen an. Alle Konten ergeben den Kontenplan.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -6816,9 +6816,9 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1368" trl="Y">
-  <value column="Name" original="Bank Asset">Bankanlagen</value>
-  <value column="PrintName" original="Bank Asset">Bankanlagen</value>
-  <value column="Description" original="Bank Asset Account">Konto "Anlagen Bank".</value>
+  <value column="Name" original="Bank Asset">Anlagekonto Bank</value>
+  <value column="PrintName" original="Bank Asset">Anlagekonto Bank</value>
+  <value column="Description" original="Bank Asset Account">Konto "Bank"</value>
   <value column="Help" original="The Bank Asset Account identifies the account to be used for booking changes to the balance in this bank account">Das Konto "Anlagen Bank" wird zur Buchung von Saldenveränderungen verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -8139,7 +8139,7 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="Name" original="Payment Selection">Wahl der Zahlungsart</value>
   <value column="PrintName" original="Payment Selection">Wahl der Zahlungsart</value>
   <value column="Description" original="Payment Selection">Wahl der Zahlungsart</value>
-  <value column="Help" original="The Payment Selection identifies a unique Payment">Das Feld "Auswahl Zahlung" zeigt eine einzelne Zahlung an.</value>
+  <value column="Help" original="The Payment Selection identifies a unique Payment">Das Feld "Auuswahl Zahlung" zeigt eine einzelne Zahlung an.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -9437,9 +9437,9 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1686" trl="Y">
-  <value column="Name" original="Payment Selection">Wahl der Zahlungsart</value>
-  <value column="PrintName" original="Payment selection">Auswahl Zahlung</value>
-  <value column="Description" original="AP Payment Selection Clearing Account">AP Verrechnungskonto Auswahl Zahlung.</value>
+  <value column="Name" original="Payment Selection">nicht zugeordnete Ausgangszahlungen</value>
+  <value column="PrintName" original="Payment selection">nicht zugeordnete Ausgangszahlungen</value>
+  <value column="Description" original="AP Payment Selection Clearing Account">Verrechnungskonto für nicht einer Rechnung zugeordnete Ausgangszahlungen.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -9447,10 +9447,10 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1687" trl="Y">
-  <value column="Name" original="Unallocated Cash">Nicht zugeordnetes Bargeld</value>
-  <value column="PrintName" original="Unallocated Cash">Nicht zugeordnetes Bargeld</value>
-  <value column="Description" original="Unallocated Cash Clearing Account">Verrechnungskonto für nicht zugeordnetes Bargeld.</value>
-  <value column="Help" original="Receipts not allocated to Invoices">"Nicht zugeordnetes Bargeld" ist Bargeld, das keiner Rechnung zugeordnet werden kann.</value>
+  <value column="Name" original="Unallocated Cash">Nicht zugeordnete Eingangszahlungen</value>
+  <value column="PrintName" original="Unallocated Cash">Nicht zugeordnete Eingangszahlungen</value>
+  <value column="Description" original="Unallocated Cash Clearing Account">Verrechnungskonto für nicht zugeordnete Eingangszahlungen</value>
+  <value column="Help" original="Receipts not allocated to Invoices">"Eingangszahlungen per Bank, die keiner Rechnung zugeordnet wurden.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
