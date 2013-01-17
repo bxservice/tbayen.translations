@@ -4419,11 +4419,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="53542" trl="Y">
-  <value column="Name" original="Credit Only">Nur Forderung</value>
+  <value column="Name" original="Credit Only">Nur Haben</value>
   <value column="Description" original=""/>
  </row>
  <row id="53543" trl="Y">
-  <value column="Name" original="Debit Only">Nur Verbindlichkeit</value>
+  <value column="Name" original="Debit Only">Nur Soll</value>
   <value column="Description" original=""/>
  </row>
  <row id="53544" trl="Y">
