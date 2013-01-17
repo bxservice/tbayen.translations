@@ -24066,9 +24066,9 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="53222" trl="Y">
-  <value column="Name" original="Activity Value">Aktivitätswert</value>
-  <value column="PrintName" original="Activity Value">Aktivitätswert</value>
-  <value column="Description" original=""/>
+  <value column="Name" original="Activity Key">Aktivität Textschlüssel</value>
+  <value column="PrintName" original="Activity Key">Aktivität Textschlüssel</value>
+  <value column="Description" original="Text key for Activity">Textschlüssel für die Aktivität</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -30204,9 +30204,9 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="54241" trl="Y">
-  <value column="Name" original="CampaignValue">CampaignValue</value>
-  <value column="PrintName" original="CampaignValue">CampaignValue</value>
-  <value column="Description" original=""/>
+  <value column="Name" original="Campaign Key">Kampagne Textschlüssel</value>
+  <value column="PrintName" original="Campaign Key">Kampagne Textschlüssel</value>
+  <value column="Description" original="Text key of the Campaign">Textschlüssel für die Kampagne</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -40577,6 +40577,16 @@ Produkt: Verwendet um schnell Produkte in der Position aufzunehmen <br>>]]></val
   <value column="Name" original="AD_InfoWindow_Access_UU">AD_InfoWindow_Access_UU</value>
   <value column="PrintName" original="AD_InfoWindow_Access_UU">AD_InfoWindow_Access_UU</value>
   <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="202193" trl="N">
+  <value column="Name" original="Sales Region Key">Vertriebsgebiet Textschlüssel</value>
+  <value column="PrintName" original="Sales Region Key">Vertriebsgebiet Textschlüssel</value>
+  <value column="Description" original="Text key of the Sales Region">Text Schlüssel für das Vertriebsgebiet</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
