@@ -555,8 +555,8 @@ The highest priotity has the Print Format, you define on a Document Type (exampl
   <value column="Help" original="Trade discount schema calculates the trade discount percentage">Mit dem "Rabattschema" berechnen Sie den Handelsrabatt in Prozent</value>
  </row>
  <row id="234" trl="Y">
-  <value column="Name" original="Expense Type">Aufwandsart</value>
-  <value column="Description" original="Maintain Expense Report Types">Verwaltung Aufwandsarten</value>
+  <value column="Name" original="Expense Type">Ausgaben-Typ</value>
+  <value column="Description" original="Maintain Expense Report Types">Verwaltung Ausgaben-Typen</value>
   <value column="Help" original=""/>
  </row>
  <row id="235" trl="Y">

@@ -10257,9 +10257,9 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1776" trl="Y">
-  <value column="Name" original="Expense Type">Aufwandsart</value>
-  <value column="PrintName" original="Expense Type">Aufwandsart</value>
-  <value column="Description" original="Expense report type">Bericht Aufwandsart.</value>
+  <value column="Name" original="Expense Type">Ausgaben-Typ</value>
+  <value column="PrintName" original="Expense Type">Ausgaben-Typ</value>
+  <value column="Description" original="Expense report type">Ausgaben-Typ. Ausgaben sind eine Art von Artikeln.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>

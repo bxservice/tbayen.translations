@@ -1543,15 +1543,15 @@ New List Price: Base=List, Surcharge=0, Discount=0, Round]]></value>
   <value column="Help" original="View detals of matched purchase order lines to invoice lines and material receipt lines">Ansicht Zuordnungsdetails Bestellpositionen zu Rechnungs- und Wareneingangspositionen</value>
  </row>
  <row id="410" trl="Y">
-  <value column="Name" original="Expense Type">Aufwandsart</value>
+  <value column="Name" original="Expense Type">Ausgaben-Typ</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Maintain Expense Report Type">Verwaltung der Aufwandsarten für Berichte</value>
+  <value column="Description" original="Maintain Expense Report Type">Verwaltung der Ausgaben-Typen für Berichte</value>
   <value column="Help" original=""/>
  </row>
  <row id="411" trl="Y">
   <value column="Name" original="Expense Product">Produktaufwand</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Product definition of Expense Type">Produktdefinition der Aufwandsart</value>
+  <value column="Description" original="Product definition of Expense Type">Produktdefinition des Ausgaben-Typs</value>
   <value column="Help" original=""/>
  </row>
  <row id="412" trl="Y">
@@ -1602,12 +1602,12 @@ Please note that the Business Partner <b>must</b> be an Employee with an Address
   <value column="Name" original="Accounting">Buchführung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Define Accounting Parameters">Buchführungsparameter festlegen</value>
-  <value column="Help" original="The Accounting Tab defines the defaults to use when generating accounting transactions for orders and invoices which contain this Expense Type. Not all accounts apply.">Im Register "Buchführung" legen Sie die Standards zur Buchung von Auftragstransaktionen und Rechnungen fest, die diese Aufwandsart enthalten. Nicht alle Konten passen.</value>
+  <value column="Help" original="The Accounting Tab defines the defaults to use when generating accounting transactions for orders and invoices which contain this Expense Type. Not all accounts apply.">Im Register "Buchführung" legen Sie die Standards zur Buchung von Auftragstransaktionen und Rechnungen fest, die diesen Ausgaben-Typ enthalten. Nicht alle Konten passen.</value>
  </row>
  <row id="420" trl="Y">
   <value column="Name" original="Price">Preis</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Expense Type Pricing">Aufwandsart für Bepreisung.</value>
+  <value column="Description" original="Expense Type Pricing">Bepreisung des Ausgaben-Typs.</value>
   <value column="Help" original="The Pricing Tab displays the List, Standard and Limit prices for each price list a product is contained in.">Im Register "Produktpreisgestaltung" werden Listen-, Standard- und Limitpreise jeder Preisliste angezeigt, in der das Produkt vorkommt.</value>
  </row>
  <row id="421" trl="Y">

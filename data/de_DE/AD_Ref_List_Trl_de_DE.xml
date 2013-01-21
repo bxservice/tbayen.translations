@@ -1595,7 +1595,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="542" trl="Y">
-  <value column="Name" original="Expense type">Aufwandsart</value>
+  <value column="Name" original="Expense type">Ausgaben-Typ</value>
   <value column="Description" original=""/>
  </row>
  <row id="543" trl="Y">
