@@ -306,7 +306,7 @@ Preislisten können berechnet und kopiert werden. Um die Berechnung zu beschleun
   <value column="Help" original="The Inventory Move Window allows you to move inventory from one location or warehouse to another.  After the appropriate lines are entered selecting the 'Process Movements' button will adjust the inventory.">Im Fenster "Bestandsbewegung" können Sie Bestandsbewegungen innerhalb von Lagern/Lagerorten eingeben. Nach der Eingabe aller Positionen wird der jeweilige Bestand mit der Aktion "Bewegungen buchen" aktualisiert.</value>
  </row>
  <row id="172" trl="Y">
-  <value column="Name" original="Import Business Partner">Geschäftspartner importieren</value>
+  <value column="Name" original="Import Business Partner">Import Geschäftspartner</value>
   <value column="Description" original="Import Business Partner">Geschäftspartner importieren</value>
   <value column="Help" original="The Import Business Partner Window is an interim table which is used when importing external data into the system.  Selecting the 'Process' button will either add or modify the appropriate records.">Das Fenster "Import Geschäftspartner" zeigt den Inhalt einer Zwischentabelle, die beim Import von Geschäftspartnern verwendet wird. Der Prozess "Bearbeiten" fügt Einträge hinzu oder ändert die betreffenden Einträge.</value>
  </row>

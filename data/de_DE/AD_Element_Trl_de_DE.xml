@@ -11507,7 +11507,7 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1911" trl="Y">
-  <value column="Name" original="Import Business Partner">Geschäftspartner importieren</value>
+  <value column="Name" original="Import Business Partner">Import Geschäftspartner</value>
   <value column="PrintName" original="Import B.Partner">Import von Geschäftspartnern</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
