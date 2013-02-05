@@ -706,7 +706,7 @@ Geschäftspartnergruppe oder bestimmten Geschäftspartner auswählen]]></value>
  <row id="248" trl="Y">
   <value column="Name" original="Delete Import">Import löschen</value>
   <value column="Description" original="Delete all data in Import Table">Alle Daten der Importtabelle löschen.</value>
-  <value column="Help" original="You would delete all data in an import table, if there was a problem with data loading.  The delete does not distinguish between imported and not imported data.">Sie würden z.B. bei Problemen mit dem Laden von Daten alle Daten der Importtabelle löschen. Die Aktion "Löschen" unterscheidet nicht zwischen importierten und nicht importierten Daten.</value>
+  <value column="Help" original="You would delete all data in an import table, if there was a problem with data loading.  The delete does not distinguish between imported and not imported data.">Z.B. bei Problemen mit dem Laden von Daten können hiermit alle Daten der Importtabelle gelöscht werden. Die Aktion "Import Löschen" unterscheidet nicht zwischen importierten und nicht importierten Daten.</value>
  </row>
  <row id="249" trl="Y">
   <value column="Name" original="Import Conversion Rate">Wechselkurs importieren</value>
