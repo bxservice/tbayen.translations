@@ -23,8 +23,8 @@
   <value column="Description" original="Setup Business Partner Rules">Einrichtung Geschäftspartnereinstellungen</value>
  </row>
  <row id="107" trl="Y">
-  <value column="Name" original="Product Setup">Einrichtung Produkt</value>
-  <value column="Description" original="Set up Products">Einrichtung Produkte</value>
+  <value column="Name" original="Product Setup">Einrichtung Artikel</value>
+  <value column="Description" original="Set up Products">Einrichtung Artikel</value>
  </row>
  <row id="108" trl="Y">
   <value column="Name" original="Price List Setup">Einrichtung Preisliste</value>
@@ -184,7 +184,7 @@
  </row>
  <row id="50015" trl="Y">
   <value column="Name" original="Patio Chair">Terassenstuhl</value>
-  <value column="Description" original="Routing for Assembly the Patio Chair">Die Steuerung für die Montage des Gartenstuhls.</value>
+  <value column="Description" original="Routing for Assembly the Patio Chair">Die Steuerung für die Montage des Gartenstuhls</value>
  </row>
  <row id="50016" trl="Y">
   <value column="Name" original="Lawn Fertilizer">Rasendünger</value>
@@ -215,7 +215,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="50024" trl="Y">
-  <value column="Name" original="Process Asset Depreciation Entry">Process Asset Depreciation Entry</value>
+  <value column="Name" original="Process Asset Depreciation Entry">Prozess Vermögenswert Abschreibungseintrag</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>

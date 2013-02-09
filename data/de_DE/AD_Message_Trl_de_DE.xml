@@ -195,11 +195,11 @@
   <value column="MsgTip" original=""/>
  </row>
  <row id="149" trl="Y">
-  <value column="MsgText" original="Attachment">Anlage</value>
+  <value column="MsgText" original="Attachment">Anhang</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="150" trl="Y">
-  <value column="MsgText" original="Do you want to delete this (complete) Attachment?">Wollen Sie diesen Anhang löschen?</value>
+  <value column="MsgText" original="Do you want to delete this (complete) Attachment?">Soll dieser Anhang vollständig gelöscht werden?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="151" trl="Y">
@@ -295,7 +295,7 @@
   <value column="MsgTip" original=""/>
  </row>
  <row id="174" trl="Y">
-  <value column="MsgText" original="Generate Charges">Gebühren erstellen</value>
+  <value column="MsgText" original="Generate Charges">Gebühren erzeugen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="175" trl="Y">
@@ -343,7 +343,7 @@
   <value column="MsgTip" original=""/>
  </row>
  <row id="186" trl="Y">
-  <value column="MsgText" original="Converted">Umgerechnet</value>
+  <value column="MsgText" original="Converted">Umgesetzt</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="187" trl="Y">
@@ -544,7 +544,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="236" trl="Y">
-  <value column="MsgText" original="e&amp;Xit Window">Fenster beenden</value>
+  <value column="MsgText" original="e&amp;Xit Window">Fenster verlassen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="237" trl="Y">
@@ -732,11 +732,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="283" trl="Y">
-  <value column="MsgText" original="Generate">Erstellen</value>
+  <value column="MsgText" original="Generate">Erzeugen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="284" trl="Y">
-  <value column="MsgText" original="&amp;Go"><![CDATA[&Gehe]]></value>
+  <value column="MsgText" original="&amp;Go">Los</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="285" trl="Y">
@@ -764,15 +764,15 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="291" trl="Y">
-  <value column="MsgText" original="&amp;Help"><![CDATA[&Hilfe]]></value>
+  <value column="MsgText" original="&amp;Help">Hilfe</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="292" trl="Y">
-  <value column="MsgText" original="History records"><![CDATA[Verlaufsda&ten]]></value>
+  <value column="MsgText" original="History records">Historie Datensätze</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="293" trl="Y">
-  <value column="MsgText" original="&amp;Home">Menü</value>
+  <value column="MsgText" original="&amp;Home">Übersicht</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="294" trl="Y">
@@ -780,7 +780,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="295" trl="Y">
-  <value column="MsgText" original="&amp;Undo changes">Änderungen ignorieren</value>
+  <value column="MsgText" original="&amp;Undo changes">Änderungen rückgängig</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="296" trl="Y">
@@ -820,7 +820,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="305" trl="Y">
-  <value column="MsgText" original="Product &amp;Info">Info Produkt</value>
+  <value column="MsgText" original="Product &amp;Info">Artikel Info</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="306" trl="Y">
@@ -828,11 +828,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="307" trl="Y">
-  <value column="MsgText" original="Generate Invoices (manual)">Rechnungen erstellen (manuell)</value>
+  <value column="MsgText" original="Generate Invoices (manual)">Rechnungen erzeugen (manuell)</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="308" trl="Y">
-  <value column="MsgText" original="Generating invoices">Rechnungen werden erstellt</value>
+  <value column="MsgText" original="Generating invoices">Rechnungen werden erzeugt</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="309" trl="Y">
@@ -840,11 +840,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="310" trl="Y">
-  <value column="MsgText" original="Select shipments to generate invoices">Lieferscheine für die Rechnungserstellung auswählen</value>
+  <value column="MsgText" original="Select shipments to generate invoices">Lieferscheine für die Rechnungserzeugung auswählen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="311" trl="Y">
-  <value column="MsgText" original="One or more Product is more than once in the count list.  Lines deactivated.">Mindestens ein Produkt ist mehr als einmal in der Zählliste vorhanden. Positionen wurden deaktiviert.</value>
+  <value column="MsgText" original="One or more Product is more than once in the count list.  Lines deactivated.">Mindestens ein Artikel ist mehr als einmal in der Zählliste vorhanden. Positionen wurden deaktiviert.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="312" trl="Y">
@@ -984,11 +984,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="346" trl="Y">
-  <value column="MsgText" original="&lt;Query active&gt; Navigate or Update record"><![CDATA[<Suchanfrage aktiv> Navigations- oder Aktualisierungseintrag]]></value>
+  <value column="MsgText" original="&lt;Query active&gt; Navigate or Update record"><![CDATA[<Suche aktiv> Navigieren oder Datensatz aktualisieren]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="347" trl="Y">
-  <value column="MsgText" original="&amp;New Record">Neuer Eintrag</value>
+  <value column="MsgText" original="&amp;New Record"><![CDATA[&Neuer Datensatz]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="348" trl="Y">
@@ -1064,7 +1064,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="366" trl="Y">
-  <value column="MsgText" original="&amp;OK">OK</value>
+  <value column="MsgText" original="&amp;OK"><![CDATA[&OK]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="367" trl="Y">
@@ -1292,7 +1292,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="423" trl="Y">
-  <value column="MsgText" original="Pricelist Version">Version Preisliste</value>
+  <value column="MsgText" original="Pricelist Version">Preisliste Version</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="424" trl="Y">
@@ -1388,7 +1388,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="447" trl="Y">
-  <value column="MsgText" original="Processing ... Please wait ...">In Bearbeitung... Bitte warten Sie...</value>
+  <value column="MsgText" original="Processing ... Please wait ...">In Bearbeitung. Bitte warten...</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="448" trl="Y">
@@ -1492,7 +1492,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="473" trl="Y">
-  <value column="MsgText" original="&amp;Report">Bericht</value>
+  <value column="MsgText" original="&amp;Report"><![CDATA[&Bericht]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="474" trl="Y">
@@ -1564,7 +1564,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="491" trl="Y">
-  <value column="MsgText" original="Product is reserved or was already delivered or invoiced.  Set quantity to zero.&#10;Details: ">Produkt ist reserviert oder wurde bereits geliefert oder berechnet. Menge auf 0 setzen. Details:</value>
+  <value column="MsgText" original="Product is reserved or was already delivered or invoiced.  Set quantity to zero.&#10;Details: ">Artikel ist reserviert oder wurde bereits geliefert oder berechnet. Menge auf 0 setzen. Details:</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="492" trl="Y">
@@ -1580,7 +1580,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="495" trl="Y">
-  <value column="MsgText" original="Same Product">Gleiches Produkt</value>
+  <value column="MsgText" original="Same Product">Gleicher Artikel</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="496" trl="Y">
@@ -1673,7 +1673,7 @@ Fortfahren?</value>
  </row>
  <row id="518" trl="Y">
   <value column="MsgText" original="All / Any">Alle/Jede</value>
-  <value column="MsgTip" original=""/>
+  <value column="MsgTip" original="Match all search criteria">Match all search criteria</value>
  </row>
  <row id="519" trl="Y">
   <value column="MsgText" original="Search for using All criteria (AND) - or Any criteria (OR)">(UND) - Suche mit allen Kriterien, d. h. für eine erfolgreiche Suche müssen alle Kriterien erfüllt sein. (ODER) - Suche mit einem Kriterium, d. h. für eine erfolgreiche Suche muss ein Kriterium erfüllt sein.</value>
@@ -1684,7 +1684,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="521" trl="Y">
-  <value column="MsgText" original="Select Record &amp; Return">Eintrag auswählen und beenden</value>
+  <value column="MsgText" original="Select Record &amp; Return">Datensatz auswählen und zurück</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="522" trl="Y">
@@ -1748,7 +1748,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="537" trl="Y">
-  <value column="MsgText" original="Sequence">Reihenfolge</value>
+  <value column="MsgText" original="Sequence">Nummernkreis</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="538" trl="Y">
@@ -1856,11 +1856,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="564" trl="Y">
-  <value column="MsgText" original="Timeout - Try to check results later">Wartezeit ist abgelaufen -  bitte überprüfen Sie die Ergebnisse später.</value>
+  <value column="MsgText" original="Timeout - Try to check results later">Zeitüberschreitung - bitte überprüfen Sie die Ergebnisse später</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="565" trl="Y">
-  <value column="MsgText" original="To">Zu</value>
+  <value column="MsgText" original="To">An</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="566" trl="Y">
@@ -1936,7 +1936,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="584" trl="Y">
-  <value column="MsgText" original="Generate EFT Payments">ELV-Zahlungen erstellen</value>
+  <value column="MsgText" original="Generate EFT Payments">ELV-Zahlungen erzeugen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="585" trl="Y">
@@ -1948,7 +1948,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="587" trl="Y">
-  <value column="MsgText" original="Generate Payments from Payment Selection?">Zahlungen aus Zahlungsauswahl erstellen?</value>
+  <value column="MsgText" original="Generate Payments from Payment Selection?">Zahlungen aus Zahlungsauswahl erzeugen?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="588" trl="Y">
@@ -1956,7 +1956,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="589" trl="Y">
-  <value column="MsgText" original="Print/export generated Payments?">Erstellte Zahlungen drucken/exportieren?</value>
+  <value column="MsgText" original="Print/export generated Payments?">Erzeugte Zahlungen drucken/exportieren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="590" trl="Y">
@@ -2272,15 +2272,15 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="668" trl="Y">
-  <value column="MsgText" original="Generating shipments">Lieferscheine erstellen</value>
+  <value column="MsgText" original="Generating shipments">Lieferscheine erzeugen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="670" trl="Y">
-  <value column="MsgText" original="Select orders to generate shipments">Aufträge auswählen um Lieferscheine zu generieren</value>
+  <value column="MsgText" original="Select orders to generate shipments">Aufträge auswählen um Lieferscheine zu erzeugen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="671" trl="Y">
-  <value column="MsgText" original="Shipments are generated depending on the &quot;Delivery Rule&quot; selection in the Order">Lieferscheine werden nach dem im Auftrag gewählten "Lieferzeitpunkt" erstellt.</value>
+  <value column="MsgText" original="Shipments are generated depending on the &quot;Delivery Rule&quot; selection in the Order">Lieferscheine werden nach der im Auftrag gewählten "Lieferregel" erzeugt</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="672" trl="Y">
@@ -2304,7 +2304,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="677" trl="Y">
-  <value column="MsgText" original="Charge cannot be selected, if there is an existing Product selection (either-or). A charge needs to have it's own line.">Sie können keine Gebühr auswählen, wenn bereits eine Produktauswahl besteht (entweder - oder). Jede Gebühr muss eine eigene Position haben.</value>
+  <value column="MsgText" original="Charge cannot be selected, if there is an existing Product selection (either-or). A charge needs to have it's own line.">Sie können keine Gebühr auswählen, wenn bereits eine Artikelauswahl besteht (entweder - oder). Jede Gebühr muss eine eigene Position haben.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="678" trl="Y">
@@ -2348,15 +2348,15 @@ Fortfahren?</value>
   <value column="MsgTip" original="Check Language Setup">Überprüfen Sie die Spracheinrichtung</value>
  </row>
  <row id="695" trl="Y">
-  <value column="MsgText" original="No Product Attribute Set defined">Kein Produktattributsatz definiert</value>
+  <value column="MsgText" original="No Product Attribute Set defined">Kein Artikelattributsatz definiert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="696" trl="Y">
-  <value column="MsgText" original="No Product Attribute Information">Keine Information zum Produktmerkmal</value>
+  <value column="MsgText" original="No Product Attribute Information">Keine Information zum Artikelattribut</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="697" trl="Y">
-  <value column="MsgText" original="No Products with Attributes to select">Es stehen keine Produktmerkmale zur Auswahl</value>
+  <value column="MsgText" original="No Products with Attributes to select">Es stehen keine Artikelattribute zur Auswahl</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="698" trl="Y">
@@ -2372,11 +2372,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="701" trl="Y">
-  <value column="MsgText" original="Product Attributes">Produktmerkmale</value>
+  <value column="MsgText" original="Product Attributes">Artikelattribute</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="702" trl="Y">
-  <value column="MsgText" original="Product Attribute Instance">Produktattributinstanz</value>
+  <value column="MsgText" original="Product Attribute Instance">Artikelattributinstanz</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="703" trl="Y">
@@ -2388,7 +2388,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="705" trl="Y">
-  <value column="MsgText" original="Product Attribute Info">Info Produktmerkmal</value>
+  <value column="MsgText" original="Product Attribute Info">Info Artikelattribut</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="706" trl="Y">
@@ -2432,11 +2432,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="716" trl="Y">
-  <value column="MsgText" original="New Record">Neuer Eintrag</value>
+  <value column="MsgText" original="New Record">Neuer Datensatz</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="717" trl="Y">
-  <value column="MsgText" original="Edit Record">Eintrag bearbeiten</value>
+  <value column="MsgText" original="Edit Record">Datensatz bearbeiten</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="718" trl="Y">
@@ -2444,7 +2444,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="719" trl="Y">
-  <value column="MsgText" original="Document has Lines without MANDATORY Product Attribute Set Instance - complete first">Der Beleg enthält Positionen ohne NOTWENDIGE Produktattributsatzinstanzen - Bitte zuerst fertigstellen.</value>
+  <value column="MsgText" original="Document has Lines without MANDATORY Product Attribute Set Instance - complete first">Der Beleg enthält Positionen ohne NOTWENDIGE Artikelattributsatzinstanzen - Bitte zuerst fertigstellen.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="720" trl="Y">
@@ -2524,7 +2524,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="740" trl="Y">
-  <value column="MsgText" original="Select Product">Produkt auswählen</value>
+  <value column="MsgText" original="Select Product">Artikel auswählen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="741" trl="Y">
@@ -2596,7 +2596,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="759" trl="Y">
-  <value column="MsgText" original="&amp;Zoom Across (where used)">Zoom Across (falls verwendet)</value>
+  <value column="MsgText" original="&amp;Zoom Across (where used)"><![CDATA[&Zoom Across (falls verwendet)]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="760" trl="Y">
@@ -2668,7 +2668,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="777" trl="Y">
-  <value column="MsgText" original="&amp;Product">Produkt</value>
+  <value column="MsgText" original="&amp;Product">Artikel</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="778" trl="Y">
@@ -2712,7 +2712,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="788" trl="Y">
-  <value column="MsgText" original="Product Attribute Set has no Instance attributes (e.g. Serial No)">Der Produktattributsatz hat keine Instanzattribute (z.B. Seriennummer)</value>
+  <value column="MsgText" original="Product Attribute Set has no Instance attributes (e.g. Serial No)">Der Artikelattributsatz hat keine Instanzattribute (z.B. Seriennummer)</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="789" trl="Y">
@@ -2720,12 +2720,12 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="790" trl="Y">
-  <value column="MsgText" original="The Product UoM needs to be the smallest UoM">Die Maßeinheit eines Produkts muss die kleinste verfügbare sein</value>
+  <value column="MsgText" original="The Product UoM needs to be the smallest UoM">Die Maßeinheit eines Artikels muss die kleinste vorhandene sein</value>
   <value column="MsgTip" original="Divide Rate  must be &gt;= 1 and always result in a valid UoM unit. &#10;Example: To convert Each to Pair, the Multiply Rate is 0.5"><![CDATA[Divide Rate  must be >= 1 and always result in a valid UoM unit. 
 Example: To convert Each to Pair, the Multiply Rate is 0.5]]></value>
  </row>
  <row id="791" trl="Y">
-  <value column="MsgText" original="Select the Product UoM as the From Unit of Measure:">Wählen Sie die Maßeinheit des Produkts als Maßeinheit von:</value>
+  <value column="MsgText" original="Select the Product UoM as the From Unit of Measure:">Wählen Sie die Maßeinheit des Artikels als Maßeinheit von:</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="792" trl="Y">
@@ -2749,15 +2749,15 @@ Example: To convert Each to Pair, the Multiply Rate is 0.5]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="797" trl="Y">
-  <value column="MsgText" original="Inactivity Alert: Workflow Activity {0}">Untätigkeitsalarm: Workflowaktivität {0}</value>
+  <value column="MsgText" original="Inactivity Alert: Workflow Activity {0}">Untätigkeitsalarm: Workflow-Aktivität {0}</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="798" trl="Y">
-  <value column="MsgText" original="Alert Workflow Activity: Max Wait Time Ended {0}">Alarm Workflowaktivität: Max. Wartezeit ist abgelaufen {0}</value>
+  <value column="MsgText" original="Alert Workflow Activity: Max Wait Time Ended {0}">Alarm Workflow-Aktivität: Max. Wartezeit ist abgelaufen {0}</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="799" trl="Y">
-  <value column="MsgText" original="Alert Workflow Activity Over Priority {0}">Alarm: Workflowaktivität über Priorität {0}</value>
+  <value column="MsgText" original="Alert Workflow Activity Over Priority {0}">Alarm: Workflow-Aktivität über Priorität {0}</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="800" trl="Y">
@@ -2781,7 +2781,7 @@ Example: To convert Each to Pair, the Multiply Rate is 0.5]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="805" trl="Y">
-  <value column="MsgText" original="Product is not on PriceList">Das Produkt ist nicht auf der Preisliste</value>
+  <value column="MsgText" original="Product is not on PriceList">Der Artikel ist nicht in der Preisliste</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="806" trl="Y">
@@ -2845,11 +2845,11 @@ Example: To convert Each to Pair, the Multiply Rate is 0.5]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="821" trl="Y">
-  <value column="MsgText" original="&amp;Check Requests">Anfragen - Problemverfolgung</value>
+  <value column="MsgText" original="&amp;Check Requests">Anfragen prüfen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="822" trl="Y">
-  <value column="MsgText" original="&amp;Archived Documents/Reports">Archivierte Dokumente und Berichte</value>
+  <value column="MsgText" original="&amp;Archived Documents/Reports"><![CDATA[&Archivierte Belege und Berichte]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="823" trl="Y">
@@ -2950,7 +2950,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="847" trl="Y">
-  <value column="MsgText" original="Costing Level defined on Client Level - You cannot specify Organization nor Attribute">Die Kostenrechnungsebene ist auf Mandantenebene festgelegt - Sie können weder Organisation noch Produktmerkmal auswählen.</value>
+  <value column="MsgText" original="Costing Level defined on Client Level - You cannot specify Organization nor Attribute">Die Kostenrechnungsebene ist auf Mandantenebene festgelegt - Sie können weder Organisation noch Attribut auswählen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="848" trl="Y">
@@ -3002,7 +3002,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="860" trl="Y">
-  <value column="MsgText" original="&amp;Lookup"><![CDATA[&Lookup]]></value>
+  <value column="MsgText" original="&amp;Lookup">Nachschlagen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="861" trl="Y">
@@ -3014,7 +3014,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="863" trl="Y">
-  <value column="MsgText" original="&amp;OK">OK</value>
+  <value column="MsgText" original="&amp;OK"><![CDATA[&OK]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="864" trl="Y">
@@ -3035,7 +3035,7 @@ Fortfahren?</value>
  </row>
  <row id="868" trl="Y">
   <value column="MsgText" original="Existing Support Contract">Bestehender Supportvertrag</value>
-  <value column="MsgTip" original="Sign up for Adempiere Support - also supports the product development">Registrieren Sie sich für iDempiere-Support - damit unterstützen Sie auch die Weiterentwicklung des Produkts.</value>
+  <value column="MsgTip" original="Sign up for Adempiere Support - also supports the product development">Registrieren Sie sich für iDempiere-Support - damit unterstützen Sie auch die Weiterentwicklung</value>
  </row>
  <row id="869" trl="Y">
   <value column="MsgText" original="Supported Users">Unterstützte Benutzer</value>
@@ -3114,7 +3114,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="888" trl="Y">
-  <value column="MsgText" original="Select &amp;All"><![CDATA[&Alle auswählen]]></value>
+  <value column="MsgText" original="Select &amp;All"><![CDATA[&Alles auswählen]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="50000" trl="Y">
@@ -3158,7 +3158,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="50010" trl="Y">
-  <value column="MsgText" original="If you change the attachment storage method, the old attachments are no longer available to your client.">Wenn Sie die Art der Anhangspeicherung verändern, stehen Ihren Kunden die alten Anhänge nicht mehr zur Verfügung.</value>
+  <value column="MsgText" original="If you change the attachment storage method, the old attachments are no longer available to your client.">Wenn Sie die Art der Speicherung von Anhängen verändern, stehen dem Mandanten die alten Anhänge nicht mehr zur Verfügung.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="50011" trl="Y">
@@ -3166,7 +3166,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="50014" trl="Y">
-  <value column="MsgText" original="A loop in the product category tree has been detected - the old value will be restored">Im Baum Produktkategorie wurde eine Schleife entdeckt - der alte Wert wird wieder hergestellt.</value>
+  <value column="MsgText" original="A loop in the product category tree has been detected - the old value will be restored">Im Baum Artikelkategorie wurde eine Schleife entdeckt - der alte Wert wird wieder hergestellt.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="50015" trl="Y">
@@ -3346,7 +3346,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52042" trl="Y">
-  <value column="MsgText" original="All products">Alle Produkte</value>
+  <value column="MsgText" original="All products">Alle Artikel</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52043" trl="Y">
@@ -3382,7 +3382,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52051" trl="Y">
-  <value column="MsgText" original="Assets">Anlagen</value>
+  <value column="MsgText" original="Assets">Vermögenswerte</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52052" trl="Y">
@@ -3822,11 +3822,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52161" trl="Y">
-  <value column="MsgText" original="Edit Product">Produkt bearbeiten</value>
+  <value column="MsgText" original="Edit Product">Artikel bearbeiten</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52162" trl="Y">
-  <value column="MsgText" original="Edit related products details">Zugehörige Produktdetails bearbeiten</value>
+  <value column="MsgText" original="Edit related products details">Zugehörige Artikeldetails bearbeiten</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52163" trl="Y">
@@ -3902,7 +3902,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52181" trl="Y">
-  <value column="MsgText" original="Generate Commission">Provision erstellen</value>
+  <value column="MsgText" original="Generate Commission">Provision erzeugen</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52182" trl="Y">
@@ -4338,15 +4338,15 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52290" trl="Y">
-  <value column="MsgText" original="Product name already exists!">Der Produktname existiert bereits!</value>
+  <value column="MsgText" original="Product name already exists!">Der Artikelname existiert bereits!</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52291" trl="Y">
-  <value column="MsgText" original="Product ID">Produkt-ID</value>
+  <value column="MsgText" original="Product ID">Artikel-ID</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52292" trl="Y">
-  <value column="MsgText" original="Product Info">Info Produkt</value>
+  <value column="MsgText" original="Product Info">Info Artikel</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52293" trl="Y">
@@ -4358,7 +4358,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52295" trl="Y">
-  <value column="MsgText" original="The Products have been updated">Die Produkte wurden aktualisiert</value>
+  <value column="MsgText" original="The Products have been updated">Die Artikel wurden aktualisiert</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52296" trl="Y">
@@ -4458,11 +4458,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52320" trl="Y">
-  <value column="MsgText" original="Search Product">Produkt suchen</value>
+  <value column="MsgText" original="Search Product">Artikel suchen</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52321" trl="Y">
-  <value column="MsgText" original="No products were found for:">Keine Produkte gefunden für:</value>
+  <value column="MsgText" original="No products were found for:">Keine Artikel gefunden für:</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52322" trl="Y">
@@ -4634,7 +4634,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52364" trl="Y">
-  <value column="MsgText" original="Edit Product Attribute Value">Produktattributwert bearbeiten</value>
+  <value column="MsgText" original="Edit Product Attribute Value">Artikelattributwert bearbeiten</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52365" trl="Y">
@@ -4642,7 +4642,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52366" trl="Y">
-  <value column="MsgText" original="Generate Commission">Provision erstellen</value>
+  <value column="MsgText" original="Generate Commission">Provision erzeugen</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52367" trl="Y">
@@ -4706,7 +4706,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52382" trl="Y">
-  <value column="MsgText" original="Products">Produkte</value>
+  <value column="MsgText" original="Products">Artikel</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52383" trl="Y">
@@ -4798,7 +4798,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52406" trl="Y">
-  <value column="MsgText" original="Textile Products Only">Nur Textilprodukte</value>
+  <value column="MsgText" original="Textile Products Only">Nur Textilartikel</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52407" trl="Y">
@@ -4826,7 +4826,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52413" trl="Y">
-  <value column="MsgText" original="To">Zu</value>
+  <value column="MsgText" original="To">An</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52414" trl="Y">
@@ -4978,7 +4978,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52451" trl="Y">
-  <value column="MsgText" original="Present for Product">Für Produkt vorhanden</value>
+  <value column="MsgText" original="Present for Product">Für Artikel vorhanden</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52452" trl="Y">
@@ -5150,7 +5150,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="52496" trl="Y">
-  <value column="MsgText" original="Writeoff Amount">Writeoff Amount</value>
+  <value column="MsgText" original="Writeoff Amount">Abschreibungsbetrag</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53001" trl="Y">
@@ -5162,11 +5162,11 @@ Fortfahren?</value>
   <value column="MsgTip" original="Selected Menu Item is already registered on Bookmarks Bar">Der ausgewählte Menüeintrag ist bereits im Lesezeichenmenü gespeichert</value>
  </row>
  <row id="53003" trl="Y">
-  <value column="MsgText" original="Cannot delete line with generated Invoice">Die Position kann mit der erstellten Rechnung nicht gelöscht werden</value>
+  <value column="MsgText" original="Cannot delete line with generated Invoice">Die Position kann mit der erzeugten Rechnung nicht gelöscht werden</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53004" trl="Y">
-  <value column="MsgText" original="Cannot change line with generated Invoice">Die Position kann mit der erstellten Rechnung nicht geändert werden</value>
+  <value column="MsgText" original="Cannot change line with generated Invoice">Die Position kann mit der erzeugten Rechnung nicht geändert werden</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53005" trl="Y">
@@ -5227,7 +5227,7 @@ Fortfahren?</value>
  </row>
  <row id="53019" trl="Y">
   <value column="MsgText" original="Time Fence Conflict">Konflikt im Planungszeitraum</value>
-  <value column="MsgTip" original="Indicates that there is an unsatisfied material requirement inside the planning time fence for this product. You should either manually schedule and expedite orders to fill this demand or delay fulfillment of the requirement that created the demand.">Zeigt an, dass es im Planungszeitraum einen unbefriedigten Materialbedarf für dieses Produkt gibt. Sie sollten Aufträge entweder manuell planen und beschleunigen, um den Bedarf zu erfüllen oder die Erfüllung des ursächlichen Bedarfs verzögern.</value>
+  <value column="MsgTip" original="Indicates that there is an unsatisfied material requirement inside the planning time fence for this product. You should either manually schedule and expedite orders to fill this demand or delay fulfillment of the requirement that created the demand.">Zeigt an, dass es im Planungszeitraum einen unbefriedigten Materialbedarf für diesen Artikel gibt. Sie sollten Aufträge entweder manuell planen und beschleunigen, um den Bedarf zu erfüllen oder die Erfüllung des ursächlichen Bedarfs verzögern.</value>
  </row>
  <row id="53020" trl="Y">
   <value column="MsgText" original="Past Due">Überfällig</value>
@@ -5235,7 +5235,7 @@ Fortfahren?</value>
  </row>
  <row id="53021" trl="Y">
   <value column="MsgText" original="No Data Planning">Keine Datenplanung</value>
-  <value column="MsgTip" original="indicates that there is no data planning for this product">Zeigt an, dass es für dieses Produkt keine Datenplanung gibt.</value>
+  <value column="MsgTip" original="indicates that there is no data planning for this product">Zeigt an, dass es für diesen Artikel keine Datenplanung gibt</value>
  </row>
  <row id="53022" trl="Y">
   <value column="MsgText" original="Beginning Available Less Than Zero">Anfangsbestand unter Null</value>
@@ -5294,7 +5294,7 @@ Fortfahren?</value>
   <value column="MsgTip" original="Do not exist Shipper for Create Distribution Order">Es ist kein Spediteur für den erstellten Distributionsauftrag eingetragen.</value>
  </row>
  <row id="53043" trl="Y">
-  <value column="MsgText" original="UOM can't be changed if the product has movements or costs">Maßeinheit kann nicht geändert werden, wenn das Produkt bereits Bewegungen oder Kosten hat</value>
+  <value column="MsgText" original="UOM can't be changed if the product has movements or costs">Maßeinheit kann nicht geändert werden, wenn der Artikel bereits Bewegungen oder Kosten hat</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53044" trl="Y">
@@ -5315,14 +5315,14 @@ Fortfahren?</value>
  </row>
  <row id="53048" trl="Y">
   <value column="MsgText" original="No Current Vendor Selected">Kein aktueller Lieferant ausgewählt</value>
-  <value column="MsgTip" original="Indicates that the Product has no Current Vendor selected">Zeigt an, dass kein aktueller Lieferant für das Produkt ausgewählt wurde</value>
+  <value column="MsgTip" original="Indicates that the Product has no Current Vendor selected">Zeigt an, dass kein aktueller Lieferant für den Artikel ausgewählt wurde</value>
  </row>
  <row id="53049" trl="Y">
   <value column="MsgText" original="Check attached file">Angehängte Datei prüfen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53050" trl="Y">
-  <value column="MsgText" original="No Vendor for Product : ">Kein Lieferant für Produkt:</value>
+  <value column="MsgText" original="No Vendor for Product : ">Kein Lieferant für Artikel:</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53051" trl="Y">
@@ -5331,11 +5331,11 @@ Fortfahren?</value>
  </row>
  <row id="53052" trl="Y">
   <value column="MsgText" original="Shipment Past Due">Lieferung überfällig</value>
-  <value column="MsgTip" original="Indicates that a shipment for a Order Distribution is past due. You should either delay the orders created the requirement for the product or expedite them when the product does arrive.">Zeigt an, dass die Lieferung für einen Distributionsauftrag überfällig ist. Sie sollten die erstellten Aufträge bei Bedarf des Produkts entweder hinauszögern oder sie ausführen, wenn das Produkt eintrifft.</value>
+  <value column="MsgTip" original="Indicates that a shipment for a Order Distribution is past due. You should either delay the orders created the requirement for the product or expedite them when the product does arrive.">Zeigt an, dass die Lieferung für einen Distributionsauftrag überfällig ist. Sie sollten die erstellten Aufträge bei Bedarf des Artikels entweder hinauszögern oder sie ausführen, wenn der Artikel eintrifft.</value>
  </row>
  <row id="53053" trl="Y">
   <value column="MsgText" original="No source of supply">Keine Bezugsquelle</value>
-  <value column="MsgTip" original="Indicates that the Product Planning Data for this product does not specify a valid network distribution.">Zeigt an, dass die Produktplanungsdaten für dieses Produkt keine gültige Netzwerkdistribution spezifizieren.</value>
+  <value column="MsgTip" original="Indicates that the Product Planning Data for this product does not specify a valid network distribution.">Zeigt an, dass die Produktplanungsdaten für diesen Artikel keine gültige Netzwerkdistribution spezifizieren.</value>
  </row>
  <row id="53054" trl="Y">
   <value column="MsgText" original="Beginning Quantity Less Than Zero">Startmenge ist kleiner als Null</value>
@@ -5474,11 +5474,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53099" trl="Y">
-  <value column="MsgText" original="The page or component you request is no longer available. This is normally caused by timeout or rebooting the server.">Die aufgerufene Seite oder Komponente ist nicht mehr verfügbar. Das wird meistens durch ein Timeout oder einen Neustart des Servers verursacht.</value>
+  <value column="MsgText" original="The page or component you request is no longer available. This is normally caused by timeout or rebooting the server.">Die aufgerufene Seite oder Komponente ist nicht mehr verfügbar. Das wird meistens durch eine Zeitüberschreitung oder einen Neustart des Servers verursacht.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53117" trl="Y">
-  <value column="MsgText" original="Cc">Cc</value>
+  <value column="MsgText" original="Cc">CC</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53118" trl="Y">
@@ -5487,7 +5487,7 @@ Fortfahren?</value>
  </row>
  <row id="53119" trl="Y">
   <value column="MsgText" original="Error in payment schedule">Fehler im Zahlungsplan</value>
-  <value column="MsgTip" original="Check the payment schedule.  If the payment term has a schema then the document must have a schedule (is auto-generated if empty) and the schedule must sum the total of the document.  If the payment term doesn't have a schema, then the document must not have schedule.">Check the payment schedule.  If the payment term has a schema then the document must have a schedule (is auto-generated if empty) and the schedule must sum the total of the document.  If the payment term doesn't have a schema, then the document must not have schedule.</value>
+  <value column="MsgTip" original="Check the payment schedule.  If the payment term has a schema then the document must have a schedule (is auto-generated if empty) and the schedule must sum the total of the document.  If the payment term doesn't have a schema, then the document must not have schedule.">Zahlungsplan überprüfen. Falls die Zahlungsbedingung ein Schema hat, dann muss der Beleg einen Zeitplan haben (ist auto-generiert falls leer) und der Zeitplan muss den Gesamtbetrag des Belegs summieren. Falls die Zahlungsbedingung kein Schema hat, dann darf der Beleg keinen Zeitplan haben.</value>
  </row>
  <row id="53120" trl="Y">
   <value column="MsgText" original="c">c</value>
@@ -5538,11 +5538,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53132" trl="Y">
-  <value column="MsgText" original="Negative inventory disallowed in this warehouse">Negative inventory disallowed in this warehouse</value>
+  <value column="MsgText" original="Negative inventory disallowed in this warehouse">Negative Bestände sind in diesem Lager unzulässig</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53133" trl="Y">
-  <value column="MsgText" original="Save and Create New">Save and Create New</value>
+  <value column="MsgText" original="Save and Create New">Speichern und Neu</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53134" trl="Y">
@@ -5594,7 +5594,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200005" trl="Y">
-  <value column="MsgText" original="Remove all items from tree ?">Remove all items from tree ?</value>
+  <value column="MsgText" original="Remove all items from tree ?">Alle Elemente vom Baum entfernen?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200006" trl="Y">
@@ -5602,7 +5602,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200007" trl="Y">
-  <value column="MsgText" original="Cannot Lock - ReSubmit">Cannot Lock - ReSubmit</value>
+  <value column="MsgText" original="Cannot Lock - ReSubmit">Kann nicht sperren -- bitte neu abschicken</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200008" trl="Y">
@@ -5630,7 +5630,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200014" trl="Y">
-  <value column="MsgText" original="{0} tasks completed from {1} ({2}% advance)">{0} tasks completed from {1} ({2}% advance)</value>
+  <value column="MsgText" original="{0} tasks completed from {1} ({2}% advance)">{0} Aufgaben fertiggestellt von {1} ({2}% Fortschritt)</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200015" trl="Y">
@@ -5642,7 +5642,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200025" trl="Y">
-  <value column="MsgText" original="Document type cannot be changed when overwrite document number on complete is set and the document was already processed">Document type cannot be changed when overwrite document number on complete is set and the document was already processed</value>
+  <value column="MsgText" original="Document type cannot be changed when overwrite document number on complete is set and the document was already processed">Die Belegart kann nicht geändert werden wenn "Belegnummer nach Fertigstellung überschreiben" gesetzt ist und der Beleg bereits verarbeitet ist.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200026" trl="Y">
@@ -5662,7 +5662,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200030" trl="Y">
-  <value column="MsgText" original="Confirm New Password is Mandatory">Confirm New Password is Mandatory</value>
+  <value column="MsgText" original="Confirm New Password is Mandatory">Passwortbestätigung ist Pflicht</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200031" trl="Y">
@@ -5714,7 +5714,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200043" trl="Y">
-  <value column="MsgText" original="No account defined for this organization / currency">No account defined for this organization / currency</value>
+  <value column="MsgText" original="No account defined for this organization / currency">Kein Konto für diese Organisation / Währung definiert</value>
   <value column="MsgTip" original="Create an account on the bank account window for the organization / currency, the POS payments will be created on the defined account">Create an account on the bank account window for the organization / currency, the POS payments will be created on the defined account</value>
  </row>
  <row id="200044" trl="Y">
@@ -5914,7 +5914,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200095" trl="Y">
-  <value column="MsgText" original="Summary Fields">Summary Fields</value>
+  <value column="MsgText" original="Summary Fields">Zusammenfassung Felder</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200096" trl="Y">
@@ -5930,7 +5930,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200101" trl="Y">
-  <value column="MsgText" original="Payment transaction already voided">Payment transaction already voided</value>
+  <value column="MsgText" original="Payment transaction already voided">Zahlungstransaktion ist bereits storniert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200102" trl="Y">
@@ -5938,7 +5938,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200103" trl="Y">
-  <value column="MsgText" original="Payment already voided">Payment already voided</value>
+  <value column="MsgText" original="Payment already voided">Zahlung bereits storniert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200104" trl="Y">
@@ -5950,7 +5950,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200106" trl="Y">
-  <value column="MsgText" original="Payment transaction already processed">Payment transaction already processed</value>
+  <value column="MsgText" original="Payment transaction already processed">Zahlungstransaktion ist bereits verarbeitet</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200107" trl="Y">
@@ -6019,6 +6019,58 @@ Fortfahren?</value>
  </row>
  <row id="200130" trl="Y">
   <value column="MsgText" original="Acknowledge">Bestätigen</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200131" trl="Y">
+  <value column="MsgText" original="In order mark a column as a Key,the character 'K' must be used in capital letter.">In order mark a column as a Key,the character 'K' must be used in capital letter.</value>
+  <value column="MsgTip" original=" 'K' must be used in capital letter."> 'K' must be used in capital letter.</value>
+ </row>
+ <row id="200132" trl="Y">
+  <value column="MsgText" original="There must be key columns in order to update or merge record(s).">There must be key columns in order to update or merge record(s).</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200133" trl="Y">
+  <value column="MsgText" original="More than one row has been found and this record cannot be inserted or updated">Mehr als ein Datensatz wurde gefunden und dieser Datensatz kann nicht eingefügt oder aktualisiert werden</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200134" trl="Y">
+  <value column="MsgText" original="Import Mode: ">Import Modus:</value>
+  <value column="MsgTip" original="Import Mode">Import Modus</value>
+ </row>
+ <row id="200135" trl="Y">
+  <value column="MsgText" original="Invalid User ID or Password">Ungültige Benutzer-ID oder Passwort</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200136" trl="Y">
+  <value column="MsgText" original="All records">Alle Datensätze</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200137" trl="Y">
+  <value column="MsgText" original="Short list items">Short list items</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200138" trl="Y">
+  <value column="MsgText" original="Short list / All">Short list / All</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200139" trl="Y">
+  <value column="MsgText" original="Getting Started">Erste Schritte</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200140" trl="Y">
+  <value column="MsgText" original="Tool Tip">Tool Tip</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200141" trl="Y">
+  <value column="MsgText" original="How To">How To</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200142" trl="Y">
+  <value column="MsgText" original="Place your cursor into a field on the screen">Setzen Sie den Mauszeiger in ein Feld auf dem Bildschirm</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200143" trl="Y">
+  <value column="MsgText" original="Not available">Nicht verfügbar</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="520010" trl="Y">

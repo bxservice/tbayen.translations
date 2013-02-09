@@ -104,14 +104,14 @@
  </row>
  <row id="118" trl="Y">
   <value column="Name" original="Account">Konto</value>
-  <value column="Description" original="Account Element">Konto laut Kontenplan</value>
+  <value column="Description" original="Account Element">Kontenplan</value>
  </row>
  <row id="119" trl="Y">
   <value column="Name" original="User defined">Benutzerdefiniert</value>
   <value column="Description" original="User defined element">Benutzerdefiniertes Element</value>
  </row>
  <row id="120" trl="Y">
-  <value column="Name" original="Asset">Anlagen</value>
+  <value column="Name" original="Asset">Vermögenswert</value>
   <value column="Description" original="Asset (Balance Sheet) Account">Anlagenkonto (Bilanzaufstellung)</value>
  </row>
  <row id="121" trl="Y">
@@ -155,7 +155,7 @@
   <value column="Description" original="Account, etc.">Konto, etc.</value>
  </row>
  <row id="131" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
+  <value column="Name" original="Product">Artikel</value>
   <value column="Description" original=""/>
  </row>
  <row id="132" trl="Y">
@@ -304,7 +304,7 @@
  </row>
  <row id="178" trl="Y">
   <value column="Name" original="Complete">Fertigstellen</value>
-  <value column="Description" original="Generate documents and complete transaction">Belege erstellen und Vorgang abschließen</value>
+  <value column="Description" original="Generate documents and complete transaction">Belege erzeugen und Vorgang abschließen</value>
  </row>
  <row id="179" trl="Y">
   <value column="Name" original="Approve">Genehmigen</value>
@@ -340,7 +340,7 @@
  </row>
  <row id="188" trl="Y">
   <value column="Name" original="Re-activate">Reaktivieren</value>
-  <value column="Description" original="Reopen Document and Reverse automaticly generated documents; You need to Complete the transaction after the change. ">Beleg erneut öffnen und automatisch erstellte Belege rückgängig machen. Sie müssen den Vorgang nach der Änderung abschließen.</value>
+  <value column="Description" original="Reopen Document and Reverse automaticly generated documents; You need to Complete the transaction after the change. ">Beleg erneut öffnen und automatisch erzeugte Belege rückgängig machen. Sie müssen den Vorgang nach der Änderung abschließen.</value>
  </row>
  <row id="189" trl="Y">
   <value column="Name" original="&lt;None&gt;"><![CDATA[<Nichts/Keine>]]></value>
@@ -423,7 +423,7 @@
   <value column="Description" original="Invoice for every order">Rechnung für jeden Auftrag</value>
  </row>
  <row id="215" trl="Y">
-  <value column="Name" original="After Delivery">Nach Lieferung</value>
+  <value column="Name" original="After Delivery">Fällig nach Lieferung</value>
   <value column="Description" original="Invoice per Delivery">Rechnung pro Lieferung</value>
  </row>
  <row id="216" trl="Y">
@@ -635,8 +635,8 @@
   <value column="Description" original="Natural Account">Basiskonto</value>
  </row>
  <row id="274" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
-  <value column="Description" original="Product">Produkt</value>
+  <value column="Name" original="Product">Artikel</value>
+  <value column="Description" original="Product">Artikel</value>
  </row>
  <row id="275" trl="Y">
   <value column="Name" original="BPartner">GPartner</value>
@@ -691,7 +691,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="288" trl="Y">
-  <value column="Name" original="Product Category">Produktkategorie</value>
+  <value column="Name" original="Product Category">Artikelkategorie</value>
   <value column="Description" original=""/>
  </row>
  <row id="289" trl="Y">
@@ -979,7 +979,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="377" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
+  <value column="Name" original="Product">Artikel</value>
   <value column="Description" original=""/>
  </row>
  <row id="378" trl="Y">
@@ -1019,7 +1019,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="387" trl="Y">
-  <value column="Name" original="String">Zeichenkette</value>
+  <value column="Name" original="String">V_String</value>
   <value column="Description" original=""/>
  </row>
  <row id="388" trl="Y">
@@ -1031,7 +1031,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="390" trl="Y">
-  <value column="Name" original="Constant">Konstante</value>
+  <value column="Name" original="Constant">Konstant</value>
   <value column="Description" original=""/>
  </row>
  <row id="391" trl="Y">
@@ -1163,7 +1163,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="423" trl="Y">
-  <value column="Name" original="Service">Service</value>
+  <value column="Name" original="Service">Dienstleistung</value>
   <value column="Description" original=""/>
  </row>
  <row id="424" trl="Y">
@@ -1295,7 +1295,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="465" trl="Y">
-  <value column="Name" original="Bank Statement">Kontoauszug</value>
+  <value column="Name" original="Bank Statement">Bankauszug</value>
   <value column="Description" original=""/>
  </row>
  <row id="466" trl="Y">
@@ -1583,11 +1583,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="539" trl="Y">
-  <value column="Name" original="Item">Ware</value>
+  <value column="Name" original="Item">Stück</value>
   <value column="Description" original=""/>
  </row>
  <row id="540" trl="Y">
-  <value column="Name" original="Service">Service</value>
+  <value column="Name" original="Service">Dienstleistung</value>
   <value column="Description" original=""/>
  </row>
  <row id="541" trl="Y">
@@ -1867,7 +1867,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="611" trl="Y">
-  <value column="Name" original="Sub Workflow">Subworkflow</value>
+  <value column="Name" original="Sub Workflow">Sub-Workflow</value>
   <value column="Description" original=""/>
  </row>
  <row id="612" trl="Y">
@@ -2111,7 +2111,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="675" trl="Y">
-  <value column="Name" original="Drop Ship Confirm">Bestätigung Streckengeschäft</value>
+  <value column="Name" original="Drop Ship Confirm">Bestätigung Direktlieferung</value>
   <value column="Description" original=""/>
  </row>
  <row id="676" trl="Y">
@@ -2203,7 +2203,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="699" trl="Y">
-  <value column="Name" original="Receivables &amp; Payables"><![CDATA[Forderungen & Verbindlichkeiten]]></value>
+  <value column="Name" original="Receivables &amp; Payables">Forderungen und Verbindlichkeiten</value>
   <value column="Description" original=""/>
  </row>
  <row id="700" trl="Y">
@@ -2280,7 +2280,7 @@
  </row>
  <row id="718" trl="Y">
   <value column="Name" original="Resource">Ressource</value>
-  <value column="Description" original="Labor">Arbeit</value>
+  <value column="Description" original="Labor">Arbeiten</value>
  </row>
  <row id="719" trl="Y">
   <value column="Name" original="Quantity">Menge</value>
@@ -2391,7 +2391,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="747" trl="Y">
-  <value column="Name" original="Maintenance">Wartung</value>
+  <value column="Name" original="Maintenance">Verwaltung</value>
   <value column="Description" original=""/>
  </row>
  <row id="748" trl="Y">
@@ -2415,11 +2415,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="753" trl="Y">
-  <value column="Name" original="Standard Product">Standardprodukt</value>
+  <value column="Name" original="Standard Product">Standardartikel</value>
   <value column="Description" original=""/>
  </row>
  <row id="754" trl="Y">
-  <value column="Name" original="Optional Product">Optionales Produkt</value>
+  <value column="Name" original="Optional Product">Optionaler Artikel</value>
   <value column="Description" original=""/>
  </row>
  <row id="755" trl="Y">
@@ -2539,7 +2539,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="785" trl="Y">
-  <value column="Name" original="PO Commitment &amp; Reservation"><![CDATA[PO Commitment & Reservation]]></value>
+  <value column="Name" original="PO Commitment &amp; Reservation"><![CDATA[Bindende Bestellung & Reservierung]]></value>
   <value column="Description" original=""/>
  </row>
  <row id="786" trl="Y">
@@ -2655,7 +2655,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="814" trl="Y">
-  <value column="Name" original="System generated">Systemgeneriert</value>
+  <value column="Name" original="System generated">Systemerzeugt</value>
   <value column="Description" original=""/>
  </row>
  <row id="815" trl="Y">
@@ -2727,7 +2727,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="832" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
+  <value column="Name" original="Product">Artikel</value>
   <value column="Description" original=""/>
  </row>
  <row id="833" trl="Y">
@@ -2735,7 +2735,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="834" trl="Y">
-  <value column="Name" original="Product Category">Produktkategorie</value>
+  <value column="Name" original="Product Category">Artikelkategorie</value>
   <value column="Description" original=""/>
  </row>
  <row id="835" trl="Y">
@@ -2767,7 +2767,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="842" trl="Y">
-  <value column="Name" original="Constant">Konstante</value>
+  <value column="Name" original="Constant">Konstant</value>
   <value column="Description" original=""/>
  </row>
  <row id="843" trl="Y">
@@ -2815,7 +2815,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="855" trl="Y">
-  <value column="Name" original="MM">MM</value>
+  <value column="Name" original="MM">MW</value>
   <value column="Description" original=""/>
  </row>
  <row id="856" trl="Y">
@@ -2947,15 +2947,15 @@
   <value column="Description" original=""/>
  </row>
  <row id="889" trl="Y">
-  <value column="Name" original="CM Container Stage">CM Container Stage</value>
+  <value column="Name" original="CM Container Stage">CM Container-Stage</value>
   <value column="Description" original=""/>
  </row>
  <row id="890" trl="Y">
-  <value column="Name" original="CM Template">CM Template</value>
+  <value column="Name" original="CM Template">CM Vorlage</value>
   <value column="Description" original=""/>
  </row>
  <row id="891" trl="Y">
-  <value column="Name" original="CM Media">CM Media</value>
+  <value column="Name" original="CM Media">CM Medien</value>
   <value column="Description" original=""/>
  </row>
  <row id="892" trl="Y">
@@ -2963,7 +2963,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="893" trl="Y">
-  <value column="Name" original="Committed Amount">Zugesagter Betrag</value>
+  <value column="Name" original="Committed Amount">Höhe der Gesamtzusagen</value>
   <value column="Description" original=""/>
  </row>
  <row id="894" trl="Y">
@@ -2975,7 +2975,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="896" trl="Y">
-  <value column="Name" original="Product  Quantity">Produktmenge</value>
+  <value column="Name" original="Product  Quantity">Artikelmenge</value>
   <value column="Description" original=""/>
  </row>
  <row id="897" trl="Y">
@@ -3119,7 +3119,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="932" trl="Y">
-  <value column="Name" original="Published">Veröffentlicht</value>
+  <value column="Name" original="Published">Öffentlich</value>
   <value column="Description" original=""/>
  </row>
  <row id="933" trl="Y">
@@ -3163,7 +3163,7 @@
   <value column="Description" original="This type of transfer will transfer objects to the same Adempiere instance">Bei dieser Art Transfer werden Objekte zur selben iDempiere-Installation übertragen</value>
  </row>
  <row id="50002" trl="Y">
-  <value column="Name" original="Remote Transfer">Remote Transfer</value>
+  <value column="Name" original="Remote Transfer">Entfernte Übertragung</value>
   <value column="Description" original="This type of transfer will transfer objects to another Adempiere installation accessible by network.">Bei dieser Art Transfer werden Objekte zu einer anderen, über das Netzwerk erreichbaren iDempiere-Installation übertragen.</value>
  </row>
  <row id="50003" trl="Y">
@@ -3263,7 +3263,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="50027" trl="Y">
-  <value column="Name" original="ReportView">ReportView</value>
+  <value column="Name" original="ReportView">Berichtsansicht</value>
   <value column="Description" original=""/>
  </row>
  <row id="50028" trl="Y">
@@ -3315,7 +3315,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="50041" trl="Y">
-  <value column="Name" original="Dynamic Validation Rule">Regeln für die dynamische Validierung</value>
+  <value column="Name" original="Dynamic Validation Rule">Regel für die dynamische Validierung</value>
   <value column="Description" original=""/>
  </row>
  <row id="50042" trl="Y">
@@ -3331,7 +3331,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="52000" trl="Y">
-  <value column="Name" original="Mixed POS Payment">Mixed POS Payment</value>
+  <value column="Name" original="Mixed POS Payment">Vermischte Zahlung Kasse</value>
   <value column="Description" original=""/>
  </row>
  <row id="52001" trl="Y">
@@ -3403,7 +3403,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53242" trl="Y">
-  <value column="Name" original="Product Configure">Produktkonfiguration</value>
+  <value column="Name" original="Product Configure">Artikelkonfiguration</value>
   <value column="Description" original=""/>
  </row>
  <row id="53243" trl="Y">
@@ -3440,7 +3440,7 @@
  </row>
  <row id="53251" trl="Y">
   <value column="Name" original="Batch Flow ">Batch Flow </value>
-  <value column="Description" original="The diferent Continuos Flow is that two or more products are manufactured in the same facility (long setup times the run time is hours or several days.)">Bei konstanten Flows werden zwei oder mehrere Produkte in derselben Anlage hergestellt, z.B. bei langen Vorlaufzeiten oder Laufzeiten.</value>
+  <value column="Description" original="The diferent Continuos Flow is that two or more products are manufactured in the same facility (long setup times the run time is hours or several days.)">Bei konstanten Flows werden zwei oder mehrere Artikel in derselben Anlage hergestellt, z.B. bei langen Vorlaufzeiten oder Laufzeiten.</value>
  </row>
  <row id="53252" trl="Y">
   <value column="Name" original="Continuous Flow">Fließfertigung</value>
@@ -3567,7 +3567,7 @@
   <value column="Description" original="Backward  Schedule ">Rückwärts planen</value>
  </row>
  <row id="53283" trl="Y">
-  <value column="Name" original="Forward">Vorwärts</value>
+  <value column="Name" original="Forward">Weiterleiten</value>
   <value column="Description" original="Scheduke Forward">Vorwärts planen</value>
  </row>
  <row id="53284" trl="Y">
@@ -3831,7 +3831,7 @@
   <value column="Description" original="Depreciation entered in field is an amount">Die Abschreibung in diesem Feld ist ein Betrag</value>
  </row>
  <row id="53357" trl="Y">
-  <value column="Name" original="Rate">Abschreibungs- / Tilgungsrate</value>
+  <value column="Name" original="Rate">Rate / Satz</value>
   <value column="Description" original="Depreciation entered in field is a rate">Die Abschreibung in diesem Feld ist ein Satz</value>
  </row>
  <row id="53358" trl="Y">
@@ -4031,12 +4031,12 @@
   <value column="Description" original="Revaluation of Asset">Neubewertung des Vermögenswerts</value>
  </row>
  <row id="53407" trl="Y">
-  <value column="Name" original="Setup">Setup</value>
+  <value column="Name" original="Setup">Einrichtung</value>
   <value column="Description" original="Asset Accounting Setup Modified">Die Einrichtung Anlagenbuchführung wurde geändert</value>
  </row>
  <row id="53408" trl="Y">
   <value column="Name" original="Split">Aufteilung</value>
-  <value column="Description" original="Asset Split">Aufteilung Vermögenswert</value>
+  <value column="Description" original="Asset Split">A_Asset_Split_ID</value>
  </row>
  <row id="53409" trl="Y">
   <value column="Name" original="Transfer">Übertragung</value>
@@ -4111,8 +4111,8 @@
   <value column="Description" original="Project">Projekt</value>
  </row>
  <row id="53427" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
-  <value column="Description" original="Product">Produkt</value>
+  <value column="Name" original="Product">Artikel</value>
+  <value column="Description" original="Product">Artikel</value>
  </row>
  <row id="53428" trl="Y">
   <value column="Name" original="Sub Account">Unterkonto</value>
@@ -4171,7 +4171,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53444" trl="Y">
-  <value column="Name" original="Usege Variance">Verbrauchsabweichung</value>
+  <value column="Name" original="Usege Variance">Abweichung Verbrauch</value>
   <value column="Description" original=""/>
  </row>
  <row id="53445" trl="Y">
@@ -4179,11 +4179,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="53446" trl="Y">
-  <value column="Name" original="Rate Variance">Rate Variance</value>
+  <value column="Name" original="Rate Variance">Abweichung Gebührensatz</value>
   <value column="Description" original=""/>
  </row>
  <row id="53447" trl="Y">
-  <value column="Name" original="Mix Variance">Mix Variance</value>
+  <value column="Name" original="Mix Variance">Abweichung Mischung</value>
   <value column="Description" original=""/>
  </row>
  <row id="53448" trl="Y">
@@ -4196,10 +4196,10 @@
  </row>
  <row id="53450" trl="Y">
   <value column="Name" original="Make-To-Kit">Ausstattung für Einzelfertigung</value>
-  <value column="Description" original="Create a Manufacturing Order, Receipt the finish product and issue the Components automaticaly ">Erstellen Sie einen Arbeitsauftrag, empfangen Sie das fertige Produkt und führen Sie die Ausgabe der Komponenten automatisch durch.</value>
+  <value column="Description" original="Create a Manufacturing Order, Receipt the finish product and issue the Components automaticaly ">Erstellen Sie einen Arbeitsauftrag, empfangen Sie den fertigen Artikel und führen Sie die Ausgabe der Komponenten automatisch durch.</value>
  </row>
  <row id="53451" trl="Y">
-  <value column="Name" original="Constant">Konstante</value>
+  <value column="Name" original="Constant">Konstant</value>
   <value column="Description" original=""/>
  </row>
  <row id="53452" trl="Y">
@@ -4207,7 +4207,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53453" trl="Y">
-  <value column="Name" original="Manufacturing Cost Collector">Kostensammler Herstellung</value>
+  <value column="Name" original="Manufacturing Cost Collector">Kostensammler Fertigung</value>
   <value column="Description" original=""/>
  </row>
  <row id="53454" trl="Y">
@@ -4219,11 +4219,11 @@
   <value column="Description" original=""/>
  </row>
  <row id="53456" trl="Y">
-  <value column="Name" original="Integer">Ganze Zahl</value>
+  <value column="Name" original="Integer">Ganzzahl</value>
   <value column="Description" original=""/>
  </row>
  <row id="53457" trl="Y">
-  <value column="Name" original="String">Zeichenkette</value>
+  <value column="Name" original="String">V_String</value>
   <value column="Description" original=""/>
  </row>
  <row id="53462" trl="Y">
@@ -4259,7 +4259,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53470" trl="Y">
-  <value column="Name" original="Flat Discount">Fester Rabatt</value>
+  <value column="Name" original="Flat Discount">Festrabatt</value>
   <value column="Description" original=""/>
  </row>
  <row id="53471" trl="Y">
@@ -4483,7 +4483,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53580" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
+  <value column="Name" original="Product">Artikel</value>
   <value column="Description" original=""/>
  </row>
  <row id="53583" trl="Y">
@@ -4495,7 +4495,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53588" trl="Y">
-  <value column="Name" original="Disposed">Entsorgt</value>
+  <value column="Name" original="Disposed">Eliminiert</value>
   <value column="Description" original=""/>
  </row>
  <row id="53589" trl="Y">
@@ -4783,7 +4783,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="200039" trl="Y">
-  <value column="Name" original="Asset">Anlagen</value>
+  <value column="Name" original="Asset">Vermögenswert</value>
   <value column="Description" original=""/>
  </row>
  <row id="200043" trl="Y">
@@ -5058,36 +5058,64 @@
   <value column="Name" original="Process Shipment">Lieferung verarbeiten </value>
   <value column="Description" original=""/>
  </row>
- <row id="200112" trl="N">
+ <row id="200112" trl="Y">
   <value column="Name" original="Like">Like</value>
   <value column="Description" original=""/>
  </row>
- <row id="200113" trl="N">
+ <row id="200113" trl="Y">
   <value column="Name" original="=">=</value>
   <value column="Description" original=""/>
  </row>
- <row id="200114" trl="N">
+ <row id="200114" trl="Y">
   <value column="Name" original="&gt;"><![CDATA[>]]></value>
   <value column="Description" original=""/>
  </row>
- <row id="200115" trl="N">
+ <row id="200115" trl="Y">
   <value column="Name" original="&gt;="><![CDATA[>=]]></value>
   <value column="Description" original=""/>
  </row>
- <row id="200116" trl="N">
+ <row id="200116" trl="Y">
   <value column="Name" original="&lt;"><![CDATA[<]]></value>
   <value column="Description" original=""/>
  </row>
- <row id="200117" trl="N">
+ <row id="200117" trl="Y">
   <value column="Name" original="&lt;="><![CDATA[<=]]></value>
   <value column="Description" original=""/>
  </row>
- <row id="200118" trl="N">
+ <row id="200118" trl="Y">
   <value column="Name" original="!=">!=</value>
   <value column="Description" original=""/>
  </row>
- <row id="200119" trl="N">
-  <value column="Name" original="Info">Info</value>
-  <value column="Description" original="Info Window">Info Window</value>
+ <row id="200119" trl="Y">
+  <value column="Name" original="Info">Information</value>
+  <value column="Description" original="Info Window">Infofenster</value>
+ </row>
+ <row id="200126" trl="Y">
+  <value column="Name" original="Tab">Register</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200127" trl="Y">
+  <value column="Name" original="Process">Prozess</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200128" trl="Y">
+  <value column="Name" original="Form">Formular</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200129" trl="Y">
+  <value column="Name" original="Info">Information</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200130" trl="Y">
+  <value column="Name" original="Workflow">Workflow</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200132" trl="Y">
+  <value column="Name" original="Task">Aufgabe</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200133" trl="Y">
+  <value column="Name" original="Home">Übersicht</value>
+  <value column="Description" original=""/>
  </row>
 </idempiereTrl>

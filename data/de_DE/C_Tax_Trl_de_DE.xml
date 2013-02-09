@@ -8,28 +8,43 @@
   <value column="TaxIndicator" original=""/>
  </row>
  <row id="105" trl="Y">
-  <value column="Name" original="CT Sales">CT Verkäufe</value>
+  <value column="Name" original="CT Sales">CT Sales</value>
   <value column="Description" original=""/>
-  <value column="TaxIndicator" original="6%CT">6% CT</value>
+  <value column="TaxIndicator" original="6%CT">6%CT</value>
  </row>
- <row id="106" trl="N">
+ <row id="106" trl="Y">
   <value column="Name" original="GST">GST</value>
   <value column="Description" original="Canadian Federal Sales Tax">Canadian Federal Sales Tax</value>
   <value column="TaxIndicator" original="GST">GST</value>
  </row>
- <row id="107" trl="N">
+ <row id="107" trl="Y">
   <value column="Name" original="PST">PST</value>
   <value column="Description" original="Canadian Provintial Tax">Canadian Provintial Tax</value>
   <value column="TaxIndicator" original="PST">PST</value>
  </row>
  <row id="108" trl="Y">
-  <value column="Name" original="GST/PST">Dienstleistungssteuer / Provincial Sales Tax</value>
-  <value column="Description" original="Canadian Federal &amp; State Tax">Steuer des Staates und des Bundes (Kanada).</value>
+  <value column="Name" original="GST/PST">GST/PST</value>
+  <value column="Description" original="Canadian Federal &amp; State Tax"><![CDATA[Canadian Federal & State Tax]]></value>
   <value column="TaxIndicator" original="Tax">Steuer</value>
  </row>
  <row id="109" trl="Y">
   <value column="Name" original="Exempt">Befreit</value>
   <value column="Description" original="Used when Business Partners are exempt from tax">Wird verwendet, wenn Geschäftspartner steuerbefreit sind</value>
   <value column="TaxIndicator" original=""/>
+ </row>
+ <row id="1000000" trl="Y">
+  <value column="Name" original="Standard">Standard</value>
+  <value column="Description" original=""/>
+  <value column="TaxIndicator" original=""/>
+ </row>
+ <row id="1000001" trl="Y">
+  <value column="Name" original="19% Umsatzsteuer">19% Umsatzsteuer</value>
+  <value column="Description" original="http://de.wikipedia.org/wiki/Umsatzsteuer">http://de.wikipedia.org/wiki/Umsatzsteuer</value>
+  <value column="TaxIndicator" original="19% USt.">19% USt.</value>
+ </row>
+ <row id="1000002" trl="Y">
+  <value column="Name" original="7% Umsatzsteuer">7% Umsatzsteuer</value>
+  <value column="Description" original="http://de.wikipedia.org/wiki/Umsatzsteuer">http://de.wikipedia.org/wiki/Umsatzsteuer</value>
+  <value column="TaxIndicator" original="7% USt.">7% USt.</value>
  </row>
 </idempiereTrl>

@@ -5,7 +5,7 @@
  <row id="100" trl="Y">
   <value column="Name" original="Create Periods ">Perioden anlegen</value>
   <value column="Description" original="Create 12 standard calendar periods.">12 Standard-Kalenderperioden erstellen (Jan-Dez)</value>
-  <value column="Help" original="Creates 12 calendar month long standard periods from the specified start date.  If no start date is specified, 1st of Jan will be used.  The period name will be generated from the start date of each period using the java SimpleDateFormat pattern provided. ">Ab dem Anfangsdatum werden 12 Perioden mit der Länge eines Kalendermonats erstellt. Wurde kein Anfangsdatum festgelegt, wird der 1. Januar verwendet. Die Periodennamen werden ausgehend vom festgelegten Anfangsdatum mit dem Java SimpleDateFormat-Schema erstellt.</value>
+  <value column="Help" original="Creates 12 calendar month long standard periods from the specified start date.  If no start date is specified, 1st of Jan will be used.  The period name will be generated from the start date of each period using the java SimpleDateFormat pattern provided. ">Ab dem Anfangsdatum werden 12 Perioden mit der Länge eines Kalendermonats erzeugt. Wurde kein Anfangsdatum festgelegt, wird der 1. Januar verwendet. Die Periodennamen werden ausgehend vom festgelegten Anfangsdatum mit dem Java SimpleDateFormat-Schema erzeugt.</value>
  </row>
  <row id="101" trl="Y">
   <value column="Name" original="Renumber">Neu nummerieren</value>
@@ -25,7 +25,7 @@
  <row id="105" trl="Y">
   <value column="Name" original="Create Inventory Count List ">Zählliste für Inventur erstellen </value>
   <value column="Description" original="Create Inventory Count List">Zählliste für Inventur erstellen</value>
-  <value column="Help" original="The inventory count lines are generated.  You can add new lines or delete lines manually.">Die Positionen der Inventurliste werden erstellt. Sie können weitere Positionen hinzufügen oder manuell löschen.</value>
+  <value column="Help" original="The inventory count lines are generated.  You can add new lines or delete lines manually.">Die Positionen der Inventurliste werden erzeugt. Sie können weitere Positionen hinzufügen oder manuell löschen.</value>
  </row>
  <row id="106" trl="Y">
   <value column="Name" original="Update Quantity">Menge aktualisieren</value>
@@ -39,7 +39,7 @@
  </row>
  <row id="108" trl="Y">
   <value column="Name" original="Add or Copy Accounts">Konten kopieren oder hinzufügen</value>
-  <value column="Description" original="Add missing Accounts - or Copy&amp;Overwrite Accounts (DANGEROUS!!)">Fehlende Konten hinzufügen - oder Kopieren und Überschreiben der Konten. GEFÄHRLICH!!!</value>
+  <value column="Description" original="Add missing Accounts - or Copy&amp;Overwrite Accounts (DANGEROUS!!)">Fehlende Konten hinzufügen - oder Konten kopieren und überschreiben (GEFÄHRLICH!)</value>
   <value column="Help" original="Either add missing accounts - or copy and overwrite all default accounts.  If you copy and overwrite the current default values, you may have to repeat previous updates (e.g. set the bank account asset accounts, ...).  If no Accounting Schema is selected all Accounting Schemas will be updated / inserted.">Sie können entweder fehlende Konten hinzufügen oder alle Standardkonten kopieren und überschreiben. Falls Sie bestehende Standardwerte kopieren und überschreiben, müssen frühere Updates eventuell noch einmal durchgeführt werden, z. B. die Einrichtung des Bank- und Anlagenkontos. Wenn kein Buchführungsschema ausgewählt wurde, werden alle Buchführungsschemata aktualisiert/eingefügt.</value>
  </row>
  <row id="109" trl="Y">
@@ -74,7 +74,7 @@
  </row>
  <row id="115" trl="Y">
   <value column="Name" original="Vendor Selection">Lieferantenauswahl</value>
-  <value column="Description" original="Products with more than one vendor">Produkte mit mehr als einem Lieferanten</value>
+  <value column="Description" original="Products with more than one vendor">Artikel mit mehr als einem Lieferanten</value>
   <value column="Help" original="Vendor Selection is initiated when there is a product that is supplied by more than one vendor.  It allows the selection of a specific vendor for a Purchase Order.">Wird ein Artikel von mehr als einem Lieferanten angeboten, muss EIN Lieferant ausgewählt werden. Sie können also einen spezifischen Lieferanten für eine Bestellung auswählen.</value>
  </row>
  <row id="116" trl="Y">
@@ -83,29 +83,29 @@
   <value column="Help" original=""/>
  </row>
  <row id="117" trl="Y">
-  <value column="Name" original="Delivery Note / Shipment Print ">Statusmeldung Versand/Lieferschein drucken</value>
+  <value column="Name" original="Delivery Note / Shipment Print ">Versand/Lieferschein drucken</value>
   <value column="Description" original="** Special ** Do not change **">** Sonderfall ** Nicht ändern **</value>
   <value column="Help" original=""/>
  </row>
  <row id="118" trl="Y">
-  <value column="Name" original="Generate Shipments">Lieferscheine erstellen</value>
-  <value column="Description" original="Generate and print Shipments from open Orders">Erstellen und drucken Sie Lieferscheine aus offenen Bestellungen</value>
+  <value column="Name" original="Generate Shipments">Lieferscheine erzeugen</value>
+  <value column="Description" original="Generate and print Shipments from open Orders">Erzeugen und drucken Sie Lieferscheine aus offenen Aufträgen</value>
   <value column="Help" original="Shipments for open Orders are created based on the delivery rule of the Order and the relative order priority.  If a Promise Date is selected only orders up to (including) the date are selected.&lt;br&gt;&#10;If several Orders of a business partner have the same location, the orders can be consolidated into one Shipment.&lt;br&gt;&#10;You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available).">Lieferscheine für offen Aufträge werden erstellt basierend auf der Lieferart sowie der relativen Priorität des Auftrags. Falls ein Zusagedatum angegeben ist, werden nur Aufträge bis zu diesem Datum berücksichtigt. 
 Falls mehrere Aufträge eines Geschäftspartners denselben Standort haben, können die Aufträge in einer Lieferung zusammengefasst werden. 
 Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen haben (z.B. bestellt=10 - unbestätigte Lieferungen=4 - würde eine neue Lieferung von 6 erzeugen, falls verfügbar).</value>
  </row>
  <row id="119" trl="Y">
-  <value column="Name" original="Generate Invoices">Rechnungen erstellen</value>
-  <value column="Description" original="Generate and print Invoices from open Orders">Rechnungen aus offenen Aufträgen erstellen und drucken</value>
+  <value column="Name" original="Generate Invoices">Rechnungen erzeugen</value>
+  <value column="Description" original="Generate and print Invoices from open Orders">Rechnungen aus offenen Aufträgen erzeugen und drucken</value>
   <value column="Help" original="Invoices for open Orders are created based on the invoice rule of the Order.&#10;If several Orders of a business partner have the same bill location, the orders can be consolidated into one Invoice.">Rechnungen für offene Aufträge werden immer auf Basis der Rechnungsregel des Auftrags erstellt. Wenn mehrere Aufträge an dieselbe Rechnungsadresse gehen, können die Aufträge zu einer Rechnung zusammengefasst werden.</value>
  </row>
  <row id="120" trl="Y">
   <value column="Name" original="Order Transactions">Auftragstransaktionen</value>
   <value column="Description" original="Order Transactions">Auftragstransaktionen</value>
-  <value column="Help" original="With this report we can verify the detail of every Manufacturing Order transaction executed with a Manufacturing Order including information like document number, quantities, products and the date in which the transactions were made, etc.">Mit diesem Bericht können die Details von jedem ausgeführten Produktionsauftrag überprüft werden, einschließlich Informationen wie Belegnummer, Mengen, Produkte und dem Datum an dem die jeweilige Transaktion ausgeführt wurde, etc.</value>
+  <value column="Help" original="With this report we can verify the detail of every Manufacturing Order transaction executed with a Manufacturing Order including information like document number, quantities, products and the date in which the transactions were made, etc.">Mit diesem Bericht können die Details von jedem ausgeführten Produktionsauftrag überprüft werden, einschließlich Informationen wie Belegnummer, Mengen, Artikel und dem Datum an dem die jeweilige Transaktion ausgeführt wurde, etc.</value>
  </row>
  <row id="121" trl="Y">
-  <value column="Name" original="Open Orders">Aufträge offen</value>
+  <value column="Name" original="Open Orders">Offene Aufträge</value>
   <value column="Description" original="Open Order Report">Bericht zu offenen Aufträgen</value>
   <value column="Help" original="Orders with quantities to deliver (Backordered) or quantities to invoice">Aufträge mit zu liefernden (nachbestellten) oder zu berechnenden Mengen</value>
  </row>
@@ -115,19 +115,19 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
   <value column="Help" original="Process Inventory Movements will update inventory quantities based on the defined movements between warehouses or locations.">Mit "Bewegungen buchen" aktualisieren Sie den Bestand auf Basis der Bestandsbewegungen zwischen Lagern oder Lagerorten.</value>
  </row>
  <row id="123" trl="Y">
-  <value column="Name" original="Generate Commission">Provision erstellen</value>
-  <value column="Description" original="Generate Commission">Provision erstellen</value>
+  <value column="Name" original="Generate Commission">Provision erzeugen</value>
+  <value column="Description" original="Generate Commission">Provision erzeugen</value>
   <value column="Help" original=""/>
  </row>
  <row id="124" trl="Y">
-  <value column="Name" original="Product Transaction Summary">Produkttransaktionen Zusammenfassung</value>
-  <value column="Description" original="Product Transaction Summary">Produkttransaktionen Zusammenfassung</value>
-  <value column="Help" original="The report shows transaction summary for stored products">Der Bericht zeigt eine Zusammenfassung der Transaktionen für gelagerte Produkte an</value>
+  <value column="Name" original="Product Transaction Summary">Artikeltransaktionen Zusammenfassung</value>
+  <value column="Description" original="Product Transaction Summary">Artikeltransaktionen Zusammenfassung</value>
+  <value column="Help" original="The report shows transaction summary for stored products">Der Bericht zeigt eine Zusammenfassung der Transaktionen für gelagerte Artikel an</value>
  </row>
  <row id="125" trl="Y">
   <value column="Name" original="Replenish Report">Nachbestellung</value>
   <value column="Description" original="Inventory Replenish Report">Bericht zur Bestandsnachbestellung</value>
-  <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished.">Der Bericht listet Produkte die wieder aufgefüllt werden. Bitte beachten, dass ein Produkt nur einen aktuellen Lieferanten haben kann. Falls mehrere Lieferanten für ein Produkt existieren, werden beide Datensätze zurückgesetzt. Der aktuelle Lieferant muss manuell festgelegt werden.</value>
+  <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished.">Der Bericht listet Artikel die wieder aufgefüllt werden. Bitte beachten, dass ein Artikel nur einen aktuellen Lieferanten haben kann. Falls mehrere Lieferanten für einen Artikel existieren, werden beide Datensätze zurückgesetzt. Der aktuelle Lieferant muss manuell festgelegt werden.</value>
  </row>
  <row id="126" trl="Y">
   <value column="Name" original="Order Drilldown">Hierarchische Suche Aufträge</value>
@@ -155,23 +155,23 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
   <value column="Help" original="Invoiced amount by Organization and Sales Rep">Rechnungsbetrag nach Organisation und Vertriebsbeauftragten</value>
  </row>
  <row id="131" trl="Y">
-  <value column="Name" original="Weekly Invoice Prod Cat">Rechnung Produktkategorie wöchentlich</value>
-  <value column="Description" original="Invoice Report by Product Category per Week">Rechnungsbericht nach Produktkategorie pro Woche.</value>
-  <value column="Help" original="Invoiced Amount by Product Category">Rechnungsbetrag nach Produktkategorie</value>
+  <value column="Name" original="Weekly Invoice Prod Cat">Rechnung Artikelkategorie wöchentlich</value>
+  <value column="Description" original="Invoice Report by Product Category per Week">Rechnungsbericht nach Artikelkategorie pro Woche.</value>
+  <value column="Help" original="Invoiced Amount by Product Category">Rechnungsbetrag nach Artikelkategorie</value>
  </row>
  <row id="132" trl="Y">
-  <value column="Name" original="Monthly Invoice Prod Cat">Rechnung Produktkategorie monatlich</value>
-  <value column="Description" original="Invoice Report by Product Category per Month">Rechnungsbericht nach Produktkategorie pro Monat</value>
-  <value column="Help" original="Invoiced Amount by Product Category">Rechnungsbetrag nach Produktkategorie</value>
+  <value column="Name" original="Monthly Invoice Prod Cat">Rechnung Artikelkategorie monatlich</value>
+  <value column="Description" original="Invoice Report by Product Category per Month">Rechnungsbericht nach Artikelkategorie pro Monat</value>
+  <value column="Help" original="Invoiced Amount by Product Category">Rechnungsbetrag nach Artikelkategorie</value>
  </row>
  <row id="133" trl="Y">
   <value column="Name" original="Monthly Invoice Vendor">Rechnung Lieferant monatlich</value>
   <value column="Description" original="Invoice Report by Product Vendor per Month">Rechnungsbericht nach Lieferant pro Monat</value>
-  <value column="Help" original="Invoiced Amount by Vendor and Product Category">Rechnungsbetrag nach Lieferant und Produktkategorie</value>
+  <value column="Help" original="Invoiced Amount by Vendor and Product Category">Rechnungsbetrag nach Lieferant und Artikelkategorie</value>
  </row>
  <row id="134" trl="Y">
-  <value column="Name" original="Generate Invoices (manual) ">Rechnungen erstellen (manuell)</value>
-  <value column="Description" original="Generate and print Invoices manually">Rechnungen manuell erstellen und drucken</value>
+  <value column="Name" original="Generate Invoices (manual) ">Rechnungen erzeugen (manuell) </value>
+  <value column="Description" original="Generate and print Invoices manually">Rechnungen manuell erzeugen und drucken</value>
   <value column="Help" original=""/>
  </row>
  <row id="135" trl="Y">
@@ -190,22 +190,22 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
   <value column="Help" original="Create/Post Production will generate the production lines and process the production.  If the production lines already exists, the production will be processed">Im Feld "Produktion erstellen/bearbeiten" können Sie Produktionspositionen anlegen und bearbeiten. Wurden die Positionen bereits angelegt, wird die Produktion bearbeitet</value>
  </row>
  <row id="138" trl="Y">
-  <value column="Name" original="Quarterly Invoice Customer by Product">Kundenrechnungen quartalsweise nach Produkt</value>
-  <value column="Description" original="Invoice Report by Customer and Product Category per Quarter">Rechnungsbericht nach Kunde und Produkt pro Quartal</value>
-  <value column="Help" original="Invoiced Amount by Customer and Product Category">Rechnungsbetrag nach Kunde und Produktkategorie</value>
+  <value column="Name" original="Quarterly Invoice Customer by Product">Kundenrechnungen quartalsweise nach Artikel</value>
+  <value column="Description" original="Invoice Report by Customer and Product Category per Quarter">Rechnungsbericht nach Kunde und Artikel pro Quartal</value>
+  <value column="Help" original="Invoiced Amount by Customer and Product Category">Rechnungsbetrag nach Kunde und Artikelkategorie</value>
  </row>
  <row id="139" trl="Y">
   <value column="Name" original="Quarterly Invoice Customer by Vendor">Kundenrechnungen quartalsweise nach Lieferant</value>
-  <value column="Description" original="Invoice Report by Customer and Product Vendor per Quarter">Rechnungsbericht quartalsweise nach Kunde und Produktlieferant</value>
+  <value column="Description" original="Invoice Report by Customer and Product Vendor per Quarter">Rechnungsbericht quartalsweise nach Kunde und Artikellieferant</value>
   <value column="Help" original="Invoiced Amount by Customer and Vendor (what customer bought from which vendor)">Rechnungsbetrag nach Kunden und Lieferanten, d. h. welcher Kunde kauft bei welchem Lieferanten</value>
  </row>
  <row id="140" trl="Y">
   <value column="Name" original="Copy Accounts">Konten kopieren</value>
-  <value column="Description" original="Copy and overwrite Accounts to Products of this category">Kopieren und überschreiben Sie die Produktkonten dieser Kategorie</value>
-  <value column="Help" original="If you copy and overwrite the current default values, you may have to repeat previous updates (e.g. set the revenue account, ...). If no Accounting Schema is selected all Accounting Schemas will be updated / inserted for products of this category.">Falls Sie die gegenwärtigen Standardwerte kopieren und überschreiben, müssen Sie eventuell vorherige Aktualisierungen wiederholen, z. B. die Einrichtung des Verbindlichkeitskontos. Wenn kein Buchführungsschema ausgewählt wurde, werden alle Buchführungsschemata für Produkte dieser Kategorie aktualisiert/eingefügt.</value>
+  <value column="Description" original="Copy and overwrite Accounts to Products of this category">Kopieren und überschreiben Sie die Artikelkonten dieser Kategorie</value>
+  <value column="Help" original="If you copy and overwrite the current default values, you may have to repeat previous updates (e.g. set the revenue account, ...). If no Accounting Schema is selected all Accounting Schemas will be updated / inserted for products of this category.">Falls Sie die gegenwärtigen Standardwerte kopieren und überschreiben, müssen Sie eventuell vorherige Aktualisierungen wiederholen, z. B. die Einrichtung des Verbindlichkeitskontos. Wenn kein Buchführungsschema ausgewählt wurde, werden alle Buchführungsschemata für Artikel dieser Kategorie aktualisiert/eingefügt.</value>
  </row>
  <row id="142" trl="Y">
-  <value column="Name" original="Generate Receipt from Invoice">Empfangsbestätigung aus Rechnung erstellen</value>
+  <value column="Name" original="Generate Receipt from Invoice">Empfangsbestätigung aus Rechnung erzeugen</value>
   <value column="Description" original="Create and process delivery Receipt from this invoice.">Erstellen und bearbeiten Sie die Empfangsbestätigung dieser Rechnung</value>
   <value column="Help" original="The invoice should be correct and completed.">Die Rechnung sollte vollständig und korrekt sein</value>
  </row>
@@ -260,9 +260,9 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
   <value column="Help" original=""/>
  </row>
  <row id="154" trl="Y">
-  <value column="Name" original="Generate Invoice from Receipt">Rechnung aus Lieferschein erstellen</value>
+  <value column="Name" original="Generate Invoice from Receipt">Rechnung aus Lieferschein erzeugen</value>
   <value column="Description" original="Create and process Invoice from this receipt.  The receipt should be correct and completed.">Erstellen Sie eine Rechnung aus diesem Wareneingangsbeleg und bearbeiten Sie diese. Der Wareneingangsbeleg sollte vollständig und korrekt sein.</value>
-  <value column="Help" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. You can set the document number only if the invoice document type allows to set the document number manually.">Das Erstellen einer Rechnung aus einem Wareneingangsbeleg erzeugt eine zum Wareneingangsbeleg passende Rechnung und ordnet sie zu. Sie können die Belegnummer nur manuell festlegen, wenn die Rechnungsbelegart dies zulässt.</value>
+  <value column="Help" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. You can set the document number only if the invoice document type allows to set the document number manually.">Das Erzeugen einer Rechnung aus einem Wareneingangsbeleg erzeugt eine zum Wareneingangsbeleg passende Rechnung und ordnet sie zu. Sie können die Belegnummer nur manuell festlegen, wenn die Rechnungsbelegart dies zulässt.</value>
  </row>
  <row id="155" trl="Y">
   <value column="Name" original="Prepare Payment">Zahlung vorbereiten</value>
@@ -280,8 +280,8 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
   <value column="Help" original=""/>
  </row>
  <row id="161" trl="Y">
-  <value column="Name" original="Product Transaction Value">Produkttransaktionswert</value>
-  <value column="Description" original="Product Transaction Value">Produkttransaktionswert</value>
+  <value column="Name" original="Product Transaction Value">Artikeltransaktionswert</value>
+  <value column="Description" original="Product Transaction Value">Artikeltransaktionswert</value>
   <value column="Help" original="The report shows product transactions with current vendor prices">Der Bericht zeigt Warentransaktionen mit aktuellen Herstellerpreisen an</value>
  </row>
  <row id="162" trl="Y">
@@ -290,9 +290,9 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
   <value column="Help" original=""/>
  </row>
  <row id="164" trl="Y">
-  <value column="Name" original="Generate Order">Auftrag erstellen</value>
-  <value column="Description" original="Generate Order from Project">Erstellen Sie einen Auftrag aus einem Projekt</value>
-  <value column="Help" original="The Generate Order process will generate a new Order document based on the project phase. A price list and warehouse/service point must be defined on the project.">Der Prozess "Auftrag erstellen" erstellt einen neuen Auftrag auf Basis der Projektphase. Für das Projekt muss eine Preisliste und ein Lager/Leistungsort definiert sein.</value>
+  <value column="Name" original="Generate Order">Auftrag erzeugen</value>
+  <value column="Description" original="Generate Order from Project">Erzeugen Sie einen Auftrag aus einem Projekt</value>
+  <value column="Help" original="The Generate Order process will generate a new Order document based on the project phase. A price list and warehouse/service point must be defined on the project.">Der Prozess "Auftrag erzeugen" wird einen neuen Auftrag auf Basis der Projektphase erzeugen. Für das Projekt muss eine Preisliste und ein Lager/Leistungsort definiert sein.</value>
  </row>
  <row id="165" trl="Y">
   <value column="Name" original="Copy Lines">Positionen kopieren</value>
@@ -363,7 +363,7 @@ Bitte beachten, dass "fehlende Übersetzungseinträge hinzufügen" diese als Kop
  <row id="180" trl="Y">
   <value column="Name" original="Inventory Valuation Report">Bericht Bestandsbewertung</value>
   <value column="Description" original="Inventory Valuation Report">Bericht Bestandsbewertung</value>
-  <value column="Help" original="Report lists products with their on-hand quantity and values at the valuation date. In addition to several prices, standard costs and an optional other cost element is used to calculate the inventory of the particular warehouse.">Der Bericht erstellt eine Produktliste mit Lagerbeständen und ihren Werten an einem Bewertungsdatum. Zusätzlich zu den verschiedenen Preisen werden die Standardkosten und optional weitere Kostenarten für die Bestandsbewertung des entsprechenden Lagers verwendet.</value>
+  <value column="Help" original="Report lists products with their on-hand quantity and values at the valuation date. In addition to several prices, standard costs and an optional other cost element is used to calculate the inventory of the particular warehouse.">Der Bericht erstellt eine Artikelliste mit Lagerbeständen und ihren Werten an einem Bewertungsdatum. Zusätzlich zu den verschiedenen Preisen werden die Standardkosten und optional weitere Kostenarten für die Bestandsbewertung des entsprechenden Lagers verwendet.</value>
  </row>
  <row id="181" trl="Y">
   <value column="Name" original="Synchronize Column">Spalte synchronisieren</value>
@@ -421,10 +421,10 @@ Bitte beachten, dass "fehlende Übersetzungseinträge hinzufügen" diese als Kop
   <value column="Help" original="Select either a table to create a print format [creates initial rough layout]&#10;OR a print format to copy into the current print format [copies layout].">Entweder eine Tabelle auswählen um ein Druckformat zu erstellen (erzeugt ein erstes grobes Layout) ODER ein Druckformat auswählen das in das aktuelle Druckformat kopiert werden soll (Layout wird kopiert).</value>
  </row>
  <row id="193" trl="Y">
-  <value column="Name" original="Generate PO from Sales Order">Bestellung aus Kundenauftrag erstellen</value>
+  <value column="Name" original="Generate PO from Sales Order">Bestellung aus Kundenauftrag erzeugen</value>
   <value column="Description" original="Create Purchase Order from Sales Orders">Erstellen Sie eine Bestellung aus einem Auftrag</value>
   <value column="Help" original="After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders). &#10;The Organization of the Sales Order is used to create the Purchase Order. If a (default) PO document type is defined on Organization level, that is used instead of the document types defined on Client level.&#10;&#10;POs are created for all sales order lines where the product has a current vendor, the vendor has a Vendor Price List with all Products on the most current Price List Version. The Unit of Measure is copied; PO and SO can have different currencies.&#10;&#10;Once the process is run, you need to synchronize the SO/PO manually (e.g. in case of additional lines and changed lines (product &amp; quantity)."><![CDATA[Nach Fertigstellung von Aufträgen kann einer oder mehrere Bestellungen für jeden Auftrag erstellt werden. Eine Bestellung referenziert immer nur einen Auftrag (d.h. keine Konsolidierung von Aufträgen). Die Organisation des Auftrags wird verwendet um die Bestellung zu erzeugen. Falls ein Standardbelegtyp für die Bestellung auf Organisationsebene festgelegt ist, so wird dieser verwendet anstelle der auf Mandantenebene definierten Belegtypen. 
-Bestellungen werden für alle Auftragspositionen erzeugt bei denen das Produkt einen aktuellen Lieferanten hat, der Lieferant eine Preisliste hinterlegt hat mit allen Produkten auf der neuesten Version der Preisliste. Die Maßeinheit wird kopiert. Bestellung und Auftrag können unterschiedliche Währungen haben. Wenn der Prozess einmal gelaufen ist, ist es erforderlich Auftrag/Bestellung manuell zu synchronisieren - speziell falls Positionen hinzugefügt oder geändert werden (Produkt & Menge).]]></value>
+Bestellungen werden für alle Auftragspositionen erzeugt bei denen das Artikel einen aktuellen Lieferanten hat, der Lieferant eine Preisliste hinterlegt hat mit allen Artikeln auf der neuesten Version der Preisliste. Die Maßeinheit wird kopiert. Bestellung und Auftrag können unterschiedliche Währungen haben. Wenn der Prozess einmal gelaufen ist, ist es erforderlich Auftrag/Bestellung manuell zu synchronisieren - speziell falls Positionen hinzugefügt oder geändert werden (Artikel & Menge).]]></value>
  </row>
  <row id="194" trl="Y">
   <value column="Name" original="Import Business Partners">Import Geschäftspartner</value>
@@ -437,10 +437,11 @@ Bestellungen werden für alle Auftragspositionen erzeugt bei denen das Produkt e
   <value column="Help" original=""/>
  </row>
  <row id="196" trl="Y">
-  <value column="Name" original="Import Products ">Import Produkte</value>
-  <value column="Description" original="Imports products from a file into the application">Importieren Sie Produkte aus einer Datei in die Anwendung</value>
+  <value column="Name" original="Import Products ">Import Artikel</value>
+  <value column="Description" original="Imports products from a file into the application">Importieren Sie Artikel aus einer Datei in die Anwendung</value>
   <value column="Help" original="Import Products will bring a file of products, in a predefined format into the application.&lt;p&gt;&#10;The Parameters are default values for null import record values, they do not overwrite any data.&lt;p&gt;&#10;If you select an existing price list and you have List, Standard, and Limit Price defined, they are directly created/updated."><![CDATA[Import Products will bring a file of products, in a predefined format into the application.<p>
-The Parameters are default values for null import record values, they do not overwrite any data.]]></value>
+The Parameters are default values for null import record values, they do not overwrite any data.<p>
+If you select an existing price list and you have List, Standard, and Limit Price defined, they are directly created/updated.]]></value>
  </row>
  <row id="197" trl="Y">
   <value column="Name" original="Import Accounts">Import Konten</value>
@@ -453,14 +454,14 @@ The Parameters are default values for null import record values, they do not ove
   <value column="Help" original="The Parameters are default values for null import record values, they do not overwrite any data.">Die Standardwerte gelten für Felder mit Inhalt "NULL", sie überschreiben keine Werte.</value>
  </row>
  <row id="199" trl="Y">
-  <value column="Name" original="Generate Shipments (manual)">Lieferscheine erstellen (manuell)</value>
-  <value column="Description" original="Generate and print Shipments">Erstellen und Drucken von Lieferscheinen</value>
+  <value column="Name" original="Generate Shipments (manual)">Lieferscheine erzeugen (manuell)</value>
+  <value column="Description" original="Generate and print Shipments">Erzeugen und Drucken von Lieferscheinen</value>
   <value column="Help" original=""/>
  </row>
  <row id="200" trl="Y">
   <value column="Name" original="Print Invoices">Rechnungen drucken</value>
   <value column="Description" original="Print Invoices to paper or send PDF">Drucken Sie Rechnungen oder versenden Sie sie als PDF</value>
-  <value column="Help" original="(Re)Print Invoices or send them as PDF attachments to the Business Partner Contact with a valid EMail addres.&#10;&lt;br&gt;&#10;Remark: If you only enter a Document No FROM value, all invoices greater or equal that document number are printed; you can alternatively use the % character as a widcard.">Rechnungen (neu) drucken oder als PDF-Anhänge an den Geschäftspartner-Kontakt mit gültiger E-Mail-Adresse verschicken. Anmerkung: Falls Sie nur eine Belegnummer VON Wert angeben, werden alle Rechnungen gedruckt die eine Belegnummer gleich oder grösser haben. Alternativ kann das %-Zeichen als Platzhalter verwendet werden.</value>
+  <value column="Help" original="(Re)Print Invoices or send them as PDF attachments to the Business Partner Contact with a valid EMail addres.&#10;&lt;br&gt;&#10;Remark: If you only enter a Document No FROM value, all invoices greater or equal that document number are printed; you can alternatively use the % character as a widcard.">Rechnungen (neu) drucken oder als PDF-Anhänge an den Geschäftspartner-Kontakt mit gültiger E-Mail-Adresse verschicken. Anmerkung: Falls Sie nur eine Belegnummer VON Wert angeben, werden alle Rechnungen gedruckt die eine Belegnummer gleich oder größer haben. Alternativ kann das %-Zeichen als Platzhalter verwendet werden.</value>
  </row>
  <row id="201" trl="Y">
   <value column="Name" original="Deliver Assets">Anlagen Lieferung</value>
@@ -484,7 +485,7 @@ The Parameters are default values for null import record values, they do not ove
  </row>
  <row id="205" trl="Y">
   <value column="Name" original="Cache Reset">Cache leeren</value>
-  <value column="Description" original="Reset Cache of the System ** Close all Windows before proceeding **">Cache des Systems leeren **Schließen Sie alle Fenster, bevor Sie fortfahren.**</value>
+  <value column="Description" original="Reset Cache of the System ** Close all Windows before proceeding **">Cache des Systems leeren **Schließen Sie alle Fenster bevor Sie fortfahren.**</value>
   <value column="Help" original="To increase performance, Adempiere caches repeatedly used data. This process clears the local cache.">Um die Leistung der Anwendung zu steigern, werden wiederholt genutzte Daten durch iDempiere zwischengespeichert. Mit dieser Aktion löschen Sie den lokalen Cache.</value>
  </row>
  <row id="206" trl="Y">
@@ -534,15 +535,15 @@ The User to send emails from needs to have valid EMail information. If you don't
   <value column="Help" original=""/>
  </row>
  <row id="215" trl="Y">
-  <value column="Name" original="Set Project Type">Projektart setzen</value>
-  <value column="Description" original="Set Project Type and for Service Projects copy Phases and Tasks of Project Type into Project">Legen Sie die Projektart fest. Für Serviceprojekte kopieren Sie Phasen und Aufgaben der Projektart in das Projekt</value>
+  <value column="Name" original="Set Project Type">Projekttyp setzen</value>
+  <value column="Description" original="Set Project Type and for Service Projects copy Phases and Tasks of Project Type into Project">Legen Sie den Projekttyp fest. Für Serviceprojekte kopieren Sie Phasen und Aufgaben des Projekttyps in das Projekt</value>
   <value column="Help" original="&#10;">
 </value>
  </row>
  <row id="216" trl="Y">
-  <value column="Name" original="Generate Order">Auftrag erstellen</value>
-  <value column="Description" original="Generate Order from Project Phase">Erstellen Sie einen Auftrag aus einer Projektphase</value>
-  <value column="Help" original="The Generate Order process will generate a new Order document based on the project phase or tasks. A price list and warehouse/service point must be defined on the project.  If a product is defined on phase level, the Phase information is used as the basis for the Order (milestone invoicing) - otherwise the individual tasks.">"Auftrag erstellen" erstellt auf Basis einer Projektphase oder eines Auftrags einen neuen Auftrag. Für das Projekt muss eine Preisliste und ein Lager/Leistungsort definiert sein. Wenn ein Produkt auf Phasenebene definiert ist, wird die Phaseninformation als Basis für den Auftrag verwendet (Meilenstein-Abrechnung), sonst die einzelne Aufgabe.</value>
+  <value column="Name" original="Generate Order">Auftrag erzeugen</value>
+  <value column="Description" original="Generate Order from Project Phase">Auftrag aus Projektphase erzeugen</value>
+  <value column="Help" original="The Generate Order process will generate a new Order document based on the project phase or tasks. A price list and warehouse/service point must be defined on the project.  If a product is defined on phase level, the Phase information is used as the basis for the Order (milestone invoicing) - otherwise the individual tasks.">"Auftrag erzeugen" wird auf Basis einer Projektphase oder eines Auftrags einen neuen Auftrag erzeugen. Für das Projekt muss eine Preisliste und ein Lager/Leistungsort definiert sein. Wenn ein Artikel auf Phasenebene definiert ist, wird die Phaseninformation als Basis für den Auftrag verwendet (Meilenstein-Abrechnung), sonst die einzelne Aufgabe.</value>
  </row>
  <row id="217" trl="Y">
   <value column="Name" original="Project Print">Projekt drucken</value>
@@ -552,7 +553,7 @@ The User to send emails from needs to have valid EMail information. If you don't
  <row id="218" trl="Y">
   <value column="Name" original="Project Cycle Report">Projektzyklusbericht</value>
   <value column="Description" original="Report Projects based on Project Cycle">Projektberichte basierend auf Projektzyklen</value>
-  <value column="Help" original="The Project Cycle reports on common project phases of a Cycle Step/Phase. All Report information is weighted by the relative weight of the Cycle Step and converted to the currency of the Project Cycle (e.g. for Sales Funnel Reporting).&lt;p&gt;&#10;The Projects must have a Project Type, Phase and Currency defined. The Phase must be assigned to a Cycle Step.">Der Projektzyklus berichtet über allgemeine Projektphasen eines Zyklus/Schritt/Phase. Alle Berichtsinhalte wird gewichtet entsprechend dem relativen Gewicht des Zyklus-Schritts und in die Währung des Projektzyklus konvertiert (z.B. für Verkaufstrichter-Berichte). Die Projekte müssen einen Typ, Phase und Währung angegeben haben. Die Phase muss einem Zyklus-Schritt zugeordnet sein.</value>
+  <value column="Help" original="The Project Cycle reports on common project phases of a Cycle Step/Phase. All Report information is weighted by the relative weight of the Cycle Step and converted to the currency of the Project Cycle (e.g. for Sales Funnel Reporting).&lt;p&gt;&#10;The Projects must have a Project Type, Phase and Currency defined. The Phase must be assigned to a Cycle Step.">Der Projektzyklus berichtet über allgemeine Projektphasen eines Zyklus/Schritt/Phase. Alle Berichtsinhalte wird gewichtet entsprechend dem relativen Gewicht des Zyklusschritts und in die Währung des Projektzyklus konvertiert (z.B. für Verkaufstrichter-Berichte). Die Projekte müssen einen Typ, Phase und Währung angegeben haben. Die Phase muss einem Zyklusschritt zugeordnet sein.</value>
  </row>
  <row id="219" trl="Y">
   <value column="Name" original="Import Inventory">Import des Warenbestands</value>
@@ -582,11 +583,11 @@ The User to send emails from needs to have valid EMail information. If you don't
  <row id="224" trl="Y">
   <value column="Name" original="Issue to Project">Projektmaterial</value>
   <value column="Description" original="Issue Material to Project from Receipt or manual Inventory Location">Bestellen Sie Material aus einem Wareneingang oder einer manuellen Lagerortzuordnung und liefern Sie es an das Projekt.</value>
-  <value column="Help" original="Select a Project and either&#10;&lt;br&gt;- Material Receipt&#10;&lt;br&gt;- Expense Report&#10;&lt;br&lt;- Inventory Location and Project Line not issued yet&#10;&lt;br&gt;- Inventory Location, Product and Quantity&#10;The default Movement Date is today's date.">Projekt auswählen sowie - Materialeingang - Kostenbericht - Lagerort und Projektposition noch nicht ausgegeben - Lagerort, Produkt und Mengenpreis Das Standardbewegungsdatum ist das heutige Datum.</value>
+  <value column="Help" original="Select a Project and either&#10;&lt;br&gt;- Material Receipt&#10;&lt;br&gt;- Expense Report&#10;&lt;br&lt;- Inventory Location and Project Line not issued yet&#10;&lt;br&gt;- Inventory Location, Product and Quantity&#10;The default Movement Date is today's date.">Projekt auswählen sowie - Materialeingang - Kostenbericht - Lagerort und Projektposition noch nicht ausgegeben - Lagerort, Artikel und Mengenpreis Das Standardbewegungsdatum ist das heutige Datum.</value>
  </row>
  <row id="225" trl="Y">
   <value column="Name" original="Generate PO from Project">Bestellung aus Projekt erzeugen</value>
-  <value column="Description" original="Generate PO from Project Line(s)">Erstellen Sie Bestellungen aus Projektposition(en)</value>
+  <value column="Description" original="Generate PO from Project Line(s)">Bestellungen aus Projektposition(en) erzeugen</value>
   <value column="Help" original="&#10;">
 </value>
  </row>
@@ -607,12 +608,12 @@ The User to send emails from needs to have valid EMail information. If you don't
  </row>
  <row id="229" trl="Y">
   <value column="Name" original="Project POs not Issued">Projektbestellungen (nicht zugeteilt)</value>
-  <value column="Description" original="Lists Project Lines with generated Purchase Orders of a Work Order or Asset Project, which are not issued to the Project">Hier werden Projektpositionen mit bereits erstellten Bestellungen eines Arbeitsauftrags oder Anlageprojekts aufgelistet, die noch keinem Projekt zugeteilt wurden.</value>
+  <value column="Description" original="Lists Project Lines with generated Purchase Orders of a Work Order or Asset Project, which are not issued to the Project">Hier werden Projektpositionen mit bereits erzeugten Bestellungen eines Arbeitsauftrags oder Anlageprojekts aufgelistet, die noch keinem Projekt zugeteilt wurden.</value>
   <value column="Help" original=""/>
  </row>
  <row id="230" trl="Y">
   <value column="Name" original="Get Price">Preis ermitteln</value>
-  <value column="Description" original="Get Price for Project Line based on Project Price List">Ermitteln Sie den Preis einer Projektposition basierend auf einer Projektpreisliste</value>
+  <value column="Description" original="Get Price for Project Line based on Project Price List">Preis der Projektposition basierend auf der Projektpreisliste ermitteln</value>
   <value column="Help" original=""/>
  </row>
  <row id="231" trl="Y">
@@ -644,12 +645,12 @@ Erzeugt fehlende Periodensteuerungen für die Belegart (müssen ggf. geöffnet w
  <row id="236" trl="Y">
   <value column="Name" original="Storage Detail">Lagerdetails</value>
   <value column="Description" original="Storage Detail Report">Bericht über Lagerdetails.</value>
-  <value column="Help" original="The report shows storage details including product instance (Lot, Serial No) info">Der Bericht zeigt Lagerdetails mit Informationen zu Produktinstanzen, z.B. Los, Seriennummer.</value>
+  <value column="Help" original="The report shows storage details including product instance (Lot, Serial No) info">Der Bericht zeigt Lagerdetails mit Informationen zu Artikelinstanzen, z.B. Los, Seriennummer.</value>
  </row>
  <row id="237" trl="Y">
   <value column="Name" original="Transaction Detail">Transaktionsdetails</value>
   <value column="Description" original="Transaction Detail Report">Bericht mit Transaktionsdetails.</value>
-  <value column="Help" original="The report shows transaction details (receipts, shipments, inventory, movements, ...) including product instance (Lot, Serial No) info">Der Bericht zeigt Details der Bestandsbewegungen an, z.B. Wareneingang, Lieferung, Bewegungen, inklusive Informationen zu Produktinstanzen wie Los- oder Seriennummer.</value>
+  <value column="Help" original="The report shows transaction details (receipts, shipments, inventory, movements, ...) including product instance (Lot, Serial No) info">Der Bericht zeigt Details der Bestandsbewegungen an, z.B. Wareneingang, Lieferung, Bewegungen, inklusive Informationen zu Artikelinstanzen wie Los- oder Seriennummer.</value>
  </row>
  <row id="238" trl="Y">
   <value column="Name" original="Aging">Fälligkeit</value>
@@ -678,7 +679,7 @@ Erzeugt fehlende Periodensteuerungen für die Belegart (müssen ggf. geöffnet w
  </row>
  <row id="243" trl="Y">
   <value column="Name" original="Validate">Validieren</value>
-  <value column="Description" original="Validate Payment Terms and Schedule">Validieren Sie die Zahlungsbedingungen und den Terminplan</value>
+  <value column="Description" original="Validate Payment Terms and Schedule">Zahlungsbedingungen und Zeitplan validieren</value>
   <value column="Help" original=""/>
  </row>
  <row id="244" trl="Y">
@@ -687,10 +688,9 @@ Erzeugt fehlende Periodensteuerungen für die Belegart (müssen ggf. geöffnet w
   <value column="Help" original="The process allows you to change or verify the organization ownership of a warehouse and its dependent entities (Location, Storage).">Hier können Sie die Organisationszugehörigkeit eines Lagers und seiner abhängigen Einträge, z.B. Lagerort, Bestand, überprüfen oder ändern.</value>
  </row>
  <row id="245" trl="Y">
-  <value column="Name" original="Product Organization">Produktorganisation</value>
-  <value column="Description" original="Set and verify Organization ownership of Products">Setzen und überprüfen Sie die Organisationszugehörigkeit eines Produkts</value>
-  <value column="Help" original="The process allows you to change or verify the organization ownership of Products and its dependent entities (BOM, Substitute, Replenish, Purchasing, Business Partner Info, Costing). &lt;br&gt;&#10;Select either a Product Category ar a specific Product."><![CDATA[The process allows you to change or verify the organization ownership of Products and its dependent entities (BOM, Substitute, Replenish, Purchasing, Business Partner Info, Costing). <br>
-Select either a Product Category ar a specific Product.]]></value>
+  <value column="Name" original="Product Organization">Artikel Organisation</value>
+  <value column="Description" original="Set and verify Organization ownership of Products">Setzen und überprüfen Sie die Organisationszugehörigkeit eines Artikels</value>
+  <value column="Help" original="The process allows you to change or verify the organization ownership of Products and its dependent entities (BOM, Substitute, Replenish, Purchasing, Business Partner Info, Costing). &lt;br&gt;&#10;Select either a Product Category ar a specific Product.">Der Prozess erlaubt es die Eigentümerschaft von Organisationen an Artikeln und ihren abhängigen Entitäten (Stücklisten, Ersatz, Wiederauffüllung, Einkauf, Info Geschäftspartner, Kostenrechnung) zu verifizieren und zu ändern. Wählen Sie entweder eine Artikelkategorie oder einen spezifischen Artikel.</value>
  </row>
  <row id="246" trl="Y">
   <value column="Name" original="Business Partner Organization">Zuordnung Geschäftspartner erstellen</value>
@@ -699,8 +699,8 @@ Select either a Product Category ar a specific Product.]]></value>
 Geschäftspartnergruppe oder bestimmten Geschäftspartner auswählen]]></value>
  </row>
  <row id="247" trl="Y">
-  <value column="Name" original="Load Bank Statement">Laden Kontoauszug</value>
-  <value column="Description" original="Load Bank Statement">Laden Kontoauszug</value>
+  <value column="Name" original="Load Bank Statement">Kontoauszug laden</value>
+  <value column="Description" original="Load Bank Statement">Kontoauszug laden</value>
   <value column="Help" original="Load the bank statement into the import table. The parameters used depend on the actual loader.">Laden Sie einen Kontoauszug in die Importtabelle. Die verwendeten Parameter hängen vom aktuellen Ladeprogramm ab.</value>
  </row>
  <row id="248" trl="Y">
@@ -719,7 +719,7 @@ Geschäftspartnergruppe oder bestimmten Geschäftspartner auswählen]]></value>
   <value column="Help" original="We will NOT make the data available to any third party or use the information for other than statistical purposes.  &#10;It will help us, if you would allow to publish your use of Adempiere. We will contact you directly before we publish any information.&#10;">Ihre Daten werden weder Dritten zur Verfügung gestellt noch für andere Zwecke außer statistischen verwendet. Es hilft uns sehr, wenn wir Ihre Nutzung von iDempiere öffentlich machen dürfen. Wir werden Sie direkt kontaktieren, bevor wir Sie betreffende Information veröffentlichen.</value>
  </row>
  <row id="251" trl="Y">
-  <value column="Name" original="Invoice Tax">Steuern Rechnung</value>
+  <value column="Name" original="Invoice Tax">Rechnung Steuern</value>
   <value column="Description" original="Invoice Tax Reconciliation">Abgleich von Rechnungssteuern.</value>
   <value column="Help" original="The Report lists Invoice Tax lines with Business Partner Tax information.">Dieser Bericht erstellt eine Liste der Rechnungssteuerpositionen mit Steuerinformationen zu den Geschäftspartnern.</value>
  </row>
@@ -871,7 +871,7 @@ Geschäftspartnergruppe oder bestimmten Geschäftspartner auswählen]]></value>
  <row id="281" trl="Y">
   <value column="Name" original="Create Confirmation">Bestätigung erstellen</value>
   <value column="Description" original="Create Confirmations for the Document">Erstellen Sie eine Bestätigung für den Beleg</value>
-  <value column="Help" original="The confirmations generated need to be processed (confirmed) before you can process this document">Die erstellten Bestätigungen müssen bearbeitet (bestätigt) werden, bevor Sie den Beleg weiter bearbeiten können</value>
+  <value column="Help" original="The confirmations generated need to be processed (confirmed) before you can process this document">Die erzeugten Bestätigungen müssen bearbeitet (bestätigt) werden, bevor Sie den Beleg weiter bearbeiten können</value>
  </row>
  <row id="282" trl="Y">
   <value column="Name" original="Create Package">Packstück erstellen</value>
@@ -1013,7 +1013,7 @@ Optionally as (5), you can enable to allocate payments to the oldest invoice. In
  <row id="309" trl="Y">
   <value column="Name" original="Workflow to Client">Workflow zu Mandant</value>
   <value column="Description" original="Move custom workflow elements to the current client">Angepasste Workflow-Elemente zum vorliegenden Mandanten verschieben</value>
-  <value column="Help" original="The security architecture prevents you from adding client specific modifications/customizations to existing standard workflows.  This process moves your customization made on system level to this client to add client specific details.">Die Sicherheitsarchitektur verhindert das Hinzufügen mandantenspezifischer Modifikationen/Anpassungen zu bestehenden Standardworkflows. Mit "Workflow Mandant" können Sie auf Systemebene vorgenommenen Anpassungen auf den Mandanten übertragen und so mandantenspezifische Anpassungen hinzuzufügen.</value>
+  <value column="Help" original="The security architecture prevents you from adding client specific modifications/customizations to existing standard workflows.  This process moves your customization made on system level to this client to add client specific details.">Die Sicherheitsarchitektur verhindert das Hinzufügen mandantenspezifischer Modifikationen/Anpassungen zu bestehenden Standard-Workflows. Mit "Workflow Mandant" können Sie auf Systemebene vorgenommenen Anpassungen auf den Mandanten übertragen und so mandantenspezifische Anpassungen hinzuzufügen.</value>
  </row>
  <row id="310" trl="Y">
   <value column="Name" original="Trial Balance">Rohbilanz</value>
@@ -1021,9 +1021,9 @@ Optionally as (5), you can enable to allocate payments to the oldest invoice. In
   <value column="Help" original="Select a Period (current period if empty) or enter a Account Date Range. If an account is selected, the balance is calculated based on the account type and the primary calendar of the client (i.e. for revenue/expense accounts from the beginning of the year). If no account is selected, the balance is the sum of all transactions before the selected account range or first day of the period selected. You can select an alternative Reporting Hierarchy.">Wählen Sie eine Periode. Wenn das Feld leer bleibt, wird die aktuelle Periode gewählt. Sie können auch einen Zeitraum eingeben. Wurde ein Konto ausgewählt, wird der Saldo basierend auf Kontentyp und Primärkalender des Mandanten berechnet, d. h. für Erfolgskonten ab Jahresbeginn. Wurde kein Konto ausgewählt, besteht der Saldo aus der Summe aller Transaktionen vor der gewählten Kontenrangfolge oder ab dem ersten Tag der gewählten Periode. Sie können eine alternative Berichtshierarchie auswählen.</value>
  </row>
  <row id="311" trl="Y">
-  <value column="Name" original="Product UOM Convert">Produktkonvertierung Maßeinheiten</value>
-  <value column="Description" original="Brack-up or repackage same Products with different UOM">Aufteilen oder Neuverpacken von gleichen Produkten mit unterschiedlicher Maßeinheit.</value>
-  <value column="Help" original="Example: &quot;Product EA&quot; has a defined UOM Conversion to &quot;Product 6Pack&quot; and vice versa.  &#10;This is a one-step replacement for defining BOM and creating/processes a Production.">Beispiel: "Produkt Stück" hat eine Maßeinheitsumrechnung zu "Produkt 6-Pack" definiert und umgekehrt. Dies ist ein einstufiger Ersatz für die Definition einer Stückliste und der Erstellung/Verarbeitung einer Produktion.</value>
+  <value column="Name" original="Product UOM Convert">Artikelkonvertierung Maßeinheiten</value>
+  <value column="Description" original="Brack-up or repackage same Products with different UOM">Aufteilen oder Neuverpacken von gleichen Artikeln mit unterschiedlicher Maßeinheit</value>
+  <value column="Help" original="Example: &quot;Product EA&quot; has a defined UOM Conversion to &quot;Product 6Pack&quot; and vice versa.  &#10;This is a one-step replacement for defining BOM and creating/processes a Production.">Beispiel: "Artikel Stück" hat eine Maßeinheitsumrechnung zu "Artikel 6-Pack" definiert und umgekehrt. Dies ist ein einstufiger Ersatz für die Definition einer Stückliste und der Erstellung/Verarbeitung einer Produktion.</value>
  </row>
  <row id="312" trl="Y">
   <value column="Name" original="Print Dunning Letters">Mahnbriefe drucken</value>
@@ -1041,7 +1041,7 @@ Optionally as (5), you can enable to allocate payments to the oldest invoice. In
   <value column="Help" original="Check the payments and invoices of a business partner and checks the balances.">Überprüfen Sie Zahlungen, Rechnungen und Salden eines Geschäftspartners.</value>
  </row>
  <row id="315" trl="Y">
-  <value column="Name" original="Order Batch Process">Bearbeitung Bestelllauf</value>
+  <value column="Name" original="Order Batch Process">Auftrag Stapelverarbeitung</value>
   <value column="Description" original="Process Orders in Batch">Bearbeiten Sie Aufträge/Bestellungen in einem Lauf</value>
   <value column="Help" original="Based on the selection criteria, the orders are processed using the document action selected.  Make sure that the document action is valid for the documents.">Die Auswahl der Aufträge erfolgt mittels eines Kriteriums unter Verwendung der Belegaktion. Stellen Sie sicher, dass die Aktion für die Belege zulässig ist.</value>
  </row>
@@ -1073,7 +1073,7 @@ Optionally as (5), you can enable to allocate payments to the oldest invoice. In
  <row id="321" trl="Y">
   <value column="Name" original="Synchronize Doc Translation">Belegübersetzung synchronisieren</value>
   <value column="Description" original="Synchronize Document Translation">Synchronisieren Sie die Belegübersetzungen</value>
-  <value column="Help" original="If the current client has not multi-lingual documents enabled, the translations for documents are synchronized with the main record (i.e. it copies the content of the main record to the translation records).  This process is necessary when swiching to a mono-lingual environment as there the terminoligy is maintained not in the translation records.&lt;br&gt;&#10;This applies to the client defined document translations, e.g. for UoM, Payment Terms, Product Info, etc.">Falls der aktuelle Mandant keine mehrsprachigen Belege aktiviert hat, werden die Übersetzungen für Belege mit dem Hauptdatensatz synchronisiert (d.h. der Inhalt des Haupdatensatzes wird in den übersetzten Datensatz kopiert). Dieser Prozess ist erforderlich bei einem Wechsel in eine Einsprachige Umgebung weil dort die Übersetzungen nicht in den Übersetzungsdatensätzen verwaltet werden. Dies betrifft die für den Mandanten vorgenommenen Belegübersetzungen, z.B. für Maßeinheiten, Zahlungsbedingungen, Produktinformationen, usw.</value>
+  <value column="Help" original="If the current client has not multi-lingual documents enabled, the translations for documents are synchronized with the main record (i.e. it copies the content of the main record to the translation records).  This process is necessary when swiching to a mono-lingual environment as there the terminoligy is maintained not in the translation records.&lt;br&gt;&#10;This applies to the client defined document translations, e.g. for UoM, Payment Terms, Product Info, etc.">Falls der aktuelle Mandant keine mehrsprachigen Belege aktiviert hat, werden die Übersetzungen für Belege mit dem Hauptdatensatz synchronisiert (d.h. der Inhalt des Hauptdatensatzes wird in den übersetzten Datensatz kopiert). Dieser Prozess ist erforderlich bei einem Wechsel in eine Einsprachige Umgebung weil dort die Übersetzungen nicht in den Übersetzungsdatensätzen verwaltet werden. Dies betrifft die für den Mandanten vorgenommenen Belegübersetzungen, z.B. für Maßeinheiten, Zahlungsbedingungen, Artikelinformationen, usw.</value>
  </row>
  <row id="322" trl="Y">
   <value column="Name" original="Material Reference">Materialreferenz</value>
@@ -1088,7 +1088,7 @@ Optionally as (5), you can enable to allocate payments to the oldest invoice. In
  <row id="324" trl="Y">
   <value column="Name" original="Invoice Requests">Anfragen zu Rechnungen</value>
   <value column="Description" original="Create Invoice for Requests">Rechnungen für Anfragen erstellen</value>
-  <value column="Help" original="Create invoice for Request Type with optional Request Group, Category for Business Partner.  If the used product for invoicing is not defined, the product defined in the parameter is used.">Erstellen Sie eine Rechnung für einen Anfragetyp, optional mit Anfragegruppe, Kategorie für Geschäftspartner... Wenn das zu berechnende Produkt nicht festgelegt wurde, wird das im Parameter festgelegte Produkt verwendet.</value>
+  <value column="Help" original="Create invoice for Request Type with optional Request Group, Category for Business Partner.  If the used product for invoicing is not defined, the product defined in the parameter is used.">Erstellen Sie eine Rechnung für einen Anfragetyp, optional mit Anfragegruppe, Kategorie für Geschäftspartner... Wenn der zu berechnende Artikel nicht festgelegt wurde, wird der im Parameter festgelegte Artikel verwendet.</value>
  </row>
  <row id="325" trl="Y">
   <value column="Name" original="Storage Cleanup">Lager aufräumen</value>
@@ -1098,10 +1098,10 @@ Optionally as (5), you can enable to allocate payments to the oldest invoice. In
  <row id="326" trl="Y">
   <value column="Name" original="Invoice Not Realized Gain/Loss">Rechnung - Nicht realisierter Gewinn/Verlust</value>
   <value column="Description" original="Invoice Not Realized Gain &amp; Loss Report">Bericht zu Rechnungen - Nicht realisierter Gewinn/Verlust</value>
-  <value column="Help" original="The Report lists not fully paid invoices with open amount, the GL amounts and the revalued amounts.  If an invoice is partially paid, the percentage of the open amount is used to calculate the revaluation amount.&lt;br&gt;&#10;If you select a currency, only invoices of that currency are included; if you select Include All Currencies, all invoices are included and you can use the report to reconcile your AP/AR accounts.&lt;br&gt;&#10;If you select a GL Document Type, a GL Journal is created. &#10;Note that the report only includes posted invoices.">Der Bericht listet nicht vollständig bezahlte Rechnungen mit dem offenen Betrag, dem Hauptbuchbeträgen sowie dem neubewerteten Beträgen.</value>
+  <value column="Help" original="The Report lists not fully paid invoices with open amount, the GL amounts and the revalued amounts.  If an invoice is partially paid, the percentage of the open amount is used to calculate the revaluation amount.&lt;br&gt;&#10;If you select a currency, only invoices of that currency are included; if you select Include All Currencies, all invoices are included and you can use the report to reconcile your AP/AR accounts.&lt;br&gt;&#10;If you select a GL Document Type, a GL Journal is created. &#10;Note that the report only includes posted invoices.">Der Bericht listet nicht vollständig bezahlte Rechnungen mit dem offenen Betrag, dem Hauptbuchbeträgen sowie dem neu bewerteten Beträgen. Falls eine Rechnung teilweise bezahlt ist wird der offene Betrag verwendet um den neu bewerteten Betrag zu berechnen. Falls eine Währung ausgewählt ist werden nur Rechnungen mit dieser Währung eingeschlossen. Falls alle Währungen eingeschlossen sind, werden alle Rechnungen eingeschlossen, so dass der Bericht verwendet werden kann die Aufwands- und Verbindlichkeitskonten abzustimmen. Falls ein Hauptbuch Belegart ausgewählt wird, wird ein Hauptbuchjournal erstellt. Bitte beachten, dass der Bericht nur gebuchte Rechnungen beinhaltet.</value>
  </row>
  <row id="327" trl="Y">
-  <value column="Name" original="Test EMail">Test Mail</value>
+  <value column="Name" original="Test EMail">Test-E-Mail</value>
   <value column="Description" original="Test EMail Connection">Teste E-Mail-Verbindung</value>
   <value column="Help" original="Test EMail Connection based on info defined. An EMail is sent from the request user to the request user.  Also, the web store mail settings are tested.">Testen Sie die Emailverbindung auf Basis der festgelegten Informationen. Es wird eine Email von Anfragenutzer zum Anfragenutzer geschickt. Ebenso werden die Einstellungen der Webshopmails getestet.</value>
  </row>
@@ -1113,24 +1113,24 @@ The default implementation supports US ASCII String conversion (not Unicode, Num
 Note that support is restricted to setup and test, but not data recovery.]]></value>
  </row>
  <row id="329" trl="Y">
-  <value column="Name" original="Product Cost">Produktkosten</value>
-  <value column="Description" original="Product Cost Report">Bericht Produktkosten</value>
-  <value column="Help" original="The Product Cost  report lists the product costs for the product, cost type and cost element">Der "Bericht Produktkosten" erstellt eine Liste der Kosten für das Produkt, die Kostenart und das Kostenelement.</value>
+  <value column="Name" original="Product Cost">Artikelkosten</value>
+  <value column="Description" original="Product Cost Report">Bericht Artikelkosten</value>
+  <value column="Help" original="The Product Cost  report lists the product costs for the product, cost type and cost element">Der "Bericht Artikelkosten" erstellt eine Liste der Kosten für den Artikel, die Kostenart und das Kostenelement.</value>
  </row>
  <row id="330" trl="Y">
-  <value column="Name" original="Product Cost Summary">Zusammenfassung Produktkosten</value>
-  <value column="Description" original="Product Cost Summary Report">Bericht über zusammengefasste Produktkosten</value>
-  <value column="Help" original="The Product Cost  report lists the summarized product costs for the product">Der Bericht "Zusammenfassung Produktkosten" erstellt eine Liste der zusammengefassten Kosten des Produkts</value>
+  <value column="Name" original="Product Cost Summary">Zusammenfassung Artikelkosten</value>
+  <value column="Description" original="Product Cost Summary Report">Bericht über zusammengefasste Artikelkosten</value>
+  <value column="Help" original="The Product Cost  report lists the summarized product costs for the product">Der Bericht "Zusammenfassung Artikelkosten" erstellt eine Liste der zusammengefassten Kosten des Artikels</value>
  </row>
  <row id="331" trl="Y">
-  <value column="Name" original="Product Cost Detail">Details Produktkosten</value>
-  <value column="Description" original="Product Invoice Cost Detail Report">Bericht über Produktrechnungen mit Kostendetails</value>
-  <value column="Help" original="The Product Invoice Cost Detail Report lists the products with the individual invoice cost allocation">Der Bericht "Details Produktkosten" erstellt eine Produktliste mit individueller Rechnungskostenzuordnung</value>
+  <value column="Name" original="Product Cost Detail">Details Artikelkosten</value>
+  <value column="Description" original="Product Invoice Cost Detail Report">Bericht über Artikelrechnungen mit Kostendetails</value>
+  <value column="Help" original="The Product Invoice Cost Detail Report lists the products with the individual invoice cost allocation">Der Bericht "Details Artikelkosten" erstellt eine Artikelliste mit individueller Rechnungskostenzuordnung</value>
  </row>
  <row id="332" trl="Y">
   <value column="Name" original="Distribute Costs">Distributionskosten</value>
-  <value column="Description" original="Distribute costs to Products">Distributionskosten Produkt</value>
-  <value column="Help" original="Distribute costs to Products based on selections - Distribution Base (Quantity, Current Costs, Line, Weight, ..) and Receipt/Line or directly to the product.">Die "Distributionskosten" der Produkte basieren auf Auswahlen, z.B. Distributionsbasis (Menge, laufende Kosten, Position, Gewicht) und Wareneingang/Position oder direkt zum Produkt.</value>
+  <value column="Description" original="Distribute costs to Products">Distributionskosten Artikel</value>
+  <value column="Help" original="Distribute costs to Products based on selections - Distribution Base (Quantity, Current Costs, Line, Weight, ..) and Receipt/Line or directly to the product.">Die "Distributionskosten" der Artikel basieren auf Selektionen, z.B. Distributionsbasis (Menge, laufende Kosten, Position, Gewicht) und Wareneingang/Position oder direkt zum Artikel.</value>
  </row>
  <row id="333" trl="Y">
   <value column="Name" original="Order Detail">Auftragsdetails</value>
@@ -1168,14 +1168,14 @@ Note that support is restricted to setup and test, but not data recovery.]]></va
   <value column="Help" original=""/>
  </row>
  <row id="340" trl="Y">
-  <value column="Name" original="Monthly Invoice Product">Rechnung Produkt monatlich</value>
-  <value column="Description" original="Invoice Report by Product per Month">Rechnungsbericht nach Produkt pro Monat</value>
-  <value column="Help" original="Invoiced Amount by Product and Month">Berechneter Betrag pro Produkt und Monat</value>
+  <value column="Name" original="Monthly Invoice Product">Rechnung Artikel monatlich</value>
+  <value column="Description" original="Invoice Report by Product per Month">Rechnungsbericht nach Artikel pro Monat</value>
+  <value column="Help" original="Invoiced Amount by Product and Month">Berechneter Betrag pro Artikel und Monat</value>
  </row>
  <row id="341" trl="Y">
-  <value column="Name" original="Quarter Invoice Product">Rechnung Produkt quartalsweise</value>
-  <value column="Description" original="Invoice Report by Product per Quarter">Rechnungsbericht nach Produkt pro Quartal</value>
-  <value column="Help" original="Invoiced Amount by Product and Quarter">Berechneter Betrag pro Produkt und Quartal</value>
+  <value column="Name" original="Quarter Invoice Product">Rechnung Artikel quartalsweise</value>
+  <value column="Description" original="Invoice Report by Product per Quarter">Rechnungsbericht nach Artikel pro Quartal</value>
+  <value column="Help" original="Invoiced Amount by Product and Quarter">Berechneter Betrag pro Artikel und Quartal</value>
  </row>
  <row id="342" trl="Y">
   <value column="Name" original="Validate Support">Support validieren</value>
@@ -1294,7 +1294,7 @@ Note that support is restricted to setup and test, but not data recovery.]]></va
  </row>
  <row id="53006" trl="Y">
   <value column="Name" original="Multi Level BOM &amp; Formula Detail"><![CDATA[Mehrstufige Stückliste & Formel Details]]></value>
-  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für das im Produktfeld angegebene Produkt in zwei verschiedenen Fensterbereichen.</value>
+  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für den im Artikelfeld angegebenen Artikel in zwei verschiedenen Fensterbereichen.</value>
   <value column="Help" original="The BOM &amp; Formula Review option menu shows in two different panels the parent-component relationship for the product entered in the Product field.&#10;&#10;You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.&#10;&#10;When you need to consult an implosion, click the implosion check box and enter the component you wish to consult and tick the Implosion check box.&#10;&#10;You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.&#10;&#10;The left panel shows the BOM hierarchies in a tree form. The right panel shows the information connected with the BOM for every product in it."><![CDATA[The BOM & Formula Review option menu shows in two different panels the parent-component relationship for the product entered in the Product field.
 
 You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.
@@ -1312,28 +1312,28 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
  </row>
  <row id="53010" trl="Y">
   <value column="Name" original="Create Product Planning">Produktplanung erstellen</value>
-  <value column="Description" original="This process will create the data plannig register for every product">Mit diesem Vorgang legen Sie ein Plandatensregister für jedes Produkt an.</value>
-  <value column="Help" original="In order to facilitate to load the data planning of similar products, you can run the process Create product Planning and this process will create the data plannig register for every product which fits the parameters: Product category, Warehouse and Resource.&#10;&#10;You must indicate the planning parameters defined in the last section for every Product category, Warehouse, and Resource set. Every product which fit these three parameters will have a data planning record with the same data planning values you enter in this form.">Um das Laden der Plandatensregister ähnlicher Produkte zu erleichtern, können Sie die  "Produktplanung erstellen". Damit werden Plandatenregister für jedes Produkt, das die Parameter erfüllt, erstellt: Produktkategorie, Lager und Ressource. Sie müssen die Planungsparameter, die Sie im letzten Abschnitt für jede Produktkategorie, jede Ressource und jedes Lager angelegt haben, angeben. Jedes Produkt, das diese drei Parameter erfüllt, verfügt über einen Eintrag mit den Plandatenwerten, die Sie in dieses Formular eingeben.</value>
+  <value column="Description" original="This process will create the data plannig register for every product">Mit diesem Vorgang legen Sie ein Plandatensregister für jeden Artikel an</value>
+  <value column="Help" original="In order to facilitate to load the data planning of similar products, you can run the process Create product Planning and this process will create the data plannig register for every product which fits the parameters: Product category, Warehouse and Resource.&#10;&#10;You must indicate the planning parameters defined in the last section for every Product category, Warehouse, and Resource set. Every product which fit these three parameters will have a data planning record with the same data planning values you enter in this form.">Um das Laden der Plandatensregister ähnlicher Artikel zu erleichtern, können Sie die  "Produktplanung erstellen". Damit werden Plandatenregister für jeden Artikel der die Parameter erfüllt erstellt: Artikelkategorie, Lager und Ressource. Sie müssen die Planungsparameter, die Sie im letzten Abschnitt für jede Artikelkategorie, jede Ressource und jedes Lager angelegt haben, angeben. Jeder Artikel der diese drei Parameter erfüllt verfügt über einen Eintrag mit den Plandatenwerten, die Sie in dieses Formular eingeben.</value>
  </row>
  <row id="53012" trl="Y">
   <value column="Name" original="Calculate Low Level">Vorstufe berechnen</value>
-  <value column="Description" original="This process calculate and register the lowest level of a product inside any BOM. It is used in the MRP calculations and should be executed when you enter a new BOM.">Hier kalkulieren und registrieren Sie die Vorstufe eines Produkts der Stückliste. Es wird in den MBP-Berechnungen verwendet und sollte bei der Erstellung einer neuen Stückliste eingetragen werden.</value>
-  <value column="Help" original="This process calculate and register the lowest level of a product inside any BOM. It is used in the MRP calculations and should be executed when you enter a new BOM.">Hier kalkulieren und registrieren Sie die Vorstufe eines Produkts der Stückliste. Es wird in den MBP-Berechnungen verwendet und sollte bei der Erstellung einer neuen Stückliste eingetragen werden.</value>
+  <value column="Description" original="This process calculate and register the lowest level of a product inside any BOM. It is used in the MRP calculations and should be executed when you enter a new BOM.">Hier kalkulieren und registrieren Sie die Vorstufe eines Artikels der Stückliste. Es wird in den MBP-Berechnungen verwendet und sollte bei der Erstellung einer neuen Stückliste eingetragen werden.</value>
+  <value column="Help" original="This process calculate and register the lowest level of a product inside any BOM. It is used in the MRP calculations and should be executed when you enter a new BOM.">Hier kalkulieren und registrieren Sie die Vorstufe eines Artikels der Stückliste. Es wird in den MBP-Berechnungen verwendet und sollte bei der Erstellung einer neuen Stückliste eingetragen werden.</value>
  </row>
  <row id="53014" trl="Y">
   <value column="Name" original="Create Record MRP">MBP Eintrag erstellen</value>
-  <value column="Description" original="This process recreate the demand, approved and open orders for a product.">Hier können Sie den Bedarf, sowie die genehmigten und offenen Bestellungen eines Produkts neu erstellen.</value>
-  <value column="Help" original="This process recreate the demand, approved and open orders for a product.&#10;&#10;Generally, this process is only performed during the implementation of MRP">Hier können Sie den Bedarf, sowie die genehmigten und offenen Bestellungen eines Produkts neu erstellen. Generell wird dieser Prozess nur während der MBP Implementierung durchgeführt.</value>
+  <value column="Description" original="This process recreate the demand, approved and open orders for a product.">Hier können Sie den Bedarf, sowie die genehmigten und offenen Bestellungen eines Artikels neu erstellen.</value>
+  <value column="Help" original="This process recreate the demand, approved and open orders for a product.&#10;&#10;Generally, this process is only performed during the implementation of MRP">Hier können Sie den Bedarf, sowie die genehmigten und offenen Bestellungen eines Artikels neu erstellen. Generell wird dieser Prozess nur während der MBP Implementierung durchgeführt.</value>
  </row>
  <row id="53016" trl="Y">
   <value column="Name" original="Calculate Material Plan">Materialplan berechnen</value>
-  <value column="Description" original="This process calcualte the demand, approved and open orders for a product.">Mit diesem Vorgang kalkulieren Sie den Bedarf, sowie die genehmigten und offenen Bestellungen für ein Produkt.</value>
-  <value column="Help" original="This process calcualte the demand, approved and open orders for a product.">Mit diesem Vorgang kalkulieren Sie den Bedarf, sowie die genehmigten und offenen Bestellungen für ein Produkt.</value>
+  <value column="Description" original="This process calcualte the demand, approved and open orders for a product.">Mit diesem Vorgang kalkulieren Sie den Bedarf, sowie die genehmigten und offenen Bestellungen für einen Artikel.</value>
+  <value column="Help" original="This process calcualte the demand, approved and open orders for a product.">Mit diesem Vorgang kalkulieren Sie den Bedarf, sowie die genehmigten und offenen Bestellungen für einen Artikel.</value>
  </row>
  <row id="53018" trl="Y">
   <value column="Name" original="MRP Details">MBP Details</value>
-  <value column="Description" original="Show the detail of MRP calculation">Details der MBP-Berechnung anzeigen</value>
-  <value column="Help" original="Show the detail of MRP calculation">Details der MBP-Berechnung anzeigen</value>
+  <value column="Description" original="Show the detail of MRP calculation">Details der MBP-Berechnung anzeigen.</value>
+  <value column="Help" original="Show the detail of MRP calculation">Details der MBP-Berechnung anzeigen.</value>
  </row>
  <row id="53020" trl="Y">
   <value column="Name" original="Calculate Capacity Plan">Kapazitätsplan berechnen</value>
@@ -1343,7 +1343,7 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
  <row id="53022" trl="Y">
   <value column="Name" original="Calculate Distribution Plan">Distributionsplan berechnen</value>
   <value column="Description" original="Distribution Resource Planning (DRP) is a method used in business administration for planning orders within a supply chain. ">Die Einsatzplanung Distribution (EPD) ist eine Methode der Betriebswirtschaftslehre zur Planung von Aufträgen innerhalb einer Lieferkette.</value>
-  <value column="Help" original="Distribution Resource Planning (DRP) is a method used in business administration for planning orders within a supply chain. &#10;&#10;DRP enables the user to set certain inventory control parameters (like a safety stock) and calculate the time-phased inventory requirements.&#10;&#10;DRP uses several variables:&#10;the on-hand inventory at the end of a period.&#10;the backordered demand at the end of a period.&#10;the required quantity of product needed at the beginning of a period.&#10;the constrained quantity of product available at the beginning of a period.&#10;the recommended order quantity at the beginning of a period.&#10;&#10;DRP needs the following information:&#10;the demand in a future period.&#10;the scheduled receipts at the beginning of a period.&#10;the safety stock requirement for a period.&#10;the on-hand inventory at the beginning of a period.&#10;">Die Einsatzplanung Distribution (EPD) ist eine Methode der Betriebswirtschaftslehre zur Planung von Aufträgen innerhalb einer Lieferkette. Mit der EPD können bestimmte Parameter der Bestandskontrolle gesetzt werden, wie z. B. ein Mindestbestand, so dass der Bestandsbedarf nach Zeitphasen berechnet werden kann. Die EPD nutzt verschiedene Variablen: den Lagerbestand am Ende einer Periode,   den Auftragsrückstand am Ende einer Periode,   die Bedarfsmenge eines Produkts zu Beginn einer Periode,   die Pflichtmenge eines verfügbaren Produkts zu Beginn einer Periode  sowie die empfohlene Auftragsmenge zu Beginn einer Periode. Die EPD muss folgende Angaben enthalten: den Bedarf einer zukünftigen Periode,  die geplanten Einnahmen zu Beginn einer Periode,  den Mindestbestand für eine Periode,   und den Lagerbestand am Ende einer Periode.</value>
+  <value column="Help" original="Distribution Resource Planning (DRP) is a method used in business administration for planning orders within a supply chain. &#10;&#10;DRP enables the user to set certain inventory control parameters (like a safety stock) and calculate the time-phased inventory requirements.&#10;&#10;DRP uses several variables:&#10;the on-hand inventory at the end of a period.&#10;the backordered demand at the end of a period.&#10;the required quantity of product needed at the beginning of a period.&#10;the constrained quantity of product available at the beginning of a period.&#10;the recommended order quantity at the beginning of a period.&#10;&#10;DRP needs the following information:&#10;the demand in a future period.&#10;the scheduled receipts at the beginning of a period.&#10;the safety stock requirement for a period.&#10;the on-hand inventory at the beginning of a period.&#10;">Die Einsatzplanung Distribution (EPD) ist eine Methode der Betriebswirtschaftslehre zur Planung von Aufträgen innerhalb einer Lieferkette. Mit der EPD können bestimmte Parameter der Bestandskontrolle gesetzt werden, wie z. B. ein Mindestbestand, so dass der Bestandsbedarf nach Zeitphasen berechnet werden kann. Die EPD nutzt verschiedene Variablen: den Lagerbestand am Ende einer Periode,   den Auftragsrückstand am Ende einer Periode,   die Bedarfsmenge eines Artikels zu Beginn einer Periode,   die Pflichtmenge eines verfügbaren Artikels zu Beginn einer Periode  sowie die empfohlene Auftragsmenge zu Beginn einer Periode. Die EPD muss folgende Angaben enthalten: den Bedarf einer zukünftigen Periode,  die geplanten Einnahmen zu Beginn einer Periode,  den Mindestbestand für eine Periode,   und den Lagerbestand am Ende einer Periode.</value>
  </row>
  <row id="53024" trl="Y">
   <value column="Name" original="DRP Details">EPD-Details</value>
@@ -1419,12 +1419,12 @@ You can also include Distibution orders who have outstanding confirmations (e.g.
  </row>
  <row id="53052" trl="Y">
   <value column="Name" original="Create Element">Element erstellen</value>
-  <value column="Description" original="Let create every cost elements defined for a Organization, Accounting Schema, Warehouse, Resource, Cost Type ,Product and Product Attribute Set Instance .">Erstellt jedes für eine Organisation, ein Buchführungsschema, ein Lager, eine Ressource, eine Kostenart, ein Produkt und eine Produktattributsatzinstanz.</value>
-  <value column="Help" original="With this process is possible to create every cost elements defined for a Organization, Accounting Schema, Warehouse, Resource, Cost Type and Product.">Mit diesem Vorgang können Sie jedes Kostenelement, das für eine Organisation, ein Buchführungsschema, ein Lager, eine Ressource, eine Kostenart oder ein Produkt festgelegt wurde, erstellen.</value>
+  <value column="Description" original="Let create every cost elements defined for a Organization, Accounting Schema, Warehouse, Resource, Cost Type ,Product and Product Attribute Set Instance .">Erstellt alle Kostenarten die definiert werden für eine Organisation, ein Buchführungsschema, ein Lager, eine Ressource, ein Artikel und eine Artikelattributsatzinstanz.</value>
+  <value column="Help" original="With this process is possible to create every cost elements defined for a Organization, Accounting Schema, Warehouse, Resource, Cost Type and Product.">Mit diesem Vorgang können Sie jedes Kostenelement erstellen, das für eine Organisation, ein Buchführungsschema, ein Lager, eine Ressource, eine Kostenart oder einen Artikel festgelegt wurde.</value>
  </row>
  <row id="53054" trl="Y">
-  <value column="Name" original="Product Costing">Kostenrechnung Produkt</value>
-  <value column="Description" original="To watch the cost elements for every set of Product, Organization, Accounting Schema, Warehouse, Resource and Cost Type">Zur Überwachung der Kostenelemente für jeden Satz eines Produkts, einer Organisation, eines Buchführungsschemas, eines Lagers, einer Ressource oder einer Kostenart.</value>
+  <value column="Name" original="Product Costing">Kostenrechnung Artikel</value>
+  <value column="Description" original="To watch the cost elements for every set of Product, Organization, Accounting Schema, Warehouse, Resource and Cost Type">Zur Überwachung der Kostenelemente für jeden Satz aus Artikel, Organisation, Buchführungsschema, Lager, Ressource und Kostenart.</value>
   <value column="Help" original="To watch the cost elements for every set of Product, Organization, Accounting Schema, Warehouse, Resource and Cost Type.&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;">To watch the cost elements for every set of Product, Organization, Accounting Schema, Warehouse, Resource and Cost Type.												</value>
  </row>
  <row id="53056" trl="Y">
@@ -1433,9 +1433,9 @@ You can also include Distibution orders who have outstanding confirmations (e.g.
   <value column="Help" original="This process allow copy a Price from Price list Version to Element Cost">Mit diesem Prozess können Sie den Preis einer Preislistenversion zu einem Kostenelement kopieren.</value>
  </row>
  <row id="53058" trl="Y">
-  <value column="Name" original="Workflow Cost Roll-Up">Zusammenfassung Workflowkosten</value>
-  <value column="Description" original="This Process allow integrate Labor and Overhead Cost to a Manufacturing Workflow ">Mit diesem Vorgang können Overhead und Arbeitskosten in einen Fertigungsworkflow integriert werden.</value>
-  <value column="Help" original="This Process allow integrate Labor and Overhead Cost to a Manufacturing Workflow &#10;&#10;Labor Cost Operation = (Setup Time / Qty Batch Size) * Duration * Labor Rate to this Resource &#10;Overhead Cost Operation =  (Setup Time / Qty Batch Size) * Duration * Overhead Rate to this Resource &#10;&#10;Labor Cost Workflow = Sum of every the Labor Cost Operation&#10;Overhead Cost Workflow = Sum of every the Overhead Cost Operation&#10;&#10;Cost Workflow = Labor Cost Workflow + Overhead Cost Workflow&#10;">Mit diesem Vorgang können Sie Arbeits- und Unkosten der Kostenoperation eines Fertigungsworkflow integrieren = (Einrichtung Zeit/Menge Chargengröße) * Dauer * Lohntarif für  = (Einrichtung Zeit/Batchgröße Menge) * Dauer * Zuschlagssatz für die Ressourcenkostenoperation dieses Workflows = Summe jeder Arbeitskostenzuschlagsoperation des Workflows = Summe jedes Zuschlags der Kostenzuschläge jeder Kostenoperation = Arbeitskosten Workflow + Zuschlagskosten Workflow</value>
+  <value column="Name" original="Workflow Cost Roll-Up">Zusammenfassung Workflow-Kosten</value>
+  <value column="Description" original="This Process allow integrate Labor and Overhead Cost to a Manufacturing Workflow ">Mit diesem Vorgang können Overhead und Arbeitskosten in einen Fertigungs-Workflow integriert werden.</value>
+  <value column="Help" original="This Process allow integrate Labor and Overhead Cost to a Manufacturing Workflow &#10;&#10;Labor Cost Operation = (Setup Time / Qty Batch Size) * Duration * Labor Rate to this Resource &#10;Overhead Cost Operation =  (Setup Time / Qty Batch Size) * Duration * Overhead Rate to this Resource &#10;&#10;Labor Cost Workflow = Sum of every the Labor Cost Operation&#10;Overhead Cost Workflow = Sum of every the Overhead Cost Operation&#10;&#10;Cost Workflow = Labor Cost Workflow + Overhead Cost Workflow&#10;">Mit diesem Vorgang können Sie Arbeits- und Unkosten der Kostenoperation eines Fertigungs-Workflow integrieren = (Einrichtung Zeit/Menge Chargengröße) * Dauer * Lohntarif für  = (Einrichtung Zeit/Batchgröße Menge) * Dauer * Zuschlagssatz für die Ressourcenkostenoperation dieses Workflows = Summe jeder Arbeitskostenzuschlagsoperation des Workflows = Summe jedes Zuschlags der Kostenzuschläge jeder Kostenoperation = Arbeitskosten Workflow + Zuschlagskosten Workflow</value>
  </row>
  <row id="53060" trl="Y">
   <value column="Name" original="Cost Workflow &amp; Process Details"><![CDATA[Cost Workflow & Process Details]]></value>
@@ -1457,12 +1457,12 @@ Total BOM Cost = Sum every Element Cost]]></value>
   <value column="Help" original="The default period is the current period. You can optionally enter other restrictions.  You can select an alternative Reporting Hierarchy.">Standard ist die aktuelle Periode. Sie können weitere Einschränkungen eingeben. Sie können eine alternative Berichtshierarchie auswählen.</value>
  </row>
  <row id="53065" trl="Y">
-  <value column="Name" original="ASP Generate Fields">ASP-Felder erstellen</value>
+  <value column="Name" original="ASP Generate Fields">ASP Felder generieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53067" trl="Y">
-  <value column="Name" original="ASP Generate Level">ASP-Level generieren</value>
+  <value column="Name" original="ASP Generate Level">ASP Level generieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1482,7 +1482,7 @@ Total BOM Cost = Sum every Element Cost]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="53072" trl="Y">
-  <value column="Name" original="C_Invoce Calculate Tax">C_Invoce Calculate Tax</value>
+  <value column="Name" original="C_Invoice Calculate Tax">C_Invoice Calculate Tax</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1592,7 +1592,7 @@ Total BOM Cost = Sum every Element Cost]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="53117" trl="Y">
-  <value column="Name" original="Depreciation Table">Depreciation Table</value>
+  <value column="Name" original="Depreciation Table">Abschreibungstabelle</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1602,7 +1602,7 @@ Total BOM Cost = Sum every Element Cost]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="53121" trl="Y">
-  <value column="Name" original="Asset Depreciation Method">Asset Depreciation Method</value>
+  <value column="Name" original="Asset Depreciation Method">Vermögenswert Abschreibungsmethode</value>
   <value column="Description" original="List Depreciation Methods">Liste der Abschreibungsmethoden</value>
   <value column="Help" original=""/>
  </row>
@@ -1622,7 +1622,7 @@ Total BOM Cost = Sum every Element Cost]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="53129" trl="Y">
-  <value column="Name" original="Depreciation Calculation Methods">Depreciation Calculation Methods</value>
+  <value column="Name" original="Depreciation Calculation Methods">Abschreibung Berechnungsmethoden</value>
   <value column="Description" original="List Depreciation Calculation Methods Available">Liste der verfügbaren Methoden zur Abschreibungsberechnung</value>
   <value column="Help" original=""/>
  </row>
@@ -1655,7 +1655,7 @@ The Parameters are default values for null import record values they do not over
  <row id="53150" trl="Y">
   <value column="Name" original="Distribution Run Orders">Distributionslauf Aufträge</value>
   <value column="Description" original="Create Distribution Run Orders based on Distribution List or The Quantity Demand the Distribution Order and redistribute the quantity into Distribution Plan line items">Erstellen Sie einen "Distributionslauf Aufträge" auf Basis der Distributionsliste oder Menge. Fordern Sie einen Distributionsauftrag an und verteilen Sie die Menge auf Positionen des Distributionsplans.</value>
-  <value column="Help" original="Based in DRP Demand is selected then the  redistribute the quantity is based in % of Demand&#10;&#10;Please note that due to rounding, the total quantity of the order(s) is likely to be higher then the quantity entered.&#10;&#10;Consolidate to one Document let the distribution in current Documents with ranges dates promised, if do not is selected then a new Order is generate.">Wenn "Basierend auf dem EDP-Bedarf" ausgewählt ist, wird die Umverteilungsmenge in % des Bedarfs ausgedrückt. Beachten Sie, dass die Gesamtauftragsmenge durch Rundung wahrscheinlich höher als die eingegebene Menge sein wird. Mit "Zu einem Beleg zusammenfassen" erstellen Sie einen neuen Beleg mit Reihenfolge und zugesagten Lieferterminen. Falls nicht ausgewählt, wird ein neuer Auftrag erstellt.</value>
+  <value column="Help" original="Based in DRP Demand is selected then the  redistribute the quantity is based in % of Demand&#10;&#10;Please note that due to rounding, the total quantity of the order(s) is likely to be higher then the quantity entered.&#10;&#10;Consolidate to one Document let the distribution in current Documents with ranges dates promised, if do not is selected then a new Order is generate.">Wenn "Basierend auf dem EDP-Bedarf" ausgewählt ist, wird die Umverteilungsmenge in % des Bedarfs ausgedrückt. Beachten Sie, dass die Gesamtauftragsmenge durch Rundung wahrscheinlich höher als die eingegebene Menge sein wird. Mit "Zu einem Beleg zusammenfassen" erstellen Sie einen neuen Beleg mit Reihenfolge und zugesagten Lieferterminen. Falls nicht ausgewählt, wird ein neuer Auftrag erzeugt.</value>
  </row>
  <row id="53151" trl="Y">
   <value column="Name" original="Distribution Order Detail">Distributionsauftrag Details</value>
@@ -1718,23 +1718,23 @@ The Parameters are default values for null import record values they do not over
   <value column="Help" original=""/>
  </row>
  <row id="53179" trl="Y">
-  <value column="Name" original="Copy From Report and Process">Aus Bericht kopieren und verarbeiten</value>
+  <value column="Name" original="Copy From Report and Process">Von Bericht und Prozess kopieren</value>
   <value column="Description" original="Copy settings from one report and process to another.">Kopieren Sie Berichteinstellungen und bearbeiten Sie diese in einem anderen Bericht.</value>
   <value column="Help" original="Copy the settings from the selected report and process to the current one.  This overwrites existing settings and translations.">Einstellungen werden aus gewähltem Report kopiert und im aktuellen Report bearbeitet. Der Vorgang überschreibt bestehende Einstellungen und Übersetzungen.</value>
  </row>
  <row id="53187" trl="Y">
   <value column="Name" original="Client Accounting Processor">Buchungsprozessor Mandant</value>
   <value column="Description" original="Client Accounting Processor">Buchungsprozessor Mandant</value>
-  <value column="Help" original="The client accounting processor allows a user to run the accounting processor in a client session.  The system configurator parameter CLIENT_ACCOUNTING must be enabled (configured as [I]mmediate or [Q]ueue).">Der "Buchungsprozessor Mandant" ermöglicht dem Nutzer die Ausführung des Prozessors während einer Mandantensession. Das Systemkonfigurationsparameter CLIENT_ACCOUNTING muss, als [I]mmediate oder [Q]ueue konfiguriert, aktiviert sein.</value>
+  <value column="Help" original="The client accounting processor allows a user to run the accounting processor in a client session.  The system configurator parameter CLIENT_ACCOUNTING must be enabled (configured as [I]mmediate or [Q]ueue).">Der "Buchungsprozessor Mandant" ermöglicht dem Benutzer die Ausführung des Prozessors während einer Mandantensession. Das Systemkonfigurationsparameter CLIENT_ACCOUNTING muss, als [I]mmediate oder [Q]ueue konfiguriert, aktiviert sein.</value>
  </row>
  <row id="53189" trl="Y">
-  <value column="Name" original="Storage per Product">Lagerung pro Produkt</value>
+  <value column="Name" original="Storage per Product">Lagerung pro Artikel</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53197" trl="Y">
-  <value column="Name" original="Import Payroll Movement">Import Payroll Movement</value>
-  <value column="Description" original="Import Payroll Movement">Import Payroll Movement</value>
+  <value column="Name" original="Import Payroll Movement">Import Gehaltsabrechnungsbewegung</value>
+  <value column="Description" original="Import Payroll Movement">Import Gehaltsabrechnungsbewegung</value>
   <value column="Help" original=""/>
  </row>
  <row id="53199" trl="Y">
@@ -1749,12 +1749,12 @@ The Parameters are default values for null import record values they do not over
  </row>
  <row id="53202" trl="Y">
   <value column="Name" original="POS Key Generate">Produktschnelltasten erzeugen</value>
-  <value column="Description" original="Generate POS Keys from products.">Bereits festgelegte Schnelltasten für Produkte erzeugen</value>
+  <value column="Description" original="Generate POS Keys from products.">Bereits festgelegte Schnelltasten für Artikel erzeugen</value>
   <value column="Help" original=""/>
  </row>
  <row id="53206" trl="Y">
-  <value column="Name" original="Copy from product">Von Produkt kopieren</value>
-  <value column="Description" original="Copy prices etc from other product">Preise usw. von anderem Produkt kopieren</value>
+  <value column="Name" original="Copy from product">Von Artikel kopieren</value>
+  <value column="Description" original="Copy prices etc from other product">Preise usw. von anderem Artikel kopieren</value>
   <value column="Help" original=""/>
  </row>
  <row id="53207" trl="Y">
@@ -1808,7 +1808,7 @@ The Parameters are default values for null import record values they do not over
   <value column="Help" original=""/>
  </row>
  <row id="53221" trl="Y">
-  <value column="Name" original="Automatic account reconciliation">Automatic account reconciliation</value>
+  <value column="Name" original="Automatic account reconciliation">Automatische Kontoabstimmung</value>
   <value column="Description" original="Reconcile account transactions according to standard rules">Reconcile account transactions according to standard rules</value>
   <value column="Help" original=""/>
  </row>
@@ -1825,7 +1825,7 @@ The Parameters are default values for null import record values they do not over
  <row id="53228" trl="Y">
   <value column="Name" original="Validate BOM Flags">Stücklistenkennzeichen überprüfen</value>
   <value column="Description" original="Validate BOM Flags">Stücklistenkennzeichen überprüfen</value>
-  <value column="Help" original="The Validate BOM Flags process checks that all Products with bills of materials are correctly flagged.">Der Prozess "Stücklistenkennzeichen überprüfen" prüft ob alle Produkte mit Stücklisten ordnungsgemäß gekennzeichnet sind.</value>
+  <value column="Help" original="The Validate BOM Flags process checks that all Products with bills of materials are correctly flagged.">Der Prozess "Stücklistenkennzeichen überprüfen" prüft ob alle Artikel mit Stücklisten ordnungsgemäß gekennzeichnet sind.</value>
  </row>
  <row id="53229" trl="Y">
   <value column="Name" original="Verify BOM Structure">Stücklistenstruktur überprüfen</value>
@@ -1874,7 +1874,7 @@ The Parameters are default values for null import record values they do not over
  </row>
  <row id="53265" trl="Y">
   <value column="Name" original="Universal substitution">Produktersetzung</value>
-  <value column="Description" original="Substitute one product for another in all BOMs">Ersetzt in allen Stücklisten ein Produkt durch ein anderes Produkt.</value>
+  <value column="Description" original="Substitute one product for another in all BOMs">Ersetzt in allen Stücklisten einen Artikel durch einen anderen Artikel</value>
   <value column="Help" original=""/>
  </row>
  <row id="53266" trl="Y">
@@ -1885,16 +1885,12 @@ The Parameters are default values for null import record values they do not over
  <row id="53267" trl="Y">
   <value column="Name" original="Replenish Report incl. Production">Bestellvorschlagsliste inkl. Produktion</value>
   <value column="Description" original="Inventory Replenish Report">Bericht zur Bestandsnachbestellung</value>
-  <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#13;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished.">Der Bericht listet Produkte die wieder aufgefüllt werden. Bitte beachten, dass ein Produkt nur einen aktuellen Lieferanten haben kann. Falls mehrere Lieferanten für ein Produkt existieren, werden beide Datensätze zurückgesetzt. Der aktuelle Lieferant muss manuell festgelegt werden.</value>
+  <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#13;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished.">Der Bericht listet Artikel die wieder aufgefüllt werden. Bitte beachten, dass ein Artikel nur einen aktuellen Lieferanten haben kann. Falls mehrere Lieferanten für einen Artikel existieren, werden beide Datensätze zurückgesetzt. Der aktuelle Lieferant muss manuell festgelegt werden.</value>
  </row>
  <row id="200000" trl="Y">
-  <value column="Name" original="FA_ProjectCreateAsset">FA_ProjectCreateAsset</value>
+  <value column="Name" original="FA_ProjectCreateAsset">Projekt erstellt Vermögenswert</value>
   <value column="Description" original="This process creates asset from project and automatically close the project">Dieser Prozess erstellt einen Vermögenswert aus dem Projekt und schließt es automatisch.</value>
-  <value column="Help" original="There are four parameters:&#10;a. Project, is the Project that will be converted to asset. This project will be closed after this process completes&#10;b. Product, is the asset product that will be act as the base for the newly created asset&#10;c. UseLifeYears, is an optional parameter. Use this if you want a different use life years for the newly created asset, instead of the default uselifeyears from asset group accounting.&#10;d. Transaction Date, will become in-service-date for the newly created asset.">There are four parameters:
-a. Project, is the Project that will be converted to asset. This project will be closed after this process completes
-b. Product, is the asset product that will be act as the base for the newly created asset
-c. UseLifeYears, is an optional parameter. Use this if you want a different use life years for the newly created asset, instead of the default uselifeyears from asset group accounting.
-d. Transaction Date, will become in-service-date for the newly created asset.</value>
+  <value column="Help" original="There are four parameters:&#10;a. Project, is the Project that will be converted to asset. This project will be closed after this process completes&#10;b. Product, is the asset product that will be act as the base for the newly created asset&#10;c. UseLifeYears, is an optional parameter. Use this if you want a different use life years for the newly created asset, instead of the default uselifeyears from asset group accounting.&#10;d. Transaction Date, will become in-service-date for the newly created asset.">Es gibt vier Parameter: a. "Projekt" ist das Projekt, das in einen Vermögenswert konvertiert wird. Dieses Projekt wird geschlossen nachdem der Prozess beendet ist. b. "Artikel" ist der Vermögenswert-Artikel der als Basis für den neu erstellten Vermögenswert dient .c. "LebensdauerJahre" ist ein optionaler Parameter. Er kann bei einem neu erstellten Vermögenswert anstelle des Vorgabewerts aus der Vermögenswertgruppenbuchführung verwendet werden.d. "Transaktionsdatum", wird zum Datum der Inbetriebnahme des neu erstellten Vermögenswerts.</value>
  </row>
  <row id="200005" trl="Y">
   <value column="Name" original="Copy Details">Details kopieren</value>
@@ -1902,13 +1898,13 @@ d. Transaction Date, will become in-service-date for the newly created asset.</v
   <value column="Help" original=""/>
  </row>
  <row id="200006" trl="Y">
-  <value column="Name" original="OrderLine Create Production">OrderLine Create Production</value>
+  <value column="Name" original="OrderLine Create Production">Auftragsposition Produktion erstellen</value>
   <value column="Description" original="Create Production Header and Plan for single ordered product">Create Production Header and Plan for single ordered product</value>
   <value column="Help" original=""/>
  </row>
  <row id="200007" trl="Y">
-  <value column="Name" original="OrderLine Create Shipment">OrderLine Create Shipment</value>
-  <value column="Description" original="Create Shipment for single ordered product">Lieferung für ein einzelnes bestelltes Produkt</value>
+  <value column="Name" original="OrderLine Create Shipment">Auftragsposition Lieferung erstellen</value>
+  <value column="Description" original="Create Shipment for single ordered product">Lieferung für ein einzelnes bestellter Artikel</value>
   <value column="Help" original=""/>
  </row>
  <row id="200008" trl="Y">
@@ -1917,7 +1913,7 @@ d. Transaction Date, will become in-service-date for the newly created asset.</v
   <value column="Help" original=""/>
  </row>
  <row id="200010" trl="Y">
-  <value column="Name" original="Generate GL Journal">Generate GL Journal</value>
+  <value column="Name" original="Generate GL Journal">Hauptbuchjournal erzeugen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1937,12 +1933,12 @@ d. Transaction Date, will become in-service-date for the newly created asset.</v
   <value column="Help" original=""/>
  </row>
  <row id="200016" trl="Y">
-  <value column="Name" original="Reverse PO Matching">Reverse PO Matching</value>
+  <value column="Name" original="Reverse PO Matching">Umgekehrte Zuordnung Bestellung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200017" trl="Y">
-  <value column="Name" original="Reverse Invoice Matching">Reverse Invoice Matching</value>
+  <value column="Name" original="Reverse Invoice Matching">Umgekehrte Zuordnung Rechnung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1978,7 +1974,7 @@ d. Transaction Date, will become in-service-date for the newly created asset.</v
  </row>
  <row id="200024" trl="Y">
   <value column="Name" original="Process Shipment Online">Lieferung Online verarbeiten</value>
-  <value column="Description" original="Create shipment using web services provided by shipper">Lieferung erstellen unter Nutzung durch den Spediteur zur Verfügung gestellter Webservices.</value>
+  <value column="Description" original="Create shipment using web services provided by shipper">Lieferung via Webservices des Spediteurs erstellen</value>
   <value column="Help" original=""/>
  </row>
  <row id="200025" trl="Y">
@@ -1988,21 +1984,31 @@ d. Transaction Date, will become in-service-date for the newly created asset.</v
  </row>
  <row id="200026" trl="Y">
   <value column="Name" original="Void Shipment Online">Void Shipment Online</value>
-  <value column="Description" original="Void shipment using web services provided by shipper">Void shipment using web services provided by shipper</value>
+  <value column="Description" original="Void shipment using web services provided by shipper">Lieferung via Webservices des Spediteurs stornieren</value>
   <value column="Help" original=""/>
  </row>
  <row id="200028" trl="Y">
-  <value column="Name" original="Shipper Create From ...">Shipper Create From ...</value>
+  <value column="Name" original="Shipper Create From ...">Spediteur Erstellen Von ...</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200029" trl="Y">
-  <value column="Name" original="Shipper Copy From ...">Shipper Copy From ...</value>
+  <value column="Name" original="Shipper Copy From ...">Spediteur Kopieren Von ...</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200030" trl="Y">
   <value column="Name" original="Online Shipping Sales Order Rate Inquiry">Online Shipping Sales Order Rate Inquiry</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200031" trl="Y">
+  <value column="Name" original="Deposit Batch Close">Deposit Batch Close</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200032" trl="Y">
+  <value column="Name" original="Bank Statement Create From Batch">Kontoauszug aus Stapel erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

@@ -265,7 +265,7 @@
  <row id="156" trl="Y">
   <value column="Name" original="Colombia">Kolumbien</value>
   <value column="Description" original="Colombia">Kolumbien</value>
-  <value column="RegionName" original="Department">Department</value>
+  <value column="RegionName" original="Department">Abteilung</value>
  </row>
  <row id="157" trl="Y">
   <value column="Name" original="Comoros">Komoren</value>

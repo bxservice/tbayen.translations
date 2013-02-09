@@ -5,13 +5,13 @@
  <row id="100" trl="Y">
   <value column="Meta_Description" original=""/>
   <value column="Meta_Keywords" original=""/>
-  <value column="Name" original="Products">Produkte</value>
+  <value column="Name" original="Products">Artikel</value>
   <value column="ContainerXML" original=""/>
   <value column="StructureXML" original=""/>
   <value column="Title" original=""/>
  </row>
  <row id="101" trl="Y">
-  <value column="Meta_Description" original="This is the homesite of GardenWorld, it would be a good idea to place some real content in here">Dies ist die Homepage von GartenWelt. Es wäre eine gute Idee hier echte Inhalte zu hinterlegen.</value>
+  <value column="Meta_Description" original="This is the homesite of GardenWorld, it would be a good idea to place some real content in here">Dies ist die Homepage von GardenWorld. Es wäre eine gute Idee hier echte Inhalte zu hinterlegen.</value>
   <value column="Meta_Keywords" original="GardenWorld, Adempiere">GardenWorld, iDempiere</value>
   <value column="Name" original="Home of Gardenworld">Heimat von GardenWorld</value>
   <value column="ContainerXML" original=""/>

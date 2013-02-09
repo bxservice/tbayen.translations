@@ -118,7 +118,7 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="145" trl="Y">
-  <value column="Name" original="Patio Furniture Set">Terassenmöbel Set</value>
+  <value column="Name" original="Patio Furniture Set">Gartensitzgruppe</value>
   <value column="Description" original="1 table, 4 Chairs and 1 Sun Screen">1 Tisch, 4 Stühle und ein Sonnenschirm</value>
   <value column="DocumentNote" original="&#9;">	</value>
  </row>
@@ -264,6 +264,21 @@
  </row>
  <row id="50027" trl="Y">
   <value column="Name" original="Fertilizer Inspection Area">Dünger Inspektionsbereich</value>
+  <value column="Description" original=""/>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="1000000" trl="Y">
+  <value column="Name" original="Standard">Standard</value>
+  <value column="Description" original=""/>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="1000001" trl="Y">
+  <value column="Name" original="Dienstleistungen zur internen Verrechnung">Dienstleistungen zur internen Verrechnung</value>
+  <value column="Description" original=""/>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="1000002" trl="Y">
+  <value column="Name" original="Allgemeine Dienstleistungen">Allgemeine Dienstleistungen</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>

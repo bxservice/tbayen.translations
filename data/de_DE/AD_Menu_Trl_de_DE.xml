@@ -83,7 +83,7 @@
   <value column="Description" original="Customer Relations and Partner Management">Verwaltung von Kunden und Geschäftspartnern</value>
  </row>
  <row id="271" trl="Y">
-  <value column="Name" original="Service">Service</value>
+  <value column="Name" original="Service">Dienstleistung</value>
   <value column="Description" original="Service Management">Verwaltung der Services</value>
  </row>
  <row id="272" trl="Y">
@@ -91,7 +91,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="278" trl="Y">
-  <value column="Name" original="Performance Analysis">Buchführung</value>
+  <value column="Name" original="Performance Analysis">Leistungsanalyse</value>
   <value column="Description" original=""/>
  </row>
  <row id="280" trl="Y">
@@ -103,11 +103,11 @@
   <value column="Description" original="Print Definition">Druckereinstellungen</value>
  </row>
  <row id="345" trl="Y">
-  <value column="Name" original="Assets">Anlagen</value>
+  <value column="Name" original="Assets">Vermögenswerte</value>
   <value column="Description" original=""/>
  </row>
  <row id="357" trl="Y">
-  <value column="Name" original="Product Attributes">Produktmerkmale</value>
+  <value column="Name" original="Product Attributes">Artikelattribute</value>
   <value column="Description" original=""/>
  </row>
  <row id="367" trl="Y">
@@ -188,7 +188,7 @@
  </row>
  <row id="53029" trl="Y">
   <value column="Name" original="Planning Management">Planungsmanagement</value>
-  <value column="Description" original="Using Planning Management you answer the question: When and How Many products we must get?">Mit Hilfe des Planungsmanagements können Sie planen, wann und wie viele Produkte vorhanden sein müssen.</value>
+  <value column="Description" original="Using Planning Management you answer the question: When and How Many products we must get?">Mit Hilfe des Planungsmanagements können Sie planen, wann und wie viele Artikel vorhanden sein müssen.</value>
  </row>
  <row id="53031" trl="Y">
   <value column="Name" original="Product Planning">Produktplanung</value>

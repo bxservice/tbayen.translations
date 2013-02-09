@@ -59,8 +59,8 @@
   <value column="Description" original="Maintain Tax Categories">Verwaltung Steuerkategorien</value>
  </row>
  <row id="167" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
-  <value column="Description" original="Maintain Products">Verwaltung Produkte</value>
+  <value column="Name" original="Product">Artikel</value>
+  <value column="Description" original="Maintain Products">Verwaltung Artikel</value>
  </row>
  <row id="168" trl="Y">
   <value column="Name" original="Charge">Gebühr</value>
@@ -91,8 +91,8 @@
   <value column="Description" original="Setup Manufacturing Management">Einrichtung Produktionsplanung</value>
  </row>
  <row id="50003" trl="Y">
-  <value column="Name" original="Warehouse &amp; Locators"><![CDATA[Lager & Lagerorte]]></value>
-  <value column="Description" original="Warehouse &amp; Locators"><![CDATA[Lager & Lagerorte]]></value>
+  <value column="Name" original="Warehouse &amp; Locators">Lager und Lagerorte</value>
+  <value column="Description" original="Warehouse &amp; Locators">Lager und Lagerorte</value>
  </row>
  <row id="50004" trl="Y">
   <value column="Name" original="Resource Type">Ressourcenart</value>
@@ -111,8 +111,8 @@
   <value column="Description" original="Maintain Unit of Measure ">Verwaltung Maßeinheiten</value>
  </row>
  <row id="50008" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
-  <value column="Description" original="Maintain Products">Verwaltung Produkte</value>
+  <value column="Name" original="Product">Artikel</value>
+  <value column="Description" original="Maintain Products">Verwaltung Artikel</value>
  </row>
  <row id="50009" trl="Y">
   <value column="Name" original="Material Requirement Planning Setup">Einrichtung Materialbedarfsplanung (MBP)</value>
@@ -152,7 +152,7 @@
  </row>
  <row id="50018" trl="Y">
   <value column="Name" original="Resource Load View">Ansicht Ressourcenauslastung</value>
-  <value column="Description" original="It shows graphically of the required and available time for each manufacturing resource.">Stellt benötigte und verfügbare Zeit für jede Produktionsressource grafisch dar.</value>
+  <value column="Description" original="It shows graphically of the required and available time for each manufacturing resource.">Stellt benötigte und verfügbare Zeit für jede Produktionsressource graphisch dar.</value>
  </row>
  <row id="50019" trl="Y">
   <value column="Name" original="Material Requirement Planning Setup">Einrichtung Materialbedarfsplanung (MBP)</value>
@@ -208,15 +208,15 @@
  </row>
  <row id="50049" trl="Y">
   <value column="Name" original="Multi Level BOM &amp; Formula Detail"><![CDATA[Mehrstufige Stückliste & Formel Details]]></value>
-  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für das im Produktfeld angegebene Produkt in zwei verschiedenen Fensterbereichen.</value>
+  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für den im Artikelfeld angegebenen Artikel in zwei verschiedenen Fensterbereichen.</value>
  </row>
  <row id="50050" trl="Y">
   <value column="Name" original="BOM &amp; Formula Info"><![CDATA[ Stückliste & Formel Info]]></value>
-  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für das im Produktfeld angegebene Produkt in zwei verschiedenen Fensterbereichen.</value>
+  <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für den im Artikelfeld angegebenen Artikel in zwei verschiedenen Fensterbereichen.</value>
  </row>
  <row id="50051" trl="Y">
   <value column="Name" original="Bill of Materials &amp; Formula"><![CDATA[Stückliste & Formel]]></value>
-  <value column="Description" original="Maintain Product Bill of Materials &amp; Formula "><![CDATA[Produkt Stückliste & Formel verwalten]]></value>
+  <value column="Description" original="Maintain Product Bill of Materials &amp; Formula "><![CDATA[Artikel Stückliste & Formel verwalten]]></value>
  </row>
  <row id="50052" trl="Y">
   <value column="Name" original="Product Planning">Produktplanung</value>

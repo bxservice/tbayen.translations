@@ -3,7 +3,7 @@
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="PP_Product_BOM">
  <row id="145" trl="Y">
-  <value column="Name" original="Patio Furniture Set">Terassenmöbel Set</value>
+  <value column="Name" original="Patio Furniture Set">Gartensitzgruppe</value>
   <value column="Description" original="1 table, 4 Chairs and 1 Sun Screen">1 Tisch, 4 Stühle und ein Sonnenschirm</value>
   <value column="Help" original=""/>
  </row>

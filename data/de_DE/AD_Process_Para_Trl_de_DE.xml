@@ -8,7 +8,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="233" trl="Y">
-  <value column="Name" original="Pricelist Version">Version Preisliste</value>
+  <value column="Name" original="Pricelist Version">Preisliste Version</value>
   <value column="Description" original="Only used if Price List is used to set future/standard cost price">Nur verwendet, falls eine Preisliste verwendet wird um den zukünftigen/Standard Kostenpreis festzulegen</value>
   <value column="Help" original=""/>
  </row>
@@ -39,23 +39,23 @@
  </row>
  <row id="493" trl="Y">
   <value column="Name" original="New User/Contact">Neuer Benutzer/Kontakt</value>
-  <value column="Description" original="User within the system - Internal or Business Partner Contact">(Interner) Benutzer des Systems oder Kontakt eines Geschäftspartners.</value>
-  <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">Ein bestimmter "Benutzer" des Systems. Z. B. ein interner Kontakt oder ein Geschäftspartner.</value>
+  <value column="Description" original="User within the system - Internal or Business Partner Contact">(Interner) Benutzer des Systems oder Kontakt eines Geschäftspartners</value>
+  <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">Ein bestimmter "Benutzer" des Systems. Z.B. ein interner Kontakt oder ein Geschäftspartner.</value>
  </row>
  <row id="494" trl="Y">
   <value column="Name" original="New Workflow Responsible">Neuer Workflow-Verantwortlicher</value>
-  <value column="Description" original="Responsible for Workflow Execution">Verantwortlicher für Workflowausführung.</value>
-  <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">Die letztendliche Verantwortung für die Workflow-Ausführung liegt beim tatsächlichen Benutzer. Unter "Workflow-Verantwortlicher" können Sie die Suche nach dem verantwortlichen Benutzer definieren.</value>
+  <value column="Description" original="Responsible for Workflow Execution">Verantwortlicher für Workflow-Ausführung.</value>
+  <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">Die letztendliche Verantwortung für die Workflow-Ausführung liegt beim tatsächlichen Benutzer. Unter "Workflow Verantwortlicher" können Sie die Suche nach dem verantwortlichen Benutzer definieren.</value>
  </row>
  <row id="496" trl="Y">
   <value column="Name" original="New User/Contact">Neuer Benutzer/Kontakt</value>
-  <value column="Description" original="User within the system - Internal or Business Partner Contact">(Interner) Benutzer des Systems oder Kontakt eines Geschäftspartners.</value>
-  <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">Ein bestimmter "Benutzer" des Systems. Z. B. ein interner Kontakt oder ein Geschäftspartner.</value>
+  <value column="Description" original="User within the system - Internal or Business Partner Contact">(Interner) Benutzer des Systems oder Kontakt eines Geschäftspartners</value>
+  <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">Ein bestimmter "Benutzer" des Systems. Z.B. ein interner Kontakt oder ein Geschäftspartner.</value>
  </row>
  <row id="497" trl="Y">
   <value column="Name" original="New Workflow Responsible">Neuer Workflow-Verantwortlicher</value>
-  <value column="Description" original="Responsible for Workflow Execution">Verantwortlicher für Workflowausführung.</value>
-  <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">Die letztendliche Verantwortung für die Workflow-Ausführung liegt beim tatsächlichen Benutzer. Unter "Workflow-Verantwortlicher" können Sie die Suche nach dem verantwortlichen Benutzer definieren.</value>
+  <value column="Description" original="Responsible for Workflow Execution">Verantwortlicher für Workflow-Ausführung.</value>
+  <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">Die letztendliche Verantwortung für die Workflow-Ausführung liegt beim tatsächlichen Benutzer. Unter "Workflow Verantwortlicher" können Sie die Suche nach dem verantwortlichen Benutzer definieren.</value>
  </row>
  <row id="523" trl="Y">
   <value column="Name" original="Default Sales Rep">Standard-Vertriebsbeauftragter</value>
@@ -69,12 +69,12 @@
  </row>
  <row id="50001" trl="Y">
   <value column="Name" original="Role To">Zielrolle</value>
-  <value column="Description" original="Responsibility Role">Rollenbefugnisse.</value>
+  <value column="Description" original="Responsibility Role">Rollenbefugnisse</value>
   <value column="Help" original="The Role determines security and access a user who has this Role will have in the System.">Eine "Rolle" bestimmt die Sicherheitsstufen und Zugriffsberechtigungen eines Benutzers im System.</value>
  </row>
  <row id="50002" trl="Y">
   <value column="Name" original="Role From">Ausgangsrolle</value>
-  <value column="Description" original="Responsibility Role">Rollenbefugnisse.</value>
+  <value column="Description" original="Responsibility Role">Rollenbefugnisse</value>
   <value column="Help" original="The Role determines security and access a user who has this Role will have in the System.">Eine "Rolle" bestimmt die Sicherheitsstufen und Zugriffsberechtigungen eines Benutzers im System.</value>
  </row>
  <row id="50019" trl="Y">
@@ -93,7 +93,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="53030" trl="Y">
-  <value column="Name" original="New Product">Neues Produkt</value>
+  <value column="Name" original="New Product">Neuer Artikel</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -129,12 +129,12 @@
  </row>
  <row id="53142" trl="Y">
   <value column="Name" original="Includes only the Tabs that Insert records">Nur Register mit Einträgen einbeziehen.</value>
-  <value column="Description" original="Generated Export Format for the Tabs with Insert Record is Yes">Exportformat für Register mit Ja-Einträgen erstellen.</value>
+  <value column="Description" original="Generated Export Format for the Tabs with Insert Record is Yes">Exportformat für Register mit Ja-Einträgen erzeugen</value>
   <value column="Help" original=""/>
  </row>
  <row id="53143" trl="Y">
   <value column="Name" original="Includes only the mandatory columns">Nur Pflichtfelder einbeziehen</value>
-  <value column="Description" original="Generated an Export Format Line  if the column is mandatory ">Erstellt eine Position des Exportformats wenn es sich um eine Pflichtspalte handelt.</value>
+  <value column="Description" original="Generated an Export Format Line  if the column is mandatory ">Erzeugt eine Position des Exportformats wenn es sich um eine Pflichtspalte handelt.</value>
   <value column="Help" original=""/>
  </row>
  <row id="53219" trl="Y">
@@ -198,9 +198,9 @@
   <value column="Help" original="Define if this client will use business partner accounting dimension.  This can be changed later in Accounting Schema window of the client.">Festlegen, ob der Mandant die Buchführungsdimension des Geschäftspartners verwenden wird. Kann später im Buchführungsschema des Mandanten geändert werden.</value>
  </row>
  <row id="53292" trl="Y">
-  <value column="Name" original="Product Accounting">Produktbuchführung</value>
-  <value column="Description" original="Use Product accounting dimension">Produktbuchführungsdimension verwenden</value>
-  <value column="Help" original="Define if this client will use product accounting dimension.  This can be changed later in Accounting Schema window of the client.">Festlegen, ob der Mandant die "Produktbuchführungsdimension" verwenden wird. Kann später im Buchführungsschema des Mandanten geändert werden.</value>
+  <value column="Name" original="Product Accounting">Artikelbuchführung</value>
+  <value column="Description" original="Use Product accounting dimension">Artikelbuchführungsdimension verwenden</value>
+  <value column="Help" original="Define if this client will use product accounting dimension.  This can be changed later in Accounting Schema window of the client.">Festlegen, ob der Mandant die "Artikelbuchführungsdimension" verwenden wird. Kann später im Buchführungsschema des Mandanten geändert werden.</value>
  </row>
  <row id="53293" trl="Y">
   <value column="Name" original="Project Accounting">Projektbuchführung</value>
@@ -244,7 +244,7 @@
  </row>
  <row id="53516" trl="Y">
   <value column="Name" original="Recreate">Wiederherstellen</value>
-  <value column="Description" original="Overwrite existing production lines">Overwrite existing production lines</value>
+  <value column="Description" original="Overwrite existing production lines">Existierende Produktionslinien überschreiben</value>
   <value column="Help" original=""/>
  </row>
  <row id="53526" trl="Y">
@@ -253,13 +253,13 @@
   <value column="Help" original=""/>
  </row>
  <row id="200005" trl="Y">
-  <value column="Name" original="New EMail Confirm">New EMail Confirm</value>
+  <value column="Name" original="New EMail Confirm">Neue E-Mail bestätigen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200007" trl="Y">
-  <value column="Name" original="Reset Existing Access">Reset Existing Access</value>
-  <value column="Description" original="Reset Existing Access">Reset Existing Access</value>
+  <value column="Name" original="Reset Existing Access">Existierenden Zugriff zurücksetzen</value>
+  <value column="Description" original="Reset Existing Access">Existierenden Zugriff zurücksetzen</value>
   <value column="Help" original=""/>
  </row>
 </idempiereTrl>

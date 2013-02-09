@@ -27,4 +27,34 @@
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
+ <row id="1000000" trl="Y">
+  <value column="Name" original="Sofort">Sofort</value>
+  <value column="Description" original=""/>
+  <value column="DocumentNote" original="Der Rechnungsbetrag ist ohne Abzug sofort zahlbar.">Der Rechnungsbetrag ist ohne Abzug sofort zahlbar.</value>
+ </row>
+ <row id="1000001" trl="Y">
+  <value column="Name" original="10t">10t</value>
+  <value column="Description" original="10 Tage Netto">10 Tage Netto</value>
+  <value column="DocumentNote" original="Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 10 Tagen.">Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 10 Tagen.</value>
+ </row>
+ <row id="1000002" trl="Y">
+  <value column="Name" original="5t">5t</value>
+  <value column="Description" original="5 Tage Netto">5 Tage Netto</value>
+  <value column="DocumentNote" original="Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 5 Tagen.">Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 5 Tagen.</value>
+ </row>
+ <row id="1000003" trl="Y">
+  <value column="Name" original="15t">15t</value>
+  <value column="Description" original="15 Tage Netto">15 Tage Netto</value>
+  <value column="DocumentNote" original="Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 15 Tagen.">Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 15 Tagen.</value>
+ </row>
+ <row id="1000004" trl="Y">
+  <value column="Name" original="30t">30t</value>
+  <value column="Description" original="30 Tage Netto">30 Tage Netto</value>
+  <value column="DocumentNote" original="Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 30 Tagen.">Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 30 Tagen.</value>
+ </row>
+ <row id="1000005" trl="Y">
+  <value column="Name" original="60t">60t</value>
+  <value column="Description" original="60 Tage Netto">60 Tage Netto</value>
+  <value column="DocumentNote" original="Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 60 Tagen.">Der Rechnungsbetrag ist zahlbar ohne Abzug binnen 60 Tagen.</value>
+ </row>
 </idempiereTrl>

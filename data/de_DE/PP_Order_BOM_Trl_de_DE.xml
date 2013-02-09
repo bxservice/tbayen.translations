@@ -3,12 +3,12 @@
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="PP_Order_BOM">
  <row id="50000" trl="Y">
-  <value column="Name" original="Fertilizer #50">Dünger #50</value>
-  <value column="Description" original="50 # Bag of Lawn Fertilizer">50 # Sack mit Rasendünger</value>
+  <value column="Name" original="Fertilizer #50">Dünger 25 kg</value>
+  <value column="Description" original="50 # Bag of Lawn Fertilizer">25 kg Sack Rasendünger</value>
   <value column="Help" original=""/>
  </row>
  <row id="50001" trl="Y">
-  <value column="Name" original="Fertilizer #70">Rasendünger #70</value>
+  <value column="Name" original="Fertilizer #70">Dünger #70</value>
   <value column="Description" original="70 # Bag of Lawn Fertilizer">70 # Sack mit Rasendünger</value>
   <value column="Help" original=""/>
  </row>

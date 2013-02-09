@@ -33,7 +33,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="11" trl="Y">
-  <value column="Name" original="Integer">Ganze Zahl</value>
+  <value column="Name" original="Integer">Ganzzahl</value>
   <value column="Description" original="10 Digit numeric">Zehnstellige Zahl</value>
   <value column="Help" original=""/>
  </row>
@@ -104,7 +104,7 @@
  </row>
  <row id="25" trl="Y">
   <value column="Name" original="Account">Konto</value>
-  <value column="Description" original="Account Element">Konto laut Kontenplan</value>
+  <value column="Description" original="Account Element">Kontenplan</value>
   <value column="Help" original=""/>
  </row>
  <row id="26" trl="Y">
@@ -153,8 +153,8 @@
   <value column="Help" original=""/>
  </row>
  <row id="35" trl="Y">
-  <value column="Name" original="Product Attribute">Produktattribut</value>
-  <value column="Description" original="Product Attribute">Produktattribut</value>
+  <value column="Name" original="Product Attribute">Artikelattribut</value>
+  <value column="Description" original="Product Attribute">Artikelattribut</value>
   <value column="Help" original=""/>
  </row>
  <row id="36" trl="Y">
@@ -183,7 +183,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="42" trl="Y">
-  <value column="Name" original="Printer Name">Name des Druckers</value>
+  <value column="Name" original="Printer Name">Druckername</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -343,7 +343,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="134" trl="Y">
-  <value column="Name" original="Account_ID - User1">Account_ID - User1</value>
+  <value column="Name" original="Account_ID - User1">Kontonr. - Benutzer 1</value>
   <value column="Description" original="User1 selection based on Client">Auf Mandanten basierende Auswahl Benutzer 1</value>
   <value column="Help" original=""/>
  </row>
@@ -358,7 +358,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="137" trl="Y">
-  <value column="Name" original="Account_ID - User2">Account_ID - User2</value>
+  <value column="Name" original="Account_ID - User2">Kontonr. - Benutzer 1</value>
   <value column="Description" original="User2 selection based on Client">Benutzer2 Auswahl</value>
   <value column="Help" original=""/>
  </row>
@@ -459,7 +459,7 @@
  </row>
  <row id="162" trl="Y">
   <value column="Name" original="M_Product (no summary)">M_Product (no summary)</value>
-  <value column="Description" original="Product selection no summary">Produktauswahl, keine Zusammenfassung</value>
+  <value column="Description" original="Product selection no summary">Artikelauswahl, keine Zusammenfassung</value>
   <value column="Help" original=""/>
  </row>
  <row id="163" trl="Y">
@@ -584,7 +584,7 @@
  </row>
  <row id="191" trl="Y">
   <value column="Name" original="M_Locator">M_Locator</value>
-  <value column="Description" original="Warehouse Locator">Lagerort innerhalb eines Lagers.</value>
+  <value column="Description" original="Warehouse Locator">Lagerort im Lager</value>
   <value column="Help" original=""/>
  </row>
  <row id="192" trl="Y">
@@ -984,7 +984,7 @@
  </row>
  <row id="274" trl="Y">
   <value column="Name" original="R_MailText">R_MailText</value>
-  <value column="Description" original="Mail Text">E-Mail Text</value>
+  <value column="Description" original="Mail Text">E-Mailtext</value>
   <value column="Help" original=""/>
  </row>
  <row id="275" trl="Y">
@@ -1634,7 +1634,7 @@
  </row>
  <row id="53223" trl="Y">
   <value column="Name" original="S_Resource MFG Type">S_Resource MFG Type</value>
-  <value column="Description" original="Manufacturing Resource Type">Art der Fertigungsressource</value>
+  <value column="Description" original="Manufacturing Resource Type">Art Fertigungsressource</value>
   <value column="Help" original=""/>
  </row>
  <row id="53224" trl="Y">
@@ -1649,7 +1649,7 @@
  </row>
  <row id="53226" trl="Y">
   <value column="Name" original="PP_Product_BOM IssueMethod">PP_Product_BOM IssueMethod</value>
-  <value column="Description" original="Issue Method">Ausgabemethode</value>
+  <value column="Description" original="Issue Method">Methode Sachverhalt</value>
   <value column="Help" original=""/>
  </row>
  <row id="53227" trl="Y">
@@ -1714,7 +1714,7 @@
  </row>
  <row id="53239" trl="Y">
   <value column="Name" original="MigrationScriptStatus">MigrationScriptStatus</value>
-  <value column="Description" original="Migration Script Status">Migration Script Status</value>
+  <value column="Description" original="Migration Script Status">Migrationsskript Status</value>
   <value column="Help" original=""/>
  </row>
  <row id="53240" trl="Y">
@@ -1824,7 +1824,7 @@
  </row>
  <row id="53263" trl="Y">
   <value column="Name" original="A_Split_Type">A_Split_Type</value>
-  <value column="Description" original="Split Type">Teilungsart</value>
+  <value column="Description" original="Split Type">Aufteilungsart</value>
   <value column="Help" original=""/>
  </row>
  <row id="53264" trl="Y">
@@ -1994,12 +1994,12 @@
  </row>
  <row id="53306" trl="Y">
   <value column="Name" original="M_RMA">M_RMA</value>
-  <value column="Description" original="RMA">RMA</value>
+  <value column="Description" original="RMA">Freigabe Warenrückgabe</value>
   <value column="Help" original=""/>
  </row>
  <row id="53307" trl="Y">
   <value column="Name" original="M_RMALine">M_RMALine</value>
-  <value column="Description" original="RMA Line">RMA Position</value>
+  <value column="Description" original="RMA Line">Position der Freigabe Warenrückgabe</value>
   <value column="Help" original=""/>
  </row>
  <row id="53315" trl="Y">
@@ -2009,7 +2009,7 @@
  </row>
  <row id="53316" trl="Y">
   <value column="Name" original="PA_DashboardContent GoalDisplay">PA_DashboardContent GoalDisplay</value>
-  <value column="Description" original="Type of goal display on dashboard">Art Leistungszielanzeige auf dem Dashboard</value>
+  <value column="Description" original="Type of goal display on dashboard">Art Leistungszielanzeige auf dem Dashboard.</value>
   <value column="Help" original=""/>
  </row>
  <row id="53317" trl="Y">
@@ -2134,7 +2134,7 @@
  </row>
  <row id="53359" trl="Y">
   <value column="Name" original="A_Asset Status">A_Asset Status</value>
-  <value column="Description" original="Asset Status">Asset Status</value>
+  <value column="Description" original="Asset Status">Vermögenswert Status</value>
   <value column="Help" original=""/>
  </row>
  <row id="53360" trl="Y">
@@ -2313,7 +2313,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="200029" trl="Y">
-  <value column="Name" original="Insurance">Versicherungen</value>
+  <value column="Name" original="Insurance">Versicherung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2357,9 +2357,14 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200061" trl="N">
+ <row id="200061" trl="Y">
   <value column="Name" original="InfoQueryOperators">InfoQueryOperators</value>
   <value column="Description" original="Operator list for info query criteria">Operator list for info query criteria</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200064" trl="Y">
+  <value column="Name" original="AD_CtxHelp CtxType">AD_CtxHelp CtxType</value>
+  <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
 </idempiereTrl>

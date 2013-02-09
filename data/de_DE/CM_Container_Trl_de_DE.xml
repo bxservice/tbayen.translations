@@ -5,7 +5,7 @@
  <row id="100" trl="Y">
   <value column="Meta_Description" original=""/>
   <value column="Meta_Keywords" original=""/>
-  <value column="Name" original="Products">Produkte</value>
+  <value column="Name" original="Products">Artikel</value>
   <value column="ContainerXML" original=""/>
   <value column="StructureXML" original=""/>
   <value column="Title" original=""/>
@@ -13,22 +13,22 @@
  <row id="101" trl="Y">
   <value column="Meta_Description" original="This is the homesite of GardenWorld, it would be a good idea to place some real content in here">Dies ist die Homepage von GardenWorld. Es wäre eine gute Idee hier echte Inhalte zu hinterlegen.</value>
   <value column="Meta_Keywords" original="GardenWorld, Adempiere">GardenWorld, iDempiere</value>
-  <value column="Name" original="Home of Gardenworld">Home von GardenWorld</value>
+  <value column="Name" original="Home of Gardenworld">Heimat von GardenWorld</value>
   <value column="ContainerXML" original=""/>
   <value column="StructureXML" original=""/>
-  <value column="Title" original="Home of Gardenworld">Home von GardenWorld</value>
+  <value column="Title" original="Home of Gardenworld">Heimat von GardenWorld</value>
  </row>
  <row id="102" trl="Y">
-  <value column="Meta_Description" original="Our plum trees are the best in the world">Unsere Pflaumenbäume sind die besten der Welt!</value>
-  <value column="Meta_Keywords" original="plum tree gardenworld">Bäume werden zur Erstellung von (Finanz-)Berichten verwendet.</value>
+  <value column="Meta_Description" original="Our plum trees are the best in the world">Unsere Pflaumenbäume sind die besten der Welt</value>
+  <value column="Meta_Keywords" original="plum tree gardenworld">Pflaumenbaum GardenWorld</value>
   <value column="Name" original="Plum Tree">Pflaumenbaum</value>
   <value column="ContainerXML" original=""/>
   <value column="StructureXML" original=""/>
-  <value column="Title" original="Powerfull Plum Tree">Pflaumenbaum GardenWorld</value>
+  <value column="Title" original="Powerfull Plum Tree">Kraftvoller Pflaumenbaum</value>
  </row>
  <row id="103" trl="Y">
-  <value column="Meta_Description" original="This is  short summary of the advantages of our wonderfull oak tree">Dies ist eine Kurzusammenfassung der Vorteile unserer wunderbaren Eiche.</value>
-  <value column="Meta_Keywords" original="oak tree gardenworld">Eiche GardenWorld</value>
+  <value column="Meta_Description" original="This is  short summary of the advantages of our wonderfull oak tree">Dies ist eine kurze Zusammenfassung der Vorteile unseres wundevollen Eichenbaums</value>
+  <value column="Meta_Keywords" original="oak tree gardenworld">Eichenbaum GardenWorld</value>
   <value column="Name" original="Oak Tree">Eiche</value>
   <value column="ContainerXML" original=""/>
   <value column="StructureXML" original=""/>
@@ -36,7 +36,7 @@
  </row>
  <row id="104" trl="Y">
   <value column="Meta_Description" original="Error 404">Fehler 404</value>
-  <value column="Meta_Keywords" original="Gardenadmin, Error 404">Gardenadmin, Fehler 404</value>
+  <value column="Meta_Keywords" original="Gardenadmin, Error 404">GardenAdmin, Fehler 404</value>
   <value column="Name" original="Page not found">Seite nicht gefunden</value>
   <value column="ContainerXML" original=""/>
   <value column="StructureXML" original=""/>

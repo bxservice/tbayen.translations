@@ -8,7 +8,7 @@
  </row>
  <row id="50001" trl="Y">
   <value column="Name" original="Favourites">Favoriten</value>
-  <value column="Description" original="User favourities">Benutzer Favoriten</value>
+  <value column="Description" original="User favourities">Eigene Favoriten</value>
  </row>
  <row id="50002" trl="Y">
   <value column="Name" original="Views">Ansichten</value>

@@ -18,7 +18,7 @@
   <value column="Name" original="History">Verlauf</value>
  </row>
  <row id="106" trl="Y">
-  <value column="Name" original="Product">Produkt</value>
+  <value column="Name" original="Product">Artikel</value>
  </row>
  <row id="107" trl="Y">
   <value column="Name" original="Business Partner">Geschäftspartner</value>
@@ -27,16 +27,16 @@
   <value column="Name" original="Warehouse">Lager</value>
  </row>
  <row id="109" trl="Y">
-  <value column="Name" original="Bank">Bank</value>
+  <value column="Name" original="Bank Accounts">Bankkonten</value>
  </row>
  <row id="110" trl="Y">
-  <value column="Name" original="Cash Book">Kassenbuch</value>
+  <value column="Name" original="Cash Book Accounts">Kassenbuchkonten</value>
  </row>
  <row id="111" trl="Y">
-  <value column="Name" original="Tax">Steuer</value>
+  <value column="Name" original="Tax Accounts">Steuerkonten</value>
  </row>
  <row id="112" trl="Y">
-  <value column="Name" original="Project">Projekt</value>
+  <value column="Name" original="Project Accounts">Projektkonten</value>
  </row>
  <row id="113" trl="Y">
   <value column="Name" original="General">Allgemein</value>
@@ -138,7 +138,7 @@
   <value column="Name" original="Database">Datenbank</value>
  </row>
  <row id="50010" trl="Y">
-  <value column="Name" original="Manufacturing">Produktion</value>
+  <value column="Name" original="Manufacturing Accounts">Fertigungskonten</value>
  </row>
  <row id="50012" trl="Y">
   <value column="Name" original="Logo">Logo</value>
@@ -169,5 +169,29 @@
  </row>
  <row id="200004" trl="Y">
   <value column="Name" original="Overwritten From Column">Überschrieben von Spalte</value>
+ </row>
+ <row id="200005" trl="Y">
+  <value column="Name" original="Customer Information">Kundeninformation</value>
+ </row>
+ <row id="200006" trl="Y">
+  <value column="Name" original="Vendor Information">Lieferanteninformation</value>
+ </row>
+ <row id="200007" trl="Y">
+  <value column="Name" original="Sales Information">Vertriebsinformation</value>
+ </row>
+ <row id="200008" trl="Y">
+  <value column="Name" original="Document Preferences">Belegvoreinstellungen</value>
+ </row>
+ <row id="200009" trl="Y">
+  <value column="Name" original="Charge Account">Aufwendungen Gebühren</value>
+ </row>
+ <row id="200010" trl="Y">
+  <value column="Name" original="Business Partner Accounts">Geschäftspartnerkonten</value>
+ </row>
+ <row id="200011" trl="Y">
+  <value column="Name" original="Product Accounts">Artikelkonten</value>
+ </row>
+ <row id="200012" trl="Y">
+  <value column="Name" original="Warehouse Accounts">Lagerkonten</value>
  </row>
 </idempiereTrl>
