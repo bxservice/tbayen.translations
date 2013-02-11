@@ -3872,18 +3872,18 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="849" trl="Y">
-  <value column="Name" original="Charge amount">Betrag Gebühren</value>
-  <value column="PrintName" original="Charge Amt">Gebührenbetrag</value>
-  <value column="Description" original="Charge Amount">Betrag der anfallenden Gebühren/zusätzlichen Kosten</value>
-  <value column="Help" original="The Charge Amount indicates the amount for an additional charge.">Das Feld "Gebührenbetrag" zeigt den Betrag zusätzlicher Gebühren an.</value>
+  <value column="Name" original="Charge amount">Betrag Aufwand/Ertrag</value>
+  <value column="PrintName" original="Charge Amt">Betrag Aufwand/Ertrag</value>
+  <value column="Description" original="Charge Amount">Betrag des anfallenden Aufwands oder Ertrags (Kosten, Gebühren, etc.)</value>
+  <value column="Help" original="The Charge Amount indicates the amount for an additional charge.">Das Feld "Betrag Aufwand/Ertrag" zeigt den Betrag zusätzlicher Kosten oder Gebühren an.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="850" trl="Y">
-  <value column="Name" original="Charge fee">Gebühr</value>
-  <value column="PrintName" original="Charge fee">Gebühr</value>
+  <value column="Name" original="Charge fee">Mahngebühr</value>
+  <value column="PrintName" original="Charge fee">Mahngebühr</value>
   <value column="Description" original="Indicates if fees will be charged for overdue invoices">Das Feld "Mahngebühr" zeigt an, ob für überfällige Rechnungen Mahngebühren berechnet werden.</value>
   <value column="Help" original="The Charge Fee checkbox indicates if the dunning letter will include fees for overdue invoices">Das Feld "Mahngebühr" zeigt an, ob Gebühren auf überfällige Rechnungsbeträge berechnet werden.</value>
   <value column="PO_Description" original=""/>
@@ -4032,9 +4032,9 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="889" trl="Y">
-  <value column="Name" original="Fee Amount">Gebührenbetrag</value>
-  <value column="PrintName" original="Fee">Gebühren</value>
-  <value column="Description" original="Fee amount in invoice currency">Der Gebührenbetrag in Rechnungswährung</value>
+  <value column="Name" original="Fee Amount">Betrag Mahngebühr</value>
+  <value column="PrintName" original="Fee">Mahnbebühr</value>
+  <value column="Description" original="Fee amount in invoice currency">Der Betrag der Mahngebühr in Rechnungswährung</value>
   <value column="Help" original="The Fee Amount indicates the charge amount on a dunning letter for overdue invoices.  This field will only display if the charge fee checkbox has been selected.">Das Feld "Gebührenbetrag" zeigt den Betrag an Mahngebühren für überfällige Rechnungen an. Das Feld wird nur angezeigt, wenn das Optionsfeld "Mahngebühr" aktiviert wurde.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -4432,10 +4432,10 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="968" trl="Y">
-  <value column="Name" original="Charge">Gebühr</value>
-  <value column="PrintName" original="Charge">Gebühr</value>
-  <value column="Description" original="Additional document charges">Zusätzliche Belegkosten</value>
-  <value column="Help" original="The Charge indicates a type of Charge (Handling, Shipping, Restocking)">Das Feld "Gebühr" gibt die Art zusätzlicher Kosten an, z.B. Handling, Fracht oder Wiederauffüllung.</value>
+  <value column="Name" original="Charge">Aufwand/Ertrag Direktbuchung</value>
+  <value column="PrintName" original="Charge">Aufwand/Ertrag</value>
+  <value column="Description" original="Additional document charges">Zusätzlicher Aufwand oder Ertrag zu diesem Beleg</value>
+  <value column="Help" original="The Charge indicates a type of Charge (Handling, Shipping, Restocking)">Das Feld "Aufwand/Ertrag" gibt die Art zusätzlicher Kosten an, z.B. Handling, Fracht oder Wiederauffüllung.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -4938,10 +4938,10 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1067" trl="Y">
-  <value column="Name" original="Charges">Gebühren</value>
-  <value column="PrintName" original="Charges">Gebühren</value>
-  <value column="Description" original="Charges can be added to the document">Dem Beleg können zusätzliche Kosten/Gebühren hinzugefügt werden.</value>
-  <value column="Help" original="The Charges checkbox indicates that charges can be added to this document.  Charges can include items like shipping, handling or bank charges.">Das Optionsfeld "Gebühren" zeigt an, ob dem Beleg Gebühren hinzugefügt werden können.  Gebühren können z.B. Bankgebühren, Verpackungskosten oder Bearbeitungsgebühren sein.</value>
+  <value column="Name" original="Charges">Aufwand/Ertrag</value>
+  <value column="PrintName" original="Charges">Aufwand/Ertrag</value>
+  <value column="Description" original="Charges can be added to the document">Dem Beleg können zusätzliche Aufwand und Ertragsbuchungen hinzugefügt werden.</value>
+  <value column="Help" original="The Charges checkbox indicates that charges can be added to this document.  Charges can include items like shipping, handling or bank charges.">Das Optionsfeld "Gebühren" zeigt an, ob dem Beleg Aufwand oder Ertrag hinzugefügt werden kann.  Aufwand/Ertrag können z.B. Bankgebühren, Verpackungskosten oder Bearbeitungsgebühren sein.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -5679,7 +5679,7 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
  </row>
  <row id="1215" trl="Y">
   <value column="Name" original="Limit price Surcharge Amount">Preislimit für Aufschläge</value>
-  <value column="PrintName" original="Limit price Surcharge Amt">Limitpreis Aufschlag</value>
+  <value column="PrintName" original="Limit price Surcharge Amt">Preislimit Aufschlag</value>
   <value column="Description" original="Amount added to the converted/copied price before multiplying">Betrag, der einem Preis aufgeschlagen wird.</value>
   <value column="Help" original="Indicates the amount to be added to the Limit price prior to multiplication.">Bezeichnet den Betrag, der dem Limitpreis vor der Multiplikation aufgeschlagen wird.</value>
   <value column="PO_Description" original=""/>
@@ -5728,9 +5728,9 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1221" trl="Y">
-  <value column="Name" original="List price Surcharge Amount">Liste der Preisaufschläge</value>
-  <value column="PrintName" original="List price Surcharge Amt">Betrag, der einem Preis aufgeschlagen wird.</value>
-  <value column="Description" original="List Price Surcharge Amount">Listenpreis Aufschlag</value>
+  <value column="Name" original="List price Surcharge Amount">Preisaufschlag auf Listenpreis</value>
+  <value column="PrintName" original="List price Surcharge Amt">Preisaufschlag</value>
+  <value column="Description" original="List Price Surcharge Amount">Preisaufschalg auf Listenpreis</value>
   <value column="Help" original="The List Price Surcharge Amount indicates the amount to be added to the price prior to multiplication.">"Listenpreis Aufschlag" zeigt den Betrag an, der dem Listenpreis vor der Multiplikation zugeschlagen wird.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -6828,9 +6828,9 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1369" trl="Y">
-  <value column="Name" original="Bank Expense">Ausgaben Bank</value>
-  <value column="PrintName" original="Bank Expense">Ausgaben Bank</value>
-  <value column="Description" original="Bank Expense Account">Konto "Ausgaben Bank"</value>
+  <value column="Name" original="Bank Expense">Bankgebühren</value>
+  <value column="PrintName" original="Bank Expense">Bankgebühren</value>
+  <value column="Description" original="Bank Expense Account">Konto "Bankgebühren"</value>
   <value column="Help" original="The Bank Expense Account identifies the account to be used for recording charges or fees incurred from this Bank.">Das Konto "Ausgaben Bank" wird zur Buchung von Bankgebühren, z.B. Kontoführungsgebühren, verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -6988,20 +6988,20 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1387" trl="Y">
-  <value column="Name" original="Charge Account">Aufwendungen Gebühren</value>
-  <value column="PrintName" original="Charge Account">Aufwendungen Gebühren</value>
-  <value column="Description" original="Charge Account">Aufwendungen Gebühren</value>
-  <value column="Help" original="The Charge Account identifies the account to use when recording charges">Das Konto "Gebührenaufwendungen" wird zur Buchung von an Lieferanten gezahlte Gebühren verwendet.</value>
+  <value column="Name" original="Charge Account">Konto Aufwand/Ertrag</value>
+  <value column="PrintName" original="Charge Account">Aufwand/Ertrag</value>
+  <value column="Description" original="Charge Account">Konto Aufwand/Ertrag</value>
+  <value column="Help" original="The Charge Account identifies the account to use when recording charges">Das Konto "Aufwand/Ertrag" wird zur Buchung von an Lieferanten gezahlte Kosten und Gebühren verwendet.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1388" trl="Y">
-  <value column="Name" original="Charge Revenue (Deprecated)">Gewinne aus Gebühren</value>
-  <value column="PrintName" original="Charge Revenue">Gewinne aus Gebühren</value>
-  <value column="Description" original="Charge Revenue Account">Konto für "Gebührengewinne", Gewinne aus zusätzlichen Kosten.</value>
-  <value column="Help" original="The Charge Revenue Account identifies the account to use when recording charges paid by customers.">Das Konto "Gebührengewinne" wird zur Verbuchung von Gewinnen aus Gebühren, die von Kunden gezahlt wurden, verwendet.</value>
+  <value column="Name" original="Charge Revenue (Deprecated)">Gewinne aus Aufwand/Ertrag (veraltet)</value>
+  <value column="PrintName" original="Charge Revenue">Gewinne aus Aufwand/Ertrag</value>
+  <value column="Description" original="Charge Revenue Account">Konto für Gewinne aus Buchungen von Aufwand/Ertrag-Positionen.</value>
+  <value column="Help" original="The Charge Revenue Account identifies the account to use when recording charges paid by customers.">Das Konto "Gewinne aus Aufwand/Ertrag" wird zur Verbuchung von Gewinnen aus Aufwand/Ertrag-Positionen genommen, die von Kunden gezahlt wurden.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -7158,7 +7158,7 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1412" trl="Y">
-  <value column="Name" original="Payment Discount Expense">Konto Rabatt- / Skontoaufwand</value>
+  <value column="Name" original="Payment Discount Expense">Konto Rabatt-/Skontoaufwand</value>
   <value column="PrintName" original="Pay discount expense">Konto "Rabatt-/Skontoaufwand"</value>
   <value column="Description" original="Payment Discount Expense Account">Konto "Rabatt-/Skontoaufwand"</value>
   <value column="Help" original="Indicates the account to be charged for payment discount expenses.">Das Konto "Rabatt-/Skontoaufwand" wird zur Verbuchung von Rabatt-/Skontoaufwendungen verwendet.</value>
@@ -7168,7 +7168,7 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1413" trl="Y">
-  <value column="Name" original="Payment Discount Revenue">Konto Rabatt- / Skontoertrag</value>
+  <value column="Name" original="Payment Discount Revenue">Konto Rabatt-/Skontoertrag</value>
   <value column="PrintName" original="Pay discount revenue">Rabatt-/Skontoertrag</value>
   <value column="Description" original="Payment Discount Revenue Account">Konto für "Rabatt-/Skontoertrag".</value>
   <value column="Help" original="Indicates the account to be charged for payment discount revenues.">Das Konto "Rabatt-/Skontoertrag" wird zur Verbuchung von Rabatt-/Skontoerträgen verwendet.</value>
@@ -8880,9 +8880,9 @@ Für mehrsprachige Systeme wird die Vorlage entsprechend den Spracheinstellungen
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1622" trl="Y">
-  <value column="Name" original="Correct tax for Discounts/Charges">Steuer für Nachlässe / Gebühren korrigieren</value>
-  <value column="PrintName" original="Correct tax for Discounts/Charges">Steuer für Nachlässe / Gebühren korrigieren</value>
-  <value column="Description" original="Correct the tax for payment discount and charges">Steuer für Zahlungsnachlässe und Gebühren korrigieren.</value>
+  <value column="Name" original="Correct tax for Discounts/Charges">Steuer für Nachlässe und Aufwand/Ertrag korrigieren</value>
+  <value column="PrintName" original="Correct tax for Discounts/Charges">Steuer für Nachlässe und Aufwand/Ertrag korrigieren</value>
+  <value column="Description" original="Correct the tax for payment discount and charges">Steuer für Zahlungsnachlässe und Aufwand/Ertrag korrigieren.</value>
   <value column="Help" original="Payment discounts may require to correct the tax.  This primarily applicable in VAT systems.  If the original invoice had tax records, the payment discount, write-off, etc. is corrected by the tax. The calculation of the tax is prorated based on the invoice.">Zahlungsnachlässe erfordern möglicherweise eine Steuerkorrektur. Dies gilt vor allem für die Mehrwertsteuer. Ist die Steuer in der Originalrechnung ausgewiesen, werden Rabatte, Abschreibungen etc. auch steuerkorrigiert. Die Steuerberechnung basiert anteilig auf der Rechnung.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -14249,7 +14249,7 @@ Asset - erzeugen von Projekt Asset Transaktionen - Fähigkeit Material auszugebe
   <value column="Name" original="Inventory Type">Art des Bestands</value>
   <value column="PrintName" original="Inventory Type">Art des Bestands</value>
   <value column="Description" original="Type of inventory difference">Art Bestandsdifferenz.</value>
-  <value column="Help" original="The type of inventory difference determines which account is used. The default is the Inventory Difference account defined for the warehouse.  Alternatively, you could select any charge.  This allows you to account for Internal Use or extraordinary inventory losses.">Die "Bestandsart" legt das Buchungskonto fest. Standardmäßig wird das Konto "Inventurdifferenz" für ein Lager verwendet. Alternativ können Sie jede Art von Ein-/Ausgaben wählen. Sie können auch auf die Konten "Eigenverbrauch" oder "Außergewöhnliche Inventarverluste" buchen.</value>
+  <value column="Help" original="The type of inventory difference determines which account is used. The default is the Inventory Difference account defined for the warehouse.  Alternatively, you could select any charge.  This allows you to account for Internal Use or extraordinary inventory losses.">Die "Bestandsart" legt das Buchungskonto fest. Standardmäßig wird das Konto "Inventurdifferenz" für ein Lager verwendet. Alternativ können Sie jede Art von Aufwands- und Ertragskonto wählen. Sie können auch auf die Konten "Eigenverbrauch" oder "Außergewöhnliche Inventarverluste" buchen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>

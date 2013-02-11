@@ -4072,7 +4072,7 @@
  </row>
  <row id="53417" trl="Y">
   <value column="Name" original="Expense">Aufwand</value>
-  <value column="Description" original="Inidicates this charge is an expense">Zeigt an, dass diese Gebühr zu den Aufwendungen gehört</value>
+  <value column="Description" original="Inidicates this charge is an expense">Zeigt an, dass diese Aufwand/Ertrag-Direktbuchung ein Aufwand ist.</value>
  </row>
  <row id="53418" trl="Y">
   <value column="Name" original="Account">Konto</value>

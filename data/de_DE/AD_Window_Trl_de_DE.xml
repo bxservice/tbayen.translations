@@ -266,8 +266,8 @@ Preislisten können berechnet und kopiert werden. Um die Berechnung zu beschleun
   <value column="Help" original="The Withholding Window defines the rule used for calculating withholding amounts.">Im Fenster "Einbehalt Steuer (1099)" legen Sie die Regeln zur Berechnung von Einbehaltsbeträgen fest.</value>
  </row>
  <row id="161" trl="Y">
-  <value column="Name" original="Charge">Gebühr</value>
-  <value column="Description" original="Maintain Charges">Verwaltung Gebühren</value>
+  <value column="Name" original="Charge">Aufwand/Ertrag Direktbuchungen</value>
+  <value column="Description" original="Maintain Charges">Verwaltung Aufwand/Ertrag Direktbuchungen</value>
   <value column="Help" original="The Charges Window defines the different charges that may be incurred.  These can include Bank Charges, Vendor Charges and Handling Charges.">Hier können Sie die verschiedenen Kosten oder Gebühren definieren, die anfallen können. Dies können z.B. Bankgebühren, Verpackungskosten oder Bearbeitungsgebühren sein.</value>
  </row>
  <row id="162" trl="Y">
@@ -595,7 +595,7 @@ The highest priotity has the Print Format, you define on a Document Type (exampl
  </row>
  <row id="242" trl="Y">
   <value column="Name" original="Expenses (to be invoiced)">Aufwand (nicht berechnet)</value>
-  <value column="Description" original="View expenses and charges not invoiced to customers">Ansicht Aufwendungen und Kosten, nicht berechnet.</value>
+  <value column="Description" original="View expenses and charges not invoiced to customers">Ansicht Aufwendungen und Kosten, die den Kunden noch nicht berechnet wurden.</value>
   <value column="Help" original="Before invoicing to customers, check the expense lines to be invoiced">Überprüfen Sie zu berechnende Aufwandspositionen vor der Rechnungsstellung an Kunden.</value>
  </row>
  <row id="243" trl="Y">

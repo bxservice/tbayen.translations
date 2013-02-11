@@ -796,7 +796,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Name" original="Invoice Line">Rechnungsposition</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Customer Invoice Line">Kundenrechnungsposition</value>
-  <value column="Help" original="The Invoice Line Tab defines the individual items or charges on an Invoice.">Im Register "Rechnungsposition" legen Sie einzelne Rechnungselemente oder -gebühren fest.</value>
+  <value column="Help" original="The Invoice Line Tab defines the individual items or charges on an Invoice.">Im Register "Rechnungsposition" legen Sie einzelne Rechnungszeilen mit Artikeln oder Aufwand/Ertrag-Direktbuchungen fest.</value>
  </row>
  <row id="271" trl="Y">
   <value column="Name" original="Invoice Tax">Rechnung Steuern</value>
@@ -874,7 +874,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Name" original="Invoice Line">Rechnungsposition</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Vendor Invoice Line">Position Lieferantenrechnung</value>
-  <value column="Help" original="The Invoice Line Tab defines the individual items or charges on an Invoice.">Im Register "Rechnungsposition" legen Sie einzelne Rechnungselemente oder -gebühren fest.</value>
+  <value column="Help" original="The Invoice Line Tab defines the individual items or charges on an Invoice.">Im Register "Rechnungsposition" legen Sie einzelne Positionen mit Artikeln oder Aufwand/Ertrags-Direktbuchungen fest.</value>
  </row>
  <row id="292" trl="Y">
   <value column="Name" original="Invoice Tax">Rechnung Steuern</value>
@@ -1113,7 +1113,7 @@ Note that printed payments are archived in Payment Selection (Prepared Payment).
  <row id="331" trl="Y">
   <value column="Name" original="Accounting">Buchführung</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Charge Accounting">Buchführungsgebühren</value>
+  <value column="Description" original="Charge Accounting">Buchführungseinstellungen</value>
   <value column="Help" original="The Accounting Tab defines the accounting parameters used for transactions including a charge or charges.">Im Register "Buchführung" legen Sie die Buchführungsparameter für Transaktionen mit Gebühren fest.</value>
  </row>
  <row id="332" trl="Y">

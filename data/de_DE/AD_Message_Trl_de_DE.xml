@@ -2304,7 +2304,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="677" trl="Y">
-  <value column="MsgText" original="Charge cannot be selected, if there is an existing Product selection (either-or). A charge needs to have it's own line.">Sie können keine Gebühr auswählen, wenn bereits eine Artikelauswahl besteht (entweder - oder). Jede Gebühr muss eine eigene Position haben.</value>
+  <value column="MsgText" original="Charge cannot be selected, if there is an existing Product selection (either-or). A charge needs to have it's own line.">Sie können keine Aufwand/Ertrag-Direktbuchung auswählen, wenn bereits eine Artikelauswahl besteht (entweder - oder). Jede Direktbuchung muss eine eigene Position haben.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="678" trl="Y">
@@ -5298,7 +5298,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53044" trl="Y">
-  <value column="MsgText" original="Payment Allocate must not exists if the payment header has charge/invoice/order.">Es darf keine Zahlungszuordnung geben, falls der Kopf der Zahlung Gebühr/Rechnung/Auftrag enthält.</value>
+  <value column="MsgText" original="Payment Allocate must not exists if the payment header has charge/invoice/order.">Es darf keine Zahlungszuordnung geben, falls die Zahlung eine Aufwand/Ertrags-Direktbuchung, Rechnung oder Auftrag enthält.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53045" trl="Y">
@@ -5586,7 +5586,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200003" trl="Y">
-  <value column="MsgText" original="On this document is mandatory to fill the product or the charge">On this document is mandatory to fill the product or the charge</value>
+  <value column="MsgText" original="On this document is mandatory to fill the product or the charge">In diesem Beleg muss entweder eine Aufwand/Ertrag-Direktbuchung oder ein Artikel angegeben werden.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200004" trl="Y">
@@ -6086,11 +6086,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="523849" trl="Y">
-  <value column="MsgText" original="Shipment/Receipt Line or charge should be entered">Es sollte eine Liefer-/Eingangsposition oder Gebühr eingegeben werden</value>
+  <value column="MsgText" original="Shipment/Receipt Line or charge should be entered">Es sollte eine Liefer-/Eingangsposition oder Aufwand/Ertrag-Direktbuchung eingegeben werden</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="523850" trl="Y">
-  <value column="MsgText" original="Either shipment/receipt line or charge should be selected">Es sollte entweder eine Liefer-/Eingangsposition oder Gebühr ausgewählt werden</value>
+  <value column="MsgText" original="Either shipment/receipt line or charge should be selected">Es sollte entweder eine Liefer-/Eingangsposition oder Aufwand/Ertrag-Direktbuchun ausgewählt werden</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="523851" trl="Y">
