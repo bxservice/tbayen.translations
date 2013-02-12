@@ -3308,9 +3308,9 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="580" trl="Y">
-  <value column="Name" original="Suspense Balancing Acct">Konto Rundungsdifferenzen</value>
-  <value column="PrintName" original="Suspense Balancing Acct">Konto Rundungsdifferenzen</value>
-  <value column="Description" original=""/>
+  <value column="Name" original="Suspense Balancing Acct">Zwischenkonto Belegdifferenzen</value>
+  <value column="PrintName" original="Suspense Balancing Acct">Zwischenkonto Belegdifferenzen</value>
+  <value column="Description" original="">Ist die Benutzung von automatischem Journal-Ausgleich eingeschaltet, so wird die Differenz eines Journals auf dieses Konto gebucht.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -3558,9 +3558,9 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="611" trl="Y">
-  <value column="Name" original="Use Suspense Balancing">Runden</value>
-  <value column="PrintName" original="Use Suspense Balancing">Runden</value>
-  <value column="Description" original=""/>
+  <value column="Name" original="Use Suspense Balancing">automatischer Journal-Ausgleich</value>
+  <value column="PrintName" original="Use Suspense Balancing">automatischer Journal-Ausgleich</value>
+  <value column="Description" original="">Ist diese Option eingeschaltet, so wird für Journale, die nicht ausgeglichen sind (Soll- und Haben-Seite unterschiedlich), eine automatische Buchung auf das Standardkonto "Zwischenkonto Journaldifferenzen" erzeugt.</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
