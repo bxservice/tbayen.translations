@@ -53,7 +53,7 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="124" trl="Y">
-  <value column="Name" original="AP CreditMemo">Gutschrift (Kreditoren)</value>
+  <value column="Name" original="AP CreditMemo">Gutschrift (Lieferant)</value>
   <value column="PrintName" original="Vendor Credit Memo">Gutschrift (Lieferant)</value>
   <value column="DocumentNote" original=""/>
  </row>
