@@ -6,16 +6,4 @@
   <value column="Name" original="Mr">Herr</value>
   <value column="Greeting" original="Mr">Herr</value>
  </row>
- <row id="1000000" trl="Y">
-  <value column="Name" original="Firma">Firma</value>
-  <value column="Greeting" original="Sehr geehrte Damen und Herren">Sehr geehrte Damen und Herren</value>
- </row>
- <row id="1000001" trl="Y">
-  <value column="Name" original="Frau">Frau</value>
-  <value column="Greeting" original="Sehr geehrte Frau {0}">Sehr geehrte Frau {0}</value>
- </row>
- <row id="1000002" trl="Y">
-  <value column="Name" original="Herr">Herr</value>
-  <value column="Greeting" original="Sehr geehrter Herr {0}">Sehr geehrter Herr {0}</value>
- </row>
 </idempiereTrl>

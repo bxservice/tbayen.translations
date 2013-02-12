@@ -6,16 +6,4 @@
   <value column="Name" original="Standard">Standard</value>
   <value column="Description" original=""/>
  </row>
- <row id="1000000" trl="Y">
-  <value column="Name" original="Standard">Standard</value>
-  <value column="Description" original=""/>
- </row>
- <row id="1000001" trl="Y">
-  <value column="Name" original="Normaler Steuersatz">Normaler Steuersatz</value>
-  <value column="Description" original="Der übliche, regulär gültige Steuersatz">Der übliche, regulär gültige Steuersatz</value>
- </row>
- <row id="1000002" trl="Y">
-  <value column="Name" original="Ermäßigter Steuersatz">Ermäßigter Steuersatz</value>
-  <value column="Description" original="Für manche Artikel gültiger ermäßigter Steuersatz">Für manche Artikel gültiger ermäßigter Steuersatz</value>
- </row>
 </idempiereTrl>

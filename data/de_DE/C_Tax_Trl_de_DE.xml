@@ -32,19 +32,4 @@
   <value column="Description" original="Used when Business Partners are exempt from tax">Wird verwendet, wenn Geschäftspartner steuerbefreit sind</value>
   <value column="TaxIndicator" original=""/>
  </row>
- <row id="1000000" trl="Y">
-  <value column="Name" original="Standard">Standard</value>
-  <value column="Description" original=""/>
-  <value column="TaxIndicator" original=""/>
- </row>
- <row id="1000001" trl="Y">
-  <value column="Name" original="19% Umsatzsteuer">19% Umsatzsteuer</value>
-  <value column="Description" original="http://de.wikipedia.org/wiki/Umsatzsteuer">http://de.wikipedia.org/wiki/Umsatzsteuer</value>
-  <value column="TaxIndicator" original="19% USt.">19% USt.</value>
- </row>
- <row id="1000002" trl="Y">
-  <value column="Name" original="7% Umsatzsteuer">7% Umsatzsteuer</value>
-  <value column="Description" original="http://de.wikipedia.org/wiki/Umsatzsteuer">http://de.wikipedia.org/wiki/Umsatzsteuer</value>
-  <value column="TaxIndicator" original="7% USt.">7% USt.</value>
- </row>
 </idempiereTrl>

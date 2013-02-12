@@ -267,19 +267,4 @@
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="1000000" trl="Y">
-  <value column="Name" original="Standard">Standard</value>
-  <value column="Description" original=""/>
-  <value column="DocumentNote" original=""/>
- </row>
- <row id="1000001" trl="Y">
-  <value column="Name" original="Dienstleistungen zur internen Verrechnung">Dienstleistungen zur internen Verrechnung</value>
-  <value column="Description" original=""/>
-  <value column="DocumentNote" original=""/>
- </row>
- <row id="1000002" trl="Y">
-  <value column="Name" original="Allgemeine Dienstleistungen">Allgemeine Dienstleistungen</value>
-  <value column="Description" original=""/>
-  <value column="DocumentNote" original=""/>
- </row>
 </idempiereTrl>
