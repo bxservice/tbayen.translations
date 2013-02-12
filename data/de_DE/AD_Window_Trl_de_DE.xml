@@ -246,8 +246,8 @@ Preislisten können berechnet und kopiert werden. Um die Berechnung zu beschleun
   <value column="Help" original="The Account Combination Window defines and displays valid account combinations. ">Im Fenster "Kontenkombination" können Sie gültige Kontenkombinationen festlegen und einsehen.</value>
  </row>
  <row id="154" trl="Y">
-  <value column="Name" original="GL Budget">Hauptbuchbudget</value>
-  <value column="Description" original="Maintain General Ledger Budgets">Verwaltung Hauptbuchbudget</value>
+  <value column="Name" original="GL Budget">Budget</value>
+  <value column="Description" original="Maintain General Ledger Budgets">Verwaltung von Budgets für die Buchhaltung</value>
   <value column="Help" original=""/>
  </row>
  <row id="158" trl="Y">

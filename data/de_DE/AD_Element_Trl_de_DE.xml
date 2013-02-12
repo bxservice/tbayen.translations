@@ -1568,10 +1568,10 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="308" trl="Y">
-  <value column="Name" original="Budget">Hauptbuchbudget</value>
-  <value column="PrintName" original="Budget">Hauptbuchbudget</value>
-  <value column="Description" original="General Ledger Budget">Hauptbuchbudget</value>
-  <value column="Help" original="The General Ledger Budget identifies a user defined budget.  These can be used in reporting as a comparison against your actual amounts.">Das "Hauptbuchbudget" ist ein benutzerdefiniertes Budget. In Berichten kann das Hauptbuchbudget als Vergleichsgröße für tatsächliche Beträge herangezogen werden.</value>
+  <value column="Name" original="Budget">Budget</value>
+  <value column="PrintName" original="Budget">Budget</value>
+  <value column="Description" original="General Ledger Budget">Budget für die Buchführung</value>
+  <value column="Help" original="The General Ledger Budget identifies a user defined budget.  These can be used in reporting as a comparison against your actual amounts.">Das "Budget" ist ein benutzerdefiniertes Budget. In Berichten kann das Budget als Vergleichsgröße für tatsächliche Beträge herangezogen werden.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -2781,7 +2781,7 @@ Example of format "(000)_000-0000"]]></value>
   <value column="Name" original="Post Budget">Budget buchen</value>
   <value column="PrintName" original="Post Budget">Budget buchen</value>
   <value column="Description" original="Budget values can be posted">Können Budgetwerte gebucht werden?</value>
-  <value column="Help" original="The Post Budget indicates if budget values can be posted to this element value.">Das Optionsfeld "Budget buchen" zeigt an, ob Budgetwerte auf diesen Kontenplan gebucht werden können.</value>
+  <value column="Help" original="The Post Budget indicates if budget values can be posted to this element value.">Das Optionsfeld "Budget buchen" zeigt an, ob Budgetwerte auf dieses Konto gebucht werden können.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>

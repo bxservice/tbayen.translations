@@ -247,7 +247,7 @@
   <value column="Description" original="Actual Postings">Tatsächliche Buchungen</value>
  </row>
  <row id="154" trl="Y">
-  <value column="Name" original="Budget">Hauptbuchbudget</value>
+  <value column="Name" original="Budget">Budget</value>
   <value column="Description" original="Budget Postings">Budgetbuchungen</value>
  </row>
  <row id="155" trl="Y">

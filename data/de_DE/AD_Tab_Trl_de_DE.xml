@@ -517,9 +517,9 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original="The Account Combination Tab defines and displays valid account combination.  An Alias can be defined to facilitate document entry.">Im Register "Kontenkombination" können Sie gültige Kontenkombinationen festlegen und einsehen. Zur einfacheren Erstellung von Belegeinträgen kann ein Alias definiert werden.</value>
  </row>
  <row id="208" trl="Y">
-  <value column="Name" original="Budget">Hauptbuchbudget</value>
+  <value column="Name" original="Budget">Budget</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="The GL Budget Tab defines a General Ledger Budget">Im Register "Hauptbuchbudget" legen Sie das Budget des Hauptbuchs fest</value>
+  <value column="Description" original="The GL Budget Tab defines a General Ledger Budget">Im Register "Budget" legen Sie ein Budget für die Buchhaltung fest</value>
   <value column="Help" original="The GL Budgets are used to define the anticipated costs of doing business.  They are used in reporting as a comparison to actual amounts.">Die Budgets des Hauptbuchs werden zur Festlegung der erwarteten Kosten einer unternehmerischen Tätigkeit verwendet. Sie werden in Berichten und als Vergleich zu tatsächlichen Beträgen herangezogen.</value>
  </row>
  <row id="209" trl="Y">
