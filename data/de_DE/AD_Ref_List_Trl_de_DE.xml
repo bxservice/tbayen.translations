@@ -251,7 +251,7 @@
   <value column="Description" original="Budget Postings">Budgetbuchungen</value>
  </row>
  <row id="155" trl="Y">
-  <value column="Name" original="Commitment">Bindung</value>
+  <value column="Name" original="Commitment">bindende Zusage</value>
   <value column="Description" original="External Encumbrance or Commitment Postings">Externe Belastungs- oder Verpflichtungsbuchungen</value>
  </row>
  <row id="156" trl="Y">
@@ -2531,7 +2531,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="783" trl="Y">
-  <value column="Name" original="Reservation">Reservierung</value>
+  <value column="Name" original="Reservation">Vorausreservierung</value>
   <value column="Description" original="Internal Commitment">Interne Verpflichtung</value>
  </row>
  <row id="784" trl="Y">
