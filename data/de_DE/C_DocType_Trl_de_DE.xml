@@ -8,7 +8,7 @@
   <value column="DocumentNote" original="** NO INVOICE **">** KEINE RECHNUNG **</value>
  </row>
  <row id="115" trl="Y">
-  <value column="Name" original="GL Journal">Hauptbuchjournal</value>
+  <value column="Name" original="GL Journal">Journal</value>
   <value column="PrintName" original="Journal">Journal</value>
   <value column="DocumentNote" original=""/>
  </row>
@@ -198,8 +198,8 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="50001" trl="Y">
-  <value column="Name" original="GL Journal Batch">Hauptbuch Journalstapel</value>
-  <value column="PrintName" original="Journal Batch">Journalstapel</value>
+  <value column="Name" original="GL Journal Batch">Journal Stapel</value>
+  <value column="PrintName" original="Journal Batch">Journal Stapel</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="50002" trl="Y">
@@ -228,13 +228,13 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="1000000" trl="Y">
-  <value column="Name" original="GL Journal">Hauptbuchjournal</value>
+  <value column="Name" original="GL Journal">Journal</value>
   <value column="PrintName" original="Journal">Journal</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="1000001" trl="Y">
-  <value column="Name" original="GL Journal Batch">Hauptbuch Journalstapel</value>
-  <value column="PrintName" original="Journalsatz">Journalsatz</value>
+  <value column="Name" original="GL Journal Batch">Journal Stapel</value>
+  <value column="PrintName" original="Journalsatz">Journal Stapel</value>
   <value column="DocumentNote" original=""/>
  </row>
  <row id="1000002" trl="Y">

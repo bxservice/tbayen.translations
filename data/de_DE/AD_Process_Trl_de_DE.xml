@@ -531,7 +531,7 @@ The User to send emails from needs to have valid EMail information. If you don't
  </row>
  <row id="214" trl="Y">
   <value column="Name" original="Copy Details">Details kopieren</value>
-  <value column="Description" original="Copy Journal/Lines from other Journal Batch">Kopieren Sie das Journal/die Positionen aus anderem Journalsatz</value>
+  <value column="Description" original="Copy Journal/Lines from other Journal Batch">Kopieren Sie das Journal/die Positionen aus anderem Journalstapel</value>
   <value column="Help" original=""/>
  </row>
  <row id="215" trl="Y">
@@ -1913,7 +1913,7 @@ The Parameters are default values for null import record values they do not over
   <value column="Help" original=""/>
  </row>
  <row id="200010" trl="Y">
-  <value column="Name" original="Generate GL Journal">Hauptbuchjournal erzeugen</value>
+  <value column="Name" original="Generate GL Journal">Journal erzeugen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

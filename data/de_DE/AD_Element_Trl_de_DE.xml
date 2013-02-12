@@ -1588,10 +1588,10 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="313" trl="Y">
-  <value column="Name" original="Journal Batch">Journalstapel</value>
-  <value column="PrintName" original="Journal Batch">Journalstapel</value>
-  <value column="Description" original="General Ledger Journal Batch">Hauptbuch Journalstapel</value>
-  <value column="Help" original="The General Ledger Journal Batch identifies a group of journals to be processed as a group.">Ein "Journalsatz" besteht aus mehreren Journalen, die als Gruppe bearbeitet werden sollen.</value>
+  <value column="Name" original="Journal Batch">Journal Stapel</value>
+  <value column="PrintName" original="Journal Batch">Journal Stapel</value>
+  <value column="Description" original="General Ledger Journal Batch">Journal Stapel</value>
+  <value column="Help" original="The General Ledger Journal Batch identifies a group of journals to be processed as a group.">Ein "Journalstapel" besteht aus mehreren Journalen, die als Gruppe bearbeitet werden sollen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -1610,7 +1610,7 @@ Example of format "(000)_000-0000"]]></value>
  <row id="315" trl="Y">
   <value column="Name" original="Journal">Journal</value>
   <value column="PrintName" original="Journal">Journal</value>
-  <value column="Description" original="General Ledger Journal">Hauptbuchjournal</value>
+  <value column="Description" original="General Ledger Journal">Journal</value>
   <value column="Help" original="The General Ledger Journal identifies a group of journal lines which represent a logical business transaction">Das "Journal" bezeichnet mehrere Journalpositionen, die eine Geschäftstransaktion repräsentieren.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -13311,9 +13311,9 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2103" trl="Y">
-  <value column="Name" original="Import GL Journal">Import des Hauptbuchjournals</value>
-  <value column="PrintName" original="Import GL Journal">Import des Hauptbuchjournals</value>
-  <value column="Description" original="Import General Ledger Journal">Import Hauptbuchjournal</value>
+  <value column="Name" original="Import GL Journal">Import des Journals</value>
+  <value column="PrintName" original="Import GL Journal">Import Journal</value>
+  <value column="Description" original="Import General Ledger Journal">Import des Journals</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -13942,8 +13942,8 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2171" trl="Y">
-  <value column="Name" original="Journal Document No">Journalbelegnr.</value>
-  <value column="PrintName" original="Journal Doc No">Journalbelegnummer</value>
+  <value column="Name" original="Journal Document No">Journal-Belegnr.</value>
+  <value column="PrintName" original="Journal Doc No">Journal-Belegnummer</value>
   <value column="Description" original="Document number of the Journal">Belegnummer des Journals</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -20799,9 +20799,9 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2896" trl="Y">
-  <value column="Name" original="Revaluation Document Type">Neubewertung Belegart</value>
-  <value column="PrintName" original="Doc Type Reval">Neubewertung Belegart</value>
-  <value column="Description" original="Document Type for Revaluation Journal">Belegart für ein Neubewertungsjournal</value>
+  <value column="Name" original="Revaluation Document Type">Belegart für Neubewertungs-Journal</value>
+  <value column="PrintName" original="Doc Type Reval">Belegart Neubewertungs-Journal</value>
+  <value column="Description" original="Document Type for Revaluation Journal">Belegart für ein Neubewertungs-Journal</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -38668,8 +38668,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200134" trl="Y">
-  <value column="Name" original="GL Journal Generator">Hauptbuch Journal-Generator</value>
-  <value column="PrintName" original="GL Journal Generator">Hauptbuch Journal-Generator</value>
+  <value column="Name" original="GL Journal Generator">Journal-Generator</value>
+  <value column="PrintName" original="GL Journal Generator">Journal-Generator</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -38698,8 +38698,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200137" trl="Y">
-  <value column="Name" original="Generate GL Journal">Hauptbuchjournal erzeugen</value>
-  <value column="PrintName" original="Generate GL Journal">Hauptbuchjournal erzeugen</value>
+  <value column="Name" original="Generate GL Journal">Journal erzeugen</value>
+  <value column="PrintName" original="Generate GL Journal">Journal erzeugen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>

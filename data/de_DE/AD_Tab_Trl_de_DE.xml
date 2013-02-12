@@ -295,24 +295,24 @@ The action (actibity) type determines the execution: "Route" may be used in rout
   <value column="Name" original="GL Category">Hauptbuchkategorie</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Define General Ledger Categories">Hauptbuchkategorien festlegen</value>
-  <value column="Help" original="The GL Category Tab defines optional identifiers for a document or journal.  Each Category may be used on a document, manual journal or import">Im Register "Hauptbuchkategorie" benennen Sie wahlweise Belege oder Journale. Jede Kategorie kann für einen Beleg, ein manuelles Journal oder einen Import verwendet werden.</value>
+  <value column="Help" original="The GL Category Tab defines optional identifiers for a document or journal.  Each Category may be used on a document, manual journal or import">Im Register "Hauptbuchkategorie" benennen Sie Kategorien für Belege oder Journale. Jede Kategorie kann für einen Beleg, ein manuelles Journal oder einen Import verwendet werden.</value>
  </row>
  <row id="159" trl="Y">
-  <value column="Name" original="Batch">Hauptbuchjournalsatz</value>
+  <value column="Name" original="Batch">Journal Stapel</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="General Ledger Journal Batch">Hauptbuch Journalstapel</value>
-  <value column="Help" original="The GL Journal Batch Tab defines the control parameters for a Journal Batch.  A Batch can consist of multiple Journals.&#10;If the Control Amount is not zero, it is compared to the Total Debit Amount. The Control/Debit/Credit Amount is in Source Document Currency.">Im Register "Hauptbuchjournalsatz" legen Sie die Kontrollparameter für einen Journalsatz an. Ein Satz kann aus mehreren Journalen bestehen. Wenn der Kontrollbetrag gleich 0 ist, wird er mit dem Gesamtsoll verglichen. Der Kontroll-/Verbindlichkeits-/Forderungsbetrag wird in der Währung desUrsprungsbelegs angezeigt.</value>
+  <value column="Description" original="General Ledger Journal Batch">Journal Stapel</value>
+  <value column="Help" original="The GL Journal Batch Tab defines the control parameters for a Journal Batch.  A Batch can consist of multiple Journals.&#10;If the Control Amount is not zero, it is compared to the Total Debit Amount. The Control/Debit/Credit Amount is in Source Document Currency.">Im Register "Hauptbuchjournalsatz" legen Sie die Kontrollparameter für einen Journalstapel an. Ein Satz kann aus mehreren Journalen bestehen. Wenn der Kontrollbetrag gleich 0 ist, wird er mit dem Gesamtsoll verglichen. Der Kontroll-/Verbindlichkeits-/Forderungsbetrag wird in der Währung desUrsprungsbelegs angezeigt.</value>
  </row>
  <row id="160" trl="Y">
   <value column="Name" original="Journal">Journal</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="General Ledger Journal">Hauptbuchjournal</value>
+  <value column="Description" original="General Ledger Journal">Journal</value>
   <value column="Help" original="The GL Journal Tab defines the control parameters for a single GL Journal.&#10;If the Control Amount is not zero, it is compared to the Total Debit Amount. The Control/Debit/Credit Amount is in Source Document Currency.">Im Register "Journal" legen Sie die Kontrollparameter für ein einzelnes Hauptbuchjournal an. Wenn der Kontrollbetrag gleich 0 ist, wird er mit dem Gesamtsoll verglichen. Der Kontroll-/Verbindlichkeits-/Forderungsbetrag wird in der Währung des Ursprungsbelegs angezeigt.</value>
  </row>
  <row id="161" trl="Y">
   <value column="Name" original="Line">Position</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="General Ledger Journal Line">Journalposition im Hauptbuch</value>
+  <value column="Description" original="General Ledger Journal Line">Journalposition</value>
   <value column="Help" original="The GL Journal Line Tab defines the individual debit and credit transactions that comprise a journal.">Im Register "Position" legen Sie die einzelnen Forderungs- und Verbindlichkeitstransaktionen fest, die ein Journal enthält.</value>
  </row>
  <row id="167" trl="Y">
@@ -5661,13 +5661,13 @@ Valid From/To is determined by the parent tax.]]></value>
  <row id="200007" trl="Y">
   <value column="Name" original="Journal">Journal</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="General Ledger Journal">Hauptbuchjournal</value>
+  <value column="Description" original="General Ledger Journal">Journal</value>
   <value column="Help" original=""/>
  </row>
  <row id="200008" trl="Y">
   <value column="Name" original="Line">Position</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="General Ledger Journal Line">Journalposition im Hauptbuch</value>
+  <value column="Description" original="General Ledger Journal Line">Journalposition</value>
   <value column="Help" original="The GL Journal Line Tab defines the individual debit and credit transactions that comprise a journal.">Im Register "Position" legen Sie die einzelnen Forderungs- und Verbindlichkeitstransaktionen fest, die ein Journal enthält.</value>
  </row>
  <row id="200009" trl="Y">
@@ -5713,7 +5713,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="200020" trl="Y">
-  <value column="Name" original="GL Journal Generator">Hauptbuch Journal-Generator</value>
+  <value column="Name" original="GL Journal Generator">Journal-Generator</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>

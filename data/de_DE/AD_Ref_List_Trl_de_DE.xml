@@ -699,7 +699,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="302" trl="Y">
-  <value column="Name" original="GL Journal">Hauptbuchjournal</value>
+  <value column="Name" original="GL Journal">Journal</value>
   <value column="Description" original=""/>
  </row>
  <row id="303" trl="Y">
@@ -1687,7 +1687,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="565" trl="Y">
-  <value column="Name" original="GL Journal">Hauptbuchjournal</value>
+  <value column="Name" original="GL Journal">Journal</value>
   <value column="Description" original=""/>
  </row>
  <row id="567" trl="Y">
@@ -4060,7 +4060,7 @@
  </row>
  <row id="53414" trl="Y">
   <value column="Name" original="Journal Entry">Journaleintrag</value>
-  <value column="Description" original="The entry was created from a journal entry">Dieser Eintrag wurde aus einem Journaleintrag erstellt</value>
+  <value column="Description" original="The entry was created from a journal entry">Dieser Eintrag wurde aus einem Journal erstellt</value>
  </row>
  <row id="53415" trl="Y">
   <value column="Name" original="Manual">Manuell</value>

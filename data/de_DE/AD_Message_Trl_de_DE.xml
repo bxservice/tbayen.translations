@@ -2769,7 +2769,7 @@ Example: To convert Each to Pair, the Multiply Rate is 0.5]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="802" trl="Y">
-  <value column="MsgText" original="Unbalanced Journal and Suspense Balancing not enabled">Das Hauptbuch ist nicht ausgeglichen und der Ausgleich über ein Interimskonto ist unzulässig.</value>
+  <value column="MsgText" original="Unbalanced Journal and Suspense Balancing not enabled">Das Journal ist nicht ausgeglichen und der Ausgleich über ein automatisches Zwischenkonto ist nicht konfiguriert.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="803" trl="Y">
