@@ -40737,4 +40737,14 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
+ <row id="202193" trl="N">
+  <value column="Name" original="Sales Region Key">Vertriebsgebiet Textschlüssel</value>
+  <value column="PrintName" original="Sales Region Key">Vertriebsgebiet Textschlüssel</value>
+  <value column="Description" original="Text key of the Sales Region">Text Schlüssel für das Vertriebsgebiet</value>
+  <value column="Help" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
 </idempiereTrl>
