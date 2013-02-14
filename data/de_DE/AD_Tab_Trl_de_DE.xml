@@ -268,7 +268,7 @@ The action (actibity) type determines the execution: "Route" may be used in rout
   <value column="Help" original=""/>
  </row>
  <row id="153" trl="Y">
-  <value column="Name" original="Element">Element</value>
+  <value column="Name" original="Element">Kontenplan</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Account Element definition">Kontenplan festlegen</value>
   <value column="Help" original="The Element Tab defines the Name, Description and Format for an Element.  Additionally, a Type of Account or User Defined is selected. Each Account Schema must have an Account Element type.  The User Defined Elements are optional.">Im Register "Kontenplan" legen Sie Namen, Beschreibung und Format eines Plans fest. Zusätzlich werden die Kontenart oder ein angelegter Benutzer gewählt. Jedem Kontenschema muss ein Kontenplantyp zugeordnet sein. Die nutzerdefinierten Elemente sind optional.</value>
