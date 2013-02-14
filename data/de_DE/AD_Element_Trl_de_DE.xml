@@ -166,7 +166,7 @@
   <value column="Name" original="Reference">Referenz</value>
   <value column="PrintName" original="Reference">Referenz</value>
   <value column="Description" original="System Reference and Validation">Systemreferenz (Pickliste)</value>
-  <value column="Help" original="The Reference could be a display type, list or table validation.">Die Referenz bestimmt die Art der Referenzfelds</value>
+  <value column="Help" original="The Reference could be a display type, list or table validation.">Die Referenz bestimmt die Art des Referenzfelds</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
