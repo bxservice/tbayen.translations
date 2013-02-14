@@ -6378,10 +6378,10 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1297" trl="Y">
-  <value column="Name" original="Transaction Date">Transaktionsdatum</value>
-  <value column="PrintName" original="Trx Date">Transaktionsdatum</value>
-  <value column="Description" original="Transaction Date">Transaktionsdatum</value>
-  <value column="Help" original="The Transaction Date indicates the date of the transaction.">Das "Transaktionsdatum" ist das Datum einer Transaktion.</value>
+  <value column="Name" original="Transaction Date">Trx/Belegdatum</value>
+  <value column="PrintName" original="Trx Date">Trx/Belegdatum</value>
+  <value column="Description" original="Transaction Date">Belegdatum</value>
+  <value column="Help" original="The Transaction Date indicates the date of the transaction.">Das "Transaktionsdatum" ist das Datum einer Transaktion, d.h. zumeist ein Belegdatum oder ein Rechnungsdatum.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
