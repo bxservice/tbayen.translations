@@ -4246,7 +4246,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52267" trl="Y">
-  <value column="MsgText" original="Performance Analysis">Leistungsanalyse</value>
+  <value column="MsgText" original="Performance Analysis">Buchführung</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52268" trl="Y">
@@ -4690,7 +4690,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52378" trl="Y">
-  <value column="MsgText" original="Performance Analysis Report">Leistungsanalysebericht</value>
+  <value column="MsgText" original="Performance Analysis Report">Bericht der Buchführung</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52379" trl="Y">
