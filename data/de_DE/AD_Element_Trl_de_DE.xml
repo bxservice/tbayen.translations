@@ -2198,8 +2198,8 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original="Company Agent">Firmenvertreter</value>
  </row>
  <row id="410" trl="Y">
-  <value column="Name" original="Same Line">Selbe Position</value>
-  <value column="PrintName" original="Same Line">Selbe Position</value>
+  <value column="Name" original="Same Line">Selbe Zeile</value>
+  <value column="PrintName" original="Same Line">Selbe Zeile</value>
   <value column="Description" original="Displayed on same line as previous field">Wird in derselben Zeile wie das vorige Feld angezeigt</value>
   <value column="Help" original="The Same Line checkbox indicates that the field will display on the same line as the previous field.">Das Optionsfeld "Gleiche Zeile" zeigt an, ob ein Feld in derselben Zeile wie das vorige angezeigt wird.</value>
   <value column="PO_Description" original=""/>
