@@ -301,13 +301,13 @@ The action (actibity) type determines the execution: "Route" may be used in rout
   <value column="Name" original="Batch">Journal Stapel</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="General Ledger Journal Batch">Journal Stapel</value>
-  <value column="Help" original="The GL Journal Batch Tab defines the control parameters for a Journal Batch.  A Batch can consist of multiple Journals.&#10;If the Control Amount is not zero, it is compared to the Total Debit Amount. The Control/Debit/Credit Amount is in Source Document Currency.">Im Register "Hauptbuchjournalsatz" legen Sie die Kontrollparameter für einen Journalstapel an. Ein Satz kann aus mehreren Journalen bestehen. Wenn der Kontrollbetrag gleich 0 ist, wird er mit dem Gesamtsoll verglichen. Der Kontroll-/Verbindlichkeits-/Forderungsbetrag wird in der Währung desUrsprungsbelegs angezeigt.</value>
+  <value column="Help" original="The GL Journal Batch Tab defines the control parameters for a Journal Batch.  A Batch can consist of multiple Journals.&#10;If the Control Amount is not zero, it is compared to the Total Debit Amount. The Control/Debit/Credit Amount is in Source Document Currency.">Im Register "Journal Stapel" legen Sie die Kontrollparameter für einen Journalstapel an. Ein Satz kann aus mehreren Journalen bestehen. Wenn der Kontrollbetrag gleich 0 ist, wird er mit dem Gesamtsoll verglichen. Der Kontroll-/Verbindlichkeits-/Forderungsbetrag wird in der Währung desUrsprungsbelegs angezeigt.</value>
  </row>
  <row id="160" trl="Y">
   <value column="Name" original="Journal">Journal</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="General Ledger Journal">Journal</value>
-  <value column="Help" original="The GL Journal Tab defines the control parameters for a single GL Journal.&#10;If the Control Amount is not zero, it is compared to the Total Debit Amount. The Control/Debit/Credit Amount is in Source Document Currency.">Im Register "Journal" legen Sie die Kontrollparameter für ein einzelnes Hauptbuchjournal an. Wenn der Kontrollbetrag gleich 0 ist, wird er mit dem Gesamtsoll verglichen. Der Kontroll-/Verbindlichkeits-/Forderungsbetrag wird in der Währung des Ursprungsbelegs angezeigt.</value>
+  <value column="Help" original="The GL Journal Tab defines the control parameters for a single GL Journal.&#10;If the Control Amount is not zero, it is compared to the Total Debit Amount. The Control/Debit/Credit Amount is in Source Document Currency.">Im Register "Journal" legen Sie die Kontrollparameter für ein einzelnes Journal an. Wenn der Kontrollbetrag gleich 0 ist, wird er mit dem Gesamtsoll verglichen. Der Kontroll-/Verbindlichkeits-/Forderungsbetrag wird in der Währung des Ursprungsbelegs angezeigt.</value>
  </row>
  <row id="161" trl="Y">
   <value column="Name" original="Line">Position</value>
@@ -5935,7 +5935,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="200067" trl="Y">
-  <value column="Name" original="Batch">Hauptbuchjournalsatz</value>
+  <value column="Name" original="Batch">Journalstapel</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
