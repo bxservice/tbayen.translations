@@ -292,10 +292,10 @@ The action (actibity) type determines the execution: "Route" may be used in rout
   <value column="Help" original="The Project Tab is used to define the Value, Name and Description for each project.  It also is defines the tracks the amounts assigned to, committed to and used for this project. Note that when the project Type is changed, the Phases and Tasks are re-created.">Im Register "Projekt" legen Sie Wert, Name und Beschreibung eines Projekts fest. Hier legen Sie auch die Mengen der Beträge fest, die dem Projekt zugeordnet und verwendet wurden. Bitte beachten Sie, dass Phasen und Aufgaben bei Änderung des Projekttyps neu erstellt werden.</value>
  </row>
  <row id="158" trl="Y">
-  <value column="Name" original="GL Category">Hauptbuchkategorie</value>
+  <value column="Name" original="GL Category">Buchführungs-Kategorie</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Define General Ledger Categories">Hauptbuchkategorien festlegen</value>
-  <value column="Help" original="The GL Category Tab defines optional identifiers for a document or journal.  Each Category may be used on a document, manual journal or import">Im Register "Hauptbuchkategorie" benennen Sie Kategorien für Belege oder Journale. Jede Kategorie kann für einen Beleg, ein manuelles Journal oder einen Import verwendet werden.</value>
+  <value column="Description" original="Define General Ledger Categories">Buchführung-Kategorien pflegen</value>
+  <value column="Help" original="The GL Category Tab defines optional identifiers for a document or journal.  Each Category may be used on a document, manual journal or import">Im Register "Buchführungs-Kategorie" benennen Sie Kategorien für Belege oder Journale. Jede Kategorie kann für einen Beleg, ein manuelles Journal oder einen Import verwendet werden.</value>
  </row>
  <row id="159" trl="Y">
   <value column="Name" original="Batch">Journal Stapel</value>

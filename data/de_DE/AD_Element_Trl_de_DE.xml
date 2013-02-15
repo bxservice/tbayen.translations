@@ -1578,10 +1578,10 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="309" trl="Y">
-  <value column="Name" original="GL Category">Hauptbuchkategorie</value>
-  <value column="PrintName" original="GL Category">Hauptbuchkategorie</value>
-  <value column="Description" original="General Ledger Category">Hauptbuchkategorie</value>
-  <value column="Help" original="The General Ledger Category is an optional, user defined method of grouping journal lines.">Die "Hauptbuchkategorie" ist eine optionale, benutzerdefinierte Methode zur Gruppierung von Journalpositionen.</value>
+  <value column="Name" original="GL Category">Buchführungs-Kategorie</value>
+  <value column="PrintName" original="GL Category">Buchführungskat.</value>
+  <value column="Description" original="General Ledger Category">Buchführungs-Kategorie</value>
+  <value column="Help" original="The General Ledger Category is an optional, user defined method of grouping journal lines.">Die "Buchführungs-Kategorie" ist eine optionale, benutzerdefinierte Methode zur Gruppierung von Journalpositionen.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>

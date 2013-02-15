@@ -146,9 +146,9 @@ Zugriffsinformationen werden zwischengespeichert. Nach Änderungen ist eine Neua
   <value column="Help" original="The Project Window is used to define the projects which will can be tracked by phases and tasks.">Das Fenster "Projekt" wird verwendet um Projekte festzulegen, die über Phasen und Aufgaben verfolgt werden können.</value>
  </row>
  <row id="131" trl="Y">
-  <value column="Name" original="GL Category">Hauptbuchkategorie</value>
-  <value column="Description" original="Maintain General Ledger Categories">Verwaltung Hauptbuchkategorien</value>
-  <value column="Help" original="The GL Category Window allows you to define categories to be used in journals.  These categories provide a method of optionally grouping and reporting on journals.">Im Fenster "Hauptbuchkategorie" können Sie Kategorien für Journale festlegen. Diese Kategorien ermöglichen eine wunschgemäße Gruppierung und Berichterstellung in Journalen.</value>
+  <value column="Name" original="GL Category">Buchführungs-Kategorie</value>
+  <value column="Description" original="Maintain General Ledger Categories">Buchführungs-Kategorien pflegen</value>
+  <value column="Help" original="The GL Category Window allows you to define categories to be used in journals.  These categories provide a method of optionally grouping and reporting on journals.">Im Fenster "Buchführungs-Kategorie" können Sie Kategorien für Journale festlegen. Diese Kategorien ermöglichen eine wunschgemäße Gruppierung und Berichterstellung in Journalen.</value>
  </row>
  <row id="132" trl="Y">
   <value column="Name" original="GL Journal Batch">Journal Stapel</value>
