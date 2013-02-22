@@ -853,10 +853,10 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="288" trl="Y">
-  <value column="Name" original="Report View">Ansicht Bericht</value>
+  <value column="Name" original="Report View">Bericht Datenbank-Ansicht</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Define Report View">Ansicht Bericht festlegen</value>
-  <value column="Help" original="The Define Report View defines the views used in report generation">Unter "Ansicht Bericht" legen Sie die Ansichten zur Erzeugung von Berichten fest</value>
+  <value column="Description" original="Define Report View">Bericht Datenbank-Ansicht festlegen</value>
+  <value column="Help" original="The Define Report View defines the views used in report generation">Unter "Bericht Datenbank-Ansicht" legen Sie die SQL-Abfrage zur Erzeugung von Berichten fest.</value>
  </row>
  <row id="289" trl="Y">
   <value column="Name" original="Transactions">Transaktionen</value>

@@ -5938,10 +5938,10 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1252" trl="Y">
-  <value column="Name" original="Report View">Ansicht Bericht</value>
-  <value column="PrintName" original="Report View">Ansicht Bericht</value>
-  <value column="Description" original="View used to generate this report">Ansicht die zur Erzeugung dieses Berichts verwendet wird</value>
-  <value column="Help" original="The Report View indicates the view used to generate this report.">Die "Ansicht Bericht" kennzeichnet die Ansicht die zur Erzeugung des Berichts verwendet wird.</value>
+  <value column="Name" original="Report View">Bericht Datenbank-Ansicht</value>
+  <value column="PrintName" original="Report View">Bericht Datenbank-Ansicht</value>
+  <value column="Description" original="View used to generate this report">Datenbank-Abfrage, die zur Erzeugung dieses Berichts verwendet wird.</value>
+  <value column="Help" original="The Report View indicates the view used to generate this report.">Die "Datenbank-Ansicht" kennzeichnet die SQL-Abfrage, die zur Erzeugung des Berichts verwendet wird.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
