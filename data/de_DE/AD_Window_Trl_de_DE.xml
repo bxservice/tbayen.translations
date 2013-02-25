@@ -371,7 +371,7 @@ Preislisten können berechnet und kopiert werden. Um die Berechnung zu beschleun
   <value column="Help" original="The Error Message Window displays all error messages generated.  This is for System Admin use only.  The records must be manually deleted.">Im Fenster "Fehlermeldung" werden alle verursachten Fehlermeldungen angezeigt. Nur für die Systemadministration bestimmt. Alle Einträge müssen manuell gelöscht werden.</value>
  </row>
  <row id="189" trl="Y">
-  <value column="Name" original="Import Loader Format">Importformat Ladeprogramm</value>
+  <value column="Name" original="Import Loader Format">Importformate definieren</value>
   <value column="Description" original="Maintain Import Loader Formats">Verwaltung von Importformaten für das Ladeprogramm</value>
   <value column="Help" original="The Import Loader Format Window is used for defining the file layout for product information which will be imported.">Im Fenster "Import Format Ladeprogramm" legen Sie das Dateilayout für die importierten Artikelinformationen fest.</value>
  </row>
