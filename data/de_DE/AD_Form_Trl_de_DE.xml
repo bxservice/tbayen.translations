@@ -71,7 +71,7 @@ Alle Instanzen der Von-Entität (z.B. Kunde A) werden in die Nach-Entität (z.B.
 <p><b>Einschränkungen:</b> Buchführungs- und Bestandskonflikte werden in dieser Version nicht behoben.]]></value>
  </row>
  <row id="113" trl="Y">
-  <value column="Name" original="POS">Web-Kassenterminal</value>
+  <value column="Name" original="POS">Kassenterminal</value>
   <value column="Description" original="Point Of Sales Terminal">Kassenterminal</value>
   <value column="Help" original="Enter Transactions via a POS Terminal.  Automatically, scans or credit card swipes are recongized.">Geben Sie Transaktionen über das Kassenterminal ein. Das Durchziehen von Kreditkarten, sowie Scans werden automatisch erkannt.</value>
  </row>

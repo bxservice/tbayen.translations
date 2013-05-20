@@ -17778,7 +17778,7 @@ Invoices and Payment Allocations determine the Open Balance (i.e. not Orders or 
  </row>
  <row id="2581" trl="Y">
   <value column="Name" original="POS Terminal">Kassenterminal</value>
-  <value column="PrintName" original="POS">Web-Kassenterminal</value>
+  <value column="PrintName" original="POS">Swing Kassenterminal</value>
   <value column="Description" original="Point of Sales Terminal">Kassenterminal</value>
   <value column="Help" original="The POS Terminal defines the defaults and functions available for the POS Form">Unter "Kassenterminal" legen Sie Standardwerte und Funktionen des Kassenfensters fest.</value>
   <value column="PO_Description" original=""/>
