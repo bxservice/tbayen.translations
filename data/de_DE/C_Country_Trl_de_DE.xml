@@ -5,7 +5,7 @@
  <row id="100" trl="Y">
   <value column="Name" original="United States">Vereinigte Staaten von Amerika</value>
   <value column="Description" original="United States of America">Vereinigte Staaten von Amerika</value>
-  <value column="RegionName" original="State">Land</value>
+  <value column="RegionName" original="State">Bundesstaat</value>
  </row>
  <row id="101" trl="Y">
   <value column="Name" original="Germany - Deutschland">Deutschland</value>
