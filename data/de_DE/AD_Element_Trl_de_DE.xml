@@ -8140,20 +8140,20 @@ Für mehrsprachige Systeme wird die Vorlage entsprechend den Spracheinstellungen
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1532" trl="Y">
-  <value column="Name" original="Payment Selection">Wahl der Zahlungsart</value>
-  <value column="PrintName" original="Payment Selection">Wahl der Zahlungsart</value>
-  <value column="Description" original="Payment Selection">Wahl der Zahlungsart</value>
-  <value column="Help" original="The Payment Selection identifies a unique Payment">Das Feld "Auswahl Zahlung" zeigt eine einzelne Zahlung an.</value>
+  <value column="Name" original="Payment Selection">Zahlungsauswahl</value>
+  <value column="PrintName" original="Payment Selection">Zahlungsauswahl</value>
+  <value column="Description" original="Payment Selection">Zahlungsauswahl</value>
+  <value column="Help" original="The Payment Selection identifies a unique Payment">Das Feld "Zahlungsauswahl" identifiziert eine Zahlung.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1533" trl="Y">
-  <value column="Name" original="Payment Selection Line">Wahl der Zahlungsart Position</value>
-  <value column="PrintName" original="Payment Selection Line">Wahl der Zahlungsart Position</value>
-  <value column="Description" original="Payment Selection Line">Wahl der Zahlungsart Position</value>
-  <value column="Help" original="The Payment Selection Line identifies a unique line in a payment">Das Feld "Auswahl Zahlungsposition" zeigt eine eindeutige Zahlungsposition an.</value>
+  <value column="Name" original="Payment Selection Line">Zahlungsauswahl Zeile</value>
+  <value column="PrintName" original="Payment Selection Line">Zahlungsauswahl Zeile</value>
+  <value column="Description" original="Payment Selection Line">Zahlungsauswahl Zeile</value>
+  <value column="Help" original="The Payment Selection Line identifies a unique line in a payment">Das Feld "Zahlungsauswahl Zeile" beinhaltet eine einzelne Zahlungszeile.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -9441,9 +9441,9 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1686" trl="Y">
-  <value column="Name" original="Payment Selection">Wahl der Zahlungsart</value>
-  <value column="PrintName" original="Payment selection">nicht zugeordnete Ausgangszahlungen</value>
-  <value column="Description" original="AP Payment Selection Clearing Account">Verrechnungskonto für nicht einer Rechnung zugeordneter Ausgangszahlungen</value>
+  <value column="Name" original="Payment Selection">Zahlungsauswahl</value>
+  <value column="PrintName" original="Payment selection">Zahlungsauswahl</value>
+  <value column="Description" original="AP Payment Selection Clearing Account">Verrechnungskonto ausgewählte Zahlungen</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>

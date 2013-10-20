@@ -38,7 +38,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="107" trl="Y">
-  <value column="Name" original="Payment Selection (manual)">Auswahl Zahlung (manuell)</value>
+  <value column="Name" original="Payment Selection (manual)">Zahlungsauswahl (manuell)</value>
   <value column="Description" original="Manual Payment Selection">Manuelle Zahlungsauswahl</value>
   <value column="Help" original="Select vendor invoices for payment. If you don't see an invoice, make sure that it is not included in a different (nprocessed) Payment Selection.">Wählen Sie eine Lieferantenrechnung für die Zahlung aus. Finden Sie eine Rechnung nicht, stellen Sie sicher, dass sie nicht in einer anderen (unbearbeiteten) Zahlungsauswahl enthalten ist.</value>
  </row>

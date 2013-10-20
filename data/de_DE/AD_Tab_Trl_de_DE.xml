@@ -1220,16 +1220,16 @@ Note that printed payments are archived in Payment Selection (Prepared Payment).
 Bitte beachten, dass Zugriffsinformationen gecached werden. Daher muss entweder der Cache geleert oder eine Neuanmeldung durchgeführt werden.]]></value>
  </row>
  <row id="352" trl="Y">
-  <value column="Name" original="Payment Selection">Wahl der Zahlungsart</value>
+  <value column="Name" original="Payment Selection">Zahlungsauswahl</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Define Payment">Zahlung festlegen</value>
-  <value column="Help" original="The Payment Selection Tab defines the bank account and date of the payments to be made. You also create the payments here.">Im Register "Auswahl Zahlungsart" legen Sie das Bankkonto und die Daten der Zahlungen fest, die Sie vornehmen wollen. Hier können auch Zahlungen erstellt werden.</value>
+  <value column="Help" original="The Payment Selection Tab defines the bank account and date of the payments to be made. You also create the payments here.">Im Register "Zahlungsauswahl" legen Sie das Bankkonto und die Daten der Zahlungen fest, die Sie vornehmen wollen. Hier können auch Zahlungen erstellt werden.</value>
  </row>
  <row id="353" trl="Y">
-  <value column="Name" original="Payment Selection Line">Wahl der Zahlungsart Position</value>
+  <value column="Name" original="Payment Selection Line">Zahlunbgsauswahl Zeile</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Payment Selection Line">Wahl der Zahlungsart Position</value>
-  <value column="Help" original="The Payment Selection Line Tab defines the individual invoices an organization is paying to a Vendor with this payment.">Im Register "Auswahl Zahlungsposition" legen Sie die einzelnen Rechnungen fest, die eine Organisation durch diese Zahlung beim Lieferanten begleicht.</value>
+  <value column="Description" original="Payment Selection Line">Zahlungsauswahl Zeile</value>
+  <value column="Help" original="The Payment Selection Line Tab defines the individual invoices an organization is paying to a Vendor with this payment.">Im Register "Zahlungauswahl Zeile" legen Sie die einzelnen Rechnungen fest, die eine Organisation durch diese Zahlung beim Lieferanten begleicht.</value>
  </row>
  <row id="354" trl="Y">
   <value column="Name" original="Report View Column">Ansicht Berichtspalte</value>

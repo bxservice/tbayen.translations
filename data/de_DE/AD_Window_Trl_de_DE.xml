@@ -443,7 +443,7 @@ For Multi-Lingual systems, the template is translated based on the Business Part
   <value column="Help" original="The Reverse Allocation Window allows you to view and reverse a payment allocation">Im Fenster "Ansicht Zuordnung" können Sie Zahlungszuordnungen anzeigen und ändern.</value>
  </row>
  <row id="206" trl="Y">
-  <value column="Name" original="Payment Selection">Wahl der Zahlungsart</value>
+  <value column="Name" original="Payment Selection">Zahlungsauswahl</value>
   <value column="Description" original="Select Invoices for Payment">Wählen Sie Rechnungen zur Zahlung aus</value>
   <value column="Help" original="The Payment Selection Window allows you to select and process the invoices you want to pay.&#10;(a) You can create a Payment Selection and select the invoices manually or generate the suggestions based on criteria.  You can change the amount to be paid or delete invoices, you do not want to pay.&#10;&#10;(b) If you are happy with the Payment Selection, you create the payments.&#10;&#10;(c) You print or export your payments in the Window Payment Print/Export">Das Fenster Zahlungsauswahl erlaubt es die Rechnungen auszuwählen und zu verarbeiten die bezahlt werden sollen. (a) Sie können eine Zahlungsauswahl erstellen und die Rechnungen manuell auszuwählen oder Vorschläge basierend auf Kriterien generieren. Der zu zahlende Betrag kann geändert werden oder die Rechnungen gelöscht werden die nicht bezahlt werden sollen. (b) Wenn Sie mit der Zahlungsauswahl zufrieden sind, können die Zahlungen erstellt werden. (c) Die Zahlungen werden im Fenster "Zahlungen drucken/exportieren" gedruckt oder exportiert.</value>
  </row>
