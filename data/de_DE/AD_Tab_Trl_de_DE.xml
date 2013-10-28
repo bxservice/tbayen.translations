@@ -2141,7 +2141,7 @@ Note that access information is cached and requires re-login or reset of cache.]
  <row id="507" trl="Y">
   <value column="Name" original="Bank Statement">Bankauszug</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Import Bank Statement">Import eines Bankauszugs</value>
+  <value column="Description" original="Import Bank Statement">Import Bankauszug</value>
   <value column="Help" original=""/>
  </row>
  <row id="508" trl="Y">

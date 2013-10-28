@@ -772,7 +772,7 @@ If you created a web click for http://www.adempiere.de, you will be able to see 
   <value column="Help" original="Adempiere Alerts allow you define system conditions you want to be alerted of">Unter "Alarm" können Sie Systembedingungen festlegen, von deren Auftreten Sie informiert werden möchten.</value>
  </row>
  <row id="277" trl="Y">
-  <value column="Name" original="Import Bank Statement">Import eines Bankauszugs</value>
+  <value column="Name" original="Import Bank Statement">Import Bankauszug</value>
   <value column="Description" original="Import Bank Statements">Importieren Sie Kontoauszüge.</value>
   <value column="Help" original=""/>
  </row>

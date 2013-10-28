@@ -566,8 +566,8 @@ The User to send emails from needs to have valid EMail information. If you don't
   <value column="Help" original="The Parameters are default values for null import record values, they do not overwrite any data.">Die Standardwerte gelten für Felder mit Inhalt "NULL", sie überschreiben keine Werte.</value>
  </row>
  <row id="221" trl="Y">
-  <value column="Name" original="Import Bank Statement">Import eines Bankauszugs</value>
-  <value column="Description" original="Import Bank Statement">Import eines Bankauszugs</value>
+  <value column="Name" original="Import Bank Statement">Import Bankauszug</value>
+  <value column="Description" original="Import Bank Statement">Import Bankauszug</value>
   <value column="Help" original="The Parameters are default values for null import record values, they do not overwrite any data.">Die Standardwerte gelten für Felder mit Inhalt "NULL", sie überschreiben keine Werte.</value>
  </row>
  <row id="222" trl="Y">
