@@ -494,8 +494,8 @@ If you select an existing price list and you have List, Standard, and Limit Pric
   <value column="Help" original="The Parameters are default values for null import record values, they do not overwrite any data.&#10;Note that only Prepare and Complete are valid document actions.">Die Parameter sind Standardwerte für Null-Import Datensatzwerte. Sie überschreiben keine Daten. Beachten Sie, dass nur Vorbereiten und Fertigstellen gültige Belegaktionen sind.</value>
  </row>
  <row id="207" trl="Y">
-  <value column="Name" original="Import Invoice">Import einer Rechnung</value>
-  <value column="Description" original="Import Invoice">Import einer Rechnung</value>
+  <value column="Name" original="Import Invoice">Import Rechnung</value>
+  <value column="Description" original="Import Invoice">Import Rechnung</value>
   <value column="Help" original="The Parameters are default values for null import record values, they do not overwrite any data.&#10;Note that only Prepare and Complete are valid document actions.">Die Parameter sind Standardwerte für Null-Import Datensatzwerte. Sie überschreiben keine Daten. Beachten Sie, dass nur Vorbereiten und Fertigstellen gültige Belegaktionen sind.</value>
  </row>
  <row id="208" trl="Y">
