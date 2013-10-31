@@ -111,16 +111,16 @@
   <value column="Description" original="User defined element">Benutzerdefiniertes Element</value>
  </row>
  <row id="120" trl="Y">
-  <value column="Name" original="Asset">Vermögenswert</value>
-  <value column="Description" original="Asset (Balance Sheet) Account">Anlagenkonto (Bilanzaufstellung)</value>
+  <value column="Name" original="Asset">Vermögen</value>
+  <value column="Description" original="Asset (Balance Sheet) Account">Vermögenskonto (Bilanz)</value>
  </row>
  <row id="121" trl="Y">
-  <value column="Name" original="Liability">Verbindlichkeit</value>
-  <value column="Description" original="Liability (Balance Sheet) Account">Verbindlichkeit (Bilanz) Konto</value>
+  <value column="Name" original="Liability">Fremdkapital</value>
+  <value column="Description" original="Liability (Balance Sheet) Account">Verbindlichkeitenkonto (Bilanz)</value>
  </row>
  <row id="122" trl="Y">
-  <value column="Name" original="Revenue">Umsatz</value>
-  <value column="Description" original="Revenue (P&amp;L) Account"><![CDATA[Umsatz (G&V) Konto]]></value>
+  <value column="Name" original="Revenue">Ertrag</value>
+  <value column="Description" original="Revenue (P&amp;L) Account"><![CDATA[Umsatzkonto (GuV)]]></value>
  </row>
  <row id="123" trl="Y">
   <value column="Name" original="Expense">Aufwand</value>
@@ -128,7 +128,7 @@
  </row>
  <row id="124" trl="Y">
   <value column="Name" original="Owner's Equity">Eigenkapital</value>
-  <value column="Description" original="Owner's Equity (Balance Sheet) Account">Eigenkapital (Bilanz) Konto</value>
+  <value column="Description" original="Owner's Equity (Balance Sheet) Account">Eigenkapitalkonto (Bilanz)</value>
  </row>
  <row id="125" trl="Y">
   <value column="Name" original="Memo">Memo</value>
