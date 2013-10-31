@@ -853,10 +853,10 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="288" trl="Y">
-  <value column="Name" original="Report View">Bericht Datenbank-Ansicht</value>
+  <value column="Name" original="Report View">Berichtsansicht</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Define Report View">Bericht Datenbank-Ansicht festlegen</value>
-  <value column="Help" original="The Define Report View defines the views used in report generation">Unter "Bericht Datenbank-Ansicht" legen Sie die SQL-Abfrage zur Erzeugung von Berichten fest.</value>
+  <value column="Description" original="Define Report View">Berichtsansicht festlegen</value>
+  <value column="Help" original="The Define Report View defines the views used in report generation">Unter "Berichtsnsicht festlegen" legen Sie die SQL-Abfrage zur Erzeugung von Berichten, insbesondere WHERE und GROUP BY Klauseln, fest.</value>
  </row>
  <row id="289" trl="Y">
   <value column="Name" original="Transactions">Transaktionen</value>
@@ -1232,10 +1232,10 @@ Bitte beachten, dass Zugriffsinformationen gecached werden. Daher muss entweder 
   <value column="Help" original="The Payment Selection Line Tab defines the individual invoices an organization is paying to a Vendor with this payment.">Im Register "Zahlungauswahl Zeile" legen Sie die einzelnen Rechnungen fest, die eine Organisation durch diese Zahlung beim Lieferanten begleicht.</value>
  </row>
  <row id="354" trl="Y">
-  <value column="Name" original="Report View Column">Ansicht Berichtspalte</value>
+  <value column="Name" original="Report View Column">Berichtsansicht Spalte</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Report View Column">Ansicht Berichtspalte</value>
-  <value column="Help" original="The Report View Column Tab defines any columns which will be overridden in the generation of the select SQL">Im Register "Ansicht Berichtspalte" legen Sie die Spalten fest, die bei der Erstellung von Select SQL aufgehoben werden.</value>
+  <value column="Description" original="Report View Column">Berichtsansicht Spalte</value>
+  <value column="Help" original="The Report View Column Tab defines any columns which will be overridden in the generation of the select SQL">Im Register "Berichtsansicht Spalte" legen Sie die Spalten fest, die bei der Zusammenstellung des SQL SELECT Befehls gelesen werden.</value>
  </row>
  <row id="355" trl="Y">
   <value column="Name" original="Commission">Provision</value>

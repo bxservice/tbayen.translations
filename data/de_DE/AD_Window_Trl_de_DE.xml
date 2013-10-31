@@ -331,9 +331,9 @@ Preislisten können berechnet und kopiert werden. Um die Berechnung zu beschleun
   <value column="Help" original="The Greeting Window defines a greeting that is then associated with a Business Partner or Business Partner Contact.">Im Fenster "Anrede" legen Sie die Anrede eines Geschäftspartners oder dessen Kontakts fest.</value>
  </row>
  <row id="180" trl="Y">
-  <value column="Name" original="Report View">Bericht Datenbank-Ansicht</value>
-  <value column="Description" original="Maintain Report Views">Verwaltung Datenbank-Ansichten für Berichte</value>
-  <value column="Help" original="The Report View Window defines the views used when generating reports.  This window is for System Admin use only.">Im Fenster "Bericht Datenbank-Ansicht" legen Sie die SQL-Abfragen zur Erzeugung von Berichten fest. Dieses Fenster ist nur für die Systemadministration bestimmt.</value>
+  <value column="Name" original="Report View">Berichtsansicht</value>
+  <value column="Description" original="Maintain Report Views">Verwaltung Berichtsansichten</value>
+  <value column="Help" original="The Report View Window defines the views used when generating reports.  This window is for System Admin use only.">Im Fenster "Berichtsansicht" legen Sie die SQL-Abfragen zur Erzeugung von Berichten (insbesondere WHERE und GROUP BY Klauseln) fest. Dieses Fenster ist nur für die Systemadministration bestimmt.</value>
  </row>
  <row id="181" trl="Y">
   <value column="Name" original="Purchase Order">Bestellung</value>
