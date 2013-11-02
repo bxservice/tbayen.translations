@@ -10463,7 +10463,7 @@ Strings may be in single quotes (optional)]]></value>
  <row id="1798" trl="Y">
   <value column="Name" original="Form">Formular</value>
   <value column="PrintName" original="Form">Formular</value>
-  <value column="Description" original="If Selected, a Form is printed, if not selected a columnar List report">Wenn ausgewählt, wird ein Formular gedruckt, wenn nicht zuvor ein tabellenbasierter Listenreport ausgewählt wurde.</value>
+  <value column="Description" original="If Selected, a Form is printed, if not selected a columnar List report">Wenn ausgewählt, wird ein Formular gedruckt, wenn nicht ausgewählt eine tabellenbasierte Liste.</value>
   <value column="Help" original="A form has individual elements with layout information (example: invoice, check)&#10;&lt;br&gt;&#10;A columnar list report has individual columns (example: list of invoices)"><![CDATA[Ein Formular hat individuelle Elemente mit Layoutinformationen (Beispiel: Rechnung). <br> Ein Spaltenbericht hat individuelle Spalten (Beispiel: Liste Rechnungen)]]></value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
