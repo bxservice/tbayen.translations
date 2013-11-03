@@ -3178,8 +3178,8 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="566" trl="Y">
-  <value column="Name" original="Sequence">Nummernkreis</value>
-  <value column="PrintName" original="Sequence">Nummernkreis</value>
+  <value column="Name" original="Sequence">Reihenfolge</value>
+  <value column="PrintName" original="Sequence">Reihenfolge</value>
   <value column="Description" original="Method of ordering records; lowest number comes first">Methode zur Festlegung der Eintragsreihenfolge; die niedrigste Zahl steht an erster Stelle.</value>
   <value column="Help" original="The Sequence indicates the order of records">Der "Nummernkreis" bestimmt die Reihenfolge der Einträge</value>
   <value column="PO_Description" original=""/>
@@ -23670,8 +23670,8 @@ Time represents a values at a given time (e.g. Invoice Amount on 1/1) - History 
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="52016" trl="Y">
-  <value column="Name" original="Sequence">Nummernkreis</value>
-  <value column="PrintName" original="Sequence">Nummernkreis</value>
+  <value column="Name" original="Sequence">Reihenfolge</value>
+  <value column="PrintName" original="Sequence">Reihenfolge</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
