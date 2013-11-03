@@ -2028,10 +2028,10 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="382" trl="Y">
-  <value column="Name" original="Identifier">Schlüssel</value>
-  <value column="PrintName" original="Identifier">Schlüssel</value>
-  <value column="Description" original="This column is part of the record identifier">Diese Spalte ist Teil des Schlüssels</value>
-  <value column="Help" original="The Identifier checkbox indicates that this column is part of the identifier or key for this table.  ">Das Optionsfeld "Schlüssel" zeigt an, ob eine Spalte Teil des Identifikatorsoder Schlüssels der Tabelle ist.</value>
+  <value column="Name" original="Identifier">Kennzeichner</value>
+  <value column="PrintName" original="Identifier">Kennzeichner-Text für diesen Datensatz</value>
+  <value column="Description" original="This column is part of the record identifier">Diese Spalte ist Teil des Kennzeichner-Texts, der bei einer Referenz auf diesen Datensatz ausgegeben wird.</value>
+  <value column="Help" original="The Identifier checkbox indicates that this column is part of the identifier or key for this table.  ">Das Optionsfeld "Kennzeichner" zeigt an, ob eine Spalte Teil des Kennzeichners der Tabelle ist, der bei einer Referenz auf Objekte dieser Tabelle ausgegeben wird. Mehrere Kennzeichner werden durch _ getrennt und durch das Reihenfolge-Feld sortiert.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -2058,9 +2058,9 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="389" trl="Y">
-  <value column="Name" original="Key column">Schlüsselspalte</value>
-  <value column="PrintName" original="Key column">Schlüsselspalte</value>
-  <value column="Description" original="This column is the key in this table">Diese Spalte ist der Schlüssel dieser Tabelle</value>
+  <value column="Name" original="Key column">Primärschlüssel</value>
+  <value column="PrintName" original="Key column">Primärschlüssel</value>
+  <value column="Description" original="This column is the key in this table">Diese Spalte ist der Primärschlüssel dieser Tabelle</value>
   <value column="Help" original="The key column must also be display sequence 0 in the field definition and may be hidden.">Die Schlüsselspalte muss in der Felddefinition die Anzeigeabfolge 0 einnehmen und kann ausgeblendet werden.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
