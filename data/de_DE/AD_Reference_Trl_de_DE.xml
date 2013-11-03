@@ -28,8 +28,8 @@
   <value column="Help" original=""/>
  </row>
  <row id="10" trl="Y">
-  <value column="Name" original="String">V_String</value>
-  <value column="Description" original="Character String">Buchstabenzeichenfolge</value>
+  <value column="Name" original="String">Zeichenfolge</value>
+  <value column="Description" original="Character String">alphanumerische Zeichenfolge</value>
   <value column="Help" original=""/>
  </row>
  <row id="11" trl="Y">

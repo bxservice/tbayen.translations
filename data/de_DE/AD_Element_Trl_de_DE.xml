@@ -7778,8 +7778,8 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1486" trl="Y">
-  <value column="Name" original="String">V_String</value>
-  <value column="PrintName" original="String">V_String</value>
+  <value column="Name" original="String">Zeichenfolge</value>
+  <value column="PrintName" original="String">Zeichenfolge</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>

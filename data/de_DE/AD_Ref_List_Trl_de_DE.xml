@@ -1019,7 +1019,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="387" trl="Y">
-  <value column="Name" original="String">V_String</value>
+  <value column="Name" original="String">Zeichenfolge</value>
   <value column="Description" original=""/>
  </row>
  <row id="388" trl="Y">
@@ -4223,7 +4223,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53457" trl="Y">
-  <value column="Name" original="String">V_String</value>
+  <value column="Name" original="String">Zeichenfolge</value>
   <value column="Description" original=""/>
  </row>
  <row id="53462" trl="Y">
