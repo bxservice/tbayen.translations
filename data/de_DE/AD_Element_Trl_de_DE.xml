@@ -3662,10 +3662,10 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="620" trl="Y">
-  <value column="Name" original="Search Key">Suchschlüssel</value>
-  <value column="PrintName" original="Search Key">Suchschlüssel</value>
-  <value column="Description" original="Search key for the record in the format required - must be unique">Suchschlüssel für den Datensatz im erforderlichen Format - muss eindeutig sein</value>
-  <value column="Help" original="A search key allows you a fast method of finding a particular record.&#10;If you leave the search key empty, the system automatically creates a numeric number.  The document sequence used for this fallback number is defined in the &quot;Maintain Sequence&quot; window with the name &quot;DocumentNo_&lt;TableName&gt;&quot;, where TableName is the actual name of the table (e.g. C_Order)."><![CDATA[Ein Suchschlüssel ermöglicht eine schnelle Methode einen bestimmten Datensatz zu finden. Falls kein Suchschlüssel angegeben wird, erzeugt das System automatisch einen numerischen Wert. Der für diese Systemnummer verwendete Nummernkreis wird im Fenster "Nummerkreis verwalten" mit dem Namen "DocumentNo_<TableName>" angegeben, wobei TableName dem tatsächlichen Namen der Tabelle entspricht (z.B. C_Order).]]></value>
+  <value column="Name" original="Search Key">Satznummer</value>
+  <value column="PrintName" original="Search Key">Satznummer</value>
+  <value column="Description" original="Search key for the record in the format required - must be unique">Satznummer für den Datensatz im erforderlichen Format - muss eindeutig sein</value>
+  <value column="Help" original="A search key allows you a fast method of finding a particular record.&#10;If you leave the search key empty, the system automatically creates a numeric number.  The document sequence used for this fallback number is defined in the &quot;Maintain Sequence&quot; window with the name &quot;DocumentNo_&lt;TableName&gt;&quot;, where TableName is the actual name of the table (e.g. C_Order)."><![CDATA[Eine Satznummer als Suchschlüssel ermöglicht eine schnelle Methode einen bestimmten Datensatz zu finden. Falls keine Satznummer angegeben wird, erzeugt das System automatisch einen numerischen Wert. Der für diese Systemnummer verwendete Nummernkreis wird im Fenster "Nummerkreis verwalten" mit dem Namen "DocumentNo_<TableName>" angegeben, wobei TableName dem tatsächlichen Namen der Tabelle entspricht (z.B. C_Order).]]></value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
