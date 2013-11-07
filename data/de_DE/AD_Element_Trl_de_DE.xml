@@ -2128,10 +2128,10 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="402" trl="Y">
-  <value column="Name" original="Prospect">Aktiver Interessent / Kunde</value>
-  <value column="PrintName" original="Prospect">Aktiver Interessent / Kunde</value>
-  <value column="Description" original="Indicates this is a Prospect">Kennzeichnet einen Interessenten oder Kunden</value>
-  <value column="Help" original="The Prospect checkbox indicates an entity that is an active prospect.">Das Optionsfeld "Interessent" kennzeichnet einen aktiven Interessenten oder Kunden.</value>
+  <value column="Name" original="Prospect">Interessent</value>
+  <value column="PrintName" original="Prospect">Interessent</value>
+  <value column="Description" original="Indicates this is a Prospect">Kennzeichnet einen Interessenten oder Aquisekunden.</value>
+  <value column="Help" original="The Prospect checkbox indicates an entity that is an active prospect.">Das Optionsfeld "Interessent" kennzeichnet einen aktiven Interessenten oder ein Aquiseobjekt.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
