@@ -2568,8 +2568,8 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="473" trl="Y">
-  <value column="Name" original="Employees">Mitarbeiter</value>
-  <value column="PrintName" original="Employees">Mitarbeiter</value>
+  <value column="Name" original="Employees">Mitarbeiterzahl</value>
+  <value column="PrintName" original="Employees">Mitarbeiterzahl</value>
   <value column="Description" original="Number of employees">Anzahl Mitarbeiter</value>
   <value column="Help" original="Indicates the number of employees for this Business Partner.  This field displays only for Prospects.">Zeigt die Anzahl der "Mitarbeiter" eines Geschäftspartners an. Dieses Feld ist nur für Interessenten sichtbar.</value>
   <value column="PO_Description" original=""/>
