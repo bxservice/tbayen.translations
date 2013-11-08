@@ -2188,8 +2188,8 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="409" trl="Y">
-  <value column="Name" original="Sales Representative">Vertriebsbeauftragter</value>
-  <value column="PrintName" original="Sales Rep">Vertriebsbeauftragter</value>
+  <value column="Name" original="Sales Representative">Kundenbetreuer</value>
+  <value column="PrintName" original="Sales Rep">Kundenbetreuer</value>
   <value column="Description" original="Indicates if  the business partner is a sales representative or company agent">Zeigt an, ob dieser Geschäftspartner ein Firmenvertreter ist.</value>
   <value column="Help" original="The Sales Rep checkbox indicates if this business partner is a sales representative. A sales representative may also be an employee, but does not need to be.">Das Optionsfeld "Vertriebsbeauftragter" kennzeichnet ob dieser Geschäftspartner ein Vertriebsbeauftragter ist. Ein Vertriebsbeauftragter kann auch ein Mitarbeiter sein, muss aber nicht.</value>
   <value column="PO_Description" original="Business Partner responsible for documents">Für die Belege verantwortlicher Geschäftspartner</value>
@@ -4908,9 +4908,9 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1063" trl="Y">
-  <value column="Name" original="Sales Representative">Vertriebsbeauftragter</value>
-  <value column="PrintName" original="Sales Rep">Vertriebsbeauftragter</value>
-  <value column="Description" original="Sales Representative or Company Agent">Vertriebsbeauftragter oder Firmenvertreter</value>
+  <value column="Name" original="Sales Representative">Kundenbetreuer</value>
+  <value column="PrintName" original="Sales Rep">Kundenbetreuer</value>
+  <value column="Description" original="Sales Representative or Company Agent">Kundenbetreuer oder Firmenvertreter</value>
   <value column="Help" original="The Sales Representative indicates the Sales Rep for this Region.  Any Sales Rep must be a valid internal user.">Das Feld "Vertriebsbeauftragter" zeigt den für eine Region zuständigen Firmenvertreter oder  Vertriebsbeauftragten an. Jeder Vertriebsbeauftragte muss ein intern gültiger Benutzer sein.</value>
   <value column="PO_Description" original="Purchase or Company Agent">Einkäufer oder Firmenvertreter</value>
   <value column="PO_Help" original="Purchase agent for the document. Any Sales Rep must be a valid internal user.">Sachbearbeiter eines Belegs. Jeder Vertriebsbeauftragte muss ein intern gültiger Benutzer sein.</value>
@@ -11271,8 +11271,8 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1886" trl="Y">
-  <value column="Name" original="Sales Representative">Vertriebsbeauftragter</value>
-  <value column="PrintName" original="Sales Rep">Vertriebsbeauftragter</value>
+  <value column="Name" original="Sales Representative">Kundenbetreuer</value>
+  <value column="PrintName" original="Sales Rep">Kundenbetreuer</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
