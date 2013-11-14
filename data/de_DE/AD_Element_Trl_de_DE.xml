@@ -18809,8 +18809,8 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2686" trl="Y">
-  <value column="Name" original="Landed Cost">Kosten einschließlich Ausladen und Zoll</value>
-  <value column="PrintName" original="Landed Cost">Kosten einschließlich Ausladen und Zoll</value>
+  <value column="Name" original="Landed Cost">Einstandskosten</value>
+  <value column="PrintName" original="Landed Cost">Einstandskosten</value>
   <value column="Description" original="Landed cost to be allocated to material receipts">Die "Einstandskosten" müssen Wareneingängen zugeordnet werden.</value>
   <value column="Help" original="Landed costs allow you to allocate costs to previously received material receipts. Examples are freight, excise tax, insurance, etc.">Im Register "Einstandskosten" können Sie Kosten früheren Wareneingängen zuordnen. Z. B. Frachtkosten, Verbrauchssteuer, Versicherungen etc.</value>
   <value column="PO_Description" original=""/>
@@ -18949,10 +18949,10 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2703" trl="Y">
-  <value column="Name" original="Cost Distribution">Kostenverteilung</value>
-  <value column="PrintName" original="Cost Distribution">Kostenverteilung</value>
-  <value column="Description" original="Landed Cost Distribution">Distribution der Einstandskosten</value>
-  <value column="Help" original="How landed costs are distributed to material receipts">Eine "Kostendistribution" legt die Verteilung von Einstandskosten auf Wareneingänge fest.</value>
+  <value column="Name" original="Cost Distribution">Kostenaufteilung</value>
+  <value column="PrintName" original="Cost Distribution">Kostenaufteilung</value>
+  <value column="Description" original="Landed Cost Distribution">Aufteilung der Einstandskosten</value>
+  <value column="Help" original="How landed costs are distributed to material receipts">Eine "Kostenaufteilung" legt die Verteilung von Einstandskosten auf Wareneingänge fest.</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
   <value column="PO_Name" original=""/>
@@ -20059,9 +20059,9 @@ The class is called for the client and alows to validate documents in the prepar
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2819" trl="Y">
-  <value column="Name" original="Landed Cost Allocation">Zuordnung Kosten einschließlich Ausladen und Zoll</value>
-  <value column="PrintName" original="Landed Cost Allocation">Zuordnung Kosten einschließlich Ausladen und Zoll</value>
-  <value column="Description" original="Allocation for Land Costs">Zuordnung der Einstandskosten.</value>
+  <value column="Name" original="Landed Cost Allocation">Zuordnung Einstandskosten</value>
+  <value column="PrintName" original="Landed Cost Allocation">Zuordnung Einstandskosten</value>
+  <value column="Description" original="Allocation for Land Costs">Zuordnung der Einstandskosten</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>

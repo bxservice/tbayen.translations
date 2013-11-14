@@ -3260,7 +3260,7 @@ Bitte beachten, dass Zugriffsinformationen zwischengespeichert werden. Daher mus
 Um die Kosten zuzuordnen muss dazu entweder ein Wareneingang, eine Wareneingangsposition oder ein bestimmter Artikel ausgewählt werden.]]></value>
  </row>
  <row id="698" trl="Y">
-  <value column="Name" original="Landed Cost Allocation">Zuordnung Kosten einschließlich Ausladen und Zoll</value>
+  <value column="Name" original="Landed Cost Allocation">Zuordnung Einstandskosten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Allocation of Landed Costs to Product">Zuordnung von Einstandskosten zu einem Artikel</value>
   <value column="Help" original="Calculated when preparing the Invoice">"Zugeordnete Einstandskosten" werden bei der Rechnungsvorbereitung ermittelt</value>
