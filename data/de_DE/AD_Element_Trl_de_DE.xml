@@ -15136,8 +15136,8 @@ Asset - erzeugen von Projekt Asset Transaktionen - Fähigkeit Material auszugebe
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2301" trl="Y">
-  <value column="Name" original="Statement Loader Class">Art des Ladeprogramms für Auszüge</value>
-  <value column="PrintName" original="Statement Loader Class">Art des Ladeprogramms für Auszüge</value>
+  <value column="Name" original="Statement Loader Class">Ladeprogramms Java-Klasse</value>
+  <value column="PrintName" original="Statement Loader Class">Java-Klasse des Ladeprogramms für Auszüge</value>
   <value column="Description" original="Class name of the bank statement loader">Klassenbezeichnung des Ladeprogramms für Kontoauszüge.</value>
   <value column="Help" original="The name of the actual bank statement loader implementing the interface org.compiere.impexp.BankStatementLoaderInterface">Der Name des aktuellen Ladeprogramms für Kontoauszüge implementiert die Oberfläche org.compiere.impexp.BankStatementLoaderInterface.</value>
   <value column="PO_Description" original=""/>
