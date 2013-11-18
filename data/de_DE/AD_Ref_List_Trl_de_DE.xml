@@ -431,8 +431,8 @@
   <value column="Description" original="Invoice per Customer Invoice Schedule">Rechnung nach Kundenrechnungszeitplan</value>
  </row>
  <row id="217" trl="Y">
-  <value column="Name" original="After Receipt">Nach Empfang</value>
-  <value column="Description" original="After receipt of cash">Nach Barzahlung</value>
+  <value column="Name" original="After Receipt">Nach Zahlungseingang</value>
+  <value column="Description" original="After receipt of cash">Nach Zahlungseingang</value>
  </row>
  <row id="218" trl="Y">
   <value column="Name" original="Availability">Verfügbarkeit</value>
