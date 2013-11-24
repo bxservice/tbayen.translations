@@ -898,7 +898,7 @@ Before(!) entering transactions, Start the Replication Run to set up the remote 
   <value column="Help" original="User Registration of an Asset">Benutzerregistrierung eines Vermögenswerts</value>
  </row>
  <row id="302" trl="Y">
-  <value column="Name" original="Bank Statement Matcher">Kontoauszüge abgleichen</value>
+  <value column="Name" original="Bank Statement Matcher">Kontoauszug Abgleich</value>
   <value column="Description" original="Algorithm to match Bank Statement Info to Business Partners, Invoices and Payments">Algorithmus zur Zuordnung der Kontoauszugsinformationen zu Geschäftspartnern, Rechnungen und Zahlungen.</value>
   <value column="Help" original="An algorithm to find Business Partners, Invoices, Payments in imported Bank Statements">Algorithmus zur Suche von Geschäftspartnern, Rechnungen und Zahlungen in importierten Kontoauszügen</value>
  </row>

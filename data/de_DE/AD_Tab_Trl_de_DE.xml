@@ -2604,7 +2604,7 @@ The optional balance check applies to the entire import, not for individual batc
   <value column="Help" original="Indivifual values of Registration Attribute">Individuelle Werte eines Registrierungsattributs</value>
  </row>
  <row id="586" trl="Y">
-  <value column="Name" original="Bank Statement Matcher">Kontoauszüge abgleichen</value>
+  <value column="Name" original="Bank Statement Matcher">Kontoauszug Abgleich</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Algorithm to match Bank Statement Info to Business Partners, Invoices and Payments">Algorithmus zur Zuordnung der Kontoauszugsinformationen zu Geschäftspartnern, Rechnungen und Zahlungen.</value>
   <value column="Help" original="An algorithm to find Business Partners, Invoices, Payments in imported Bank Statements. The class need to implement the interface org.compiere.impexp.BankStatementMatcherInterface">Ein Algorithmus zur Suche von Geschäftspartnern, Rechnungen und Zahlungen in importierten Kontoauszügen. Die Klasse muss das Interface org.compiere.impexp.BankStatementMatcherInterface implementieren.</value>
