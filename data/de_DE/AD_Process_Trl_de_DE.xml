@@ -744,7 +744,7 @@ Geschäftspartnergruppe oder bestimmten Geschäftspartner auswählen]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="256" trl="Y">
-  <value column="Name" original="Match Bank Statement">Kontoauszüge abgleichen</value>
+  <value column="Name" original="Match Bank Statement">Kontoauszugdaten abgleichen</value>
   <value column="Description" original="Match Bank Statement Info to Business Partners, Invoices and Payments">Gleichen Sie Kontoauszüge mit Geschäftspartnern, Rechnungen und Zahlungen ab.</value>
   <value column="Help" original=""/>
  </row>

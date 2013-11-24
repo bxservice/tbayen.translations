@@ -15546,8 +15546,8 @@ Asset - erzeugen von Projekt Asset Transaktionen - Fähigkeit Material auszugebe
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2347" trl="Y">
-  <value column="Name" original="Bank Statement Matcher">Kontoauszüge abgleichen</value>
-  <value column="PrintName" original="Bank Statement Matcher">Kontoauszüge abgleichen</value>
+  <value column="Name" original="Bank Statement Matcher">Auszugsdaten abgleichen</value>
+  <value column="PrintName" original="Bank Statement Matcher">>Auszugsdaten abgleichen</value>
   <value column="Description" original="Algorithm to match Bank Statement Info to Business Partners, Invoices and Payments">Algorithmus zur Zuordnung der Kontoauszugsinformationen zu Geschäftspartnern, Rechnungen und Zahlungen.</value>
   <value column="Help" original="An algorithm to find Business Partners, Invoices, Payments in imported Bank Statements.  The class needs to implement org.compiere.impexp.BankStatementMatcherInterface">Algorithmus zur Suche von Geschäftspartnern, Rechnungen und Zahlungen in importierten Kontoauszügen.</value>
   <value column="PO_Description" original=""/>
