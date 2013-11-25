@@ -15056,8 +15056,8 @@ Asset - erzeugen von Projekt Asset Transaktionen - Fähigkeit Material auszugebe
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2292" trl="Y">
-  <value column="Name" original="EFT Statement Line Date">EZV- Kontoauszugsdatum für Position</value>
-  <value column="PrintName" original="EFT Statement Line Date">EZV- Kontoauszugsdatum für Position</value>
+  <value column="Name" original="EFT Statement Line Date">EZV Datum Zeile</value>
+  <value column="PrintName" original="EFT Statement Line Date">EZV Datum Zeile</value>
   <value column="Description" original="Electronic Funds Transfer Statement Line Date">Kontoauszugsdatum EZV-Vorgang.</value>
   <value column="Help" original="Information from EFT media">Information vom EZV-Medium</value>
   <value column="PO_Description" original=""/>
