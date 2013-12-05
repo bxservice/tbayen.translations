@@ -4611,7 +4611,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="53626" trl="Y">
-  <value column="Name" original="AR/AP Trade (Receivables/Vendor Liabilities)">AR/AP Trade (Receivables/Vendor Liabilities)</value>
+  <value column="Name" original="AR/AP Trade (Receivables/Vendor Liabilities)">Forderungen und Verbindlichkeiten Abgleich</value>
   <value column="Description" original=""/>
  </row>
  <row id="53627" trl="Y">

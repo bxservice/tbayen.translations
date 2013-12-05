@@ -1803,13 +1803,13 @@ The Parameters are default values for null import record values they do not over
   <value column="Help" original=""/>
  </row>
  <row id="53220" trl="Y">
-  <value column="Name" original="Unreconciled accounting facts">Unreconciled accounting facts</value>
+  <value column="Name" original="Unreconciled accounting facts">Buchungszeilen nicht abgestimmte ausgeben</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53221" trl="Y">
-  <value column="Name" original="Automatic account reconciliation">Automatische Kontoabstimmung</value>
-  <value column="Description" original="Reconcile account transactions according to standard rules">Reconcile account transactions according to standard rules</value>
+  <value column="Name" original="Automatic account reconciliation">Buchungszeilen abstimmen (automatisch)</value>
+  <value column="Description" original="Reconcile account transactions according to standard rules">Buchungszeilen nach vorgegebenen Regelwerken automatisch abstimmen.</value>
   <value column="Help" original=""/>
  </row>
  <row id="53226" trl="Y">

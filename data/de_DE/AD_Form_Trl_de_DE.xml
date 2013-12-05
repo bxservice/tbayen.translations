@@ -179,7 +179,7 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
   <value column="Help" original="Edit the graphical layout of manufacturing workflows">Das grafische Layout von Fertigungs-Workflows bearbeiten</value>
  </row>
  <row id="53016" trl="Y">
-  <value column="Name" original="Accounting Fact Reconcilation (manual)">Buchführungsfakten abstimmen (manuell)</value>
+  <value column="Name" original="Accounting Fact Reconcilation (manual)">Buchungszeilen abstimmen (manuell)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
