@@ -6948,8 +6948,8 @@ SO Sub Type of <b>POS</b> (Point of Sale) will generate all document]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1382" trl="Y">
-  <value column="Name" original="Bank statement line">Position des Bankauszugs</value>
-  <value column="PrintName" original="Bank statement line">Position des Bankauszugs</value>
+  <value column="Name" original="Bank statement line">Bankauszugszeile</value>
+  <value column="PrintName" original="Bank statement line">Bankauszugszeile</value>
   <value column="Description" original="Line on a statement from this Bank">Position auf einem Kontoauszug dieser Bank</value>
   <value column="Help" original="The Bank Statement Line identifies a unique transaction (Payment, Withdrawal, Charge) for the defined time period at this Bank.">Das Feld "Position Kontoauszug" zeigt eine einzelne Transaktion für einen bestimmten Zeitraum bei einer Bank an, z.B. eine Ein- oder Auszahlung.</value>
   <value column="PO_Description" original=""/>
@@ -15126,9 +15126,9 @@ Asset - erzeugen von Projekt Asset Transaktionen - Fähigkeit Material auszugebe
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="2300" trl="Y">
-  <value column="Name" original="Statement Line Date">Datum einer Position des Bankauszugs</value>
-  <value column="PrintName" original="Statement Line Date">Datum einer Position des Bankauszugs</value>
-  <value column="Description" original="Date of the Statement Line">Datum einer Position des Kontoauszugs</value>
+  <value column="Name" original="Statement Line Date">Datum der Auszugszeile</value>
+  <value column="PrintName" original="Statement Line Date">Datum der Auszugszeile</value>
+  <value column="Description" original="Date of the Statement Line">Datum einer Zeile des Auszugsauszugs</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
