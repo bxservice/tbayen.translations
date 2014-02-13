@@ -40598,8 +40598,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202195" trl="Y">
-  <value column="Name" original="Deposit Batch">Deposit Batch</value>
-  <value column="PrintName" original="Deposit Batch">Deposit Batch</value>
+  <value column="Name" original="Deposit Batch">Zahlungs-Sammler</value>
+  <value column="PrintName" original="Deposit Batch">Zahlungs-Sammler</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
@@ -40638,8 +40638,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202199" trl="Y">
-  <value column="Name" original="Deposit Batch Line">Deposit Batch Line</value>
-  <value column="PrintName" original="Deposit Batch Line">Deposit Batch Line</value>
+  <value column="Name" original="Deposit Batch Line">Zeile Zahlungssammler</value>
+  <value column="PrintName" original="Deposit Batch Line">Zeile Zahlungssammler</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>

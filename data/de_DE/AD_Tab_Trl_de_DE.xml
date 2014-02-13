@@ -5935,13 +5935,13 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="200067" trl="Y">
-  <value column="Name" original="Batch">Journalstapel</value>
+  <value column="Name" original="Batch">Sammler</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200068" trl="Y">
-  <value column="Name" original="Lines">Lines</value>
+  <value column="Name" original="Lines">Zeilen</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>

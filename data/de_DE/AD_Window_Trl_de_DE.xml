@@ -1982,8 +1982,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="200031" trl="Y">
-  <value column="Name" original="Receipts into Batch">Receipts into Batch</value>
-  <value column="Description" original="Process Receipts">Eingänge verarbeiten</value>
+  <value column="Name" original="Payments into Batch">Zahlungen in Sammler</value>
+  <value column="Description" original="Process Receipts">Zahlungen verarbeiten</value>
   <value column="Help" original="The Process Receipts Window allows you to enter receipts for invoices.  If the payment is for a single invoice then it can be processed here.">The Process Receipts Window allows you to enter receipts for invoices.  If the payment is for a single invoice then it can be processed here.</value>
  </row>
  <row id="200034" trl="Y">

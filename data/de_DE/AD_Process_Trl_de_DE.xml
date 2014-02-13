@@ -2003,7 +2003,7 @@ The Parameters are default values for null import record values they do not over
   <value column="Help" original=""/>
  </row>
  <row id="200031" trl="Y">
-  <value column="Name" original="Deposit Batch Close">Deposit Batch Close</value>
+  <value column="Name" original="Deposit Batch Close">Zahlungssammler schliessen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
