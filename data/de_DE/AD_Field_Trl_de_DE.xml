@@ -55,7 +55,7 @@
 Falls der Belegtyp des Belegs keine automatische Belegnummernkreis definiert hat, bleibt das Feld bei neu erstellten Belegen leer. Das ist für Belege die normalerweise eine externe Belegnummer besitzen, wie etwa die Eingangsrechnung eines Lieferanten. Wenn Sie das Feld leer lassen, wird durch das System eine Belegnummer erzeugt. Der für diese Belegnummer verwendete Belegnummernkreis wird im Fenster "Nummernkreis verwalten" mit dem Namen "DocumentNo_<TableName>" definiert. TableName ist dabei der tatsächliche Name der Tabelle (z.B. C_Order).]]></value>
  </row>
  <row id="9615" trl="Y">
-  <value column="Name" original="Representative/Agent"Kundenbetreuer</value>
+  <value column="Name" original="Representative/Agent">Kundenbetreuer</value>
   <value column="Description" original="Sales Representative or Company Agent">Vertriebsbeauftragter oder Firmenvertreter</value>
   <value column="Help" original="The Sales Representative indicates the Sales Rep for this Region.  Any Sales Rep must be a valid internal user.">Das Feld "Kundenbetreuer" zeigt den für eine Region zuständigen Firmenvertreter oder  Vertriebsbeauftragten an. Jeder Vertriebsbeauftragte muss ein intern gültiger Benutzer sein.</value>
  </row>
