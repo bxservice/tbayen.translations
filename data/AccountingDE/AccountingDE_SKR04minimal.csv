@@ -1,4 +1,58 @@
 [Account_Value],[Account_Name],[Account_Description],[Account_Type],[Account_Sign],[Account_Document],[Account_Summary],[Default_Account],[Account_Parent],[Balance Sheet],[Balance Sheet_Name],[US 1120 Balance Sheet],US 1120 Balance Sheet_Name,[Profit & Loss],[Profit & Loss_Name],[US 1120 Income Statement],[US 1120 Income Statement_Name],[Cash Flow],[Cash Flow_Name],english Name,used in
+1800,Bank,Bank Asset,Asset,,Yes,No,B_ASSET_ACCT,AB-IV,,,,,,,,,,,Checking Account,C_AcctSchema_Default
+7310,Zinsaufwand kurzfristige Verbindlichkeiten,Bank interest expense,Expense,,Yes,No,B_INTERESTEXP_ACCT,GV-13-z2,,,,,,,,,,,Interest Expense,C_AcctSchema_Default
+7100,Zinsen und sonstige Erträge,Bank interest revenue,Revenue,,Yes,No,B_INTERESTREV_ACCT,GV-11-z2,,,,,,,,,,,Interest Income,C_AcctSchema_Default
+1801,Bankbewegung noch nicht abgeglichen,Bank transactions in transit,Asset,,Yes,No,B_INTRANSIT_ACCT,AB-IV,,,,,,,,,,,Checking In-Transfer,C_AcctSchema_Default
+1804,nicht zugeordnete Ausgangszahlungen Bank,Selected A/P invoices for payment ,Liability,,Yes,No,B_PAYMENTSELECT_ACCT,PC-8-c,,,,,,,,,,,Payment selection,C_AcctSchema_Default
+1803,nicht zugeordnete Eingangszahlungen Bank,"Received, unallocated payments",Asset,,Yes,No,B_UNALLOCATEDCASH_ACCT,AB-IV,,,,,,,,,,,Checking Unallocated Receipts,C_AcctSchema_Default
+3250,Erhaltene Anzahlungen auf Bestellungen,Prepayments for future revenue,Liability,,Yes,No,C_PREPAYMENT_ACCT,PC-3,,,,,,,,,,,Customer Prepayments,C_AcctSchema_Default
+1200,Forderungen aus Lieferungen und Leistungen,Accounts Receivables,Asset,,Yes,No,C_RECEIVABLE_ACCT,AB-II-1,,,,,,,,,,,Accounts Receivable - Trade,C_AcctSchema_Default
+1206,Forderungen aus Dienstleistungen,Accounts Receivables for Services,Asset,,Yes,No,C_RECEIVABLE_SERVICES_ACCT,AB-II-1,,,,,,,,,,,Accounts Receivable Services - Trade,C_AcctSchema_Default
+CB_A,Kassenbuch-Konto CB_ASSET deaktiviert in Standardkonfiguration,Cash Book Asset,Asset,,Yes,No,CB_ASSET_ACCT,AB-IV,,,,,,,,,,,Petty Cash,C_AcctSchema_Default
+CB_T,Kassenbuch-Konto CB_CASHTRANSFER deaktiviert in Standardkonfiguration,Cash Book Transfer,Asset,,Yes,No,CB_CASHTRANSFER_ACCT,AB-IV,,,,,,,,,,,Petty Cash In-Transfer,C_AcctSchema_Default
+CB_D,Kassenbuch-Konto CB_DIFFERENCES deaktiviert in Standardkonfiguration,Petty Cash Differences,Expense,,Yes,No,CB_DIFFERENCES_ACCT,GV-8,,,,,,,,,,,Petty Cash Over/Short,C_AcctSchema_Default
+CB_E,Kassenbuch-Konto CB_EXPENSE deaktiviert in Standardkonfiguration,Default other expense for petty cash transactions,Expense,,Yes,No,CB_EXPENSE_ACCT,GV-8,,,,,,,,,,,Cash book expense,C_AcctSchema_Default
+CB_R,Kassenbuch-Konto CB_RECEIPT deaktiviert in Standardkonfiguration,Default other revenue for petty cash transactions,Revenue,,Yes,No,CB_RECEIPT_ACCT,GV-4,,,,,,,,,,,Cash book receipts,C_AcctSchema_Default
+6430,Sonstige Abgaben,Default other expense,Expense,,Yes,No,CH_EXPENSE_ACCT,GV-8,,,,,,,,,,,Charge expense,C_AcctSchema_Default
+COPO,Bestellung/Reservierung Einkauf,,Memo,,,No,COMMITMENTOFFSET_ACCT,U-SON,,,,,,,,,,,PO Commitment,C_AcctSchema_GL
+COVK,Bestellung/Reservierung Verkauf,,Memo,,,No,COMMITMENTOFFSETSALES_ACCT,U-SON,,,,,,,,,,,SO Commitment,C_AcctSchema_GL
+6881,Aufwendungen aus der Währungsumrechnung (laufend),Rounding difference to make journal balance in accounting currency,Expense,,Yes,No,CURRENCYBALANCING_ACCT,GV-8,,,,,,,,,,,Currency balancing,C_AcctSchema_GL
+6300,sonstige betriebliche Aufwendungen,Default Account (if no other account is defined) V1.1,Expense,,Yes,No,DEFAULT_ACCT,GV-8,,,,,,,,,,,Default account,MSetup.java
+1260,Forderungen gegen vernundene Unternehmen,Default Receivables account for intercompany trx,Asset,,Yes,No,INTERCOMPANYDUEFROM_ACCT,AB-II-2,,,,,,,,,,,Intercompany Due From,C_AcctSchema_GL
+3400,Verbind. gegenüber verbundenen Unternehmen,Default Payables account for intercompany trx,Liability,,Yes,No,INTERCOMPANYDUETO_ACCT,PC-6,,,,,,,,,,,Intercompany Due To,C_AcctSchema_GL
+3070,sonstige Rückstellungen,"Received products/services from vendors, but not invoiced",Liability,,Yes,No,NOTINVOICEDRECEIPTS_ACCT,PB-3,,,,,,,,,,,Not invoiced receipts,C_AcctSchema_Default
+1140,Waren (Bestand),Product Inventory Account,Asset,,Yes,No,P_ASSET_ACCT,AB-I-3,,,,,,,,,,,Product asset,C_AcctSchema_Default
+5881?,Bestandsveränderungen Waren ???,Account for Average Cost Variance,Expense,,Yes,No,P_AVERAGECOSTVARIANCE_ACCT,GV-5-a,,,,,,,,,,,Average Cost Variance,C_AcctSchema_Default
+6990,Herstellungskosten,Cost of Goods Sold,Expense,,Yes,No,P_COGS_ACCT,GV-8,,,,,,,,,,,Product CoGs,C_AcctSchema_Default
+6976,Kalkulatorische Abschreibungen,Product Cost Adjustments,Expense,,Yes,No,P_COSTADJUSTMENT_ACCT,GV-5-a,,,,,,,,,,,Product Cost Adjustment,C_AcctSchema_Default
+6303,Fremdleistungen/Fremdarbeiten,Default Service costs (I.e. not on inventory),Expense,,Yes,No,P_EXPENSE_ACCT,GV-5-a,,,,,,,,,,,Product Expense,C_AcctSchema_Default
+5200,"Wareneingang (nicht bebuchen, Konten je USt-Satz anlegen)",Default Product costs (I.e. on inventory),Expense,,Yes,No,P_INVENTORYCLEARING_ACCT,GV-5-a,,,,,,,,,,,Product Inventory Clearing,C_AcctSchema_Default
+5882?,Bestandsveränd. Eingangsr. Preisdifferenz ???,Difference between product cost and invoice price (IPV),Expense,,Yes,No,P_INVOICEPRICEVARIANCE_ACCT,GV-5-a,,,,,,,,,,,Invoice price variance,C_AcctSchema_Default
+5801?,Bezugskosten Clearingkonto ???,Default Landed Cost Clearing,Expense,,Yes,No,P_LANDEDCOSTCLEARING_ACCT,GV-5-a,,,,,,,,,,,Landed Cost Clearing,C_AcctSchema_Default
+5883?,Bestandsveränd. Ausgangsr. Preisdifferenz ???,Difference between purchase price and standard costs (PPV),Expense,,Yes,No,P_PURCHASEPRICEVARIANCE_ACCT,GV-5-a,,,,,,,,,,,Purchase price variance,C_AcctSchema_Default
+5885,Bestandsveränderung Kostendifferenz,Account for Rate Variance,Expense,,Yes,No,P_RATEVARIANCE_ACCT,GV-5-a,,,,,,,,,,,Rate Variance,C_AcctSchema_Default
+4200,"Erlöse (nicht bebuchen, Konten je USt-Satz anlegen)",Default Product or Service revenue,Revenue,,Yes,No,P_REVENUE_ACCT,GV-1,,,,,,,,,,,Trade Revenue,C_AcctSchema_Default
+4770,"Gewährte Rabatte (nicht bebuchen, Konten je USt-Satz anlegen)",Granted Trade discounts (corrects Product Revenue),Revenue,,Yes,No,P_TRADEDISCOUNTGRANT_ACCT,GV-1,,,,,,,,,,,Trade Discounts,C_AcctSchema_Default
+5770,"Erhaltene Rabatte (nicht bebuchen, Konten je USt-Satz anlegen)",Received Trade Discounts (corrects Product expense),Expense,,Yes,No,P_TRADEDISCOUNTREC_ACCT,GV-5-a,,,,,,,,,,,Trade discounts received,C_AcctSchema_Default
+4730,"Gewährte Skonti (nicht bebuchen, Konten je USt-Satz anlegen)",Granted early payment discount to customers,Revenue,,Yes,No,PAYDISCOUNT_EXP_ACCT,GV-1,,,,,,,,,,,Payment discount expense,C_AcctSchema_Default
+5730,"Erhaltene Skonti (nicht bebuchen, Konten je USt-Satz anlegen)",Granted early payment discount from vendors,Expense,,Yes,No,PAYDISCOUNT_REV_ACCT,GV-5-a,,,,,,,,,,,Payment discount revenue,C_AcctSchema_Default
+1110,Fertige Erzeugnisse,Created Asset,Asset,,Yes,No,PJ_ASSET_ACCT,AB-I-3,,,,,,,,,,,Project asset,C_AcctSchema_Default
+1095,in Arbeit befindliche Aufträge,Asset Work in Progress,Asset,,Yes,No,PJ_WIP_ACCT,AB-I-2,,,,,,,,,,,Project WIP,C_AcctSchema_Default
+5884?,Bestandsveränd. Ausgangsr. Preisdifferenz Offset ???,Offset Account for Purchase price variance (PPV) ,Expense,,Yes,No,PPVOFFSET_ACCT,GV-5-a,,,,,,,,,,,Purchase price variance Offset,C_AcctSchema_GL
+4840,Erträge aus der Währungsumrechnung,Difference between invoice and payment currency,Revenue,,Yes,No,REALIZEDGAIN_ACCT,GV-4,,,,,,,,,,,Realized gain,C_AcctSchema_Default
+6880,Aufwendungen aus der Währungsumrechnung,Difference between invoice and payment currency,Expense,,Yes,No,REALIZEDLOSS_ACCT,GV-5-a,,,,,,,,,,,Realized loss,C_AcctSchema_Default
+SUSP?,Suspense balancing,Difference to make journal balance in source currency - needs to be solved,Expense,,Yes,No,SUSPENSEBALANCING_ACCT,GV-5-a,,,,,,,,,,,Suspense balancing ,C_AcctSchema_GL
+1400,"Vorsteuer abziehbar (nicht bebuchen, Konten je USt-Satz anlegen)",Tax to be reimbursed - before tax declaration,Asset,,Yes,No,T_CREDIT_ACCT,AB-II-4,,,,,,,,,,,Tax credit A/R,C_AcctSchema_Default
+3800,"Umsatzsteuer (nicht bebuchen, Konten je USt-Satz anlegen)",Tax to be paid - before tax declaration,Liability,,Yes,No,T_DUE_ACCT,PC-8-a,,,,,,,,,,,Tax due,C_AcctSchema_Default
+7650,Sonstige Betriebssteuern,Sales Tax paid to Vendors,Expense,,Yes,No,T_EXPENSE_ACCT,GV-19,,,,,,,,,,,Tax expense,C_AcctSchema_Default
+UNEA,Konto UNEARNED_REVENUE deaktiviert in Standardkonfiguration,"We have invoiced, but not delivered yet",Revenue,,Yes,No,UNEARNEDREVENUE_ACCT,GV-4,,,,,,,,,,,Unearned revenue,C_AcctSchema_Default
+4840a,Erträge aus der Währungsumrechnung (nicht realisiert),Difference between foreign currency receivables/payables and current rate,Revenue,,Yes,No,UNREALIZEDGAIN_ACCT,GV-4,,,,,,,,,,,Unrealized gain,C_AcctSchema_Default
+6880a,Aufwendungen aus der Währungsumrechnung (nicht realisiert),Difference between foreign currency receivables/payables and current rate,Expense,,Yes,No,UNREALIZEDLOSS_ACCT,GV-5-a,,,,,,,,,,,Unrealized loss,C_AcctSchema_Default
+3300,Verbindlichkeiten aus Lieferungen und Leistungen,Accounts Payables,Liability,,Yes,No,V_LIABILITY_ACCT,PC-4,,,,,,,,,,,Accounts Payable Trade,C_AcctSchema_Default
+3301,Verbindlichkeiten aus Serviceleistungen,Accounts Payables for non-product revenue,Liability,,Yes,No,V_LIABILITY_SERVICES_ACCT,PC-4,,,,,,,,,,,Accounts Payable Services,C_AcctSchema_Default
+1180,geleistete Anzahlungen auf Vorräte,Prepayments for future expense,Asset,,Yes,No,V_PREPAYMENT_ACCT,AB-I-4,,,,,,,,,,,Vendor prepayment,C_AcctSchema_Default
+6905,Verluste aus Abgang von Vermögensgegenst. des Umlaufverm. (ohne Vorräte),Physical Inventory Gain/Loss,Expense,,Yes,No,W_DIFFERENCES_ACCT,GV-8,,,,,,,,,,,Inventory Shrinkage,C_AcctSchema_Default
+6930x,"Forderungsverluste (übliche Höhe) (nicht bebuchen, Konten je USt-Satz anlegen)",Receivables write-off - bad debt,Expense,,Yes,No,WRITEOFF_ACCT,GV-8,,,,,,,,,,,Bad Debts Write-off,C_AcctSchema_Default
 Aktiva,Aktiva,Aktiva,Asset,,,Yes,,,Aktiva,Aktiva,,,,,,,,,,
 AA,A. Anlagevermögen,A. Anlagevermögen,Asset,,,Yes,,Aktiva,AA,A. Anlagevermögen,,,,,,,,,,
 AA-I,I. Immaterielle Vermögensgegenstände,I. Immaterielle Vermögensgegenstände,Asset,,,Yes,,AA,AA-I,I. Immaterielle Vermögensgegenstände,,,,,,,,,,
@@ -121,16 +175,8 @@ GV-20,20. Jahresüberschuß/Jahresfehlbetrag,Jahresüberschuß/Jahresfehlbetrag,
 0670,"Geringwertige Wirtschaftsgüter (bis 410,00 €)",Geringwertige Wirtschaftsgüter,Asset,,,No,,AA-II-3,,,,,,,,,,,,
 0690,Sonstige Betriebs- und Geschäftsausstattung,Sonstige Betriebs- und Geschäftsausstattung,Asset,,,No,,AA-II-3,,,,,,,,,,,,
 0900,Wertpapiere des Anlagevermögens,Wertpapiere des Anlagevermögens,Asset,,,No,,AA-III-5,,,,,,,,,,,,
-1095,in Arbeit befindliche Aufträge,Asset Work in Progress,Asset,,Yes,No,PJ_WIP_ACCT,AB-I-2,,,,,,,,,,,Project WIP,C_AcctSchema_Default
-1110,Fertige Erzeugnisse,Created Asset,Asset,,Yes,No,PJ_ASSET_ACCT,AB-I-3,,,,,,,,,,,Project asset,C_AcctSchema_Default
-1140,Waren (Bestand),Product Inventory Account,Asset,,Yes,No,P_ASSET_ACCT,AB-I-3,,,,,,,,,,,Product asset,C_AcctSchema_Default
-1180,geleistete Anzahlungen auf Vorräte,Prepayments for future expense,Asset,,Yes,No,V_PREPAYMENT_ACCT,AB-I-4,,,,,,,,,,,Vendor prepayment,C_AcctSchema_Default
-1200,Forderungen aus Lieferungen und Leistungen,Accounts Receivables,Asset,,Yes,No,C_RECEIVABLE_ACCT,AB-II-1,,,,,,,,,,,Accounts Receivable - Trade,C_AcctSchema_Default
-1206,Forderungen aus Dienstleistungen,Accounts Receivables for Services,Asset,,Yes,No,C_RECEIVABLE_SERVICES_ACCT,AB-II-1,,,,,,,,,,,Accounts Receivable Services - Trade,C_AcctSchema_Default
 1240,Forderungen zweifelhaft,Zweifelhafte Forderungen,Asset,,,No,,AB-II-1,,,,,,,,,,,,
-1260,Forderungen gegen vernundene Unternehmen,Default Receivables account for intercompany trx,Asset,,Yes,No,INTERCOMPANYDUEFROM_ACCT,AB-II-2,,,,,,,,,,,Intercompany Due From,C_AcctSchema_GL
 1300,Forderungen sonstige,Sonstige Forderungen / Vermögensgegenstände,Asset,,,No,,AB-II-4,,,,,,,,,,,,
-1400,"Vorsteuer abziehbar (nicht bebuchen, Konten je USt-Satz anlegen)",Tax to be reimbursed - before tax declaration,Asset,,Yes,No,T_CREDIT_ACCT,AB-II-4,,,,,,,,,,,Tax credit A/R,C_AcctSchema_Default
 1401,Vorsteuer abziehbar 7%,,Asset,,Yes,No,,AB-II-4,,,,,,,,,,,,empfohlen
 1402,Vorsteuer abziehbar aus innergemeinschaftlichem Erwerb,,Asset,,Yes,No,,AB-II-4,,,,,,,,,,,,empfohlen
 1406,Vorsteuer abziehbar 19%,,Asset,,Yes,No,,AB-II-4,,,,,,,,,,,,empfohlen
@@ -140,66 +186,39 @@ GV-20,20. Jahresüberschuß/Jahresfehlbetrag,Jahresüberschuß/Jahresfehlbetrag,
 1601,Kassenbewegung noch nicht abgeglichen,,Asset,,Yes,No,,AB-IV,,,,,,,,,,,,empfohlen
 1603,nicht zugeordnete Eingangszahlungen Kasse,,Asset,,Yes,No,,AB-IV,,,,,,,,,,,,empfohlen
 1604,nicht zugeordnete Ausgangszahlungen Kasse,,Liability,,Yes,No,,PC-8-c,,,,,,,,,,,,empfohlen
-1800,Bank,Bank Asset,Asset,,Yes,No,B_ASSET_ACCT,AB-IV,,,,,,,,,,,Checking Account,C_AcctSchema_Default
-1801,Bankbewegung noch nicht abgeglichen,Bank transactions in transit,Asset,,Yes,No,B_INTRANSIT_ACCT,AB-IV,,,,,,,,,,,Checking In-Transfer,C_AcctSchema_Default
-1803,nicht zugeordnete Eingangszahlungen Bank,"Received, unallocated payments",Asset,,Yes,No,B_UNALLOCATEDCASH_ACCT,AB-IV,,,,,,,,,,,Checking Unallocated Receipts,C_AcctSchema_Default
-1804,nicht zugeordnete Ausgangszahlungen Bank,Selected A/P invoices for payment ,Liability,,Yes,No,B_PAYMENTSELECT_ACCT,PC-8-c,,,,,,,,,,,Payment selection,C_AcctSchema_Default
 1900,Aktive Rechnungsabgrenzung,Aktive Rechnungsabgrenzung,Asset,,,No,,AC,,,,,,,,,,,,
 2000,Festkapital Vollhafter,Festkapital Vollhafter,Owner's Equity,,,No,,PA-I,,,,,,,,,,,,
-3070,sonstige Rückstellungen,"Received products/services from vendors, but not invoiced",Liability,,Yes,No,NOTINVOICEDRECEIPTS_ACCT,PB-3,,,,,,,,,,,Not invoiced receipts,C_AcctSchema_Default
-3250,Erhaltene Anzahlungen auf Bestellungen,Prepayments for future revenue,Liability,,Yes,No,C_PREPAYMENT_ACCT,PC-3,,,,,,,,,,,Customer Prepayments,C_AcctSchema_Default
-3300,Verbindlichkeiten aus Lieferungen und Leistungen,Accounts Payables,Liability,,Yes,No,V_LIABILITY_ACCT,PC-4,,,,,,,,,,,Accounts Payable Trade,C_AcctSchema_Default
-3301,Verbindlichkeiten aus Serviceleistungen,Accounts Payables for non-product revenue,Liability,,Yes,No,V_LIABILITY_SERVICES_ACCT,PC-4,,,,,,,,,,,Accounts Payable Services,C_AcctSchema_Default
-3400,Verbind. gegenüber verbundenen Unternehmen,Default Payables account for intercompany trx,Liability,,Yes,No,INTERCOMPANYDUETO_ACCT,PC-6,,,,,,,,,,,Intercompany Due To,C_AcctSchema_GL
 3500,Verbindlichkeiten sonstige,Sonstige Verbindlichkeiten,Liability,,,No,,PC-8-c,,,,,,,,,,,,
-3800,"Umsatzsteuer (nicht bebuchen, Konten je USt-Satz anlegen)",Tax to be paid - before tax declaration,Liability,,Yes,No,T_DUE_ACCT,PC-8-a,,,,,,,,,,,Tax due,C_AcctSchema_Default
 3801,Umsatzsteuer 7%,,Liability,,Yes,No,,PC-8-a,,,,,,,,,,,,empfohlen
 3802,Umsatzsteuer aus innergemeinschaftlichem Erwerb,,Liability,,Yes,No,,PC-8-c,,,,,,,,,,,,empfohlen
 3806,Umsatzsteuer 19%,,Liability,,Yes,No,,PC-8-a,,,,,,,,,,,,empfohlen
 3900,Passive Rechnungsabgrenzung,Passive Rechnungsabgrenzung,Liability,,,No,,PD,,,,,,,,,,,,
-4200,"Erlöse (nicht bebuchen, Konten je USt-Satz anlegen)",Default Product or Service revenue,Revenue,,Yes,No,P_REVENUE_ACCT,GV-1,,,,,,,,,,,Trade Revenue,C_AcctSchema_Default
 4300,Erlöse 7% USt.,,Revenue,,Yes,No,,GV-1,,,,,,,,,,,,empfohlen
 4400,Erlöse 19% USt.,,Revenue,,Yes,No,,GV-1,,,,,,,,,,,,empfohlen
 4620,Privatentnahme Ware 19%,Entnahme durch den Unternehmer für Zwecke außerhalb des Unternehmens (Waren) 19% USt,Revenue,,Yes,No,,GV-1,,,,,,,,,,,,
-4730,"Gewährte Skonti (nicht bebuchen, Konten je USt-Satz anlegen)",Granted early payment discount to customers,Revenue,,Yes,No,PAYDISCOUNT_EXP_ACCT,GV-1,,,,,,,,,,,Payment discount expense,C_AcctSchema_Default
 4731,Gewährte Skonti 7% USt.,,Revenue,,Yes,No,,GV-1,,,,,,,,,,,,empfohlen
 4736,Gewährte Skonti 19% USt.,,Revenue,,Yes,No,,GV-1,,,,,,,,,,,,empfohlen
-4770,"Gewährte Rabatte (nicht bebuchen, Konten je USt-Satz anlegen)",Granted Trade discounts (corrects Product Revenue),Revenue,,Yes,No,P_TRADEDISCOUNTGRANT_ACCT,GV-1,,,,,,,,,,,Trade Discounts,C_AcctSchema_Default
 4780,Gewährte Rabatte 7% USt.,,Revenue,,Yes,No,,GV-1,,,,,,,,,,,,empfohlen
 4790,Gewährte Rabatte 19% USt.,,Revenue,,Yes,No,,GV-1,,,,,,,,,,,,empfohlen
-4840,Erträge aus der Währungsumrechnung,Difference between invoice and payment currency,Revenue,,Yes,No,REALIZEDGAIN_ACCT,GV-4,,,,,,,,,,,Realized gain,C_AcctSchema_Default
-4840a,Erträge aus der Währungsumrechnung (nicht realisiert),Difference between foreign currency receivables/payables and current rate,Revenue,,Yes,No,UNREALIZEDGAIN_ACCT,GV-4,,,,,,,,,,,Unrealized gain,C_AcctSchema_Default
 4861,Mieteinnahmen USt-frei,Erlöse aus Vermietung und Verpachtung Ust-frei,Revenue,,Yes,No,,GV-4,,,,,,,,,,,,
 4862,Mieteinnahmen USt-pflichtig,Erlöse aus Vermietung und Verpachtung USt-pflichtig,Revenue,,Yes,No,,GV-4,,,,,,,,,,,,
-5200,"Wareneingang (nicht bebuchen, Konten je USt-Satz anlegen)",Default Service costs (I.e. not on inventory),Expense,,Yes,No,P_EXPENSE_ACCT,GV-5-a,,,,,,,,,,,Product Expense,C_AcctSchema_Default
-5201?,Wareneingang Clearingkonto ???,Default Product costs (I.e. on inventory),Expense,,Yes,No,P_INVENTORYCLEARING_ACCT,GV-5-a,,,,,,,,,,,Product Inventory Clearing,C_AcctSchema_Default
 5300,Wareneingang 7% Vorsteuer,,Expense,,Yes,No,,GV-5-a,,,,,,,,,,,,empfohlen
 5400,Wareneingang 19% Vorsteuer,,Expense,,Yes,No,,GV-5-a,,,,,,,,,,,,empfohlen
 5500,Wareneingang innergemeinschaftlicher Erwerb,,Expense,,Yes,No,,GV-5-a,,,,,,,,,,,,empfohlen
-5730,"Erhaltene Skonti (nicht bebuchen, Konten je USt-Satz anlegen)",Granted early payment discount from vendors,Expense,,Yes,No,PAYDISCOUNT_REV_ACCT,GV-5-a,,,,,,,,,,,Payment discount revenue,C_AcctSchema_Default
 5731,Erhaltene Skonti 7% Vorsteuer,,Expense,,Yes,No,,GV-5-a,,,,,,,,,,,,empfohlen
 5736,Erhaltene Skonti 19% Vorsteuer,,Expense,,Yes,No,,GV-5-a,,,,,,,,,,,,empfohlen
 5745,Erhaltene Skonti aus steuerpflichtigem innergemeinschaftlichem Erwerb,,Expense,,Yes,No,,GV-5-a,,,,,,,,,,,,empfohlen
-5770,"Erhaltene Rabatte (nicht bebuchen, Konten je USt-Satz anlegen)",Received Trade Discounts (corrects Product expense),Expense,,Yes,No,P_TRADEDISCOUNTREC_ACCT,GV-5-a,,,,,,,,,,,Trade discounts received,C_AcctSchema_Default
 5780,Erhaltene Rabatte 7% Vorsteuer,,Expense,,Yes,No,,GV-5-a,,,,,,,,,,,,empfohlen
 5790,Erhaltene Rabatte 19% Vorsteuer,,Expense,,Yes,No,,GV-5-a,,,,,,,,,,,,empfohlen
-5801?,Bezugskosten Clearingkonto ???,Default Landed Cost Clearing,Expense,,Yes,No,P_LANDEDCOSTCLEARING_ACCT,GV-5-a,,,,,,,,,,,Landed Cost Clearing,C_AcctSchema_Default
-5881?,Bestandsveränderungen Waren ???,Account for Average Cost Variance,Expense,,Yes,No,P_AVERAGECOSTVARIANCE_ACCT,GV-5-a,,,,,,,,,,,Average Cost Variance,C_AcctSchema_Default
-5882?,Bestandsveränd. Eingangsr. Preisdifferenz ???,Difference between product cost and invoice price (IPV),Expense,,Yes,No,P_INVOICEPRICEVARIANCE_ACCT,GV-5-a,,,,,,,,,,,Invoice price variance,C_AcctSchema_Default
-5883?,Bestandsveränd. Ausgangsr. Preisdifferenz ???,Difference between purchase price and standard costs (PPV),Expense,,Yes,No,P_PURCHASEPRICEVARIANCE_ACCT,GV-5-a,,,,,,,,,,,Purchase price variance,C_AcctSchema_Default
-5884?,Bestandsveränd. Ausgangsr. Preisdifferenz Offset ???,Offset Account for Purchase price variance (PPV) ,Expense,,Yes,No,PPVOFFSET_ACCT,GV-5-a,,,,,,,,,,,Purchase price variance Offset,C_AcctSchema_GL
-5885,Bestandsveränderung Kostendifferenz,Account for Rate Variance,Expense,,Yes,No,P_RATEVARIANCE_ACCT,GV-5-a,,,,,,,,,,,Rate Variance,C_AcctSchema_Default
 6000,Löhne und Gehälter,Löhne und Gehälter,Expense,,Yes,No,,GV-6-a,,,,,,,,,,,,
 6220,Abschreibungen auf Sachanlagen,Abschreibung auf immaterielle Vermögensgegenstände,Expense,,Yes,No,,GV-7-a,,,,,,,,,,,,
 6286,Forderungsverluste aus Ware USt.-pflichtig,Forderungsverluste USt.-pflichtig soweit unüblich hoch,Expense,,,No,,GV-7-b,,,,,,,,,,,,
-6300,sonstige betriebliche Aufwendungen,Default Account (if no other account is defined) V1.1,Expense,,Yes,No,DEFAULT_ACCT,GV-8,,,,,,,,,,,Default account,MSetup.java
 6320,Heizung,Heizung,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6325,Gas- Strom- Wasser,Gas- Strom- Wasser,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6335,Instandhaltung betrieblicher Räume,Instandhaltung betrieblicher Räume,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6350,Grundstücksaufwendungen betrieblich,Grundstücksaufwendungen betrieblich,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6400,Versicherungen allgemein,Versicherungen,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6420,Beiträge ,Beiträge ,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
-6430,Sonstige Abgaben,Default other expense,Expense,,Yes,No,CH_EXPENSE_ACCT,GV-8,,,,,,,,,,,Charge expense,C_AcctSchema_Default
 6520,Kfz-Versicherungen,Kfz-Versicherungen,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6530,Laufende Kfz-Betriebskosten,Laufende Kfz-Betriebskosten,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6540,Kfz-Reparaturen,Kfz-Reparaturen,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
@@ -219,33 +238,19 @@ GV-20,20. Jahresüberschuß/Jahresfehlbetrag,Jahresüberschuß/Jahresfehlbetrag,
 6850,Allgemeine Verwaltung Betriebskosten,Sonstiger Betriebsbedarf,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6855,Nebenkosten des Geldverkehrs,Nebenkosten des Gedverkehrs,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
 6858,Wertpapier – Aufwendungen,Wertpapier – Aufwendungen,Expense,,Yes,No,,GV-8,,,,,,,,,,,,
-6880,Aufwendungen aus der Währungsumrechnung,Difference between invoice and payment currency,Expense,,Yes,No,REALIZEDLOSS_ACCT,GV-5-a,,,,,,,,,,,Realized loss,C_AcctSchema_Default
-6880a,Aufwendungen aus der Währungsumrechnung (nicht realisiert),Difference between foreign currency receivables/payables and current rate,Expense,,Yes,No,UNREALIZEDLOSS_ACCT,GV-5-a,,,,,,,,,,,Unrealized loss,C_AcctSchema_Default
-6881,Aufwendungen aus der Währungsumrechnung (laufend),Rounding difference to make journal balance in accounting currency,Expense,,Yes,No,CURRENCYBALANCING_ACCT,GV-8,,,,,,,,,,,Currency balancing,C_AcctSchema_GL
-6905,Verluste aus Abgang von Vermögensgegenst. des Umlaufverm. (ohne Vorräte),Physical Inventory Gain/Loss,Expense,,Yes,No,W_DIFFERENCES_ACCT,GV-8,,,,,,,,,,,Inventory Shrinkage,C_AcctSchema_Default
-6930,Forderungsverluste (übliche Höhe),Receivables write-off - bad debt,Expense,,Yes,No,WRITEOFF_ACCT,GV-8,,,,,,,,,,,Bad Debts Write-off,C_AcctSchema_Default
-6976,Kalkulatorische Abschreibungen,Product Cost Adjustments,Expense,,Yes,No,P_COSTADJUSTMENT_ACCT,GV-5-a,,,,,,,,,,,Product Cost Adjustment,C_AcctSchema_Default
-6990,Herstellungskosten,Cost of Goods Sold,Expense,,Yes,No,P_COGS_ACCT,GV-8,,,,,,,,,,,Product CoGs,C_AcctSchema_Default
+6930,Forderungsverluste (übliche Höhe) steuerfrei,,Expense,,Yes,No,,GV-8,,,,,,,,,,,,empfohlen
+6931,Forderungsverluste (übliche Höhe) 7%,,Expense,,Yes,No,,GV-8,,,,,,,,,,,,empfohlen
+6932,Forderungsverluste aus steuerfreien EU-Lieferungen,,Expense,,Yes,No,,GV-8,,,,,,,,,,,,empfohlen
+6935,Forderungsverluste (übliche Höhe) 16%,,Expense,,Yes,No,,GV-8,,,,,,,,,,,,empfohlen
+6936,Forderungsverluste (übliche Höhe) 19%,,Expense,,Yes,No,,GV-8,,,,,,,,,,,,empfohlen
 7010,Wertpapier-Erträge,Wertpapier-Erträge,Revenue,,Yes,No,,GV-10-z2,,,,,,,,,,,,
 7020,Zinserträge Zinsabschlagsteuer,Zins- und Dividendenerträge,Revenue,,Yes,No,,GV-10-z2,,,,,,,,,,,,
 7021,Zinserträge Solidaritätszuschlag,Zins- und Dividendenerträge,Revenue,,Yes,No,,GV-10-z2,,,,,,,,,,,,
-7100,Zinsen und sonstige Erträge,Bank interest revenue,Revenue,,Yes,No,B_INTERESTREV_ACCT,GV-11-z2,,,,,,,,,,,Interest Income,C_AcctSchema_Default
 7107,Zinserträge,Zinserträge – steuerfrei,Revenue,,Yes,No,,GV-11-z2,,,,,,,,,,,,
-7310,Zinsaufwand kurzfristige Verbindlichkeiten,Bank interest expense,Expense,,Yes,No,B_INTERESTEXP_ACCT,GV-13-z2,,,,,,,,,,,Interest Expense,C_AcctSchema_Default
 7320,Zinsaufwand für langfr. Verbindlichkeiten,Zinsaufwendungen für langfristige Verbindlichkeiten,Expense,,Yes,No,,GV-11-z2,,,,,,,,,,,,
 7400,außerordentliche Erträge,außerordentliche Erträge,Revenue,,Yes,No,,GV-15,,,,,,,,,,,,
 7500,außerordentliche Aufwendungen,außerordentliche Aufwendungen,Expense,,Yes,No,,GV-16,,,,,,,,,,,,
 7610,Gewerbesteuer ,Gewerbesteuer ,Expense,,Yes,No,,GV-18,,,,,,,,,,,,
-7650,Sonstige Betriebssteuern,Sales Tax paid to Vendors,Expense,,Yes,No,T_EXPENSE_ACCT,GV-19,,,,,,,,,,,Tax expense,C_AcctSchema_Default
 7685,Kfz-Steuer,Kfz-Steuer,Expense,,Yes,No,,GV-19,,,,,,,,,,,,
 9000,Schlussbilanz – Saldenvorträge,Schlussbilanz,Owner's Equity,,,No,,PA-V,,,,,,,,,,,,
 9001,Eröffnungsbilanz – Saldenvorträge,Eröffnungsbilanz,Owner's Equity,,,No,,PA-V,,,,,,,,,,,,
-CB_A,Kassenbuch-Konto CB_ASSET deaktiviert in Standardkonfiguration,Cash Book Asset,Asset,,Yes,No,CB_ASSET_ACCT,AB-IV,,,,,,,,,,,Petty Cash,C_AcctSchema_Default
-CB_D,Kassenbuch-Konto CB_DIFFERENCES deaktiviert in Standardkonfiguration,Petty Cash Differences,Expense,,Yes,No,CB_DIFFERENCES_ACCT,GV-8,,,,,,,,,,,Petty Cash Over/Short,C_AcctSchema_Default
-CB_E,Kassenbuch-Konto CB_EXPENSE deaktiviert in Standardkonfiguration,Default other expense for petty cash transactions,Expense,,Yes,No,CB_EXPENSE_ACCT,GV-8,,,,,,,,,,,Cash book expense,C_AcctSchema_Default
-CB_R,Kassenbuch-Konto CB_RECEIPT deaktiviert in Standardkonfiguration,Default other revenue for petty cash transactions,Revenue,,Yes,No,CB_RECEIPT_ACCT,GV-4,,,,,,,,,,,Cash book receipts,C_AcctSchema_Default
-CB_T,Kassenbuch-Konto CB_CASHTRANSFER deaktiviert in Standardkonfiguration,Cash Book Transfer,Asset,,Yes,No,CB_CASHTRANSFER_ACCT,AB-IV,,,,,,,,,,,Petty Cash In-Transfer,C_AcctSchema_Default
-COPO,Bestellung/Reservierung Einkauf,,Memo,,,No,COMMITMENTOFFSET_ACCT,U-SON,,,,,,,,,,,PO Commitment,C_AcctSchema_GL
-COVK,Bestellung/Reservierung Verkauf,,Memo,,,No,COMMITMENTOFFSETSALES_ACCT,U-SON,,,,,,,,,,,SO Commitment,C_AcctSchema_GL
-SUSP?,Suspense balancing,Difference to make journal balance in source currency - needs to be solved,Expense,,Yes,No,SUSPENSEBALANCING_ACCT,GV-5-a,,,,,,,,,,,Suspense balancing ,C_AcctSchema_GL
-UNEA,Konto UNEARNED_REVENUE deaktiviert in Standardkonfiguration,"We have invoiced, but not delivered yet",Revenue,,Yes,No,UNEARNEDREVENUE_ACCT,GV-4,,,,,,,,,,,Unearned revenue,C_AcctSchema_Default
