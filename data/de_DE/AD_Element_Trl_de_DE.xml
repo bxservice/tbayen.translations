@@ -19121,7 +19121,7 @@ The class is called for the client and alows to validate documents in the prepar
  <row id="2722" trl="Y">
   <value column="Name" original="Open Status">"Offen"-Status</value>
   <value column="PrintName" original="Open">Offen</value>
-  <value column="Description" original="The status is closed">Der Status ist "Geschlossen".</value>
+  <value column="Description" original="The status is closed">Der Status ist "Offen".</value>
   <value column="Help" original="This allows to have the three generat situations of &quot;not open&quot; - &quot;open&quot; - &quot;closed&quot;">Dies ermöglicht die Abbildung der drei Situationen "Nicht offen", "Offen" und "Geschlossen".</value>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
