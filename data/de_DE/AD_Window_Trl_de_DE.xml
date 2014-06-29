@@ -508,7 +508,7 @@ For Multi-Lingual systems, the template is translated based on the Business Part
   <value column="Help" original=""/>
  </row>
  <row id="224" trl="Y">
-  <value column="Name" original="Print Form">Druckformular</value>
+  <value column="Name" original="Print Form">Druckformulare für Belege</value>
   <value column="Description" original="Maintain Print Forms (Invoices, Checks, ..) used">Verwaltung verwendeter Druckformulare (z.B. Rechnungen, Schecks, ...)</value>
   <value column="Help" original="Define the documents you use for this Client/Organnization.  Note that the check format is defined in the Bank (Account) Window.&lt;p&gt;&#10;The highest priotity has the Print Format, you define on a Document Type (example specific Export Invoice format). The next level is the set of Print Formats, you defined for the organziation of the document printed. The default is the set of Print Formats defines for all organizations of the Client (Organization=*)."><![CDATA[Define the documents you use for this Client/Organnization.  Note that the check format is defined in the Bank (Account) Window.<p>
 The highest priotity has the Print Format, you define on a Document Type (example specific Export Invoice format). The next level is the set of Print Formats, you defined for the organziation of the document printed. The default is the set of Print Formats defines for all organizations of the Client (Organization=*).]]></value>

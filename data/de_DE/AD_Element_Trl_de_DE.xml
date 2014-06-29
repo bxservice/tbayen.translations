@@ -8950,8 +8950,8 @@ Für mehrsprachige Systeme wird die Vorlage entsprechend den Spracheinstellungen
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="1631" trl="Y">
-  <value column="Name" original="Print Form">Formular drucken</value>
-  <value column="PrintName" original="Print Form">Formular drucken</value>
+  <value column="Name" original="Print Form">Druck-Formular</value>
+  <value column="PrintName" original="Print Form">Druck-Formular</value>
   <value column="Description" original="Form">Formular</value>
   <value column="Help" original=""/>
   <value column="PO_Description" original=""/>
