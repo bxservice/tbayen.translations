@@ -899,9 +899,9 @@ Geschäftspartnergruppe oder bestimmten Geschäftspartner auswählen]]></value>
   <value column="Help" original=""/>
  </row>
  <row id="287" trl="Y">
-  <value column="Name" original="Print Format Detail">Druck Formatdetail</value>
-  <value column="Description" original="Print Format Detail Report">Zeigt die Version der Standard-Java-VM an.</value>
-  <value column="Help" original="Print Format with Item details">Druckformat mit Details.</value>
+  <value column="Name" original="Print Format Detail">Druck Formatdetails</value>
+  <value column="Description" original="Print Format Detail Report">Bericht über ein Druckformat.</value>
+  <value column="Help" original="Print Format with Item details">Bericht eines Druckformats mit Details über einzelne Datenfelder/Spalten z.B. zum Ausdruck.</value>
  </row>
  <row id="288" trl="Y">
   <value column="Name" original="Reset Password">Passwort zurücksetzen</value>
