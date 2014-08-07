@@ -4352,8 +4352,8 @@ Example of format "(000)_000-0000"]]></value>
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="952" trl="Y">
-  <value column="Name" original="Order Reference">Referenznr. Kunde</value>
-  <value column="PrintName" original="Order Reference">Referenznr. Kunde</value>
+  <value column="Name" original="Order Reference">Referenznr. Partner</value>
+  <value column="PrintName" original="Order Reference">Referenznr. Partner</value>
   <value column="Description" original="Transaction Reference Number (Sales Order, Purchase Order) of your Business Partner">Eine Transaktionsnummer Ihres Geschäftspartners (Auftrag, Bestellung).</value>
   <value column="Help" original="The business partner order reference is the order reference for this specific transaction; Often Purchase Order numbers are given to print on Invoices for easier reference.  A standard number can be defined in the Business Partner (Customer) window.">Die "Auftragsnummer" eines Geschäftspartners ist die Auftragsnummer einer spezifischen Transaktion; häufig werden Bestellnummern vergeben, die zur leichteren Zuordnung auf Rechnungen gedruckt werden. Eine Standardnummer kann im Fenster "Geschäftspartner (Kunde)" festgelegt werden.</value>
   <value column="PO_Description" original=""/>
