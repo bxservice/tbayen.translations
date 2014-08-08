@@ -187,7 +187,9 @@ GV-20,20. Jahresüberschuß/Jahresfehlbetrag,Jahresüberschuß/Jahresfehlbetrag,
 1603,nicht zugeordnete Eingangszahlungen Kasse,,Asset,,Yes,No,,AB-IV,,,,,,,,,,,,empfohlen
 1604,nicht zugeordnete Ausgangszahlungen Kasse,,Liability,,Yes,No,,PC-8-c,,,,,,,,,,,,empfohlen
 1900,Aktive Rechnungsabgrenzung,Aktive Rechnungsabgrenzung,Asset,,,No,,AC,,,,,,,,,,,,
-2000,Festkapital Vollhafter,Festkapital Vollhafter,Owner's Equity,,,No,,PA-I,,,,,,,,,,,,
+2000,Festkapital Vollhafter,Festkapital Vollhafter Personengesellschaft,Owner's Equity,,,No,,PA-I,,,,,,,,,,,,
+2900,gezeichnetes Kapital,gezeichnetes Kapital Kapitalgesellschaft,Owner's Equity,,No,No,,PA-I,,,,,,,,,,,,empfohlen
+2910,"Ausst. Einlagen auf gez. Kapital, nicht eingefordert","Ausstehende Einlagen auf gezeichnetes Kapital, nicht eingefordert",Owner's Equity,,No,No,,PA-I,,,,,,,,,,,,empfohlen
 3500,Verbindlichkeiten sonstige,Sonstige Verbindlichkeiten,Liability,,,No,,PC-8-c,,,,,,,,,,,,
 3801,Umsatzsteuer 7%,,Liability,,Yes,No,,PC-8-a,,,,,,,,,,,,empfohlen
 3802,Umsatzsteuer aus innergemeinschaftlichem Erwerb,,Liability,,Yes,No,,PC-8-c,,,,,,,,,,,,empfohlen
