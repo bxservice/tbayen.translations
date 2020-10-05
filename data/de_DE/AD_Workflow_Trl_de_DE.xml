@@ -42,6 +42,10 @@ You may want to check also the following Workflows:
   <value column="Description" original="Define your Price Lists and Discounts">Legen Sie Preislisten und Rabatte/Skonti an</value>
   <value column="Help" original="You define your price lists after entering or importing your products. In addition to price lists, you can define discounts for business partners.  Assign specific Price Lists and Discounst to Business Partners.">You define your price lists after entering or importing your products. In addition to price lists, you can define discounts for business partners.  Assign specific Price Lists and Discounst to Business Partners.</value>
  </row>
+ <row id="109" trl="Y">
+  <value column="Name" original="Replication Setup">Einrichtung Replikation</value>
+  <value column="Description" original="Setup of data replication">Einrichtung Datenreplikation</value>
+ </row>
  <row id="110" trl="Y">
   <value column="Name" original="Tax Setup">Einrichtung Steuern</value>
   <value column="Description" original="Setup tax calculation">Einrichtung Steuerberechnung</value>
@@ -98,6 +102,10 @@ The system converts the measures into percentages (based on the target and achie
   <value column="Name" original="Process_Invoice">Process_Invoice</value>
   <value column="Description" original="(Standard Process Invoice)">(Standardvorgehen Rechnung)</value>
   <value column="Help" original=""/>
+ </row>
+ <row id="119" trl="Y">
+  <value column="Name" original="Process_Cash">Process_Cash</value>
+  <value column="Description" original="(Standard Process Cash)">(Standardvorgehen Kasse)</value>
  </row>
  <row id="120" trl="Y">
   <value column="Name" original="Process_Payment">Process_Payment</value>
@@ -159,6 +167,54 @@ The system converts the measures into percentages (based on the target and achie
   <value column="Description" original="Example Document based workflow">Beispiel Belegbasierter Workflow</value>
   <value column="Help" original="When a new Business Partner is created, it is forwarded for review and credit check.">When a new Business Partner is created, it is forwarded for review and credit check.</value>
  </row>
+ <row id="50000" trl="Y">
+  <value column="Name" original="Manufacturing Management Setup">Einrichtung Produktionsplanung</value>
+  <value column="Description" original="Setup Manufacturing Management">Einrichtung Produktionsplanung</value>
+ </row>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Manufacturing Workflow Setup">Einrichtung Fertigungs-Workflow</value>
+  <value column="Description" original="Setup Manufacturing Workflow">Einrichtung Fertigungs-Workflow</value>
+ </row>
+ <row id="50002" trl="Y">
+  <value column="Name" original="Bill of Material &amp; Formula Setup"><![CDATA[Einrichtung Stückliste & Formel]]></value>
+  <value column="Description" original="Setup Bill of Material &amp; Formula"><![CDATA[Stückliste & Formel einrichten]]></value>
+ </row>
+ <row id="50003" trl="Y">
+  <value column="Name" original="Planning Management Setup">Einrichtung Planungsmanagement</value>
+  <value column="Description" original="Setup Planning Management">Einrichtung Planungsmanagement</value>
+ </row>
+ <row id="50004" trl="Y">
+  <value column="Name" original="Material Requirement Planning Setup">Einrichtung Materialbedarfsplanung (MBP)</value>
+  <value column="Description" original="MRP is a set of techniques which uses Bills of Material, Inventory Data, and the Master Production Schedule to calculate requirements for materials.">Die MBP kalkuliert den Materialbedarf anhand von Stücklisten, Bestandsdaten und mit Hilfe des Masterproduktionsplans.</value>
+ </row>
+ <row id="50005" trl="Y">
+  <value column="Name" original="Capacity Requirement Planning Setup">Einrichtung Kapazitätsplanung (KP) </value>
+  <value column="Description" original="The process of Capacity Plan Calculation allows us to know the available time in each manufacturing resource, as well as the required time to satisfy the Master Production Schedule.">Mit der Kapazitätsplanung (KP) kann sowohl die verfügbare Zeit jeder Produktionsressource, als auch die erforderliche Zeit für die Erfüllung des Masterproduktionsplans ermittelt werden.</value>
+ </row>
+ <row id="50006" trl="Y">
+  <value column="Name" original="Distribution Resource Planning Setup">Einrichtung Einsatzplan Distribution (EPD)</value>
+  <value column="Description" original="is a method used in business administration for planning orders within a supply chain. DRP enables the user to set certain inventory control parameters (like a safety stock) and calculate the time-phased inventory requirements.">Die EPD ist eine BWL-Methode zur Auftragsplanung innerhalb einer Lieferkette. Mit der EPD können bestimmte Parameter der Bestandskontrolle gesetzt werden, wie z. B. ein Mindestbestand, so dass der Bestandsbedarf nach Zeitphasen berechnet werden kann.</value>
+ </row>
+ <row id="50007" trl="Y">
+  <value column="Name" original="Discrete Manufacturing Setup">Einrichtung Diskrete Fertigung</value>
+  <value column="Description" original="Once the production planning process is completed, the production control process let us to check the execution activities in order to be sure we can reach the material plan.">Nach Abschluss der Produktionsplanung, können die Aktivitäten mittels des Produktionskontrollprozesses überprüft werden, um die Einhaltung des Materialplans sicherzustellen.</value>
+ </row>
+ <row id="50008" trl="Y">
+  <value column="Name" original="Process_Manufacturing_Order">Process_Manufacturing_Order</value>
+  <value column="Description" original="(Standard Process Manufacturing Order)">(Standardprozess Arbeitsauftrag)</value>
+ </row>
+ <row id="50009" trl="Y">
+  <value column="Name" original="Process_CostCollector">Process_CostCollector</value>
+  <value column="Description" original="(Standard Process Manufacturing Cost Collector)">(Standardprozess Herstellungskostensammler)</value>
+ </row>
+ <row id="50010" trl="Y">
+  <value column="Name" original="Distribution Management Setup">Einrichtung Distributionsmanagement</value>
+  <value column="Description" original="Setup Distribution Management">Einrichtung Distributionsmanagement</value>
+ </row>
+ <row id="50011" trl="Y">
+  <value column="Name" original="Process_Distribution_Order">Process_Distribution_Order</value>
+  <value column="Description" original="(Standard Process Distribution Order)">(Standardprozess Distributionsauftrag)</value>
+ </row>
  <row id="50012" trl="Y">
   <value column="Name" original="Setup Replication">Einrichtung Replikation</value>
   <value column="Description" original="Setup of data replication">Einrichtung Datenreplikation</value>
@@ -182,6 +238,14 @@ The system converts the measures into percentages (based on the target and achie
 <p>
 <b>Remote System:</b><br>
 - Config Import Processor<br>]]></value>
+ </row>
+ <row id="50013" trl="Y">
+  <value column="Name" original="Process_Payroll">Process_Payroll</value>
+  <value column="Description" original="(Standard Process Payroll)">(Standardvorgehen Lohn- und Gehaltsabrechnung)</value>
+ </row>
+ <row id="50014" trl="Y">
+  <value column="Name" original="Setup Human Resource &amp; Payroll"><![CDATA[Einrichtung Personal & Lohn und Gehalt]]></value>
+  <value column="Description" original="Setup Human Resource &amp; Payroll"><![CDATA[Einrichtung Personal & Lohn und Gehalt]]></value>
  </row>
  <row id="50015" trl="Y">
   <value column="Name" original="Patio Chair">Terassenstuhl</value>

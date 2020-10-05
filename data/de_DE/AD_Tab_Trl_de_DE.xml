@@ -544,6 +544,12 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original="Define Vendor Accounting">Lieferantenbuchführung festlegen</value>
   <value column="Help" original="The Vendor Accounting Tab defines the default accounts to use when this business partner is referenced in an accounts payable transaction.">Im Register "Buchführung Lieferanten" legen Sie die Standardkonten zur Buchung von Verbindlichkeitstransaktionen fest die diesen Geschäftspartner betreffen.</value>
  </row>
+ <row id="214" trl="Y">
+  <value column="Name" original="Employee Accounting">Buchführung Mitarbeiter</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Define Employee Accounting">Mitarbeiterbuchführung festlegen</value>
+  <value column="Help" original="The Employee Accounting Tab defines the default accounts to use when this business partner is referenced on a expense reimbursement.">Im Register "Buchführung Mitarbeiter" legen Sie die Standardkonten zur Buchung von Kostenerstattungen an diese Geschäftspartner fest.</value>
+ </row>
  <row id="215" trl="Y">
   <value column="Name" original="City">Ort</value>
   <value column="CommitWarning" original=""/>
@@ -567,6 +573,24 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Define Location">Standort festlegen</value>
   <value column="Help" original="The Location Tab defines the physical location of a business partner.  A business partner may have multiple location records.">Im Register "Standort" legen Sie den physischen Standort eines Geschäftspartners fest. Es können mehrere Standortseinträge für einen Geschäftspartner angelegt werden.</value>
+ </row>
+ <row id="223" trl="Y">
+  <value column="Name" original="Customer">Kunde</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Define Customer Parameters">Kundenparameter festlegen</value>
+  <value column="Help" original="The Customer Tab defines a Business Partner who is a customer of this organization.  If the Customer check box is selected then the necessary fields will display. ">Im Register "Kunde" legen Sie einen Geschäftspartner als Kunden der Organisation an. Die erforderlichen Felder erscheinen, wenn das Optionsfeld "Kunde" ausgewählt wurde.</value>
+ </row>
+ <row id="224" trl="Y">
+  <value column="Name" original="Vendor">Lieferant</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Define Vendor Parameters">Lieferantenparameter festlegen</value>
+  <value column="Help" original="The Vendor Tab defines a Business Partner that is a Vendor for this Organization.  If the Vendor check box is selected the necessary fields will display.">Im Register "Lieferant" legen Sie einen Geschäftspartner fest, der Lieferant dieser Organisation ist. Die erforderlichen Felder erscheinen, wenn das Optionsfeld "Lieferant" ausgewählt wurde.</value>
+ </row>
+ <row id="225" trl="Y">
+  <value column="Name" original="Employee">Mitarbeiter</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Define Employee Parameters">Mitarbeiterparameter festlegen</value>
+  <value column="Help" original="The Employee Tab defines a Business Partner who is an Employee of this organization.  If the Employee is also a Sales Representative then the check box should be selected.">Im Register "Mitarbeiter" legen Sie einen Geschäftspartner fest, der Mitarbeiter dieser Organisation ist. Wenn der Mitarbeiter auch Vertriebsbeauftragter ist, sollte dieses Optionsfeld ausgewählt werden.</value>
  </row>
  <row id="226" trl="Y">
   <value column="Name" original="Bank Account">Bankkonto</value>
@@ -735,6 +759,12 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Enter Inventory Movement Line">Geben Sie eine Position der Bestandsbewegung ein</value>
   <value column="Help" original="The Move Line Tab defines the product and quantity to be moved and the location it is moving from and to.  ">Im Register "Position Bewegung" legen Sie den zu bewegenden Artikel, die Menge und den Bestimmungs- und Ursprungsort  fest.</value>
+ </row>
+ <row id="262" trl="Y">
+  <value column="Name" original="Product Transactions">Artikeltransaktionen</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Transactions for stored Products">Die Transaktionen gelagerter Artikel</value>
+  <value column="Help" original=""/>
  </row>
  <row id="263" trl="Y">
   <value column="Name" original="Invoice">Rechnung</value>
@@ -1077,6 +1107,12 @@ Note that printed payments are archived in Payment Selection (Prepared Payment).
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Charge Accounting">Buchführungseinstellungen</value>
   <value column="Help" original="The Accounting Tab defines the accounting parameters used for transactions including a charge or charges.">Im Register "Buchführung" legen Sie die Buchführungsparameter für Transaktionen mit Gebühren fest.</value>
+ </row>
+ <row id="332" trl="Y">
+  <value column="Name" original="Accounting">Buchführung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Organization Accounting">Buchführung Organisation</value>
+  <value column="Help" original="The Organization Accounting Tab defines the default accounting parameters to be used by this Organization.">Im Register "Buchführung Organisation" legen Sie Standard-Buchführungsparameter fest, die von dieser Organisation verwendet werden.</value>
  </row>
  <row id="333" trl="Y">
   <value column="Name" original="Accounting">Buchführung</value>
@@ -1658,6 +1694,12 @@ If the name is not found, the SizeX/Y with the dimension is used. Size and dimen
   <value column="Description" original="Print Format Translation">Übersetzung des Druckformats</value>
   <value column="Help" original=""/>
  </row>
+ <row id="434" trl="Y">
+  <value column="Name" original="Graph">Grafik</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Define Graph to be included">Legen Sie das Diagramm fest das eingefügt werden soll</value>
+  <value column="Help" original=""/>
+ </row>
  <row id="435" trl="Y">
   <value column="Name" original="Print Table Format">Druck Tabellenformat</value>
   <value column="CommitWarning" original=""/>
@@ -1755,6 +1797,12 @@ Adempiere tries to map to existing products, if the UPC, the Key and the Vendor 
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Asset used internally or by customers">Intern oder durch Kunden genutzte Anlagen.</value>
   <value column="Help" original="An asset is either created by purchasing or by delivering a product.  An asset can be used internally or be a customer asset.">"Vermögenswerte" entstehen entweder durch Kauf oder Lieferung eines Artikels. Ein Vermögenswert kann intern genutzt werden oder Kunden gehören.</value>
+ </row>
+ <row id="451" trl="Y">
+  <value column="Name" original="Delivery">Lieferung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Delivery or availability">Lieferung oder Verfügbarkeit</value>
+  <value column="Help" original="Record of delivery or availability">Lieferungs- oder Verfügbarkeitseintrag</value>
  </row>
  <row id="452" trl="Y">
   <value column="Name" original="Asset Group">Vermögenswertgruppe</value>
@@ -2445,6 +2493,12 @@ The optional balance check applies to the entire import, not for individual batc
   <value column="Description" original="All Invoice Liness where the Agent &quot;owns&quot; the Invoice, the Business Partner or the Product">Alle Rechnungspositionen bei denen der Vertreter den Auftrag, den Geschäftspartner oder den Artikel "besitzt"</value>
   <value column="Help" original=""/>
  </row>
+ <row id="569" trl="Y">
+  <value column="Name" original="Accounting">Buchführung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Currency Accounting">Währungsbuchführung</value>
+  <value column="Help" original="The Accounting Tab defines the accounting parameters used for transactions including a currency. Please nore that if not defined, the default accounts of the Accounting Schema are used!">Im Register "Buchführung" legen Sie die Buchführungsparameter für Transaktionen, die eine Währung enthalten, fest. Bitte beachten Sie, dass die Standardkonten verwendet werden, wenn nichts festgelegt wurde.</value>
+ </row>
  <row id="570" trl="Y">
   <value column="Name" original="Conversion Type">Umrechnungstyp</value>
   <value column="CommitWarning" original=""/>
@@ -2498,6 +2552,24 @@ The optional balance check applies to the entire import, not for individual batc
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Responsible for Workflow Execution">Verantwortlicher für Workflow-Ausführung</value>
   <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">Die letztendliche Verantwortung für die Workflow-Ausführung liegt beim tatsächlichen Benutzer. Unter "Workflow Verantwortlicher" können Sie die Suche nach dem verantwortlichen Benutzer definieren.</value>
+ </row>
+ <row id="579" trl="Y">
+  <value column="Name" original="Block">Gruppierung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Workflow Transaction Execution Block">Workflow Transaktionsdurchführungs-Gruppierung.</value>
+  <value column="Help" original="A workflow execution block is optional and allows all work to be performed in a single transaction. If one step (node activity) fails, the entire work is rolled back.">Die Durchführungsgruppierung eines Workflows ist optional und ermöglicht die Ausführung aller Aufgaben einer Transaktion. Misslingt eine Aufgabe/Knotenaktivität, wird jedoch der gesamte Vorgang wiederholt.</value>
+ </row>
+ <row id="580" trl="Y">
+  <value column="Name" original="Data">Daten</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Workflow Process Context">Workflow Prozesskontext</value>
+  <value column="Help" original="Context information of the workflow process and activity">Kontextinformationen zu Workflow-Prozess und -Aktivität</value>
+ </row>
+ <row id="581" trl="Y">
+  <value column="Name" original="Result">Ergebnis</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Result of the Workflow Process Activity">Ergebnis einer Workflow-Prozessaktivität</value>
+  <value column="Help" original="Activity Result of the execution of the Workflow Process Instrance">Aktivitätsergebnis einer Workflow-Prozessinstanz</value>
  </row>
  <row id="582" trl="Y">
   <value column="Name" original="Event">Ereignis</value>
@@ -2811,6 +2883,18 @@ The optional balance check applies to the entire import, not for individual batc
   <value column="Description" original="Dinning Run Line">Position Mahnlauf</value>
   <value column="Help" original="Maintain the information of the dunning letter line">Verwaltung der Informationen einer Position des Mahnschreibens</value>
  </row>
+ <row id="636" trl="Y">
+  <value column="Name" original="Org Assignment">Organisationszuordnung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="User Assigment to Organization">Zuordnung eines Benutzers zu einer Organisation</value>
+  <value column="Help" original="Assign Users to Organizations">Ordnen Sie Benutzer zu Organisationen zu</value>
+ </row>
+ <row id="637" trl="Y">
+  <value column="Name" original="Org Assignment">Organisationszuordnung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="User Assigment to Organization">Zuordnung eines Benutzers zu einer Organisation</value>
+  <value column="Help" original="Assign Users to Organizations">Ordnen Sie Benutzer zu Organisationen zu</value>
+ </row>
  <row id="638" trl="Y">
   <value column="Name" original="Log">Protokoll</value>
   <value column="CommitWarning" original=""/>
@@ -2882,6 +2966,12 @@ The optional balance check applies to the entire import, not for individual batc
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Assignment of Atrributes to Products">Attribute zu Artikeln zuordnen</value>
   <value column="Help" original="Determines, which attributes are assigned to a product">Bestimmt die einem Artikel zugeordneten Attribute</value>
+ </row>
+ <row id="651" trl="Y">
+  <value column="Name" original="Access Audit">Protokoll Zugriffe</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Log of Access to data or resources">Protokoll Daten- oder Ressourcenzugriff</value>
+  <value column="Help" original="Logging needs to be explicitly enabled / written.">Protokollierung muss explizit aktiviert werden</value>
  </row>
  <row id="652" trl="Y">
   <value column="Name" original="Counter Document">Gegenbeleg</value>
@@ -3216,6 +3306,12 @@ Define a Costing Method (for Material Elements) only if you want the cost calcul
   <value column="Description" original="Maintain Request Category">Verwaltung Anfragekategorien</value>
   <value column="Help" original="Category or Topic of the Request ">Kategorie/Gegenstand einer Anfrage.</value>
  </row>
+ <row id="707" trl="Y">
+  <value column="Name" original="Download">Download</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Maintain Product Downloads">Verwaltung Artikeldownloads</value>
+  <value column="Help" original="Define downloads for a product.  If the product is an asset, the user can download the data.">Verwaltung der Downloads für einen Artikel. Handelt es sich bei dem Artikel um einen Vermögenswert, so kann der Benutzer die Daten herunterladen.</value>
+ </row>
  <row id="708" trl="Y">
   <value column="Name" original="User Mail">E-Mail des Benutzers</value>
   <value column="CommitWarning" original=""/>
@@ -3366,6 +3462,12 @@ Indirect: Users with Role, Subscribers of updates for Request Category, Type, Gr
   <value column="Name" original="Change Notice">Änderungsmeldung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Bill of Materials (Engineering) Change Notice (Version)">Änderungsmeldungen (Version) für Stücklisten (Konstruktion).</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="734" trl="Y">
+  <value column="Name" original="BOM">Stückliste</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Bill of Material of Change Notice">Änderungsmeldungen für Stücklisten</value>
   <value column="Help" original=""/>
  </row>
  <row id="735" trl="Y">
@@ -4158,6 +4260,36 @@ The creation of  "Client and Org" shared records is the default and is ignored.]
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
+ <row id="53020" trl="Y">
+  <value column="Name" original="Access">Zugriff</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53021" trl="Y">
+  <value column="Name" original="Block">Gruppierung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original="  ">  </value>
+ </row>
+ <row id="53022" trl="Y">
+  <value column="Name" original="Parameter">Parameter</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53023" trl="Y">
+  <value column="Name" original="Node Translation">Knotenübersetzung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53024" trl="Y">
+  <value column="Name" original="Condition">Bedingung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
  <row id="53025" trl="Y">
   <value column="Name" original="Activity">Aktivität</value>
   <value column="CommitWarning" original=""/>
@@ -4720,6 +4852,12 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
+ <row id="53137" trl="Y">
+  <value column="Name" original="Access Audit">Protokoll Zugriffe</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Log of Access to data or resources">Protokoll Daten- oder Ressourcenzugriff</value>
+  <value column="Help" original="Logging needs to be explicitly enabled / written.">Protokollierung muss explizit aktiviert werden</value>
+ </row>
  <row id="53138" trl="Y">
   <value column="Name" original="Revaluation Entry">Neubewertungseintrag</value>
   <value column="CommitWarning" original=""/>
@@ -4868,6 +5006,18 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Name" original="Asset Balances">Vermögenswertsalden</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Asset Balance Report and Adjustments">Bericht über Vermögenswertsalden und Anpassungen</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53163" trl="Y">
+  <value column="Name" original="Cost Details">Kostendetails</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Cost Detail">Kosten-Detail</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53164" trl="Y">
+  <value column="Name" original="Asset Usage">Vermögenswert Verwendung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Record Asset Usage">Verwendung von Vermögenswerten aufzeichnen</value>
   <value column="Help" original=""/>
  </row>
  <row id="53165" trl="Y">
@@ -5236,6 +5386,18 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
+ <row id="53286" trl="Y">
+  <value column="Name" original="BOM">Stückliste</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Bill of Material product lines">Stückliste Artikelpositionen</value>
+  <value column="Help" original="The Bill of Materials tab defines those products that are generated from other products.  A Bill of Material (BOM) is one or more Products or BOMs.&#10;&#10;Available Quantity:&#10;- Stored BOMs have to be created via &quot;Production&quot;&#10;- The available quantity of a non-stored BOMs is dynamically calculated&#10;- The attribute &quot;Stored&quot; is defined in the &quot;Product&quot; tab&#10;&#10;Price:&#10;- BOMs must be listed in Pricelists&#10;- If the price is 0.00, the price is dynamically calculated&#10;&#10;Printing:&#10;- Usually, only the BOM information is printed&#10;- For invoices, delivery slips and pick lists, you have the option to print the details&#10;- In the details, the quantity is listed - and the price, if this is dynamically calculated">Im Register "Stückliste" legen Sie die aus anderen Artikeln erzeugten Artikel fest. Eine Stückliste besteht aus einem oder mehreren Artikeln oder Stücklisten. Verfügbare Menge: - Stücklisten Lager müssen über "Produktion" erstellt werden. - Die verfügbare Menge von Nichtlager-Stücklisten werden dynamisch berechnet. - Das Attribut "Gelagert" wird im Register "Artikel" unter Preis festgelegt Preis:- Stücklisten müssen in Preislisten aufgeführt sein. - Beträgt der Preis 0,00 wird der Preis automatisch berechnet. Druck: - Normalerweise wird nur die Stücklisteninformation gedruckt. - Bei Rechnungen, Lieferlisten und Kommissionierscheinen können Sie Details drucken. - In den Details wird die Menge aufgeführt - und der Preis, falls er dynamisch berechnet wird.</value>
+ </row>
+ <row id="53287" trl="Y">
+  <value column="Name" original="Components">Komponenten</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Components">Komponenten</value>
+  <value column="Help" original="Components of Bill fo Material">Komponenten der Stückliste</value>
+ </row>
  <row id="53289" trl="Y">
   <value column="Name" original="Costs">Kosten</value>
   <value column="CommitWarning" original=""/>
@@ -5308,11 +5470,23 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original="Process the Disposal">Entsorgung/Aktivierung verarbeiten</value>
   <value column="Help" original=""/>
  </row>
+ <row id="53326" trl="Y">
+  <value column="Name" original="Step1 Select an Asset">Schritt 1: Vermögenswert auswählen</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Select Asset for Disposal">Vermögenswert zur Entsorgung auswählen</value>
+  <value column="Help" original=""/>
+ </row>
  <row id="53327" trl="Y">
   <value column="Name" original="Asset Change account">Asset Change account</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original="This table holds all necessary information to process asset transfers and create the appropriate entry">Diese Tabelle enthält alle notwendigen Informationen um den Transfer eines Vermögenswerts zu verarbeiten und den passenden Eintrag zu erstellen.</value>
+ </row>
+ <row id="53328" trl="Y">
+  <value column="Name" original="Class">Kurs</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
  </row>
  <row id="53329" trl="Y">
   <value column="Name" original="Funding Mode">Funding Mode</value>

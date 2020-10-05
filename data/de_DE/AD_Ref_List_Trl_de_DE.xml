@@ -68,6 +68,10 @@
   <value column="Name" original="Menu">Menü</value>
   <value column="Description" original=""/>
  </row>
+ <row id="110" trl="Y">
+  <value column="Name" original="Single Record">Einzelner Datensatz</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="111" trl="Y">
   <value column="Name" original="Maintain">Verwalten</value>
   <value column="Description" original=""/>
@@ -408,6 +412,10 @@
   <value column="Name" original="Visa">VISA</value>
   <value column="Description" original=""/>
  </row>
+ <row id="213" trl="Y">
+  <value column="Name" original="ATM">Bankkarte</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="214" trl="Y">
   <value column="Name" original="After Order delivered">Je Auftrag</value>
   <value column="Description" original="Invoice for every order">Rechnung für jeden Auftrag</value>
@@ -463,6 +471,10 @@
  <row id="227" trl="Y">
   <value column="Name" original="Calculated">Berechnet</value>
   <value column="Description" original="Calculated based on Product Freight Rule">Berechnet gemäß Frachtregelung</value>
+ </row>
+ <row id="228" trl="Y">
+  <value column="Name" original="Line">Position</value>
+  <value column="Description" original="Entered at Line level">Auf Positionsebene eingetragen</value>
  </row>
  <row id="229" trl="Y">
   <value column="Name" original="High">Hoch</value>
@@ -664,12 +676,20 @@
   <value column="Name" original="Organization">Organisation</value>
   <value column="Description" original=""/>
  </row>
+ <row id="285" trl="Y">
+  <value column="Name" original="BoM">Stückliste</value>
+  <value column="Description" original="Bill of Materials">Stückliste</value>
+ </row>
  <row id="286" trl="Y">
   <value column="Name" original="Project">Projekt</value>
   <value column="Description" original=""/>
  </row>
  <row id="287" trl="Y">
   <value column="Name" original="Sales Region">Vertriebsgebiet</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="288" trl="Y">
+  <value column="Name" original="Product Category">Artikelkategorie</value>
   <value column="Description" original=""/>
  </row>
  <row id="289" trl="Y">
@@ -990,6 +1010,10 @@
  </row>
  <row id="385" trl="Y">
   <value column="Name" original="Tab Separated">Tabulatorgetrennt</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="386" trl="Y">
+  <value column="Name" original="XML">XML</value>
   <value column="Description" original=""/>
  </row>
  <row id="387" trl="Y">
@@ -1352,6 +1376,10 @@
   <value column="Name" original="Texture (Picture)">Textur (Bild)</value>
   <value column="Description" original=""/>
  </row>
+ <row id="486" trl="Y">
+  <value column="Name" original="Workbench">Workbench</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="487" trl="Y">
   <value column="Name" original="Dictionary">Dictionary</value>
   <value column="Description" original="Application Dictionary (synchronized)">Application Dictionary (synchronisiert)</value>
@@ -1386,6 +1414,10 @@
  </row>
  <row id="497" trl="Y">
   <value column="Name" original="Flat Percent">Feste Prozentzahl</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="498" trl="Y">
+  <value column="Name" original="Formula">Formel</value>
   <value column="Description" original=""/>
  </row>
  <row id="499" trl="Y">
@@ -1562,6 +1594,10 @@
  </row>
  <row id="542" trl="Y">
   <value column="Name" original="Expense type">Ausgaben-Typ</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="543" trl="Y">
+  <value column="Name" original="Online">Online</value>
   <value column="Description" original=""/>
  </row>
  <row id="544" trl="Y">
@@ -1860,6 +1896,10 @@
   <value column="Name" original="Role">Rolle</value>
   <value column="Description" original=""/>
  </row>
+ <row id="619" trl="Y">
+  <value column="Name" original="System Resource">Systemressource</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="620" trl="Y">
   <value column="Name" original="Not Started">Nicht gestartet</value>
   <value column="Description" original=""/>
@@ -2022,6 +2062,14 @@
  </row>
  <row id="663" trl="Y">
   <value column="Name" original="Frequency">Frequenz</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="664" trl="Y">
+  <value column="Name" original="Week Day">Wochentag</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="665" trl="Y">
+  <value column="Name" original="Month Day">Tag eines Monats</value>
   <value column="Description" original=""/>
  </row>
  <row id="666" trl="Y">
@@ -2328,6 +2376,22 @@
   <value column="Name" original="Make-To-Order">Einzelfertigung</value>
   <value column="Description" original=""/>
  </row>
+ <row id="744" trl="Y">
+  <value column="Name" original="Previous">Vorherige</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="745" trl="Y">
+  <value column="Name" original="Previous, Spare">Vorherige, übrige</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="746" trl="Y">
+  <value column="Name" original="Future">Zukünftig</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="747" trl="Y">
+  <value column="Name" original="Maintenance">Verwaltung</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="748" trl="Y">
   <value column="Name" original="Repair">Reparatur</value>
   <value column="Description" original=""/>
@@ -2442,6 +2506,10 @@
  </row>
  <row id="777" trl="Y">
   <value column="Name" original="Last Invoice">Letzte Rechnung</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="778" trl="Y">
+  <value column="Name" original="User Defined">Benutzerdefiniert</value>
   <value column="Description" original=""/>
  </row>
  <row id="779" trl="Y">
@@ -2852,6 +2920,10 @@
   <value column="Name" original="Code 39 linear w/o Checksum">Code 39 linear mit/ohne Prüfsumme</value>
   <value column="Description" original=""/>
  </row>
+ <row id="883" trl="Y">
+  <value column="Name" original="Private Information">Vertrauliche Information</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="884" trl="Y">
   <value column="Name" original="User 1">Benutzer 1</value>
   <value column="Description" original=""/>
@@ -2866,6 +2938,22 @@
  </row>
  <row id="887" trl="Y">
   <value column="Name" original="User 4">Benutzer 4</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="888" trl="Y">
+  <value column="Name" original="CM Container">CM Container</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="889" trl="Y">
+  <value column="Name" original="CM Container Stage">CM Container-Stage</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="890" trl="Y">
+  <value column="Name" original="CM Template">CM Vorlage</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="891" trl="Y">
+  <value column="Name" original="CM Media">CM Medien</value>
   <value column="Description" original=""/>
  </row>
  <row id="892" trl="Y">
@@ -3068,6 +3156,14 @@
   <value column="Name" original="Forum (threaded)">Forum (mit Threads)</value>
   <value column="Description" original=""/>
  </row>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Local Transfer">Lokaler Transfer</value>
+  <value column="Description" original="This type of transfer will transfer objects to the same Adempiere instance">Bei dieser Art Transfer werden Objekte zur selben iDempiere-Installation übertragen</value>
+ </row>
+ <row id="50002" trl="Y">
+  <value column="Name" original="Remote Transfer">Entfernte Übertragung</value>
+  <value column="Description" original="This type of transfer will transfer objects to another Adempiere installation accessible by network.">Bei dieser Art Transfer werden Objekte zu einer anderen, über das Netzwerk erreichbaren iDempiere-Installation übertragen.</value>
+ </row>
  <row id="50003" trl="Y">
   <value column="Name" original="XML File">XML-Datei</value>
   <value column="Description" original="This type of transfer will create a XML file ">Bei dieser Art Transfer wird eine XML-Datei erstellt</value>
@@ -3136,6 +3232,10 @@
   <value column="Name" original="Sybase">Sybase</value>
   <value column="Description" original="Sybase Database">Sybase Database</value>
  </row>
+ <row id="50020" trl="Y">
+  <value column="Name" original="Workbench">Workbench</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="50021" trl="Y">
   <value column="Name" original="File - Code or other">Datei - Code oder andere/r/s</value>
   <value column="Description" original=""/>
@@ -3191,6 +3291,14 @@
  <row id="50034" trl="Y">
   <value column="Name" original="File">Datei</value>
   <value column="Description" original="Package is file based">Paket ist dateibasiert</value>
+ </row>
+ <row id="50035" trl="Y">
+  <value column="Name" original="WebService">Webservice</value>
+  <value column="Description" original="Package is available via WebService">Paket ist via Webservice verfügbar</value>
+ </row>
+ <row id="50037" trl="Y">
+  <value column="Name" original="Ask user (for future use)">Benutzer fragen (für zukünftige Verwendung)</value>
+  <value column="Description" original=""/>
  </row>
  <row id="50038" trl="Y">
   <value column="Name" original="Don't show help">Hilfe nicht anzeigen</value>
@@ -3314,6 +3422,10 @@
  </row>
  <row id="53247" trl="Y">
   <value column="Name" original="Work Station">Workstation</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53248" trl="Y">
+  <value column="Name" original="User Workbench">Benutzer Workbench</value>
   <value column="Description" original=""/>
  </row>
  <row id="53249" trl="Y">
@@ -3756,6 +3868,10 @@
   <value column="Name" original="Default">Standard</value>
   <value column="Description" original="Default">Standard</value>
  </row>
+ <row id="53367" trl="Y">
+  <value column="Name" original="Inception to date">Gründungen bis heute</value>
+  <value column="Description" original="Revaluate each year seperately">Neubewertung für jedes Jahr separat</value>
+ </row>
  <row id="53368" trl="Y">
   <value column="Name" original="Year Balances">Jahressalden</value>
   <value column="Description" original="Revaluate current year to date balances and then revaluates the beginning balance">Zuerst die Salden des aktuellen Jahres bis heute neu bewerten und dann die Anfangssalden</value>
@@ -3828,9 +3944,21 @@
   <value column="Name" original="Theft">Diebstahl</value>
   <value column="Description" original="Asset Stolen">Vermögenswert gestohlen</value>
  </row>
+ <row id="53386" trl="Y">
+  <value column="Name" original="Cash">Bargeld</value>
+  <value column="Description" original="Sold for cash">Verkauft gegen Bar</value>
+ </row>
+ <row id="53387" trl="Y">
+  <value column="Name" original="Simple">Einfach</value>
+  <value column="Description" original="No cash or trade">Kein Bargeld oder Handel</value>
+ </row>
  <row id="53388" trl="Y">
   <value column="Name" original="Trade">Handel</value>
   <value column="Description" original="Traded in">In Zahlung genommen</value>
+ </row>
+ <row id="53389" trl="Y">
+  <value column="Name" original="Trade w/cash">Mit Bargeld gehandelt</value>
+  <value column="Description" original="Traded In with cash">Inzahlungnahme gegen Bar</value>
  </row>
  <row id="53390" trl="Y">
   <value column="Name" original="Capitalized Lease">Capitalized Lease</value>
@@ -3927,6 +4055,10 @@
  <row id="53413" trl="Y">
   <value column="Name" original="Invoice">Rechnung</value>
   <value column="Description" original="This entry is related to an invoice">Der Eintrag steht in Bezug zu einer Rechnung</value>
+ </row>
+ <row id="53414" trl="Y">
+  <value column="Name" original="Journal Entry">Journaleintrag</value>
+  <value column="Description" original="The entry was created from a journal entry">Dieser Eintrag wurde aus einem Journal erstellt</value>
  </row>
  <row id="53415" trl="Y">
   <value column="Name" original="Manual">Manuell</value>
@@ -4320,6 +4452,10 @@
   <value column="Name" original="Implicit">Implizit</value>
   <value column="Description" original=""/>
  </row>
+ <row id="53555" trl="Y">
+  <value column="Name" original="Explicit">Explizit</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="53556" trl="Y">
   <value column="Name" original="Measure for Performance Analysis">Kennzahl für Leistungsanalyse</value>
   <value column="Description" original=""/>
@@ -4422,6 +4558,18 @@
  </row>
  <row id="53604" trl="Y">
   <value column="Name" original="Project">Projekt</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53605" trl="Y">
+  <value column="Name" original="Cash_">Cash_</value>
+  <value column="Description" original="Sold for cash">Verkauft gegen Bar</value>
+ </row>
+ <row id="53606" trl="Y">
+  <value column="Name" original="Partial Retirement">Teilweise ausscheiden</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53607" trl="Y">
+  <value column="Name" original="Preservation">Erhaltung</value>
   <value column="Description" original=""/>
  </row>
  <row id="53608" trl="Y">

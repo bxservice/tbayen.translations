@@ -361,10 +361,50 @@ Review and change the GL and Default accounts. The actual accounts used in trans
   <value column="Description" original="Replication Strategy">Replikationsstrategie</value>
   <value column="Help" original=""/>
  </row>
+ <row id="50074" trl="Y">
+  <value column="Name" original="Payroll">Lohn- und Gehaltsabrechnung</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50075" trl="Y">
+  <value column="Name" original="Payroll Concept Category">Gehaltsabrechnung Konzeptkategorie</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50076" trl="Y">
+  <value column="Name" original="Payroll Contract">Gehaltsabrechnung Vertrag</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50077" trl="Y">
+  <value column="Name" original="Payroll Process">Gehaltsabrechnung Prozess</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50078" trl="Y">
+  <value column="Name" original="Payroll Table">Gehaltsabrechnung Tabelle</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50079" trl="Y">
+  <value column="Name" original="Payroll Department">Gehaltsabrechnung Abteilung</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50080" trl="Y">
+  <value column="Name" original="Payroll Employee">Gehaltsabrechnung Mitarbeiter</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="50081" trl="Y">
   <value column="Name" original="Payroll Action Notice">Gehaltsabrechnung Aktionshinweis</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
+ </row>
+ <row id="50082" trl="Y">
+  <value column="Name" original="Payroll Table Type">Gehaltsabrechnung Tabellentyp</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50083" trl="Y">
+  <value column="Name" original="Payroll Job">Gehaltsabrechnung Stellen</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="50084" trl="Y">
+  <value column="Name" original="Payroll Concept Catalog">Gehaltsabrechnung Konzeptkatalog</value>
+  <value column="Description" original=""/>
  </row>
  <row id="50099" trl="Y">
   <value column="Name" original="(DocAuto)">(Beleg Auto)</value>
@@ -385,6 +425,10 @@ Review and change the GL and Default accounts. The actual accounts used in trans
   <value column="Name" original="(Start)">(Start)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
+ </row>
+ <row id="50103" trl="Y">
+  <value column="Name" original="Activation Approval">Genehmigung Aktivierung</value>
+  <value column="Description" original="Approve asset activation">Aktivierung des Vermögenswerts genehmigen</value>
  </row>
  <row id="50104" trl="Y">
   <value column="Name" original="(DocAuto)">(Beleg Auto)</value>

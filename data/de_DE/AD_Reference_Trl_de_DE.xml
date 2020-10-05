@@ -105,6 +105,11 @@
   <value column="Description" original="Account Element">Kontenplan</value>
   <value column="Help" original=""/>
  </row>
+ <row id="26" trl="Y">
+  <value column="Name" original="RowID">RowID</value>
+  <value column="Description" original="Row ID Data Type">RowID Datentyp</value>
+  <value column="Help" original=""/>
+ </row>
  <row id="27" trl="Y">
   <value column="Name" original="Color">Farbe</value>
   <value column="Description" original="Color element">Farbelement</value>
@@ -787,6 +792,11 @@
  </row>
  <row id="234" trl="Y">
   <value column="Name" original="_Posted Status">_Posted Status</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="235" trl="Y">
+  <value column="Name" original="PA_Report AmountType (deprecated)">PA_Report AmountType (deprecated)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

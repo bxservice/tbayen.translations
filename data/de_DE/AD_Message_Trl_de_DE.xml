@@ -825,6 +825,10 @@ Fortfahren?</value>
   <value column="MsgText" original="Inserted">Eingefügt</value>
   <value column="MsgTip" original=""/>
  </row>
+ <row id="307" trl="Y">
+  <value column="MsgText" original="Generate Invoices (manual)">Rechnungen erzeugen (manuell)</value>
+  <value column="MsgTip" original=""/>
+ </row>
  <row id="308" trl="Y">
   <value column="MsgText" original="Generating invoices">Rechnungen werden erzeugt</value>
   <value column="MsgTip" original=""/>
