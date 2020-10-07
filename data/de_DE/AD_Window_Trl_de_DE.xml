@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
-<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
-<idempiereTrl language="de_DE" table="AD_Window">
+<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Window">
  <row id="100" trl="Y">
   <value column="Name" original="Table and Column">Tabelle und Spalte</value>
   <value column="Description" original="Maintain Tables and Columns">Verwaltung Tabellen und Spalten</value>
@@ -15,7 +13,7 @@
  <row id="102" trl="Y">
   <value column="Name" original="Window, Tab &amp; Field">Fenster, Register und Feld</value>
   <value column="Description" original="Maintain Windows, Tabs &amp; Fields">Verwaltung Fenster, Register und Felder</value>
-  <value column="Help" original="The Window, Tab &amp; Field Window defines the presentation of tables and columns within each window."><![CDATA[Im Fenster "Fenster, Register & Feld" legen Sie die Anzeige von Tabellen und Spalten in jedem Fenster fest.]]></value>
+  <value column="Help" original="The Window, Tab &amp; Field Window defines the presentation of tables and columns within each window." xml:space="preserve"><![CDATA[Im Fenster "Fenster, Register & Feld" legen Sie die Anzeige von Tabellen und Spalten in jedem Fenster fest.]]></value>
  </row>
  <row id="103" trl="Y">
   <value column="Name" original="Validation Rules">Validierungsregeln</value>
@@ -113,7 +111,7 @@ Zugriffsinformationen werden zwischengespeichert. Nach Änderungen ist eine Neua
  <row id="122" trl="Y">
   <value column="Name" original="Country Region and City">Land, Region, Ort</value>
   <value column="Description" original="Maintain Countries Regions and Cities">Verwaltung Länder, Regionen und Orte</value>
-  <value column="Help" original="The Countries, Regions and Cities Window defines the different entities that can be used in any address field.  It defines the format of the address as well as associating Regions with Countries and Cities with Regions or Countries. &#10;&lt;p&gt;You would define Countries usually only on System level."><![CDATA[Das Fenster "Länder, Regionen und Orte" legt die verschiedenen Einheiten die im Adressfeld verwendet werden. Es bestimmt das Adressformat sowie die Zuordnung von Regionen zu Ländern und Orten mit Regionen oder Ländern. <p>Länder werden normalerweise nur auf Systemebene festgelegt.]]></value>
+  <value column="Help" original="The Countries, Regions and Cities Window defines the different entities that can be used in any address field.  It defines the format of the address as well as associating Regions with Countries and Cities with Regions or Countries. &#10;&lt;p&gt;You would define Countries usually only on System level." xml:space="preserve"><![CDATA[Das Fenster "Länder, Regionen und Orte" legt die verschiedenen Einheiten die im Adressfeld verwendet werden. Es bestimmt das Adressformat sowie die Zuordnung von Regionen zu Ländern und Orten mit Regionen oder Ländern. <p>Länder werden normalerweise nur auf Systemebene festgelegt.]]></value>
  </row>
  <row id="123" trl="Y">
   <value column="Name" original="Business Partner">Geschäftspartner</value>
@@ -198,7 +196,7 @@ Zugriffsinformationen werden zwischengespeichert. Nach Änderungen ist eine Neua
  <row id="143" trl="Y">
   <value column="Name" original="Sales Order">Auftrag</value>
   <value column="Description" original="Enter and change sales orders">Aufträge anlegen und ändern</value>
-  <value column="Help" original="The Order Window allows you to enter and modify Sales Orders.  ">Im Fenster "Auftrag" können Sie Aufträge anlegen und ändern.</value>
+  <value column="Help" original="The Order Window allows you to enter and modify Sales Orders.">Im Fenster "Auftrag" können Sie Aufträge anlegen und ändern.</value>
  </row>
  <row id="144" trl="Y">
   <value column="Name" original="Product Category">Artikelkategorie</value>
@@ -281,7 +279,7 @@ Preislisten können berechnet und kopiert werden. Um die Berechnung zu beschleun
   <value column="Help" original="The Tree Window defines the descriptors and images that will be used when a Tree is displayed.">Im Fenster "Baum" legen Sie Beschreibungen und Bilder fest, die bei der Anzeige eines Baumes erscheinen.</value>
  </row>
  <row id="165" trl="Y">
-  <value column="Name" original="Report &amp; Process"><![CDATA[Bericht & Prozess]]></value>
+  <value column="Name" original="Report &amp; Process" xml:space="preserve"><![CDATA[Bericht & Prozess]]></value>
   <value column="Description" original="Maintain Reports &amp; Processes">Verwaltung Berichte und Prozesse.</value>
   <value column="Help" original="The Report &amp; Process Window is used to define the parameters and access rules for every Report and Process within the system.  This window is for System Admin use only.">Das Fenster "Bericht und Prozess" wird verwendet um die Parameter und Zugriffsregeln für jeden Bericht und Prozess im System festzulegen. Dieses Fenster wird nur vom Systemadministrator genutzt.</value>
  </row>
@@ -391,7 +389,7 @@ Preislisten können berechnet und kopiert werden. Um die Berechnung zu beschleun
   <value column="Help" original="The system creates messages while performing processes. In this window you can view them.">Während der Prozessausführung erstellt das System Statusmeldungen. Sie können sie in diesem Fenster einsehen.</value>
  </row>
  <row id="194" trl="Y">
-  <value column="Name" original="Bank Statement">Bankauszug</value>
+  <value column="Name" original="Bank/Cash Statement">Bankauszug</value>
   <value column="Description" original="Process Bank Statements">Kontoauszüge verarbeiten</value>
   <value column="Help" original="The Process Bank Statements window allows you to reconcile your Bank Statements.  You can either enter the line items from the statement in the Statement Line tab or select the 'Create From' button to automatically generate the statement from all unreconciled payments to this bank account.  Once you have completed reconciling, select the 'Process Statement' button to mark the payments as reconciled and update the appropriate GL accounts.">Im Fenster "Kontoauszug" können Sie Kontoauszüge abgleichen. Sie können die Positionen im Register "Position Kontoauszug" eingeben oder mit der Schaltfläche "Position/en erstellen aus" den Auszug automatisch aus allen nicht abgeglichenen Zahlungen dieses Kontos erzeugen.Wenn Sie den Abgleich durchgeführt haben aktivieren Sie die Schaltfläche "Kontoauszug bearbeiten", um die Zahlungen als abgeglichen zu markieren und die entsprechenden Buchungen vorzunehmen.</value>
  </row>
@@ -433,7 +431,7 @@ Preislisten können berechnet und kopiert werden. Um die Berechnung zu beschleun
  <row id="204" trl="Y">
   <value column="Name" original="Mail Template">E-Mail-Vorlage</value>
   <value column="Description" original="Maintain Mail Template">Verwalten von E-Mail-Vorlagen</value>
-  <value column="Help" original="Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection."><![CDATA[Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).<br>
+  <value column="Help" original="Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection." xml:space="preserve"><![CDATA[Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).<br>
 So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.<br>
 For Multi-Lingual systems, the template is translated based on the Business Partner's language selection.]]></value>
  </row>
@@ -510,7 +508,7 @@ For Multi-Lingual systems, the template is translated based on the Business Part
  <row id="224" trl="Y">
   <value column="Name" original="Print Form">Druckformulare für Belege</value>
   <value column="Description" original="Maintain Print Forms (Invoices, Checks, ..) used">Verwaltung verwendeter Druckformulare (z.B. Rechnungen, Schecks, ...)</value>
-  <value column="Help" original="Define the documents you use for this Client/Organnization.  Note that the check format is defined in the Bank (Account) Window.&lt;p&gt;&#10;The highest priotity has the Print Format, you define on a Document Type (example specific Export Invoice format). The next level is the set of Print Formats, you defined for the organziation of the document printed. The default is the set of Print Formats defines for all organizations of the Client (Organization=*)."><![CDATA[Define the documents you use for this Client/Organnization.  Note that the check format is defined in the Bank (Account) Window.<p>
+  <value column="Help" original="Define the documents you use for this Client/Organnization.  Note that the check format is defined in the Bank (Account) Window.&lt;p&gt;&#10;The highest priotity has the Print Format, you define on a Document Type (example specific Export Invoice format). The next level is the set of Print Formats, you defined for the organziation of the document printed. The default is the set of Print Formats defines for all organizations of the Client (Organization=*)." xml:space="preserve"><![CDATA[Define the documents you use for this Client/Organnization.  Note that the check format is defined in the Bank (Account) Window.<p>
 The highest priotity has the Print Format, you define on a Document Type (example specific Export Invoice format). The next level is the set of Print Formats, you defined for the organziation of the document printed. The default is the set of Print Formats defines for all organizations of the Client (Organization=*).]]></value>
  </row>
  <row id="225" trl="Y">
@@ -768,8 +766,8 @@ If you created a web click for http://www.adempiere.de, you will be able to see 
  </row>
  <row id="276" trl="Y">
   <value column="Name" original="Alert">Alarm</value>
-  <value column="Description" original="Adempiere Alert">iDempiere-Alarm</value>
-  <value column="Help" original="Adempiere Alerts allow you define system conditions you want to be alerted of">Unter "Alarm" können Sie Systembedingungen festlegen, von deren Auftreten Sie informiert werden möchten.</value>
+  <value column="Description" original="iDempiere Alert">iDempiere-Alarm</value>
+  <value column="Help" original="iDempiere Alerts allow you define system conditions you want to be alerted of">Unter "Alarm" können Sie Systembedingungen festlegen, von deren Auftreten Sie informiert werden möchten.</value>
  </row>
  <row id="277" trl="Y">
   <value column="Name" original="Import Bank Statement">Import Bankauszug</value>
@@ -809,7 +807,7 @@ If you created a web click for http://www.adempiere.de, you will be able to see 
  <row id="284" trl="Y">
   <value column="Name" original="Replication">Replikation</value>
   <value column="Description" original="Maintain Data Replication Targets">Verwaltung von Zielen für die Datenreplikation</value>
-  <value column="Help" original="Data Replication Target Details. Set up your system completely on the central system, before setting up the replication. Define the Replication target here and export the database and import it on the remote system.&lt;p&gt;&#10;Before(!) entering transactions, Start the Replication Run to set up the remote system."><![CDATA[Data Replication Target Details. Set up your system completely on the central system, before setting up the replication. Define the Replication target here and export the database and import it on the remote system.<p>
+  <value column="Help" original="Data Replication Target Details. Set up your system completely on the central system, before setting up the replication. Define the Replication target here and export the database and import it on the remote system.&lt;p&gt;&#10;Before(!) entering transactions, Start the Replication Run to set up the remote system." xml:space="preserve"><![CDATA[Data Replication Target Details. Set up your system completely on the central system, before setting up the replication. Define the Replication target here and export the database and import it on the remote system.<p>
 Before(!) entering transactions, Start the Replication Run to set up the remote system.]]></value>
  </row>
  <row id="285" trl="Y">
@@ -1200,12 +1198,12 @@ Before(!) entering transactions, Start the Replication Run to set up the remote 
  <row id="363" trl="Y">
   <value column="Name" original="System Issue Report">Störungsmeldung System</value>
   <value column="Description" original="Automatically created or manually entered System Issue Reports">Automatisch erstellte oder manuell erfasste Systemproblemberichte</value>
-  <value column="Help" original="System Issues are created to speed up the resolution of any system related issues (potential bugs).  If enabled, they are automatically reported to Adempiere.  No data or confidential information is transferred.">Störungsmeldungen des Systems werden verwendet um die Lösung von Systemproblemen zu beschleunigen.Falls aktiviert, werden sie automatisch an das Projektteam berichtet. Keine Daten oder vertraulichen Informationen werden übertragen.</value>
+  <value column="Help" original="System Issues are created to speed up the resolution of any system related issues (potential bugs).  If enabled, they are automatically reported to iDempiere.  No data or confidential information is transferred.">Störungsmeldungen des Systems werden verwendet um die Lösung von Systemproblemen zu beschleunigen.Falls aktiviert, werden sie automatisch an das Projektteam berichtet. Keine Daten oder vertraulichen Informationen werden übertragen.</value>
  </row>
  <row id="364" trl="Y">
   <value column="Name" original="Performance Color Schema">Leistung Farbschema</value>
   <value column="Description" original="Maintain Performance Color Schema">Verwaltung Farbschema Leistungsdarstellung</value>
-  <value column="Help" original="Visual representation of performance by color.  The Schema has often three levels (e.g. red-yellow-green).  Adempiere support two levels (e.g. red-green) or four levels (e.g. gray-bronce-silver-gold).  Note that Measures without a goal are represented white.  The percentages could be beween 0 and unlimited (i.e. above 100%).">Darstellung der Leistung durch ein Farbschema. Das Schema arbeitet häufig mit drei Ebenen, z. B. rot - gelb - grün. iDempiere unterstützt zwei, z. B. rot - grün, oder vier Ebenen, z. B. grau - bronze - silber - gold. Beachten Sie, dass nicht zielführende Maßnahmen weiß dargestellt werden. Die Prozentzahl kann zwischen 0 und unendlich liegen, d. h. auch über 100%.</value>
+  <value column="Help" original="Visual representation of performance by color.  The Schema has often three levels (e.g. red-yellow-green).  iDempiere support two levels (e.g. red-green) or four levels (e.g. gray-bronce-silver-gold).  Note that Measures without a goal are represented white.  The percentages could be beween 0 and unlimited (i.e. above 100%).">Darstellung der Leistung durch ein Farbschema. Das Schema arbeitet häufig mit drei Ebenen, z. B. rot - gelb - grün. iDempiere unterstützt zwei, z. B. rot - grün, oder vier Ebenen, z. B. grau - bronze - silber - gold. Beachten Sie, dass nicht zielführende Maßnahmen weiß dargestellt werden. Die Prozentzahl kann zwischen 0 und unendlich liegen, d. h. auch über 100%.</value>
  </row>
  <row id="365" trl="Y">
   <value column="Name" original="Performance Benchmark">Leistungsvergleich</value>
@@ -1285,7 +1283,7 @@ Before(!) entering transactions, Start the Replication Run to set up the remote 
  <row id="381" trl="Y">
   <value column="Name" original="Entity Type">Entitätstyp</value>
   <value column="Description" original="Maintain System Entity Type">Verwaltung Systementitätstypen</value>
-  <value column="Help" original="The entity type determines the ownership of Application Dictionary entries.  The types &quot;Dictionary&quot; and &quot;Adempiere&quot; should not be used and are maintainted by Adempiere (i.e. all changes are reversed during migration to the current definition).">Der Entitätstyp bestimmt die Eigentümerschaft der Einträge im Application Dictionary. Die Typen "Dictionary" und "iDempiere" sollten nicht von iDempiere benutzt und verwaltet werden. D.h. alle Änderungen werden während der Migration zur aktuellen Definition umgewandelt.</value>
+  <value column="Help" original="The entity type determines the ownership of Application Dictionary entries.  The types &quot;Dictionary&quot; and &quot;iDempiere&quot; should not be used and are maintainted by iDempiere (i.e. all changes are reversed during migration to the current definition).">Der Entitätstyp bestimmt die Eigentümerschaft der Einträge im Application Dictionary. Die Typen "Dictionary" und "iDempiere" sollten nicht von iDempiere benutzt und verwaltet werden. D.h. alle Änderungen werden während der Migration zur aktuellen Definition umgewandelt.</value>
  </row>
  <row id="383" trl="Y">
   <value column="Name" original="Web Access">Webzugriff</value>
@@ -1319,8 +1317,8 @@ Before(!) entering transactions, Start the Replication Run to set up the remote 
  </row>
  <row id="389" trl="Y">
   <value column="Name" original="LDAP Server">LDAP-Server</value>
-  <value column="Description" original="LDAP Server to authenticate and authorize external systems based on Adempiere">LDAP-Server zur Authentifizierung und Autorisierung externer Systeme basierend auf iDempiere</value>
-  <value column="Help" original="The LDAP Server allows third party software (e.g. Apache) to use the users defined in the system to authentificate and authorize them.  There is only one server per Adempiere system.  The &quot;o&quot; is the Client key and the optional &quot;ou&quot; is the Interest Area key.">Der LDAP-Server erlaubt es die Benutzer von Software anderer Hersteller (z.B. Apache) zu verwenden, um diese zu authentifizieren und zu autorisieren.Es gibt nur einen Server pro iDempiere System. Das "o" ist der Mandantenschlüssel und das optionale "ou" ist der Schlüssel des Interessengebiets.</value>
+  <value column="Description" original="LDAP Server to authenticate and authorize external systems based on iDempiere">LDAP-Server zur Authentifizierung und Autorisierung externer Systeme basierend auf iDempiere</value>
+  <value column="Help" original="The LDAP Server allows third party software (e.g. Apache) to use the users defined in the system to authentificate and authorize them.  There is only one server per iDempiere system.  The &quot;o&quot; is the Client key and the optional &quot;ou&quot; is the Interest Area key.">Der LDAP-Server erlaubt es die Benutzer von Software anderer Hersteller (z.B. Apache) zu verwenden, um diese zu authentifizieren und zu autorisieren.Es gibt nur einen Server pro iDempiere System. Das "o" ist der Mandantenschlüssel und das optionale "ou" ist der Schlüssel des Interessengebiets.</value>
  </row>
  <row id="50001" trl="Y">
   <value column="Name" original="Packages Installed">Installierte Pakete</value>
@@ -1353,7 +1351,7 @@ Before(!) entering transactions, Start the Replication Run to set up the remote 
   <value column="Help" original=""/>
  </row>
  <row id="50007" trl="Y">
-  <value column="Name" original="Dashboard Content Edit">Dashboardinhalt bearbeiten</value>
+  <value column="Name" original="Dashboard Content">Dashboardinhalt bearbeiten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1393,9 +1391,9 @@ Before(!) entering transactions, Start the Replication Run to set up the remote 
   <value column="Help" original="Manufacturing Workflows (Routing) is a set of information detailing the method of manufacture of a particular item .It includes the operations to be performed their sequence the various work centers to be involved and the standards for setup and run. In some companies routing also includes information on tooling operator skill levels inspection operationstesting requirements etc.">Ein "Fertigungs-Workflow" (Steuerung) ist ein Satz von Informationen, der die Produktionsmethode für eine bestimmten Komponente beschreiben. Dazu gehören auch Informationen zur Abfolge der verschiedenen Arbeitsplätze und den Einrichtungs- und Betriebsstandards. In manchen Firmen umfasst die Steuerung auch Informationen zu Werkzeugen, Fähigkeiten, Überprüfungen, Testanforderungen usw.</value>
  </row>
  <row id="53006" trl="Y">
-  <value column="Name" original="Bill of Materials &amp; Formula "><![CDATA[Stückliste & Formel]]></value>
-  <value column="Description" original="Maintain Product Bill of Materials &amp; Formula "><![CDATA[Artikel Stückliste & Formel verwalten]]></value>
-  <value column="Help" original="It is a list of all the subassemblies, intermediates, parts and raw material that go into a parent assembly showing the quantity of each required to make an assembly. There are a variety of display formats of bill of material, including single level bill of material, indented bill of material, modular (planning), costed bill of material, etc. May also be called &quot;formula&quot;, &quot;recipe&quot;, &quot;ingredients list&quot; in certain industries.&#10;It answers the question, what are the components of the product?"><![CDATA["Stückliste & Formeln" sind Listen von Bestandteilen, Zwischenprodukten, Komponenten, und seltenen Materialien, sowie den zur Produktion eines Teils benötigten Mengen, die in einer übergeordneten Komponente zusammenfließen. Es gibt verschiedene Anzeigearten, z. B. eine Stückliste in Einzelebene, die angestrebte Stückliste, die Modularstückliste (Planung), die Kostenstückliste, usw. Wird auch "Formel", "Rezept", "Liste der Bestandteile" genannt. Eine Stückliste/Formel zeigt also die Artikelkomponenten an.]]></value>
+  <value column="Name" original="Bill of Materials &amp; Formula " xml:space="preserve"><![CDATA[Stückliste & Formel]]></value>
+  <value column="Description" original="Maintain Product Bill of Materials &amp; Formula " xml:space="preserve"><![CDATA[Artikel Stückliste & Formel verwalten]]></value>
+  <value column="Help" original="It is a list of all the subassemblies, intermediates, parts and raw material that go into a parent assembly showing the quantity of each required to make an assembly. There are a variety of display formats of bill of material, including single level bill of material, indented bill of material, modular (planning), costed bill of material, etc. May also be called &quot;formula&quot;, &quot;recipe&quot;, &quot;ingredients list&quot; in certain industries.&#10;It answers the question, what are the components of the product?" xml:space="preserve"><![CDATA["Stückliste & Formeln" sind Listen von Bestandteilen, Zwischenprodukten, Komponenten, und seltenen Materialien, sowie den zur Produktion eines Teils benötigten Mengen, die in einer übergeordneten Komponente zusammenfließen. Es gibt verschiedene Anzeigearten, z. B. eine Stückliste in Einzelebene, die angestrebte Stückliste, die Modularstückliste (Planung), die Kostenstückliste, usw. Wird auch "Formel", "Rezept", "Liste der Bestandteile" genannt. Eine Stückliste/Formel zeigt also die Artikelkomponenten an.]]></value>
  </row>
  <row id="53007" trl="Y">
   <value column="Name" original="Product Planning Data">Produktplanungsdaten</value>
@@ -1802,8 +1800,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="53114" trl="Y">
-  <value column="Name" original="Asset Activation/Disposal">Vermögenswert aktivieren/entsorgen</value>
-  <value column="Description" original="Activate/Dispose of Assets">Aktivierung/Entsorgung von Vermögenswerten</value>
+  <value column="Name" original="Asset Disposal">Vermögenswert aktivieren/entsorgen</value>
+  <value column="Description" original="Dispose of Assets">Aktivierung/Entsorgung von Vermögenswerten</value>
   <value column="Help" original=""/>
  </row>
  <row id="53115" trl="Y">
@@ -1841,6 +1839,11 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="This window allow import Inventory Move transaction">Dieses Fenster ermöglicht den Import von Lagerbewegungstransaktionen</value>
   <value column="Help" original=""/>
  </row>
+ <row id="53124" trl="N">
+  <value column="Name" original="Chart">Chart</value>
+  <value column="Description" original="Chart Definition">Chart Definition</value>
+  <value column="Help" original=""/>
+ </row>
  <row id="53125" trl="Y">
   <value column="Name" original="Fact Reconciliation">Fact Reconciliation</value>
   <value column="Description" original=""/>
@@ -1869,6 +1872,36 @@ MRP - 110	 No exists Dem</value>
  <row id="53150" trl="Y">
   <value column="Name" original="Part Type">Teileart</value>
   <value column="Description" original="Manufacturing Part Types">Teileart</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53152" trl="N">
+  <value column="Name" original="Contact">Contact</value>
+  <value column="Description" original="Maintain Contacts">Maintain Contacts</value>
+  <value column="Help" original="The Contact Window allows you to maintain Contacts who are individuals you deal with.  Contacts may also be internal or external users who can log into the system and have access to functionality via one or more roles.  A contact can also be a business partner contact.">The Contact Window allows you to maintain Contacts who are individuals you deal with.  Contacts may also be internal or external users who can log into the system and have access to functionality via one or more roles.  A contact can also be a business partner contact.</value>
+ </row>
+ <row id="53153" trl="N">
+  <value column="Name" original="Lead">Lead</value>
+  <value column="Description" original="Maintain Leads">Maintain Leads</value>
+  <value column="Help" original="The Lead Window allows you to maintain Sales Leads.  These are unqualified contacts to who you wish to market to. ">The Lead Window allows you to maintain Sales Leads.  These are unqualified contacts to who you wish to market to. </value>
+ </row>
+ <row id="53154" trl="N">
+  <value column="Name" original="Sales Stage">Sales Stage</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53155" trl="N">
+  <value column="Name" original="Sales Opportunity">Sales Opportunity</value>
+  <value column="Description" original="A potential sale">A potential sale</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53156" trl="N">
+  <value column="Name" original="Sales Rep Dashboard">Sales Rep Dashboard</value>
+  <value column="Description" original="The Sales Rep Dashboard provides a single location for managing sales opportunities">The Sales Rep Dashboard provides a single location for managing sales opportunities</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53165" trl="N">
+  <value column="Name" original="Customer">Customer</value>
+  <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200000" trl="Y">
@@ -1983,12 +2016,142 @@ MRP - 110	 No exists Dem</value>
  </row>
  <row id="200031" trl="Y">
   <value column="Name" original="Payments into Batch">Zahlungen in Sammler</value>
-  <value column="Description" original="Process Receipts">Zahlungen verarbeiten</value>
-  <value column="Help" original="The Process Receipts Window allows you to enter receipts for invoices.  If the payment is for a single invoice then it can be processed here.">The Process Receipts Window allows you to enter receipts for invoices.  If the payment is for a single invoice then it can be processed here.</value>
+  <value column="Description" original="Process Payments">Zahlungen verarbeiten</value>
+  <value column="Help" original="The Process Payments Window allows you to enter payments for invoices.  If the payment is for a single invoice then it can be processed here.">The Process Receipts Window allows you to enter receipts for invoices.  If the payment is for a single invoice then it can be processed here.</value>
  </row>
  <row id="200034" trl="Y">
   <value column="Name" original="Context Help">Kontexthilfe</value>
   <value column="Description" original="Maintain Context Helps">Kontexthilfen verwalten</value>
   <value column="Help" original="The Context Help window defines the context help message text to display in the help pane. It is for Web UI only.">The Context Help window defines the context help message text to display in the help pane. It is for Web UI only.</value>
+ </row>
+ <row id="200036" trl="N">
+  <value column="Name" original="1099 Box">1099 Box</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200043" trl="N">
+  <value column="Name" original="Cost Adjustment">Cost Adjustment</value>
+  <value column="Description" original="Enter Inventory Cost Adjustment">Enter Inventory Cost Adjustment</value>
+  <value column="Help" original="The Cost Adjustment Window allow user to enter cost adjustment for products">The Cost Adjustment Window allow user to enter cost adjustment for products</value>
+ </row>
+ <row id="200044" trl="N">
+  <value column="Name" original="Tax Provider Configuration">Tax Provider Configuration</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200045" trl="N">
+  <value column="Name" original="Tax Provider">Tax Provider</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200046" trl="N">
+  <value column="Name" original="Address Validation Configuration">Address Validation Configuration</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200047" trl="N">
+  <value column="Name" original="Address Validation">Address Validation</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200048" trl="N">
+  <value column="Name" original="Address Transaction">Address Transaction</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200049" trl="N">
+  <value column="Name" original="Status Line">Status Line</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200054" trl="N">
+  <value column="Name" original="Dummy">Dummy</value>
+  <value column="Description" original="This window if for save preference for process parameter panel and info window in case open from menu (stand alone window)">This window if for save preference for process parameter panel and info window in case open from menu (stand alone window)</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200059" trl="N">
+  <value column="Name" original="Recurring Group">Recurring Group</value>
+  <value column="Description" original="Recurring Group">Recurring Group</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200061" trl="N">
+  <value column="Name" original="Country Group">Country Group</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200063" trl="N">
+  <value column="Name" original="Import Template">Import Template</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200073" trl="N">
+  <value column="Name" original="User Preference">User Preference</value>
+  <value column="Description" original="This window is use to set up the preferences entries for each user.">This window is use to set up the preferences entries for each user.</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200074" trl="N">
+  <value column="Name" original="Locator Type">Locator Type</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200083" trl="N">
+  <value column="Name" original="Menu favourites">Menu favourites</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200086" trl="N">
+  <value column="Name" original="CSS Style">CSS Style</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200087" trl="N">
+  <value column="Name" original="Field Suggestions">Field Suggestions</value>
+  <value column="Description" original="Suggestions for field name, description and help.">Suggestions for field name, description and help.</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200088" trl="N">
+  <value column="Name" original="Context Help Suggestion">Context Help Suggestion</value>
+  <value column="Description" original="Review context help suggestion from tenant">Review context help suggestion from tenant</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200089" trl="N">
+  <value column="Name" original="Post-it">Post-it</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200090" trl="N">
+  <value column="Name" original="Document Status">Document Status</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200092" trl="N">
+  <value column="Name" original="All Clients">All Clients</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200093" trl="N">
+  <value column="Name" original="All Users">All Users</value>
+  <value column="Description" original="Users from All Clients">Users from All Clients</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200095" trl="N">
+  <value column="Name" original="Process Customization">User defined Process</value>
+  <value column="Description" original="Define Process Customization for Role/User">User defined Process</value>
+  <value column="Help" original="The customization values defined here overwrite/replace the default system definition if defined.">User defined Process</value>
+ </row>
+ <row id="200107" trl="N">
+  <value column="Name" original="All User Roles">All User Roles</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200108" trl="N">
+  <value column="Name" original="All Roles">All Roles</value>
+  <value column="Description" original="Roles from All Clients">Roles from All Clients</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200109" trl="N">
+  <value column="Name" original="User Queries">User Queries</value>
+  <value column="Description" original="View and maintain saved queries">View and maintain saved queries</value>
+  <value column="Help" original=""/>
  </row>
 </idempiereTrl>

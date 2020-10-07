@@ -6,11 +6,12 @@
   <value column="EMailFooter" original=""/>
   <value column="EMailHeader" original=""/>
   <value column="WebInfo" original=""/>
-  <value column="WebParam1" original="ADempiere120x60.gif">Adempiere120x60.gif</value>
-  <value column="WebParam2" original="&lt;h1&gt;Web Store&lt;/h1&gt;"><![CDATA[<h1>Webshop</h1>]]></value>
-  <value column="WebParam3" original="Parameter3">Parameter3</value>
-  <value column="WebParam4" original="Parameter4">Parameter4</value>
-  <value column="WebParam5" original="Parameter5">Parameter5</value>
-  <value column="WebParam6" original="Parameter6">Parameter6</value>
+  <value column="WebParam1" original="ADempiere120x60.gif">ADempiere120x60.gif</value>
+  <value column="WebParam2" original="&lt;h1&gt;Web Store&lt;/h1&gt;">
+Webshop</value>
+  <value column="WebParam3" original="Parameter3">Parameter 3</value>
+  <value column="WebParam4" original="Parameter4">Parameter 4</value>
+  <value column="WebParam5" original="Parameter5">Parameter 5</value>
+  <value column="WebParam6" original="Parameter6">Parameter 6</value>
  </row>
 </idempiereTrl>

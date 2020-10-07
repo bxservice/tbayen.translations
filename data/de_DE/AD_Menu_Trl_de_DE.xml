@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
-<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
-<idempiereTrl language="de_DE" table="AD_Menu">
+<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Menu">
  <row id="100" trl="Y">
   <value column="Name" original="Invoice Inquiry">Rechnungsübersichten</value>
   <value column="Description" original=""/>
@@ -124,7 +122,7 @@
  </row>
  <row id="456" trl="Y">
   <value column="Name" original="Server">Server</value>
-  <value column="Description" original="Adempiere Server Maintenance">iDempiere Server-Wartung</value>
+  <value column="Description" original="iDempiere Server Maintenance">iDempiere Server-Wartung</value>
  </row>
  <row id="457" trl="Y">
   <value column="Name" original="Sales Orders">Aufträge</value>
@@ -144,7 +142,7 @@
  </row>
  <row id="501" trl="Y">
   <value column="Name" original="Workflow">Workflow</value>
-  <value column="Description" original="Adempiere Workflow">iDempiere-Workflow</value>
+  <value column="Description" original="iDempiere Workflow">iDempiere-Workflow</value>
  </row>
  <row id="522" trl="Y">
   <value column="Name" original="Costing">Kostenrechnung</value>
@@ -263,8 +261,8 @@
   <value column="Description" original="Process Asset Revaluations">Neubewertung von Vermögenswerten verarbeiten</value>
  </row>
  <row id="53139" trl="Y">
-  <value column="Name" original="Splits Transfers and Disposals">Übertragungen/Abgänge aufteilen</value>
-  <value column="Description" original="Process Assets Splits Transfers and Disposals">Der Vorgang trennt Übertragungen und Abgänge</value>
+  <value column="Name" original="Asset Transactions ">Übertragungen/Abgänge aufteilen</value>
+  <value column="Description" original="Asset Transactions (Addition, Disposal, Split &amp; Transfer)">Der Vorgang trennt Übertragungen und Abgänge</value>
  </row>
  <row id="53149" trl="Y">
   <value column="Name" original="Depreciation Processing">Abschreibungen verarbeiten</value>
@@ -288,6 +286,18 @@
  </row>
  <row id="53247" trl="Y">
   <value column="Name" original="EDI">EDI</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53296" trl="N">
+  <value column="Name" original="Manufacturing">Manufacturing</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="53363" trl="N">
+  <value column="Name" original="Sales Management">Sales Management</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200095" trl="N">
+  <value column="Name" original="Import Template">Import Template</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>

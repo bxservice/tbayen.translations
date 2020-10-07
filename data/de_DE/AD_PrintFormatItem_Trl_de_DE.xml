@@ -197,4 +197,9 @@
   <value column="PrintName" original="BOM Verified">Stückliste geprüft</value>
   <value column="PrintNameSuffix" original=""/>
  </row>
+ <row id="1000079" trl="Y">
+  <value column="Name" original="VendorProductNo">LieferantArtikelnr.</value>
+  <value column="PrintName" original="VendorProductNo">LieferantArtikelnr.</value>
+  <value column="PrintNameSuffix" original=""/>
+ </row>
 </idempiereTrl>

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
-<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
-<idempiereTrl language="de_DE" table="AD_FieldGroup">
+<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_FieldGroup">
  <row id="101" trl="Y">
   <value column="Name" original="Status">Status</value>
  </row>
@@ -193,5 +191,23 @@
  </row>
  <row id="200012" trl="Y">
   <value column="Name" original="Warehouse Accounts">Lagerkonten</value>
+ </row>
+ <row id="200013" trl="N">
+  <value column="Name" original="Product Category Accounts">Product Category Accounts</value>
+ </row>
+ <row id="200014" trl="N">
+  <value column="Name" original="Business Partner Group Accounts">Business Partner Group Accounts</value>
+ </row>
+ <row id="200015" trl="N">
+  <value column="Name" original="Technical">Technisch</value>
+ </row>
+ <row id="200016" trl="N">
+  <value column="Name" original="Foreign Key">Fremdschlüssel</value>
+ </row>
+ <row id="200018" trl="N">
+  <value column="Name" original="Background Job">Hintergrund Job</value>
+ </row>
+ <row id="200022" trl="N">
+  <value column="Name" original="Placeholders">Platzhalter</value>
  </row>
 </idempiereTrl>
