@@ -1351,7 +1351,7 @@ Before(!) entering transactions, Start the Replication Run to set up the remote 
   <value column="Help" original=""/>
  </row>
  <row id="50007" trl="Y">
-  <value column="Name" original="Dashboard Content">Dashboardinhalt bearbeiten</value>
+  <value column="Name" original="Dashboard Content">Dashboardinhalt</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

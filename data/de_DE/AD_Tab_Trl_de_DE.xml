@@ -4195,7 +4195,7 @@ The creation of  "Client and Org" shared records is the default and is ignored.]
   <value column="Help" original=""/>
  </row>
  <row id="50010" trl="Y">
-  <value column="Name" original="Dashboard Content">Bearbeiten</value>
+  <value column="Name" original="Dashboard Content">Dashboardinhalt</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
