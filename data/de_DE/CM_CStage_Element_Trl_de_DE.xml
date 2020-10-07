@@ -3,7 +3,7 @@
 <!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
 <idempiereTrl language="de_DE" table="CM_CStage_Element">
  <row id="100" trl="Y">
-  <value column="Name" original="headline1">Überschrift1</value>
+  <value column="Name" original="headline1">Ãœberschrift1</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -13,7 +13,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="104" trl="Y">
-  <value column="Name" original="headline1">Überschrift1</value>
+  <value column="Name" original="headline1">Ãœberschrift1</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -23,7 +23,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="106" trl="Y">
-  <value column="Name" original="headline1">Überschrift1</value>
+  <value column="Name" original="headline1">Ãœberschrift1</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -33,7 +33,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="114" trl="Y">
-  <value column="Name" original="headline1">Überschrift1</value>
+  <value column="Name" original="headline1">Ãœberschrift1</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

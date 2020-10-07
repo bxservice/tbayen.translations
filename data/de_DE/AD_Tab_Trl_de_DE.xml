@@ -5470,12 +5470,6 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original="Process the Disposal">Entsorgung/Aktivierung verarbeiten</value>
   <value column="Help" original=""/>
  </row>
- <row id="53326" trl="Y">
-  <value column="Name" original="Step1 Select an Asset">Schritt 1: Vermögenswert auswählen</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Select Asset for Disposal">Vermögenswert zur Entsorgung auswählen</value>
-  <value column="Help" original=""/>
- </row>
  <row id="53327" trl="Y">
   <value column="Name" original="Asset Change account">Asset Change account</value>
   <value column="CommitWarning" original=""/>
