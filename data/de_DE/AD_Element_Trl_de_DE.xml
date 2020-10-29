@@ -58844,8 +58844,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202241" trl="N">
-  <value column="Name" original="Address">Address</value>
-  <value column="PrintName" original="Address">Address</value>
+  <value column="Name" original="Address">Addresse</value>
+  <value column="PrintName" original="Address">Addresse</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -58855,8 +58855,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202242" trl="N">
-  <value column="Name" original="City State Zip">City State Zip</value>
-  <value column="PrintName" original="City State Zip">City State Zip</value>
+  <value column="Name" original="City State Zip">Stadt Land PLZ</value>
+  <value column="PrintName" original="City State Zip">Stadt Land PLZ</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -58877,8 +58877,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202244" trl="N">
-  <value column="Name" original="Zip">Zip</value>
-  <value column="PrintName" original="Zip">Zip</value>
+  <value column="Name" original="Zip">PLZ</value>
+  <value column="PrintName" original="Zip">PLZ</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -58888,8 +58888,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202245" trl="N">
-  <value column="Name" original="Country">Country</value>
-  <value column="PrintName" original="Country">Country</value>
+  <value column="Name" original="Country">Land</value>
+  <value column="PrintName" original="Country">Land</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -58987,8 +58987,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202254" trl="N">
-  <value column="Name" original="Business Partner">Business Partner</value>
-  <value column="PrintName" original="Business Partner">Business Partner</value>
+  <value column="Name" original="Business Partner">Geschäftspartner</value>
+  <value column="PrintName" original="Business Partner">Geschäftspartner</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -58998,8 +58998,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202255" trl="N">
-  <value column="Name" original="Selected Product Name">Selected Product Name</value>
-  <value column="PrintName" original="Selected Product Name">Selected Product Name</value>
+  <value column="Name" original="Selected Product Name">Ausgewählter Artikelname</value>
+  <value column="PrintName" original="Selected Product Name">Ausgewählter Artikelname</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -59009,8 +59009,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202256" trl="N">
-  <value column="Name" original="Selected Product Value">Selected Product Value</value>
-  <value column="PrintName" original="Selected Product Value">Selected Product Value</value>
+  <value column="Name" original="Selected Product Value">Ausgewählte Artikelnummer</value>
+  <value column="PrintName" original="Selected Product Value">Ausgewählte Artikelnummer</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -59020,8 +59020,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202257" trl="N">
-  <value column="Name" original="Selected Product Description">Selected Product Description</value>
-  <value column="PrintName" original="Selected Product Description">Selected Product Description</value>
+  <value column="Name" original="Selected Product Description">Ausgewählte Artikelbeschreibung</value>
+  <value column="PrintName" original="Selected Product Description">Ausgewählte Artikelbeschreibung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61118,8 +61118,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202879" trl="N">
-  <value column="Name" original="Automatic Commit">Automatic Commit</value>
-  <value column="PrintName" original="Automatic Commit">Automatic Commit</value>
+  <value column="Name" original="Automatic Commit">Automatischer Commit</value>
+  <value column="PrintName" original="Automatic Commit">Automatischer Commit</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61129,8 +61129,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202880" trl="N">
-  <value column="Name" original="Automatic New Record">Automatic New Record</value>
-  <value column="PrintName" original="Automatic New Record">Automatic New Record</value>
+  <value column="Name" original="Automatic New Record">Automatisch neuer Datensatz</value>
+  <value column="PrintName" original="Automatic New Record">Automatisch neuer Datensatz</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61173,8 +61173,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202886" trl="N">
-  <value column="Name" original="Available for Replenishment">Available for Replenishment</value>
-  <value column="PrintName" original="Available for Replenishment">Available for Replenishment</value>
+  <value column="Name" original="Available for Replenishment">Verfügbar zum Auffüllen</value>
+  <value column="PrintName" original="Available for Replenishment">Verfügbar zum Auffüllen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61184,8 +61184,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202887" trl="N">
-  <value column="Name" original="Available for Reservation">Available for Reservation</value>
-  <value column="PrintName" original="Available for Reservation">Available for Reservation</value>
+  <value column="Name" original="Available for Reservation">Verfügbar für Reservierungen</value>
+  <value column="PrintName" original="Available for Reservation">Verfügbar für Reservierungen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61195,8 +61195,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202888" trl="N">
-  <value column="Name" original="Available for Shipping">Available for Shipping</value>
-  <value column="PrintName" original="Available for Shipping">Available for Shipping</value>
+  <value column="Name" original="Available for Shipping">Verfügbar zur Auslieferung</value>
+  <value column="PrintName" original="Available for Shipping">Verfügbar zur Auslieferung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61206,8 +61206,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202889" trl="N">
-  <value column="Name" original="Locator Type">Locator Type</value>
-  <value column="PrintName" original="Locator Type">Locator Type</value>
+  <value column="Name" original="Locator Type">Art des Lagerorts</value>
+  <value column="PrintName" original="Locator Type">Art des Lagerorts</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61547,8 +61547,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="203069" trl="N">
-  <value column="Name" original="Document Status">Document Status</value>
-  <value column="PrintName" original="Document Status">Document Status</value>
+  <value column="Name" original="Document Status">Belegstatus</value>
+  <value column="PrintName" original="Document Status">Belegstatus</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61778,7 +61778,7 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="203157" trl="N">
-  <value column="Name" original="Detailed Zoom Across">Detailed Zoom Across</value>
+  <value column="Name" original="Detailed Zoom Across">Detailliertes Zoom</value>
   <value column="PrintName" original="Detailed Zoom Across">Detailliertes Zoom</value>
   <value column="Description" original=""/>
   <value column="Help" original="The toolbar button zoom across discover where the record on screen is used on first tabs of windows.  With detailed zoom across it goes deeper in the discovery of relationships within detailed tabs.">Der Toolbar-Knopf Zoomm zeigt an, wo der aktuelle Datensatz im ersten Register eines Fensters benutzt wird. Mit 'detaillierter Zoom' geht prüft er auch in Detail-Registern.</value>
@@ -61921,10 +61921,10 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="203216" trl="N">
-  <value column="Name" original="Input field validation">Input field validation</value>
-  <value column="PrintName" original="Input field validation">Input field validation</value>
-  <value column="Description" original="Input field validaton query">Input field validaton query</value>
-  <value column="Help" original="Input field validaton query">Input field validaton query</value>
+  <value column="Name" original="Input field validation">Eingabefeldüberprüfung</value>
+  <value column="PrintName" original="Input field validation">Eingabefeldüberprüfung</value>
+  <value column="Description" original="Input field validaton query">Abfrage zur Eingabefeldüberprüfung</value>
+  <value column="Help" original="Input field validaton query">Abfrage zur Eingabefeldüberprüfung</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -61943,8 +61943,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="203266" trl="N">
-  <value column="Name" original="No Expire">No Expire</value>
-  <value column="PrintName" original="No Expire">No Expire</value>
+  <value column="Name" original="No Expire">Verfällt nicht</value>
+  <value column="PrintName" original="No Expire">Verfällt nicht</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61989,8 +61989,8 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="203288" trl="N">
-  <value column="Name" original="One Payment Per Invoice">One Payment Per Invoice</value>
-  <value column="PrintName" original="One Payment Per Invoice">One Payment Per Invoice</value>
+  <value column="Name" original="One Payment Per Invoice">Eine Zahlung je Rechnung</value>
+  <value column="PrintName" original="One Payment Per Invoice">Eine Zahlung je Rechnung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -62253,9 +62253,9 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="203357" trl="N">
-  <value column="Name" original="Only positive balance">Only positive balance</value>
-  <value column="PrintName" original="Only positive balance">Only positive balance</value>
-  <value column="Description" original="Include only positive balance">Include only positive balance</value>
+  <value column="Name" original="Only positive balance">Nur mit positivem Saldo</value>
+  <value column="PrintName" original="Only positive balance">Nur mit positivem Saldo</value>
+  <value column="Description" original="Include only positive balance">Nur Einträge mit positivem Saldo aufnehmen</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
