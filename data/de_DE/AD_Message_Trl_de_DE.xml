@@ -6560,7 +6560,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200350" trl="N">
-  <value column="MsgText" original="More Preferences">Weiter Voreinstellungen</value>
+  <value column="MsgText" original="More Preferences">Weitere Voreinstellungen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200351" trl="N">
