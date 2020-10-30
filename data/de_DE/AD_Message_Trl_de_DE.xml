@@ -6804,11 +6804,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200510" trl="N">
-  <value column="MsgText" original="Close Windows to the Right">rechtes Fenster schließen</value>
+  <value column="MsgText" original="Close Windows to the Right">Fenster zur Rechten schließen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200511" trl="N">
-  <value column="MsgText" original="Close Windows to the Left">linkes Fenster schließen</value>
+  <value column="MsgText" original="Close Windows to the Left">Fenster zur Linken schließen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200512" trl="N">
