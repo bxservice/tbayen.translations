@@ -42575,8 +42575,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="200083" trl="Y">
-  <value column="Name" original="Show in Grid">Im Raster anzeigen</value>
-  <value column="PrintName" original="Show in Grid">Im Raster anzeigen</value>
+  <value column="Name" original="Show in Grid">In Tabellenansicht anzeigen</value>
+  <value column="PrintName" original="Show in Grid">In Tabellenansicht anzeigen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -61252,7 +61252,7 @@ Example this value = 60. user can't reuse password in history has age < 60
  <row id="202920" trl="N">
   <value column="Name" original="Toggle on Double Click">Mit Doppelklick umschalten</value>
   <value column="PrintName" original="Toggle on Double Click">Mit Doppelklick umschalten</value>
-  <value column="Description" original="Defines if double click in a field on grid mode switch to form view">Legt fest, ob ein Doppelklick auf ein Feld im Rastermodus automatisch in die Formularansicht umschaltet.</value>
+  <value column="Description" original="Defines if double click in a field on grid mode switch to form view">Legt fest, ob ein Doppelklick auf ein Feld in der Tabellenansicht automatisch in die Formularansicht umschaltet.</value>
   <value column="Help" original="Defines if double click in a field on grid mode switch to form view">Defines if double click in a field on grid mode switch to form view</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -62167,7 +62167,7 @@ Example this value = 60. user can't reuse password in history has age < 60
  <row id="203345" trl="N">
   <value column="Name" original="View find result">Ergebnisdarstellung nach Suche</value>
   <value column="PrintName" original="View find result">Ergebnisdarstellung nach Suche</value>
-  <value column="Description" original="Does the system must switch to grid mode after the Find panel closes">Soll das System nach der Suche automatisch in die Rasterdarstellung schalten?</value>
+  <value column="Description" original="Does the system must switch to grid mode after the Find panel closes">Soll das System nach der Suche automatisch in die Tabellenansicht schalten?</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -62178,7 +62178,7 @@ Example this value = 60. user can't reuse password in history has age < 60
  <row id="203346" trl="N">
   <value column="Name" original="Threshold">Schwellwert</value>
   <value column="PrintName" original="Threshold">Schwellwert</value>
-  <value column="Description" original="Force grid view when Find panel closes if number of records exceed threshold">Rasterdarstellung, sobald die Anzahl Sätze im Suchergebnis den Schwellwert überschreitet</value>
+  <value column="Description" original="Force grid view when Find panel closes if number of records exceed threshold">Tabellenansicht, sobald die Anzahl Sätze im Suchergebnis den Schwellwert überschreitet</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>

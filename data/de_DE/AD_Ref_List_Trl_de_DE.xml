@@ -5589,7 +5589,7 @@
   <value column="Description" original="Use what is defined on the Sysconfig key">Je nachdem, was im Sysconfig-Schlüssel steht</value>
  </row>
  <row id="200475" trl="N">
-  <value column="Name" original="Always in Grid View">Immer im Rastermodus</value>
+  <value column="Name" original="Always in Grid View">Immer in Tabellenansicht</value>
   <value column="Description" original=""/>
  </row>
  <row id="200476" trl="N">
