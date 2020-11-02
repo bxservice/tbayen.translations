@@ -5477,7 +5477,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="200374" trl="N">
-  <value column="Name" original="Code 39 with Checksum">Code 39 mit Prüfsumme Checksum</value>
+  <value column="Name" original="Code 39 with Checksum">Code 39 mit Prüfsumme</value>
   <value column="Description" original=""/>
  </row>
  <row id="200375" trl="N">

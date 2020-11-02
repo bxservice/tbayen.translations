@@ -58844,8 +58844,8 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202241" trl="N">
-  <value column="Name" original="Address">Addresse</value>
-  <value column="PrintName" original="Address">Addresse</value>
+  <value column="Name" original="Address">Adresse</value>
+  <value column="PrintName" original="Address">Adresse</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
