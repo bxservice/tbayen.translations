@@ -6228,51 +6228,51 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200187" trl="N">
-  <value column="MsgText" original="Neither index nor unique constraint with {0}">Neither index nor unique constraint with {0}</value>
+  <value column="MsgText" original="Neither index nor unique constraint with {0}">Weder ein Index noch ein Unique Constraint für {0}</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200188" trl="N">
-  <value column="MsgText" original="Not an active database view">Not an active database view</value>
+  <value column="MsgText" original="Not an active database view">Kein aktiver Datenbankview</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200189" trl="N">
-  <value column="MsgText" original="No view components specified">No view components specified</value>
+  <value column="MsgText" original="No view components specified">Keine Komponenten für den View definiert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200190" trl="N">
-  <value column="MsgText" original="No view columns specified">No view columns specified</value>
+  <value column="MsgText" original="No view columns specified">Keine Spalten für den View definiert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200191" trl="N">
-  <value column="MsgText" original="Failed to create or replace view">Failed to create or replace view</value>
+  <value column="MsgText" original="Failed to create or replace view">Konnte View nicht erstellen oder ersetzen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200192" trl="N">
-  <value column="MsgText" original="Created or replaced view successfully">Created or replaced view successfully</value>
+  <value column="MsgText" original="Created or replaced view successfully">View erfolgreich erstellt oder ersetzt</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200194" trl="N">
-  <value column="MsgText" original="No index columns specified">No index columns specified</value>
+  <value column="MsgText" original="No index columns specified">Keine Indexspalte definiert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200195" trl="N">
-  <value column="MsgText" original="Failed to create index">Failed to create index</value>
+  <value column="MsgText" original="Failed to create index">Index konnte nicht erstellt werden</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200196" trl="N">
-  <value column="MsgText" original="Created index succesfully">Created index succesfully</value>
+  <value column="MsgText" original="Created index succesfully">Index erfolgreich erstellt</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200197" trl="N">
-  <value column="MsgText" original="Failed to modify index">Failed to modify index</value>
+  <value column="MsgText" original="Failed to modify index">Änderung am Index gescheitert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200198" trl="N">
-  <value column="MsgText" original="Modified index successfully">Modified index successfully</value>
+  <value column="MsgText" original="Modified index successfully">Index erfolgreich geändert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200199" trl="N">
-  <value column="MsgText" original="No changes to the index">No changes to the index</value>
+  <value column="MsgText" original="No changes to the index">Keine Änderungen am Index</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200201" trl="N">
@@ -6280,39 +6280,39 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200202" trl="N">
-  <value column="MsgText" original="Process table: ">Process table: </value>
+  <value column="MsgText" original="Process table: ">Tabelle bearbeiten: </value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200203" trl="N">
-  <value column="MsgText" original="Create table index: ">Create table index: </value>
+  <value column="MsgText" original="Create table index: ">Tabellenindex erzeugen: </value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200204" trl="N">
-  <value column="MsgText" original="Validate table index: ">Validate table index: </value>
+  <value column="MsgText" original="Validate table index: ">Tabellenindex prüfen: </value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200205" trl="N">
-  <value column="MsgText" original="Processed table: {0}, Processed foreign key: {1}, Error: {2}">Processed table: {0}, Processed foreign key: {1}, Error: {2}</value>
+  <value column="MsgText" original="Processed table: {0}, Processed foreign key: {1}, Error: {2}">Bearbeitete Tabelle: {0}, bearbeiteter Fremdschlüssel: {1}, Fehler: {2}</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200206" trl="N">
-  <value column="MsgText" original="Process table: ">Process table: </value>
+  <value column="MsgText" original="Process table: ">Tabelle bearbeiten: </value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200207" trl="N">
-  <value column="MsgText" original="There are records that haven't been saved yet. ">There are records that haven't been saved yet. </value>
-  <value column="MsgTip" original="Do you still want to proceed?">Do you still want to proceed?</value>
+  <value column="MsgText" original="There are records that haven't been saved yet. ">Es gibt Datensätze, die noch nicht gespeichert wurden. </value>
+  <value column="MsgTip" original="Do you still want to proceed?">Wollen Sie dennoch fortfahren?</value>
  </row>
  <row id="200208" trl="N">
-  <value column="MsgText" original="You're trying to close this tab.">You're trying to close this tab.</value>
+  <value column="MsgText" original="You're trying to close this tab.">Sie versuchen, dieses Register zu schliessen.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200209" trl="N">
-  <value column="MsgText" original="Process column: ">Process column: </value>
+  <value column="MsgText" original="Process column: ">Spalte bearbeiten: </value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200210" trl="N">
-  <value column="MsgText" original="Foreign key already exists: ">Foreign key already exists: </value>
+  <value column="MsgText" original="Foreign key already exists: ">Der Fremdschlüssel existiert bereits: </value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200211" trl="N">
@@ -6560,7 +6560,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200350" trl="N">
-  <value column="MsgText" original="More Preferences">Weiter Voreinstellungen</value>
+  <value column="MsgText" original="More Preferences">Weitere Voreinstellungen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200351" trl="N">
@@ -6804,11 +6804,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200510" trl="N">
-  <value column="MsgText" original="Close Windows to the Right">rechtes Fenster schließen</value>
+  <value column="MsgText" original="Close Windows to the Right">Fenster zur Rechten schließen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200511" trl="N">
-  <value column="MsgText" original="Close Windows to the Left">linkes Fenster schließen</value>
+  <value column="MsgText" original="Close Windows to the Left">Fenster zur Linken schließen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200512" trl="N">

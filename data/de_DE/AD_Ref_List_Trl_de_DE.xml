@@ -5461,7 +5461,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="200345" trl="N">
-  <value column="Name" original="Payment">Payment</value>
+  <value column="Name" original="Payment">Zahlung</value>
   <value column="Description" original=""/>
  </row>
  <row id="200356" trl="N">
@@ -5477,43 +5477,43 @@
   <value column="Description" original=""/>
  </row>
  <row id="200374" trl="N">
-  <value column="Name" original="Code 39 with Checksum">Code 39 with Checksum</value>
+  <value column="Name" original="Code 39 with Checksum">Code 39 mit Prüfsumme</value>
   <value column="Description" original=""/>
  </row>
  <row id="200375" trl="N">
-  <value column="Name" original="Code 39 w/o Checksum">Code 39 w/o Checksum</value>
+  <value column="Name" original="Code 39 w/o Checksum">Code 39 ohne Prüfsumme</value>
   <value column="Description" original=""/>
  </row>
  <row id="200376" trl="N">
   <value column="Name" original="Manual">Manual</value>
-  <value column="Description" original="Manual List">Manual List</value>
+  <value column="Description" original="Manual List">manuelle Liste</value>
  </row>
  <row id="200396" trl="N">
   <value column="Name" original="QR Code">QR Code</value>
   <value column="Description" original=""/>
  </row>
  <row id="200438" trl="N">
-  <value column="Name" original="Force Background">Force Background</value>
-  <value column="Description" original="It forces the report/process to always run on background. This can be useful for slow reports.">It forces the report/process to always run on background. This can be useful for slow reports.</value>
+  <value column="Name" original="Force Background">Hintergrund erzwingen</value>
+  <value column="Description" original="It forces the report/process to always run on background. This can be useful for slow reports.">Zwingt den Bericht / Prozess immer im Hintergrund zu laufen. Das kann für langsame Berichte sinnvoll sein.</value>
  </row>
  <row id="200439" trl="N">
-  <value column="Name" original="Force Foreground">Force Foreground</value>
-  <value column="Description" original="It forces the report/process to always run on foreground.">It forces the report/process to always run on foreground.</value>
+  <value column="Name" original="Force Foreground">Vordergrund erzwingen</value>
+  <value column="Description" original="It forces the report/process to always run on foreground.">Erzwingt, daß der Bericht / Prozess immer im Vordergrund läuft.</value>
  </row>
  <row id="200440" trl="N">
-  <value column="Name" original="Disallow multiple executions">Disallow multiple executions</value>
-  <value column="Description" original="Never allow to execute a process that is already running">Never allow to execute a process that is already running</value>
+  <value column="Name" original="Disallow multiple executions">Mehrfache Ausführung verbieten</value>
+  <value column="Description" original="Never allow to execute a process that is already running">Ein bereits laufender Prozess darf nicht noch einmal gestartet werden</value>
  </row>
  <row id="200441" trl="N">
-  <value column="Name" original="Disallow multiple executions with the same parameters">Disallow multiple executions with the same parameters</value>
-  <value column="Description" original="Allow to execute a process multiple times with different parameters.">Allow to execute a process multiple times with different parameters.</value>
+  <value column="Name" original="Disallow multiple executions with the same parameters">Mehrfache Ausführung mit identischen Parametern verbieten</value>
+  <value column="Description" original="Allow to execute a process multiple times with different parameters.">Prozesse dürfen mehrfach gestartet werden, wenn sie unterschiedliche Parameter haben.</value>
  </row>
  <row id="200445" trl="N">
-  <value column="Name" original="Info Window">Info Window</value>
+  <value column="Name" original="Info Window">Infofenster</value>
   <value column="Description" original=""/>
  </row>
  <row id="200448" trl="N">
-  <value column="Name" original="Deferred">Deferred</value>
+  <value column="Name" original="Deferred">Aufgeschoben</value>
   <value column="Description" original=""/>
  </row>
  <row id="200457" trl="N">
@@ -5557,15 +5557,15 @@
   <value column="Description" original=""/>
  </row>
  <row id="200467" trl="N">
-  <value column="Name" original="Delete">Delete</value>
+  <value column="Name" original="Delete">Löschen</value>
   <value column="Description" original=""/>
  </row>
  <row id="200468" trl="N">
-  <value column="Name" original="Deactivate">Deactivate</value>
+  <value column="Name" original="Deactivate">Deaktivieren</value>
   <value column="Description" original=""/>
  </row>
  <row id="200469" trl="N">
-  <value column="Name" original="Activate">Activate</value>
+  <value column="Name" original="Activate">Aktivieren</value>
   <value column="Description" original=""/>
  </row>
  <row id="200470" trl="N">
@@ -5586,14 +5586,14 @@
  </row>
  <row id="200474" trl="N">
   <value column="Name" original="Default">Default</value>
-  <value column="Description" original="Use what is defined on the Sysconfig key">Use what is defined on the Sysconfig key</value>
+  <value column="Description" original="Use what is defined on the Sysconfig key">Je nachdem, was im Sysconfig-Schlüssel steht</value>
  </row>
  <row id="200475" trl="N">
-  <value column="Name" original="Always in Grid View">Always in Grid View</value>
+  <value column="Name" original="Always in Grid View">Immer in Tabellenansicht</value>
   <value column="Description" original=""/>
  </row>
  <row id="200476" trl="N">
-  <value column="Name" original="According to threshold">According to threshold</value>
+  <value column="Name" original="According to threshold">Abhängig vom Schwellwert</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>
