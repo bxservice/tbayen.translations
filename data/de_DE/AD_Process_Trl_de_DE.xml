@@ -2183,7 +2183,7 @@ For example:<br />
 201803151607_ALL-CLIENTS-GardenWorld_Test123.zip</p>
 ]]></value>
  </row>
- <row id="200100" trl="N">
+ <row id="200100" trl="Y">
   <value column="Name" original="Create Credit Memo">Gutschrift erstellen</value>
   <value column="Description" original="Creates a credit memo based on the invoice.">Erstellt eine Gutschrift auf Basis der Rechnung</value>
   <value column="Help" original="The invoice should be correct and completed.">Die Rechnung sollte korrekt und fertiggestellt sein.</value>

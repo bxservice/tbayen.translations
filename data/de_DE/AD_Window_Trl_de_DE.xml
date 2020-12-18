@@ -2074,8 +2074,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="Recurring Group">Recurring Group</value>
   <value column="Help" original=""/>
  </row>
- <row id="200061" trl="N">
-  <value column="Name" original="Country Group">Country Group</value>
+ <row id="200061" trl="Y">
+  <value column="Name" original="Country Group">Ländergruppe</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
