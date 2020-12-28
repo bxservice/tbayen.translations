@@ -62252,7 +62252,7 @@ Example this value = 60. user can't reuse password in history has age < 60
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
- <row id="203357" trl="N">
+ <row id="203357" trl="Y">
   <value column="Name" original="Only positive balance">Nur mit positivem Saldo</value>
   <value column="PrintName" original="Only positive balance">Nur mit positivem Saldo</value>
   <value column="Description" original="Include only positive balance">Nur Einträge mit positivem Saldo aufnehmen</value>
