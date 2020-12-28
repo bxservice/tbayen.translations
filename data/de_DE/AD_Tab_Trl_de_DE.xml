@@ -5626,10 +5626,10 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53428" trl="N">
-  <value column="Name" original="Contact">Contact</value>
+ <row id="53428" trl="Y">
+  <value column="Name" original="Contact">Kontakt</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="The contact details">The contact details</value>
+  <value column="Description" original="The contact details">Kontaktdetails</value>
   <value column="Help" original=""/>
  </row>
  <row id="53429" trl="N">
@@ -6376,20 +6376,20 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200156" trl="N">
-  <value column="Name" original="Country Group">Country Group</value>
+ <row id="200156" trl="Y">
+  <value column="Name" original="Country Group">Ländergruppe</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200157" trl="N">
-  <value column="Name" original="Country">Country</value>
+ <row id="200157" trl="Y">
+  <value column="Name" original="Country">Land</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200158" trl="N">
-  <value column="Name" original="Country Group">Country Group</value>
+ <row id="200158" trl="Y">
+  <value column="Name" original="Country Group">Ländergruppe</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
