@@ -198,16 +198,16 @@
  <row id="200014" trl="N">
   <value column="Name" original="Business Partner Group Accounts">Business Partner Group Accounts</value>
  </row>
- <row id="200015" trl="N">
+ <row id="200015" trl="Y">
   <value column="Name" original="Technical">Technisch</value>
  </row>
- <row id="200016" trl="N">
+ <row id="200016" trl="Y">
   <value column="Name" original="Foreign Key">Fremdschlüssel</value>
  </row>
- <row id="200018" trl="N">
+ <row id="200018" trl="Y">
   <value column="Name" original="Background Job">Hintergrund Job</value>
  </row>
- <row id="200022" trl="N">
+ <row id="200022" trl="Y">
   <value column="Name" original="Placeholders">Platzhalter</value>
  </row>
 </idempiereTrl>

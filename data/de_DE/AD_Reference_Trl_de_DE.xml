@@ -2540,8 +2540,8 @@
   <value column="Description" original="Type of preference WEditor lie on (process, info window, window)">Type of preference WEditor lie on (process, info window, window)</value>
   <value column="Help" original=""/>
  </row>
- <row id="200092" trl="N">
-  <value column="Name" original="Country Group">Country Group</value>
+ <row id="200092" trl="Y">
+  <value column="Name" original="Country Group">Ländergruppe</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
