@@ -4768,12 +4768,12 @@
   <value column="Name" original="4_Actual Debt (Invoices)">4_Reale Verbindlichkeiten (Rechnungen)</value>
   <value column="Description" original=""/>
  </row>
- <row id="53703" trl="N">
-  <value column="Name" original="Fixed Price">Fixed Price</value>
+ <row id="53703" trl="Y">
+  <value column="Name" original="Fixed Price">Festpreis</value>
   <value column="Description" original=""/>
  </row>
- <row id="53704" trl="N">
-  <value column="Name" original="Discount">Discount</value>
+ <row id="53704" trl="Y">
+  <value column="Name" original="Discount">Rabatt</value>
   <value column="Description" original=""/>
  </row>
  <row id="53708" trl="Y">
@@ -4800,72 +4800,72 @@
   <value column="Name" original="Cold Call">Cold Call</value>
   <value column="Description" original=""/>
  </row>
- <row id="53717" trl="N">
-  <value column="Name" original="Existing Customer">Existing Customer</value>
+ <row id="53717" trl="Y">
+  <value column="Name" original="Existing Customer">bereits Kunde</value>
   <value column="Description" original=""/>
  </row>
- <row id="53718" trl="N">
-  <value column="Name" original="Employee">Employee</value>
+ <row id="53718" trl="Y">
+  <value column="Name" original="Employee">Angestellter</value>
   <value column="Description" original=""/>
  </row>
  <row id="53719" trl="Y">
   <value column="Name" original="Partner">Partner</value>
   <value column="Description" original=""/>
  </row>
- <row id="53720" trl="N">
-  <value column="Name" original="Conference">Conference</value>
+ <row id="53720" trl="Y">
+  <value column="Name" original="Conference">Konferenz</value>
   <value column="Description" original=""/>
  </row>
- <row id="53721" trl="N">
-  <value column="Name" original="Trade Show">Trade Show</value>
+ <row id="53721" trl="Y">
+  <value column="Name" original="Trade Show">Verkaufsveranstaltung</value>
   <value column="Description" original=""/>
  </row>
  <row id="53722" trl="N">
   <value column="Name" original="Web Site">Web Site</value>
   <value column="Description" original=""/>
  </row>
- <row id="53723" trl="N">
-  <value column="Name" original="Word of Mouth">Word of Mouth</value>
+ <row id="53723" trl="Y">
+  <value column="Name" original="Word of Mouth">Mundpropaganda</value>
   <value column="Description" original=""/>
  </row>
  <row id="53725" trl="Y">
   <value column="Name" original="Email">E-Mail</value>
   <value column="Description" original=""/>
  </row>
- <row id="53726" trl="N">
-  <value column="Name" original="New">New</value>
+ <row id="53726" trl="Y">
+  <value column="Name" original="New">Neu</value>
   <value column="Description" original=""/>
  </row>
- <row id="53727" trl="N">
-  <value column="Name" original="Working">Working</value>
+ <row id="53727" trl="Y">
+  <value column="Name" original="Working">in Bearbeitung</value>
   <value column="Description" original=""/>
  </row>
- <row id="53728" trl="N">
-  <value column="Name" original="Expired">Expired</value>
+ <row id="53728" trl="Y">
+  <value column="Name" original="Expired">Abgelaufen</value>
   <value column="Description" original=""/>
  </row>
- <row id="53729" trl="N">
-  <value column="Name" original="Recycled">Recycled</value>
+ <row id="53729" trl="Y">
+  <value column="Name" original="Recycled">Wiederverwertet</value>
   <value column="Description" original=""/>
  </row>
  <row id="53744" trl="Y">
   <value column="Name" original="Email">E-Mail</value>
   <value column="Description" original=""/>
  </row>
- <row id="53745" trl="N">
-  <value column="Name" original="Phone call">Phone call</value>
+ <row id="53745" trl="Y">
+  <value column="Name" original="Phone call">Anruf</value>
   <value column="Description" original=""/>
  </row>
- <row id="53746" trl="N">
-  <value column="Name" original="Meeting">Meeting</value>
+ <row id="53746" trl="Y">
+  <value column="Name" original="Meeting">Treffen</value>
   <value column="Description" original=""/>
  </row>
- <row id="53747" trl="N">
-  <value column="Name" original="Task">Task</value>
+ <row id="53747" trl="Y">
+  <value column="Name" original="Task">Aufgabe</value>
   <value column="Description" original=""/>
  </row>
- <row id="53748" trl="N">
-  <value column="Name" original="Converted">Converted</value>
+ <row id="53748" trl="Y">
+  <value column="Name" original="Converted">Konvertiert</value>
   <value column="Description" original=""/>
  </row>
  <row id="200008" trl="Y">
@@ -5276,32 +5276,32 @@
   <value column="Name" original="Product Cost">Produktkosten</value>
   <value column="Description" original=""/>
  </row>
- <row id="200135" trl="N">
-  <value column="Name" original="All">All</value>
+ <row id="200135" trl="Y">
+  <value column="Name" original="All">Alle</value>
   <value column="Description" original=""/>
  </row>
- <row id="200136" trl="N">
-  <value column="Name" original="Node">Node</value>
+ <row id="200136" trl="Y">
+  <value column="Name" original="Node">Knoten</value>
   <value column="Description" original=""/>
  </row>
- <row id="200137" trl="N">
-  <value column="Name" original="Physical Inventory">Physical Inventory</value>
+ <row id="200137" trl="Y">
+  <value column="Name" original="Physical Inventory">Physische Inventur</value>
   <value column="Description" original=""/>
  </row>
- <row id="200138" trl="N">
-  <value column="Name" original="Internal Use Inventory">Internal Use Inventory</value>
+ <row id="200138" trl="Y">
+  <value column="Name" original="Internal Use Inventory">Interne Inventur</value>
   <value column="Description" original=""/>
  </row>
- <row id="200139" trl="N">
-  <value column="Name" original="Fixed Assets Addition">Fixed Assets Addition</value>
+ <row id="200139" trl="Y">
+  <value column="Name" original="Fixed Assets Addition">Anlagenzugang</value>
   <value column="Description" original=""/>
  </row>
- <row id="200140" trl="N">
-  <value column="Name" original="Fixed Assets Disposal">Fixed Assets Disposal</value>
+ <row id="200140" trl="Y">
+  <value column="Name" original="Fixed Assets Disposal">Anlagenabgang</value>
   <value column="Description" original=""/>
  </row>
- <row id="200141" trl="N">
-  <value column="Name" original="Fixed Assets Depreciation">Fixed Assets Depreciation</value>
+ <row id="200141" trl="Y">
+  <value column="Name" original="Fixed Assets Depreciation">Abschreibung Anlagen</value>
   <value column="Description" original=""/>
  </row>
  <row id="200142" trl="N">
@@ -5336,56 +5336,56 @@
   <value column="Name" original="Character Variable">Character Variable</value>
   <value column="Description" original=""/>
  </row>
- <row id="200155" trl="N">
-  <value column="Name" original="Cost Adjustment">Cost Adjustment</value>
-  <value column="Description" original="Inventory Cost Adjustment">Inventory Cost Adjustment</value>
+ <row id="200155" trl="Y">
+  <value column="Name" original="Cost Adjustment">Kostenanpassung</value>
+  <value column="Description" original="Inventory Cost Adjustment">Kostenanpassung Inventur</value>
  </row>
- <row id="200156" trl="N">
-  <value column="Name" original="Until Acknowledge">Until Acknowledge</value>
-  <value column="Description" original="Repeat it until the message has been acknowledged">Repeat it until the message has been acknowledged</value>
+ <row id="200156" trl="Y">
+  <value column="Name" original="Until Acknowledge">Bis zur Bestätigung</value>
+  <value column="Description" original="Repeat it until the message has been acknowledged">Wiederholen, bis die Meldung bestätigt wurde</value>
  </row>
- <row id="200157" trl="N">
-  <value column="Name" original="Until Expiration or Acknowledge">Until Expiration or Acknowledge</value>
-  <value column="Description" original="Repeat it until the message expires or until it has been acknowledged, whatever happens first">Repeat it until the message expires or until it has been acknowledged, whatever happens first</value>
+ <row id="200157" trl="Y">
+  <value column="Name" original="Until Expiration or Acknowledge">Bis zur Bestätigung oder Verfall</value>
+  <value column="Description" original="Repeat it until the message expires or until it has been acknowledged, whatever happens first">Wiederholen bis die Meldung verfällt oder bestätigt wurde, je nachdem, was zuerst passiert</value>
  </row>
- <row id="200158" trl="N">
-  <value column="Name" original="Both">Both</value>
+ <row id="200158" trl="Y">
+  <value column="Name" original="Both">Beide</value>
   <value column="Description" original=""/>
  </row>
- <row id="200159" trl="N">
-  <value column="Name" original="Detail Tab">Detail Tab</value>
+ <row id="200159" trl="Y">
+  <value column="Name" original="Detail Tab">Detail Register</value>
   <value column="Description" original=""/>
  </row>
- <row id="200160" trl="N">
-  <value column="Name" original="Master Tab">Master Tab</value>
+ <row id="200160" trl="Y">
+  <value column="Name" original="Master Tab">Master Register</value>
   <value column="Description" original=""/>
  </row>
- <row id="200161" trl="N">
-  <value column="Name" original="Do Not Create">Do Not Create</value>
+ <row id="200161" trl="Y">
+  <value column="Name" original="Do Not Create">Nicht erstellen</value>
   <value column="Description" original=""/>
  </row>
- <row id="200162" trl="N">
-  <value column="Name" original="No Action">No Action</value>
+ <row id="200162" trl="Y">
+  <value column="Name" original="No Action">Keine Aktion</value>
   <value column="Description" original=""/>
  </row>
- <row id="200163" trl="N">
-  <value column="Name" original="Cascade">Cascade</value>
+ <row id="200163" trl="Y">
+  <value column="Name" original="Cascade">Kaskadieren</value>
   <value column="Description" original=""/>
  </row>
- <row id="200164" trl="N">
-  <value column="Name" original="Set Null">Set Null</value>
+ <row id="200164" trl="Y">
+  <value column="Name" original="Set Null">Null setzen</value>
   <value column="Description" original=""/>
  </row>
- <row id="200165" trl="N">
-  <value column="Name" original="Customer">Customer</value>
+ <row id="200165" trl="Y">
+  <value column="Name" original="Customer">Kunde</value>
   <value column="Description" original=""/>
  </row>
- <row id="200166" trl="N">
-  <value column="Name" original="Vendor">Vendor</value>
+ <row id="200166" trl="Y">
+  <value column="Name" original="Vendor">Lieferant</value>
   <value column="Description" original=""/>
  </row>
- <row id="200167" trl="N">
-  <value column="Name" original="Employee">Employee</value>
+ <row id="200167" trl="Y">
+  <value column="Name" original="Employee">Angestellter</value>
   <value column="Description" original=""/>
  </row>
  <row id="200168" trl="N">
@@ -5396,65 +5396,65 @@
   <value column="Name" original="UPC-A">UPC-A</value>
   <value column="Description" original=""/>
  </row>
- <row id="200185" trl="N">
-  <value column="Name" original="Button">Button</value>
-  <value column="Description" original="Display as button">Display as button</value>
+ <row id="200185" trl="Y">
+  <value column="Name" original="Button">Knopf</value>
+  <value column="Description" original="Display as button">Als Knopf anzeigen</value>
  </row>
- <row id="200186" trl="N">
+ <row id="200186" trl="Y">
   <value column="Name" original="Menu">Menu</value>
-  <value column="Description" original="Display as menu on a gear button">Display as menu on a gear button</value>
+  <value column="Description" original="Display as menu on a gear button">Als Menu oder auf einem Zahnrad-Knopf anzeigen</value>
  </row>
- <row id="200187" trl="N">
+ <row id="200187" trl="Y">
   <value column="Name" original="List">List</value>
-  <value column="Description" original="Display as list">Display as list</value>
+  <value column="Description" original="Display as list">Als Liste anzeigen</value>
  </row>
- <row id="200188" trl="N">
-  <value column="Name" original="Window">Window</value>
+ <row id="200188" trl="Y">
+  <value column="Name" original="Window">Fenster</value>
   <value column="Description" original=""/>
  </row>
- <row id="200189" trl="N">
-  <value column="Name" original="Process">Process</value>
+ <row id="200189" trl="Y">
+  <value column="Name" original="Process">Prozess</value>
   <value column="Description" original=""/>
  </row>
- <row id="200261" trl="N">
-  <value column="Name" original="User Info">User Info</value>
-  <value column="Description" original="Show a info window">Show a info window</value>
+ <row id="200261" trl="Y">
+  <value column="Name" original="User Info">Benutzerinfo</value>
+  <value column="Description" original="Show a info window">In einem Infofenster anzeigen</value>
  </row>
  <row id="200278" trl="N">
   <value column="Name" original="Model Cascade">Model Cascade</value>
   <value column="Description" original=""/>
  </row>
- <row id="200279" trl="N">
-  <value column="Name" original="Date">Date</value>
+ <row id="200279" trl="Y">
+  <value column="Name" original="Date">Datum</value>
   <value column="Description" original=""/>
  </row>
- <row id="200281" trl="N">
-  <value column="Name" original="Insert">Insert</value>
+ <row id="200281" trl="Y">
+  <value column="Name" original="Insert">Einfügen</value>
   <value column="Description" original=""/>
  </row>
- <row id="200282" trl="N">
-  <value column="Name" original="Update">Update</value>
+ <row id="200282" trl="Y">
+  <value column="Name" original="Update">Aktualisieren</value>
   <value column="Description" original=""/>
  </row>
- <row id="200283" trl="N">
-  <value column="Name" original="Merge">Merge</value>
+ <row id="200283" trl="Y">
+  <value column="Name" original="Merge">Vereinigen</value>
   <value column="Description" original=""/>
  </row>
- <row id="200285" trl="N">
+ <row id="200285" trl="Y">
   <value column="Name" original="Toolbar">Toolbar</value>
   <value column="Description" original=""/>
  </row>
- <row id="200286" trl="N">
-  <value column="Name" original="Window">Window</value>
+ <row id="200286" trl="Y">
+  <value column="Name" original="Window">Fenster</value>
   <value column="Description" original=""/>
  </row>
- <row id="200287" trl="N">
-  <value column="Name" original="Both">Both</value>
+ <row id="200287" trl="Y">
+  <value column="Name" original="Both">Beide</value>
   <value column="Description" original=""/>
  </row>
- <row id="200310" trl="N">
-  <value column="Name" original="Custom Table">Custom Table</value>
-  <value column="Description" original="Custom Table">Custom Table</value>
+ <row id="200310" trl="Y">
+  <value column="Name" original="Custom Table">Kundenspezifische Tabelle</value>
+  <value column="Description" original="Custom Table">Kundenspezifisiche Tabelle</value>
  </row>
  <row id="200318" trl="Y">
   <value column="Name" original="Detail">Detail</value>
@@ -5488,7 +5488,7 @@
   <value column="Name" original="Manual">Manual</value>
   <value column="Description" original="Manual List">manuelle Liste</value>
  </row>
- <row id="200396" trl="N">
+ <row id="200396" trl="Y">
   <value column="Name" original="QR Code">QR Code</value>
   <value column="Description" original=""/>
  </row>

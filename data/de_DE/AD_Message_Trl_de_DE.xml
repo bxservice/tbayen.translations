@@ -1938,7 +1938,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="585" trl="Y">
-  <value column="MsgText" original="Is the payment print correct ?   If answered yes, then it will create and complete payments.">Ist der Ausdruck der Zahlung korrekt?</value>
+  <value column="MsgText" original="Is the payment print correct ?   If answered yes, then it will create and complete payments.">Ist der Ausdruck der Zahlung korrekt? Wenn ja, werden Zahlung erstellt und fertiggestellt.</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="586" trl="Y">
@@ -6087,48 +6087,48 @@ Fortfahren?</value>
   <value column="MsgText" original="Table name {0} does not correspond to the parent's table name {1}">Der Tabellenname {0} paßt nicht zum Namen der Elterntabelle {1}</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200147" trl="N">
-  <value column="MsgText" original="Record not processed, due to master record failure">Record not processed, due to master record failure</value>
+ <row id="200147" trl="Y">
+  <value column="MsgText" original="Record not processed, due to master record failure">Datensatz nicht verarbeitet wegen Fehlern im übergeordneten Datensatz</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200148" trl="N">
-  <value column="MsgText" original="Different parent value: Master value {0} Detail value {1}">Different parent value: Master value {0} Detail value {1}</value>
+ <row id="200148" trl="Y">
+  <value column="MsgText" original="Different parent value: Master value {0} Detail value {1}">Unterschiedlicher Wert für Elternelement: Master {0} Detail {1}</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200149" trl="N">
-  <value column="MsgText" original="Invoice contains products of both Fixed and Non-Fixed Assets, cannot complete">Invoice contains products of both Fixed and Non-Fixed Assets, cannot complete</value>
+ <row id="200149" trl="Y">
+  <value column="MsgText" original="Invoice contains products of both Fixed and Non-Fixed Assets, cannot complete">Die Rechnung enthält Produkte aus dem Anlagevermögen aber auch andere, fertigstellen nicht möglich</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200150" trl="N">
-  <value column="MsgText" original="Entered value is more than the maximum ({0}) allowed">Entered value is more than the maximum ({0}) allowed</value>
+ <row id="200150" trl="Y">
+  <value column="MsgText" original="Entered value is more than the maximum ({0}) allowed">Der eingegebene Wert ist höher als das erlaubte Maximum ({0})</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200151" trl="N">
-  <value column="MsgText" original="Entered value is less than the minimum ({0}) required">Entered value is less than the minimum ({0}) required</value>
+ <row id="200151" trl="Y">
+  <value column="MsgText" original="Entered value is less than the minimum ({0}) required">Der eingegebene Wert ist kleiner als das erforderliche Minimum ({0})</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200152" trl="N">
-  <value column="MsgText" original="Csv file must not contain '&gt;' in header record {0}. " xml:space="preserve"><![CDATA[Csv file must not contain '>' in header record {0}. ]]></value>
+ <row id="200152" trl="Y">
+  <value column="MsgText" original="Csv file must not contain '&gt;' in header record {0}. " xml:space="preserve"><![CDATA[Csv-Datei darf kein '>' in der Kopfzeile enthalten {0}. ]]></value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200153" trl="N">
-  <value column="MsgText" original="No child tab was found with such table {0}. ">No child tab was found with such table {0}. </value>
+ <row id="200153" trl="Y">
+  <value column="MsgText" original="No child tab was found with such table {0}. ">Kein untergeordnetes Register mit der Tabelle {0} gefunden.</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200154" trl="N">
-  <value column="MsgText" original="Wrong detail name{0}, it must contain the character '&gt;':{1} " xml:space="preserve"><![CDATA[Wrong detail name{0}, it must contain the character '>':{1} ]]></value>
+ <row id="200154" trl="Y">
+  <value column="MsgText" original="Wrong detail name{0}, it must contain the character '&gt;':{1} " xml:space="preserve"><![CDATA[Falscher Name für Detail-Eintrag {0}, er muss das Zeichen '>' enthalten:{1} ]]></value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200155" trl="N">
-  <value column="MsgText" original="Parent value cannot be deleted {0}!">Parent value cannot be deleted {0}!</value>
+ <row id="200155" trl="Y">
+  <value column="MsgText" original="Parent value cannot be deleted {0}!">Elterneintrag kann nicht gelöscht werden {0}!</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200156" trl="N">
-  <value column="MsgText" original="Import ZIP">Import ZIP</value>
+ <row id="200156" trl="Y">
+  <value column="MsgText" original="Import ZIP">ZIP importieren</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200157" trl="N">
-  <value column="MsgText" original="If you change the client language is recommended that you run the Synchronize Doc Translation after that">If you change the client language is recommended that you run the Synchronize Doc Translation after that</value>
+ <row id="200157" trl="Y">
+  <value column="MsgText" original="If you change the client language is recommended that you run the Synchronize Doc Translation after that">Wenn Sie die Sprache für einen Mandanten ändern, wird empfohlen, danach die Synchronisierung der Übersetzung zu starten</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200158" trl="Y">
@@ -6275,8 +6275,8 @@ Fortfahren?</value>
   <value column="MsgText" original="No changes to the index">Keine Änderungen am Index</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200201" trl="N">
-  <value column="MsgText" original="Processed table: {0}, Processed index: {1}, Error: {2}">Processed table: {0}, Processed index: {1}, Error: {2}</value>
+ <row id="200201" trl="Y">
+  <value column="MsgText" original="Processed table: {0}, Processed index: {1}, Error: {2}">Tabelle bearbeitet: {0}, Index bearbeitet: {1}, Fehler: {2}</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200202" trl="Y">
@@ -6319,7 +6319,7 @@ Fortfahren?</value>
   <value column="MsgText" original="Manage Gadgets">Gadgets verwalten</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200212" trl="N">
+ <row id="200212" trl="Y">
   <value column="MsgText" original="Dashboard Gadgets">Dashboard Gadgets</value>
   <value column="MsgTip" original=""/>
  </row>
@@ -6331,40 +6331,40 @@ Fortfahren?</value>
   <value column="MsgText" original="No costing record.">Kein Kostendatensatz.</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200217" trl="N">
-  <value column="MsgText" original="The database operation timed out. Please try again later.">The database operation timed out. Please try again later.</value>
+ <row id="200217" trl="Y">
+  <value column="MsgText" original="The database operation timed out. Please try again later.">Zeitüberschreitung beim Datenbankaufruf, bitte später erneut versuchen.</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200218" trl="N">
-  <value column="MsgText" original="Sent by iDempiereMail">Sent by iDempiereMail</value>
+ <row id="200218" trl="Y">
+  <value column="MsgText" original="Sent by iDempiereMail">Gesendet mit iDempiereMail</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200220" trl="N">
-  <value column="MsgText" original="Only one @C_Tax_ID@ per @C_TaxCategory_ID@ can be marked as Default!">Only one @C_Tax_ID@ per @C_TaxCategory_ID@ can be marked as Default!</value>
+ <row id="200220" trl="Y">
+  <value column="MsgText" original="Only one @C_Tax_ID@ per @C_TaxCategory_ID@ can be marked as Default!">Nur eine @C_Tax_ID@ je @C_TaxCategory_ID@ kann als Standard gekennzeichnet werden!</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200221" trl="N">
   <value column="MsgText" original="No tax provider">No tax provider</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200222" trl="N">
-  <value column="MsgText" original="No address validation">No address validation</value>
+ <row id="200222" trl="Y">
+  <value column="MsgText" original="No address validation">Keine Adressüberprüfung</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200223" trl="N">
-  <value column="MsgText" original="Address not processed">Address not processed</value>
+ <row id="200223" trl="Y">
+  <value column="MsgText" original="Address not processed">Adresse nicht verarbeitet</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200224" trl="N">
-  <value column="MsgText" original="Open in Grid Mode">Open in Grid Mode</value>
+ <row id="200224" trl="Y">
+  <value column="MsgText" original="Open in Grid Mode">In Tabellenansicht öffnen</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200226" trl="N">
-  <value column="MsgText" original="Address validation call is not enabled for this country">Address validation call is not enabled for this country</value>
+ <row id="200226" trl="Y">
+  <value column="MsgText" original="Address validation call is not enabled for this country">Für dieses Land ist keine Adressüberprüfung freigeschaltet</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200230" trl="N">
-  <value column="MsgText" original="Export ZIP">Export ZIP</value>
+ <row id="200230" trl="Y">
+  <value column="MsgText" original="Export ZIP">ZIP exportieren</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200231" trl="Y">
@@ -6375,8 +6375,8 @@ Fortfahren?</value>
   <value column="MsgText" original="EMail format is invalid: ">Das Format der E-Mail ist ungültig: </value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200236" trl="N">
-  <value column="MsgText" original="(Drag and drop menu item here)">(Drag and drop menu item here)</value>
+ <row id="200236" trl="Y">
+  <value column="MsgText" original="(Drag and drop menu item here)">(Lassen Sie den Menüeintrag hier fallen)</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200237" trl="Y">
@@ -6419,13 +6419,13 @@ Fortfahren?</value>
   <value column="MsgText" original="Date Invoiced cannot be changed because the invoice contains product lines and the change falls in a differente price list version">Das Rechnungsdatum kann nicht geändert werdern, weil die Rechnung Artikelzeilen enthält und die Änderung in eine andere Preislistenversion fällt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200251" trl="N">
-  <value column="MsgText" original="Quick Info">Quick Info</value>
+ <row id="200251" trl="Y">
+  <value column="MsgText" original="Quick Info">Kurzinfo</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200252" trl="Y">
   <value column="MsgText" original="Show detail">Detailanzeige</value>
-  <value column="MsgTip" original="Show detail locator info in &quot;Available to promise&quot; tab">Show detail locator info in "Available to promise" tab</value>
+  <value column="MsgTip" original="Show detail locator info in &quot;Available to promise&quot; tab">Detailinformationen zur gelagerten Menge im Register "Lieferbare Menge" anzeigen</value>
  </row>
  <row id="200253" trl="Y">
   <value column="MsgText" original="Related Information">zugehörige Informationen</value>
@@ -6495,7 +6495,7 @@ Fortfahren?</value>
   <value column="MsgText" original="More than line qty on attribute tab for line ">Die Menge im Attribut-Eintrag ist höher als die Gesamtmenge der Zeile </value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200271" trl="N">
+ <row id="200271" trl="Y">
   <value column="MsgText" original="Tabs">Register</value>
   <value column="MsgTip" original=""/>
  </row>
@@ -6515,8 +6515,8 @@ Fortfahren?</value>
   <value column="MsgText" original="Process Menu">Prozessmenü</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200303" trl="N">
-  <value column="MsgText" original="Select tab to export">Select tab to export</value>
+ <row id="200303" trl="Y">
+  <value column="MsgText" original="Select tab to export">Register für den Export wählen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200306" trl="Y">
@@ -6623,7 +6623,7 @@ Fortfahren?</value>
   <value column="MsgText" original="{0} resolved multiple times = ({1})">{0} mehrfach berechnet = ({1})</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200411" trl="N">
+ <row id="200411" trl="Y">
   <value column="MsgText" original="Post-it">Post-it</value>
   <value column="MsgTip" original=""/>
  </row>
@@ -6635,8 +6635,8 @@ Fortfahren?</value>
   <value column="MsgText" original="Updated by {0} / {1}">Geändert von {0} / {1}</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200414" trl="N">
-  <value column="MsgText" original="@#System_Name@ Trace Information">@#System_Name@ Trace Information</value>
+ <row id="200414" trl="Y">
+  <value column="MsgText" original="@#System_Name@ Trace Information">@#System_Name@ Ablaufverfolgung</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200431" trl="Y">
@@ -6751,8 +6751,8 @@ Fortfahren?</value>
   <value column="MsgText" original="Failed when processing document">Belegbearbeitung gescheitert</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200491" trl="N">
-  <value column="MsgText" original="Time Line">Time Line</value>
+ <row id="200491" trl="">
+  <value column="MsgText" original="Time Line">Zeitablauf</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200492" trl="Y">
@@ -6887,8 +6887,8 @@ Fortfahren?</value>
   <value column="MsgText" original="Your suggestions have been submitted for review">Ihre Vorschläge wurden zur Rezension übermittelt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200537" trl="N">
-  <value column="MsgText" original="Only positive balance">Only positive balance</value>
+ <row id="200537" trl="Y">
+  <value column="MsgText" original="Only positive balance">Nur positive Salden</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200539" trl="Y">
@@ -6915,120 +6915,120 @@ Fortfahren?</value>
   <value column="MsgText" original="No Costs for">Keine Kosten für</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200548" trl="N">
-  <value column="MsgText" original="FactLine DR not created">FactLine DR not created</value>
+ <row id="200548" trl="Y">
+  <value column="MsgText" original="FactLine DR not created">Debitorenbuchung nicht erstellt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200549" trl="N">
-  <value column="MsgText" original="Original Shipment/Receipt not posted yet">Original Shipment/Receipt not posted yet</value>
+ <row id="200549" trl="Y">
+  <value column="MsgText" original="Original Shipment/Receipt not posted yet">Originaler Lieferschein/Empfangsbeleg noch nicht gebucht</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200550" trl="N">
-  <value column="MsgText" original="FactLine CR not created">FactLine CR not created</value>
+ <row id="200550" trl="Y">
+  <value column="MsgText" original="FactLine CR not created">Kreditorenbuchung nicht erstellt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200553" trl="N">
-  <value column="MsgText" original="Failed to create cost detail record">Failed to create cost detail record</value>
+ <row id="200553" trl="Y">
+  <value column="MsgText" original="Failed to create cost detail record">Konnte Kostendatensatz nicht erstellen</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200555" trl="N">
-  <value column="MsgText" original="Resubmit - No Costs for">Resubmit - No Costs for</value>
+ <row id="200555" trl="Y">
+  <value column="MsgText" original="Resubmit - No Costs for">Erneut versuchen - Keine Kosten für</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200556" trl="N">
-  <value column="MsgText" original="(required order line)">(required order line)</value>
+ <row id="200556" trl="Y">
+  <value column="MsgText" original="(required order line)">(Auftragsposition erforderlich)</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200557" trl="N">
-  <value column="MsgText" original="DR not created">DR not created</value>
+ <row id="200557" trl="Y">
+  <value column="MsgText" original="DR not created">Debitorenbuchung nicht erstellt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200558" trl="N">
-  <value column="MsgText" original="Original Receipt not posted yet">Original Receipt not posted yet</value>
+ <row id="200558" trl="Y">
+  <value column="MsgText" original="Original Receipt not posted yet">Originalempfangsbeleg noch nicht gebucht</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200559" trl="N">
-  <value column="MsgText" original="CR not created">CR not created</value>
+ <row id="200559" trl="Y">
+  <value column="MsgText" original="CR not created">Kreditorenbuchung nicht erstellt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200560" trl="N">
-  <value column="MsgText" original="DocumentType unknown">DocumentType unknown</value>
+ <row id="200560" trl="Y">
+  <value column="MsgText" original="DocumentType unknown">Belegart unbekannt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200563" trl="N">
-  <value column="MsgText" original="Could not find Payment Amount for some invoices, maybe currency rate is not configured">Could not find Payment Amount for some invoices, maybe currency rate is not configured</value>
+ <row id="200563" trl="Y">
+  <value column="MsgText" original="Could not find Payment Amount for some invoices, maybe currency rate is not configured">Konnte den Betrag für einige Rechnungen nicht feststellen, möglicherweise ist der Umrechnungsfaktor nicht konfiguriert</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200564" trl="N">
-  <value column="MsgText" original="Change Scheduler State">Change Scheduler State</value>
+ <row id="200564" trl="Y">
+  <value column="MsgText" original="Change Scheduler State">Status des Zeitplaners ändern</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200565" trl="N">
-  <value column="MsgText" original="Not Schedule">Not Schedule</value>
+ <row id="200565" trl="Y">
+  <value column="MsgText" original="Not Schedule">Zeitplaner inaktiv</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200566" trl="N">
-  <value column="MsgText" original="Scheduler Started">Scheduler Started</value>
+ <row id="200566" trl="Y">
+  <value column="MsgText" original="Scheduler Started">Zeitplaner gestartet</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200567" trl="N">
-  <value column="MsgText" original="Scheduler Stopped">Scheduler Stopped</value>
+ <row id="200567" trl="Y">
+  <value column="MsgText" original="Scheduler Stopped">Zeitplaner gestoppt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200568" trl="N">
-  <value column="MsgText" original="Failed to read current scheduler state">Failed to read current scheduler state</value>
+ <row id="200568" trl="Y">
+  <value column="MsgText" original="Failed to read current scheduler state">Konnte den Zustand des Zeitplaners nicht auslesen</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200569" trl="N">
-  <value column="MsgText" original="Add scheduler to server and start it?">Add scheduler to server and start it?</value>
+ <row id="200569" trl="Y">
+  <value column="MsgText" original="Add scheduler to server and start it?">Zeitplaner zum Server hinzufügen und starten?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200570" trl="Y">
   <value column="MsgText" original="Stop scheduler?">Zeitplaner stoppen?</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200571" trl="N">
-  <value column="MsgText" original="Start scheduler?">Start scheduler?</value>
+ <row id="200571" trl="Y">
+  <value column="MsgText" original="Start scheduler?">Zeitplaner starten?</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200572" trl="N">
-  <value column="MsgText" original="Scheduler added and started successfully">Scheduler added and started successfully</value>
+ <row id="200572" trl="Y">
+  <value column="MsgText" original="Scheduler added and started successfully">Zeitplaner hinzugefügt und erfolgreich gestartet</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200573" trl="N">
-  <value column="MsgText" original="Failed to add and start scheduler. Error:">Failed to add and start scheduler. Error:</value>
+ <row id="200573" trl="Y">
+  <value column="MsgText" original="Failed to add and start scheduler. Error:">Hinzufügen und Starten des Zeitplaners gescheitert. Fehler:</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200575" trl="N">
-  <value column="MsgText" original="Scheduler stopped successfully">Scheduler stopped successfully</value>
+ <row id="200575" trl="Y">
+  <value column="MsgText" original="Scheduler stopped successfully">Zeitplaner erfolgreich gestoppt</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200576" trl="N">
-  <value column="MsgText" original="Failed to stop scheduler. Error:">Failed to stop scheduler. Error:</value>
+ <row id="200576" trl="Y">
+  <value column="MsgText" original="Failed to stop scheduler. Error:">Konnte Zeitplaner nicht stoppen. Fehler:</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200577" trl="N">
-  <value column="MsgText" original="Scheduler started successfully">Scheduler started successfully</value>
+ <row id="200577" trl="Y">
+  <value column="MsgText" original="Scheduler started successfully">Zeitplaner erfolgreich gestartet</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200578" trl="N">
-  <value column="MsgText" original="Failed to start scheduler. Error:">Failed to start scheduler. Error:</value>
+ <row id="200578" trl="Y">
+  <value column="MsgText" original="Failed to start scheduler. Error:">Konnte Zeitplaner nicht starten. Fehler:</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200579" trl="N">
-  <value column="MsgText" original="Change scheduler state">Change scheduler state</value>
+ <row id="200579" trl="Y">
+  <value column="MsgText" original="Change scheduler state">Ändern des Status des Zeitplaners</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200580" trl="N">
-  <value column="MsgText" original="Period Open">Period Open</value>
+ <row id="200580" trl="Y">
+  <value column="MsgText" original="Period Open">Periode ist offen</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200581" trl="N">
-  <value column="MsgText" original="Share search filter with all users">Share search filter with all users</value>
+ <row id="200581" trl="Y">
+  <value column="MsgText" original="Share search filter with all users">Suchfilter für alle Benutzer bereitstellen</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200592" trl="N">
-  <value column="MsgText" original="Allocation date updated">Allocation date updated</value>
+ <row id="200592" trl="Y">
+  <value column="MsgText" original="Allocation date updated">Zuweisungsdatum aktualisiert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200593" trl="Y">
@@ -7040,7 +7040,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="523847" trl="Y">
-  <value column="MsgText" original="Slow Moving Items">Slow Moving Items</value>
+  <value column="MsgText" original="Slow Moving Items">Ladenhüter</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="523848" trl="Y">

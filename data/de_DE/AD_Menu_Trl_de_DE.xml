@@ -288,16 +288,16 @@
   <value column="Name" original="EDI">EDI</value>
   <value column="Description" original=""/>
  </row>
- <row id="53296" trl="N">
-  <value column="Name" original="Manufacturing">Manufacturing</value>
+ <row id="53296" trl="Y">
+  <value column="Name" original="Manufacturing">Produktion</value>
   <value column="Description" original=""/>
  </row>
- <row id="53363" trl="N">
-  <value column="Name" original="Sales Management">Sales Management</value>
+ <row id="53363" trl="Y">
+  <value column="Name" original="Sales Management">Verkauf</value>
   <value column="Description" original=""/>
  </row>
- <row id="200095" trl="N">
-  <value column="Name" original="Import Template">Import Template</value>
+ <row id="200095" trl="Y">
+  <value column="Name" original="Import Template">Vorlage importieren</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>
