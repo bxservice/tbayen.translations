@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Tab">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Tab">
  <row id="100" trl="Y">
   <value column="Name" original="Table">Tabelle</value>
   <value column="CommitWarning" original=""/>
@@ -130,7 +130,7 @@
   <value column="Name" original="Node">Knoten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Define workflow nodes">Definieren Sie Workflow-Knoten</value>
-  <value column="Help" original="The Node Tab defines each Node, Activity or step in this Workflow.&lt;br&gt;&#10;The action (actibity) type determines the execution: &quot;Route&quot; may be used in routing control conditions.  &quot;None&quot; identifies manual execution." xml:space="preserve"><![CDATA[The Node Tab defines each Node, Activity or step in this Workflow.<br>
+  <value column="Help" original="The Node Tab defines each Node, Activity or step in this Workflow.&lt;br&gt;&#10;The action (activity) type determines the execution: &quot;Route&quot; may be used in routing control conditions.  &quot;None&quot; identifies manual execution." xml:space="preserve"><![CDATA[The Node Tab defines each Node, Activity or step in this Workflow.<br>
 The action (actibity) type determines the execution: "Route" may be used in routing control conditions.  "None" identifies manual execution.]]></value>
  </row>
  <row id="123" trl="Y">
@@ -788,7 +788,7 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Name" original="Invoice Line">Rechnungsposition</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Customer Invoice Line">Kundenrechnungsposition</value>
-  <value column="Help" original="The Invoice Line Tab defines the individual items or charges on an Invoice.">Im Register "Rechnungsposition" legen Sie einzelne Rechnungszeilen mit Artikeln oder Aufwand/Ertrag-Direktbuchungen fest.</value>
+  <value column="Help" original="The Invoice Line Tab defines the individual items or charges on an Invoice.">Im Register "Rechnungsposition" legen Sie einzelne Rechnungspositionen mit Artikeln oder Aufwand/Ertrag-Direktbuchungen fest.</value>
  </row>
  <row id="271" trl="Y">
   <value column="Name" original="Invoice Tax">Rechnung Steuern</value>
@@ -4195,7 +4195,7 @@ The creation of  "Client and Org" shared records is the default and is ignored.]
   <value column="Help" original=""/>
  </row>
  <row id="50010" trl="Y">
-  <value column="Name" original="Dashboard Content">Dashboardinhalt</value>
+  <value column="Name" original="Dashboard Content">Instrumententafelinhalt</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -5524,14 +5524,14 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53339" trl="N">
-  <value column="Name" original="Chart">Chart</value>
+ <row id="53339" trl="Y">
+  <value column="Name" original="Chart">Diagramm</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53340" trl="N">
-  <value column="Name" original="Datasource">Datasource</value>
+ <row id="53340" trl="Y">
+  <value column="Name" original="Datasource">Datenquelle</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -5632,139 +5632,139 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original="The contact details">Kontaktdetails</value>
   <value column="Help" original=""/>
  </row>
- <row id="53429" trl="N">
-  <value column="Name" original="Lead">Lead</value>
+ <row id="53429" trl="Y">
+  <value column="Name" original="Lead">Hinweise</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Any information about the contact">Any information about the contact</value>
+  <value column="Description" original="Any information about the contact">Alle Informationen über den Kontakt</value>
   <value column="Help" original=""/>
  </row>
- <row id="53430" trl="N">
-  <value column="Name" original="Sales Stage">Sales Stage</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
- <row id="53431" trl="N">
-  <value column="Name" original="Opportunity">Opportunity</value>
+ <row id="53430" trl="Y">
+  <value column="Name" original="Sales Stage">Vertriebsstufe</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53432" trl="N">
-  <value column="Name" original="Opportunity">Opportunity</value>
+ <row id="53431" trl="Y">
+  <value column="Name" original="Opportunity">Chance</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53434" trl="N">
-  <value column="Name" original="Dashboard">Dashboard</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Sales Rep dashboard">Sales Rep dashboard</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53435" trl="N">
-  <value column="Name" original="Quote/Order">Quote/Order</value>
+ <row id="53432" trl="Y">
+  <value column="Name" original="Opportunity">Chance</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53436" trl="N">
-  <value column="Name" original="Order Line">Order Line</value>
+ <row id="53434" trl="Y">
+  <value column="Name" original="Dashboard">Instrumententafel</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Sales Rep dashboard">Instrumententafel Vertriebsbeauftragter</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53435" trl="Y">
+  <value column="Name" original="Quote/Order">Angebot / Auftrag</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53437" trl="N">
-  <value column="Name" original="Opportunities">Opportunities</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Opportunities assigned to Sales Rep">Opportunities assigned to Sales Rep</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53438" trl="N">
-  <value column="Name" original="Leads">Leads</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Leads assigned to Sales Rep">Leads assigned to Sales Rep</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53439" trl="N">
-  <value column="Name" original="Opportunity">Opportunity</value>
+ <row id="53436" trl="Y">
+  <value column="Name" original="Order Line">Auftragsposition</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53452" trl="N">
-  <value column="Name" original="Activity">Activity</value>
+ <row id="53437" trl="Y">
+  <value column="Name" original="Opportunities">Chance</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Opportunities assigned to Sales Rep">dem Vertriebsbeauftragten zugeordnete Chancen</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53438" trl="Y">
+  <value column="Name" original="Leads">Hinweise</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Leads assigned to Sales Rep">dem Vertriebsbeauftragten zugeordnete Hinweise</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53439" trl="Y">
+  <value column="Name" original="Opportunity">Chance</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53453" trl="N">
-  <value column="Name" original="Activity">Activity</value>
+ <row id="53452" trl="Y">
+  <value column="Name" original="Activity">Aktivität</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53454" trl="N">
-  <value column="Name" original="Activity">Activity</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Contact Activity">Contact Activity</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53455" trl="N">
-  <value column="Name" original="Activities">Activities</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Sales Rep Activities">Sales Rep Activities</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53456" trl="N">
-  <value column="Name" original="Customer">Customer</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Customer information">Customer information</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53457" trl="N">
-  <value column="Name" original="Contacts">Contacts</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Customer Contacts">Customer Contacts</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53458" trl="N">
-  <value column="Name" original="Activities">Activities</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Customer Contact Activities">Customer Contact Activities</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53459" trl="N">
-  <value column="Name" original="Locations">Locations</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Customer Locations">Customer Locations</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53460" trl="N">
-  <value column="Name" original="Contract Prices">Contract Prices</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Customer specific prices">Customer specific prices</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53461" trl="N">
-  <value column="Name" original="Requests">Requests</value>
-  <value column="CommitWarning" original=""/>
-  <value column="Description" original="Customer requests">Customer requests</value>
-  <value column="Help" original=""/>
- </row>
- <row id="53462" trl="N">
-  <value column="Name" original="Orders">Orders</value>
+ <row id="53453" trl="Y">
+  <value column="Name" original="Activity">Aktivität</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53463" trl="N">
-  <value column="Name" original="Opportunities">Opportunities</value>
+ <row id="53454" trl="Y">
+  <value column="Name" original="Activity">Aktivität</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Opportunities">Opportunities</value>
+  <value column="Description" original="Contact Activity">Aktivität des Kontaktes</value>
   <value column="Help" original=""/>
  </row>
- <row id="54010" trl="N">
+ <row id="53455" trl="Y">
+  <value column="Name" original="Activities">Aktivitäten</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Sales Rep Activities">Aktivitäten des Vertriebsbeauftragten</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53456" trl="Y">
+  <value column="Name" original="Customer">Kunde</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Customer information">Kundeninformation</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53457" trl="Y">
+  <value column="Name" original="Contacts">Kontakte</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Customer Contacts">Kundenkontakte</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53458" trl="Y">
+  <value column="Name" original="Activities">Aktivitäten</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Customer Contact Activities">Aktivitäten mit dem Kundenkontakt</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53459" trl="Y">
+  <value column="Name" original="Standort">Locations</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Customer Locations">Kundenstandorte</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53460" trl="Y">
+  <value column="Name" original="Contract Prices">Vertragspreise</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Customer specific prices">Kundenspezifische Preise</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53461" trl="Y">
+  <value column="Name" original="Requests">Anfragen</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Customer requests">Kundenanfragen</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53462" trl="Y">
+  <value column="Name" original="Orders">Aufträge</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="53463" trl="Y">
+  <value column="Name" original="Opportunities">Chancen</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Opportunities">Chancen</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="54010" trl="Y">
   <value column="Name" original="Service">Service</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
@@ -6076,17 +6076,17 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200065" trl="N">
-  <value column="Name" original="RMA Tax">RMA Tax</value>
+ <row id="200065" trl="Y">
+  <value column="Name" original="RMA Tax">Steuern RMA</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="RMA Tax">RMA Tax</value>
-  <value column="Help" original="The RMA Tax Tab displays the tax amount for a RMA based on the lines entered.">The RMA Tax Tab displays the tax amount for a RMA based on the lines entered.</value>
+  <value column="Description" original="RMA Tax">Steuern RMA</value>
+  <value column="Help" original="The RMA Tax Tab displays the tax amount for a RMA based on the lines entered.">Das Register Steuenr RMA zeigt den Steuerbetrag für eine RMA basierend auf den eingegebenen Positionen an.</value>
  </row>
- <row id="200066" trl="N">
-  <value column="Name" original="RMA Tax">RMA Tax</value>
+ <row id="200066" trl="Y">
+  <value column="Name" original="RMA Tax">Steuern RMA</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="RMA Tax">RMA Tax</value>
-  <value column="Help" original="The RMA Tax Tab displays the tax associated with the RMA Lines.">The RMA Tax Tab displays the tax associated with the RMA Lines.</value>
+  <value column="Description" original="RMA Tax">Steuern RMA</value>
+  <value column="Help" original="The RMA Tax Tab displays the tax associated with the RMA Lines.">Das Register Steuern RMA zeigt die Steuer aus den RMA-Positionen an.</value>
  </row>
  <row id="200067" trl="Y">
   <value column="Name" original="Batch">Sammler</value>
@@ -6130,16 +6130,16 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200079" trl="N">
-  <value column="Name" original="Used in Field">Used in Field</value>
+ <row id="200079" trl="Y">
+  <value column="Name" original="Used in Field">Benutzt in Feld</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200095" trl="N">
-  <value column="Name" original="City (Without Regions)">City (Without Regions)</value>
+ <row id="200095" trl="Y">
+  <value column="Name" original="City (Without Regions)">Städte (Ohne Regionen)</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Cities without Region">Cities without Region</value>
+  <value column="Description" original="Cities without Region">Städte ohne Region</value>
   <value column="Help" original=""/>
  </row>
  <row id="200096" trl="N">
@@ -6226,8 +6226,8 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200112" trl="N">
-  <value column="Name" original="Dashboard Content Access">Dashboard Content Access</value>
+ <row id="200112" trl="Y">
+  <value column="Name" original="Dashboard Content Access">Zugriff auf Instrumententafelinhalt</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -6256,86 +6256,86 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original="You can define on this tab which columns will be available as the print format items">You can define on this tab which columns will be available as the print format items</value>
   <value column="Help" original=""/>
  </row>
- <row id="200121" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200121" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200122" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200122" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200123" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200123" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200124" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200124" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200125" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200125" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200126" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200126" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200127" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200127" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200128" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200128" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200129" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200129" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200130" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200130" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200131" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200131" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200132" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200132" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200133" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200133" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200134" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200134" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -6394,8 +6394,8 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200159" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200159" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -6466,14 +6466,14 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200222" trl="N">
-  <value column="Name" original="Document Status Indicator">Document Status Indicator</value>
+ <row id="200222" trl="Y">
+  <value column="Name" original="Document Status Indicator">Anzeige Dokumentenstatus</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200223" trl="N">
-  <value column="Name" original="Document Status Translation">Document Status Translation</value>
+ <row id="200223" trl="Y">
+  <value column="Name" original="Document Status Translation">Übersetzung des Dokumentenstatus</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -6556,14 +6556,20 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
+ <row id="200269" trl="N">
+  <value column="Name" original="Used in Column (Lookup)">Used in Column (Lookup)</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="Used in Column (Lookup)">Used in Column (Lookup)</value>
+  <value column="Help" original=""/>
+ </row>
  <row id="200271" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200272" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -6572,6 +6578,24 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Name" original="User Queries">User Queries</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="View and maintain saved queries">View and maintain saved queries</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200279" trl="N">
+  <value column="Name" original="Column Customization">Column Customization</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200280" trl="N">
+  <value column="Name" original="Info Window Customization">Info Window Customization</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200281" trl="N">
+  <value column="Name" original="Related Customization">Related Customization</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
 </idempiereTrl>
