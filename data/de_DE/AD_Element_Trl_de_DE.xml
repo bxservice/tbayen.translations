@@ -41664,7 +41664,7 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
  <row id="55281" trl="Y">
   <value column="Name" original="Sales Lead">Vertriebshinweis</value>
   <value column="PrintName" original="Sales Lead">Vertriebshinweis</value>
-  <value column="Description" original="This contact is a sales lead">Dieser Kontakt gehört zu einer Vertriebshinweis</value>
+  <value column="Description" original="This contact is a sales lead">Dieser Kontakt gehört zu einem Vertriebshinweis</value>
   <value column="Help" original="Sales leads can be converted into full contacts with Business Partners.">Vertriebshinweise können in normale Kontakte mit Geschäftspartner umgewandelt werden.</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
@@ -41673,7 +41673,7 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="55282" trl="Y">
-  <value column="Name" original="Lead Source">Quelle des Hineweises</value>
+  <value column="Name" original="Lead Source">Quelle des Hinweises</value>
   <value column="PrintName" original="Lead Source">Quelle des Hinweises</value>
   <value column="Description" original="The source of this lead/opportunity">Die Quelle dieses Hinweise / dieser Chance</value>
   <value column="Help" original=""/>
