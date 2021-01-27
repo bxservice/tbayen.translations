@@ -5520,7 +5520,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53127" trl="Y">
-  <value column="MsgText" original="Credit">Haben</value>
+  <value column="MsgText" original="Credit">Danksagungen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53128" trl="Y">
