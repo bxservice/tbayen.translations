@@ -41728,10 +41728,10 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="55287" trl="Y">
-  <value column="Name" original="Expected Close Date">Erwartetes Abschlußdatum</value>
-  <value column="PrintName" original="Expected Close Date">Erwartetes Abschlußdatum</value>
-  <value column="Description" original="Expected Close Date">Erwartetes Abschlußdatum</value>
-  <value column="Help" original="The Expected Close Date indicates the expected last or final date">Das erwartete Abschlußdatum ist das Datum zu dem ein Abschluß erwartet wird</value>
+  <value column="Name" original="Expected Close Date">Erwartetes Abschlussdatum</value>
+  <value column="PrintName" original="Expected Close Date">Erwartetes Abschlussdatum</value>
+  <value column="Description" original="Expected Close Date">Erwartetes Abschlussdatum</value>
+  <value column="Help" original="The Expected Close Date indicates the expected last or final date">Das erwartete Abschlussdatum ist das Datum zu dem ein Abschluss erwartet wird</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
