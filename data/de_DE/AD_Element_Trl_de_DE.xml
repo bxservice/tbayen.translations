@@ -41752,7 +41752,7 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
  <row id="55289" trl="Y">
   <value column="Name" original="Sales Stage">Vertriebsstufe</value>
   <value column="PrintName" original="Sales Stage">Vertriebsstufe</value>
-  <value column="Description" original="Stages of the sales process">Stufen des Vertriebsablaufs/value>
+  <value column="Description" original="Stages of the sales process">Stufen des Vertriebsablaufs</value>
   <value column="Help" original="Define what stages your sales process will move through">Legen Sie fest, welche Stufen Ihr Vertriebsprozess durchläuft</value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
