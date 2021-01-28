@@ -2596,7 +2596,7 @@
   <value column="Help" original=""/>
  </row>
  <row id="200152" trl="Y">
-  <value column="Name" original="Radio Group List">Liste mit exklusiver Auswahl</value>
+  <value column="Name" original="Radio Group List">Knöpfe mit exklusiver Auswahl</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
