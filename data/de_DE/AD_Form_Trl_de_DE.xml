@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
-<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
-<idempiereTrl language="de_DE" table="AD_Form">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Form">
  <row id="100" trl="Y">
   <value column="Name" original="Generate Invoices (manual)">Rechnungen erzeugen (manuell)</value>
   <value column="Description" original="Select and generate invoices">Auswahl und Erzeugung von Rechnungen</value>
@@ -11,11 +9,6 @@
   <value column="Name" original="Import File Loader">Import Ladeprogramm</value>
   <value column="Description" original="Load flat Files into import tables">Lädt Textdateien in Importtabellen</value>
   <value column="Help" original="The Import File Loader parses the content of a flat file and loads it into import tables. Comments start with a '[' and end with a ']' and are ignored; example: [Some Heading].">Import Ladeprogramm untersucht den Inhalt der Datei und lädt ihn in eine Importtabelle. Kommentare beginnen mit einem '[' und enden mit einem ']' und werden ignoriert. Beispiel: [Eine Überschrift].</value>
- </row>
- <row id="102" trl="Y">
-  <value column="Name" original="Initial Client Setup">Ersteinrichtung Mandant</value>
-  <value column="Description" original="Initial new Client/Tenant Setup">Ersteinrichtung Mandant</value>
-  <value column="Help" original="Set up a new Client/Tenant of the system">Einrichtung eines neuen Mandanten des Systems</value>
  </row>
  <row id="103" trl="Y">
   <value column="Name" original="Material Transactions">Warenbewegungen</value>
@@ -47,11 +40,6 @@
   <value column="Description" original="Match Purchase Orders, Receipts, Vendor Invoices">Ordnen Sie Bestellungen, Lieferscheine und Lieferantenrechnungen zu.</value>
   <value column="Help" original="Make sure that the Receipts and Invoices are processed. If you want to match partial shipment, make sure that &quot;Same Quantity&quot; is not selected.">Stellen Sie sicher, dass Lieferscheine und Rechnungen bearbeitet wurden. Wenn Sie Teillieferungen zuordnen wollen, stellen Sie sicher, dass nicht "Gleiche Menge" ausgewählt wurde.</value>
  </row>
- <row id="109" trl="Y">
-  <value column="Name" original="Translation Import/Export">Übersetzung - Import/Export</value>
-  <value column="Description" original="Import or Export Language Translation">Importieren oder exportieren Sie Übersetzungen.</value>
-  <value column="Help" original="Export/Import Translation info to/from xml for translation in external tool. Please note that the Language MUST be an enabled and verified System Langage.">Export/Import von Übersetzungen in oder aus XML-Dateien zur Bearbeitung mit einem externen Werkzeug. Beachten Sie, dass die Sprache eine ausgewählte und verifizierte Systemsprache sein MUSS!</value>
- </row>
  <row id="110" trl="Y">
   <value column="Name" original="Generate Shipments (manual)">Lieferscheine erzeugen (manuell)</value>
   <value column="Description" original="Select and generate shipments">Auswahl und Erzeugung von Lieferscheinen</value>
@@ -66,7 +54,7 @@ Aufträge auswählen für die Lieferscheine erzeugt werden sollen.</value>
  <row id="112" trl="Y">
   <value column="Name" original="Merge Entities">Einträge verschmelzen</value>
   <value column="Description" original="Merge From Entity to To Entity - Delete From">Verschmelze Quelleintrag mit Zieleintrag - Quelleintrag löschen</value>
-  <value column="Help" original="&lt;i&gt;Dangerous - Please are aware of what you are doing!&lt;/i&gt;&#10;All instances of the From entity (e.g. Customer A) are changed to the To entity (e.g. Customer B). &#10;The From entity (e.g. Customer A) is deleted. &#10;&lt;p&gt;&lt;b&gt;There is NO undo nor trace !  Please do a backup first&lt;/b&gt; Please be aware that you may be changing history records (e.g. invoices, etc.) ! &lt;/p&gt;&#10;&lt;p&gt;&lt;b&gt;Side effects:&lt;/b&gt; Merging Products are likely to distort product costs; Merging Business Partners may result in incorrect open item balance. Check with support on remedies.&#10;&lt;p&gt;&lt;b&gt;Restrictions:&lt;/b&gt; Accounting and Inventory conflicts are not resolved in this version."><![CDATA[<i>Vorsicht - Seien Sie sich bewusst was Sie tun!</i>
+  <value column="Help" original="&lt;i&gt;Dangerous - Please are aware of what you are doing!&lt;/i&gt;&#10;All instances of the From entity (e.g. Customer A) are changed to the To entity (e.g. Customer B). &#10;The From entity (e.g. Customer A) is deleted. &#10;&lt;p&gt;&lt;b&gt;There is NO undo nor trace !  Please do a backup first&lt;/b&gt; Please be aware that you may be changing history records (e.g. invoices, etc.) ! &lt;/p&gt;&#10;&lt;p&gt;&lt;b&gt;Side effects:&lt;/b&gt; Merging Products are likely to distort product costs; Merging Business Partners may result in incorrect open item balance. Check with support on remedies.&lt;/p&gt;&#10;&lt;p&gt;&lt;b&gt;Restrictions:&lt;/b&gt; Accounting and Inventory conflicts are not resolved in this version.&lt;/p&gt;" xml:space="preserve"><![CDATA[<i>Vorsicht - Seien Sie sich bewusst was Sie tun!</i>
 Alle Instanzen der Von-Entität (z.B. Kunde A) werden in die Nach-Entität (z.B. Kunde B) geändert.Die Von-Entität (z.B. Kunde A) wird gelöscht.<p><b>Das kann nicht Rückgängig gemacht werden! Bitte zuerst ein Backup erstellen. </b>Seien Sie sich bewusst dass möglicherweise auch die Historie geändert wird (z.B. Rechnungen, etc.)!</p><p><b>Seiteneffekte:</b> Verschmelzen von Artikeln verzerren wahrscheinlich die Artikelkosten; Verschmelzen von Geschäftspartnern kann zu inkonsistenten Salden führen.
 <p><b>Einschränkungen:</b> Buchführungs- und Bestandskonflikte werden in dieser Version nicht behoben.]]></value>
  </row>
@@ -111,9 +99,9 @@ Alle Instanzen der Von-Entität (z.B. Kunde A) werden in die Nach-Entität (z.B.
   <value column="Help" original="Select one or two attributes if a Product Attribute and display/maintain products in a row or table grid.">Ein oder zwei Artikelattribute auswählen um Artikel in einer Reihe oder einer Matrixdarstellung anzuzeigen bzw. zu verwalten.</value>
  </row>
  <row id="53001" trl="Y">
-  <value column="Name" original="BOM &amp; Formula Info"><![CDATA[ Stückliste & Formel Info]]></value>
+  <value column="Name" original="BOM &amp; Formula Info" xml:space="preserve"><![CDATA[ Stückliste & Formel Info]]></value>
   <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Zeigt die Eltern-Komponente-Beziehung für den im Artikelfeld angegebenen Artikel in zwei verschiedenen Fensterbereichen.</value>
-  <value column="Help" original="The BOM &amp; Formula Review option menu shows in two different panels the parent-component relationship for the product entered in the Product field.&#10;&#10;You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.&#10;&#10;When you need to consult an implosion, click the implosion check box and enter the component you wish to consult and tick the Implosion check box.&#10;&#10;You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.&#10;&#10;The left panel shows the BOM hierarchies in a tree form. The right panel shows the information connected with the BOM for every product in it"><![CDATA[The BOM & Formula Review option menu shows in two different panels the parent-component relationship for the product entered in the Product field.
+  <value column="Help" original="The BOM &amp; Formula Review option menu shows in two different panels the parent-component relationship for the product entered in the Product field.&#10;&#10;You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.&#10;&#10;When you need to consult an implosion, click the implosion check box and enter the component you wish to consult and tick the Implosion check box.&#10;&#10;You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.&#10;&#10;The left panel shows the BOM hierarchies in a tree form. The right panel shows the information connected with the BOM for every product in it" xml:space="preserve"><![CDATA[The BOM & Formula Review option menu shows in two different panels the parent-component relationship for the product entered in the Product field.
 
 You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.
 
@@ -149,8 +137,8 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
   <value column="Help" original="It shows graphically of the required and available time for each manufacturing resource.">Stellt benötigte und verfügbare Zeit für jede Produktionsressource graphisch dar.</value>
  </row>
  <row id="53007" trl="Y">
-  <value column="Name" original="Order Receipt &amp; Issue"><![CDATA[Order Receipt & Issue]]></value>
-  <value column="Description" original="Order Receipt &amp; Issue"><![CDATA[Order Receipt & Issue]]></value>
+  <value column="Name" original="Order Receipt &amp; Issue" xml:space="preserve"><![CDATA[Order Receipt & Issue]]></value>
+  <value column="Description" original="Order Receipt &amp; Issue" xml:space="preserve"><![CDATA[Order Receipt & Issue]]></value>
   <value column="Help" original="The form shows at the upper side static information around the product and the manufacturing resource where it has to be made, it also shows a summary of the quantities to be controlled in the MO such as the Original and delivered quantities and the Quantity to deliver for the MO up to date.&#10;&#10;If the production process requires production in batch, then the Qty Batchs shows the Number of batches the shop floor needs to do and the Qty Batch Size contains the size of every batch to be produced.&#10;&#10;&#10;If you want to issue the MO components before you receive the finished product you should tick the checkbox Is Delivery, this case is recommended when you have a long to medium lead time and you want to have the inventory quantities as reliable as possible at every moment.&#10;&#10;If you have small lead time and you wish to save clerk time then you must tick Is Backflush checkbox and you will receive the finished product at the same time you issue automatically the components&#10;&#10;The Backflush Group field is used when you want to issue just components belonging to this group. (This characteristic could not be included in the current version).&#10;&#10;At the lower part of the window you can find the list of every MO component, this can be modified according with the real products and quantities given to the shop floor.&#10;&#10;The quantities to be issued are selected with the checkbox at the first column of the list of components. If the actual quantity is different from the standard quantity showed in the column Qty to deliver you should edit this field to enter the right quantity to be issued.&#10;&#10;Finally a message box asks if you want to close the OM document, you should click the ok button if this MO does not have any more transactions and has to be closed.&#10;&#10;">Im oberen Teil zeigt das Formular statistische Informationen zu Artikel und Produktionsressourcen an. Ebenso werden eine Zusammenfassung der AA-kontrollierten  Mengen, die Ursprungsmengen, die Liefermengen und die Liefermengen (Soll) gemäß AA angezeigt. Erfordert der Produktionsprozess Chargenproduktion, dann zeigt "Menge Chargen" die Anzahl Chargen an, die in der Produktionsstätte produziert werden sollen an und die "Menge Chargengröße" enthält die Größe jeder zu produzierenden Charge. Wollen Sie die Komponenten eines AA betrachten, bevor Sie den fertigen Artikel erhalten, aktivieren Sie das Optionsfeld "Liefermenge". Dies wird bei langer Vorlaufzeit und für eine stets genaue Anzeige der Bestandsmengen empfohlen. Ist Ihre Vorlaufzeit kurz und Sie wollen Verkaufszeit sparen, aktivieren Sie das Optionsfeld "Retrograde Entnahme" und Sie erhalten den fertigen Artikel wenn Sie Komponenten anfragen. Das Feld "Gruppe Retrograde Entnahme" wird verwendet, wenn Sie nur zu dieser Gruppe gehörende Komponenten einbeziehen wollen. (Dieses Feature ist in der aktuellen Version leider nicht enthalten). Am unteren Ende des Fensters sehen Sie eine Liste aller Komponenten des Arbeitsauftrags. Die Liste kann nach einem Abgleich mit den tatsächlichen Artikeln geändert werden. Die Mengen werden dann an die Produktionsstätte weitergegeben. Die betroffenen Mengen werden mit dem Optionsfeld in der ersten Spalte der Komponentenliste ausgewählt. Die tatsächliche Menge weicht von der Standardmenge der Spalte "Liefermenge (Soll)"  ab. Sie sollten die richtige Menge in dieses Feld eingeben. Abschließend werden Sie gefragt, ob Sie den AA-Beleg schließen wollen. Sie sollten OK drücken, wenn Sie keine weiteren Belegtransaktionen durchführen möchten und der Beleg geschlossen werden kann.</value>
  </row>
  <row id="53008" trl="Y">
@@ -162,11 +150,6 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
   <value column="Name" original="Payroll Action Notice">Gehaltsabrechnung Aktionshinweis</value>
   <value column="Description" original="Payroll Action Notice let entry the events that happend with any Employee">Mit einem Aktionshinweis können Sie Vorkommnisse mit einem Mitarbeiter die Gehaltsabrechnung betreffend erfassen</value>
   <value column="Help" original=""/>
- </row>
- <row id="53010" trl="Y">
-  <value column="Name" original="Generate Shipments &amp; Invoices (manual)"><![CDATA[Lieferscheine & Rechnungen erzeugen (manuell)]]></value>
-  <value column="Description" original="Select and generate shipments &amp; Invoices"><![CDATA[Auswählen und erzeugen von Lieferungen & Rechnungen]]></value>
-  <value column="Help" original="Generate Shipments &amp; Invoices from Orders.  &#10;Select the orders to generate the shipments &amp; Invoices for."><![CDATA[Lieferscheine & Rechnungen aus Aufträgen erzeugen. Aufträge auswählen für die Lieferscheine und Rechnungen erzeugt werden sollen.]]></value>
  </row>
  <row id="53012" trl="Y">
   <value column="Name" original="Material Receipt Distribution Order">Distributionsauftrag Wareneingang</value>
@@ -212,5 +195,35 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
   <value column="Name" original="Bank Statement Create From Batch">Kontoauszug aus Stapel erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
+ </row>
+ <row id="200008" trl="N">
+  <value column="Name" original="Captured Process Parameter">Gespeicherte Prozessparameter</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200009" trl="N">
+  <value column="Name" original="Compare Field Suggestion">Änderungsvorschlag vergleichen</value>
+  <value column="Description" original="Review field changes for label, descriptipn and help">Begutachten Sie die Änderungen für Name, Beschreibung und Hilfe</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200010" trl="N">
+  <value column="Name" original="Compare Context Help Suggestion">Änderungsvorschlage Kontexthilfe vergleichenn</value>
+  <value column="Description" original="Review changes for context help">Begutachten Sie die Änderungen der Kontexthilfe</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200011" trl="N">
+  <value column="Name" original="idempiereMonitor">idempiereMonitor</value>
+  <value column="Description" original="Form to configure access to /idempiereMonitor - do not add to menu">Formular um den Zugriff zum /idempiereMonitor zu konfigurieren, bitte nicht ins Menü aufnehmen</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200012" trl="N">
+  <value column="Name" original="Apache Felix Web Console">Apache Felix Web Console</value>
+  <value column="Description" original="Form to configure access to /osgi/system/console - do not add to menu">Formular um den Zugriff zur /osgi/system/console zu konfigurieren, bitte nicht ins Menü aufnehmen</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200015" trl="N">
+  <value column="Name" original="Plugin Manager">Plugin Manager</value>
+  <value column="Description" original="Plugin Manager">Plugin Manager</value>
+  <value column="Help" original="Plugin Manager">Plugin Manager</value>
  </row>
 </idempiereTrl>

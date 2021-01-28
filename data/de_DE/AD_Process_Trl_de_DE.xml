@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Process">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Process">
  <row id="100" trl="Y">
   <value column="Name" original="Create Periods ">Perioden anlegen</value>
   <value column="Description" original="Create 12 standard calendar periods.">12 Standard-Kalenderperioden erstellen (Jan-Dez)</value>
@@ -126,11 +126,6 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
   <value column="Name" original="Replenish Report">Nachbestellung</value>
   <value column="Description" original="Inventory Replenish Report">Bericht zur Bestandsnachbestellung</value>
   <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished.">Der Bericht listet Artikel die wieder aufgefüllt werden. Bitte beachten, dass ein Artikel nur einen aktuellen Lieferanten haben kann. Falls mehrere Lieferanten für einen Artikel existieren, werden beide Datensätze zurückgesetzt. Der aktuelle Lieferant muss manuell festgelegt werden.</value>
- </row>
- <row id="126" trl="Y">
-  <value column="Name" original="Order Drilldown">Hierarchische Suche Aufträge</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
  </row>
  <row id="127" trl="Y">
   <value column="Name" original="Invoice Transactions (Acct)">Rechnungstransaktionen (Buchen)</value>
@@ -282,11 +277,6 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
   <value column="Description" original="Product Transaction Value">Artikeltransaktionswert</value>
   <value column="Help" original="The report shows product transactions with current vendor prices">Der Bericht zeigt Warentransaktionen mit aktuellen Herstellerpreisen an</value>
  </row>
- <row id="162" trl="Y">
-  <value column="Name" original="Project Status Summary">Projektstatus Übersicht</value>
-  <value column="Description" original="Project Status of Project Cycle">Projektstatus des Projektzyklus</value>
-  <value column="Help" original=""/>
- </row>
  <row id="164" trl="Y">
   <value column="Name" original="Generate Order">Auftrag erzeugen</value>
   <value column="Description" original="Generate Order from Project">Erzeugen Sie einen Auftrag aus einem Projekt</value>
@@ -315,11 +305,6 @@ Es können auch Aufträge eingeschlossen werden, die ausstehende Bestätigungen 
  <row id="169" trl="Y">
   <value column="Name" original="Process Journal">Journal verarbeiten</value>
   <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
- <row id="170" trl="Y">
-  <value column="Name" original="Cash Journal Detail">Kassenjournal Details</value>
-  <value column="Description" original="Detail Cash Journal Information">Kassenjournal-Detailinformation</value>
   <value column="Help" original=""/>
  </row>
  <row id="171" trl="Y">
@@ -471,11 +456,6 @@ If you select an existing price list and you have List, Standard, and Limit Pric
   <value column="Description" original="Create Financial Report">Finanzbericht erstellen</value>
   <value column="Help" original="The default period is the current period. You can optionally enter other restrictions.  You can select an alternative Reporting Hierarchy.">Standard ist die aktuelle Periode. Sie können weitere Einschränkungen eingeben. Sie können eine alternative Berichtshierarchie auswählen.</value>
  </row>
- <row id="203" trl="Y">
-  <value column="Name" original="Update Accounting Balance">Kontensaldo aktualisieren</value>
-  <value column="Description" original="Update Daily Accounting Balances">Tägliche Kontensalden aktualisieren</value>
-  <value column="Help" original="This process is run automatically">Dieser Vorgang wird automatisch durchgeführt</value>
- </row>
  <row id="204" trl="Y">
   <value column="Name" original="Statement of Accounts">Rechenschaftsbericht</value>
   <value column="Description" original="Report Account Statement Beginning Balance and Transactions">Bericht zu Kontostand, Anfangsbestand und Buchungen</value>
@@ -495,11 +475,6 @@ If you select an existing price list and you have List, Standard, and Limit Pric
   <value column="Name" original="Import Invoice">Import Rechnung</value>
   <value column="Description" original="Import Invoice">Import Rechnung</value>
   <value column="Help" original="The Parameters are default values for null import record values, they do not overwrite any data.&#10;Note that only Prepare and Complete are valid document actions.">Die Parameter sind Standardwerte für Null-Import Datensatzwerte. Sie überschreiben keine Daten. Beachten Sie, dass nur Vorbereiten und Fertigstellen gültige Belegaktionen sind.</value>
- </row>
- <row id="208" trl="Y">
-  <value column="Name" original="Start Replication Run">Replikationslauf starten</value>
-  <value column="Description" original="Start Replication with Remote Host">Starten Sie die Replikation mit entferntem Server</value>
-  <value column="Help" original=""/>
  </row>
  <row id="209" trl="Y">
   <value column="Name" original="Send Mail Text">E-Mail-Text senden</value>
@@ -654,16 +629,6 @@ Erzeugt fehlende Periodensteuerungen für die Belegart (müssen ggf. geöffnet w
   <value column="Name" original="Aging">Fälligkeit</value>
   <value column="Description" original="Aging Report">Fälligkeitsbericht</value>
   <value column="Help" original="The aging report allows you to report on Open Items (Invoices). Select the aging buckets, you want to have in your report. If you select a currency, you get only invoices of that currency.&#13;&#10;If you fill the &quot;Convert Amounts in Currency&quot;, all amounts will be converted in that currency. If you do not select a Statement Date, the system date is used to calculate the buckets. If you do not list the individual invoices, the Due Date is the earliest due date for the business partner and the Due Days are the average due days of all invoices.&lt;br&gt;&#13;&#10;&lt;br&gt;&#13;&#10;If you select an Account Date the report will generate the Aging as of that date. The report will exclude documents after the selected date.&lt;br&gt;&#13;&#10;&lt;br&gt;&#13;&#10;For example: A customer has one invoice for $100 with the Account Date of 03/31/08 and one payment for $100 with the Account Date of 05/01/08. The report will show the following balances based on the Account Date selected: 03/15/08= 0; 04/15/08=100; 05/15/08 = 0.&#13;&#10;">Der Alterungsbericht ermöglicht einen Bericht über offene Elemente (Rechnungen). Wählen Sie die Alterungsbehälter die im Bericht vorkommen sollen. Falls eine Währung angegeben ist, werden nur Rechnungen in dieser Währung verwendet. Andernfalls werden die Beträge in die primäre Buchführungswährung konvertiert. Falls kein Fälligkeitsdatum ausgewählt wurde, wird das Systemdatum verwendet um die Alterungsbehälter zu berechnen.</value>
- </row>
- <row id="239" trl="Y">
-  <value column="Name" original="Clicks Monthy">Monatliche Klicks</value>
-  <value column="Description" original="Clicks per Month">Klicks pro Monat</value>
-  <value column="Help" original="The report shows active advertisement Click Count per Month.">Der Report zeigt die Anzahl der Bannerklicks pro Monat.</value>
- </row>
- <row id="240" trl="Y">
-  <value column="Name" original="Clicks Unprocessed">Nicht bearbeitete Klicks</value>
-  <value column="Description" original="Unprocessed Clicks">Nicht bearbeitete Klicks</value>
-  <value column="Help" original="The Report shows Clicks, which could not be processed (URL not matched to Click Count)">Der Bericht zeigt die Klicks, die nicht bearbeitet werden konnten, z.B. weil die URL nicht zur Klickanzahl passte</value>
  </row>
  <row id="241" trl="Y">
   <value column="Name" original="Delete Notices">Statusmeldungen löschen</value>
@@ -901,11 +866,6 @@ Geschäftspartnergruppe oder bestimmten Geschäftspartner auswählen]]></value>
   <value column="Description" original="Print Format Detail Report">Bericht über ein Druckformat.</value>
   <value column="Help" original="Print Format with Item details">Bericht eines Druckformats mit Details über einzelne Datenfelder/Spalten z.B. zum Ausdruck.</value>
  </row>
- <row id="288" trl="Y">
-  <value column="Name" original="Reset Password">Passwort zurücksetzen</value>
-  <value column="Description" original="Reset Passwords for User">Passwort für Benutzer zurücksetzen</value>
-  <value column="Help" original="You can change User Passwords and EMail settings.  You do not need to know/enter the password, if you are an Administrator.">Sie können Passwörter und E-Mail-Einstellungen ändern. Wenn Sie Administrator sind, brauchen Sie das Passwort nicht zu kennen/einzugeben.</value>
- </row>
  <row id="289" trl="Y">
   <value column="Name" original="Create Dunning Run">Mahnlauf erstellen</value>
   <value column="Description" original="Create Dunning Run Entries based on the Dunning Level criteria">Erstellen Sie einen Mahnlauf basierend auf den Mahnstufenkriterien</value>
@@ -1003,11 +963,6 @@ Optionally as (5), you can enable to allocate payments to the oldest invoice. In
   <value column="Description" original="Reapply changes">Änderungen wiederherstellen</value>
   <value column="Help" original="You can reapply certain changes.">Sie können bestimmte Änderungen wiederherstellen.</value>
  </row>
- <row id="308" trl="Y">
-  <value column="Name" original="Reapply Customizations">Anpassungen wiederherstellen</value>
-  <value column="Description" original="If you identified customizations in the Change Log, you can reapply them">Wenn es Anpassungen im Änderungsprotokoll gab, können Sie diese erneut anwenden</value>
-  <value column="Help" original="The migration &quot;resets&quot; the system to the current/original setting.  If selected in the Change Log, you can save the customization and re-apply them.  Please note that you need to check, if your customization has no negative side effect in the new release. &lt;br&gt;&#10;Shut down the Application Server before running this process and set the Trace level (in Preference) higher or equals  WARNING.">Die Migration setzt das System auf die aktuellen/ursprünglichen Einstellungen zurück. Falls im Änderungsprotokoll ausgewählt, können die Anpassungen gespeichert und erneut angewendet werden. Beachten Sie dass es erforderlich ist zu prüfen dass die Anpassungen keine negativen Seiteneffekte in der neuen Release haben.</value>
- </row>
  <row id="309" trl="Y">
   <value column="Name" original="Workflow to Client">Workflow zu Mandant</value>
   <value column="Description" original="Move custom workflow elements to the current client">Angepasste Workflow-Elemente zum vorliegenden Mandanten verschieben</value>
@@ -1017,11 +972,6 @@ Optionally as (5), you can enable to allocate payments to the oldest invoice. In
   <value column="Name" original="Trial Balance">Rohbilanz</value>
   <value column="Description" original="Trial Balance for a period or date range">Rohbilanz einer Periode oder eines Zeitraums.</value>
   <value column="Help" original="Select a Period (current period if empty) or enter a Account Date Range. If an account is selected, the balance is calculated based on the account type and the primary calendar of the client (i.e. for revenue/expense accounts from the beginning of the year). If no account is selected, the balance is the sum of all transactions before the selected account range or first day of the period selected. You can select an alternative Reporting Hierarchy.">Wählen Sie eine Periode. Wenn das Feld leer bleibt, wird die aktuelle Periode gewählt. Sie können auch einen Zeitraum eingeben. Wurde ein Konto ausgewählt, wird der Saldo basierend auf Kontentyp und Primärkalender des Mandanten berechnet, d. h. für Erfolgskonten ab Jahresbeginn. Wurde kein Konto ausgewählt, besteht der Saldo aus der Summe aller Transaktionen vor der gewählten Kontenrangfolge oder ab dem ersten Tag der gewählten Periode. Sie können eine alternative Berichtshierarchie auswählen.</value>
- </row>
- <row id="311" trl="Y">
-  <value column="Name" original="Product UOM Convert">Artikelkonvertierung Maßeinheiten</value>
-  <value column="Description" original="Brack-up or repackage same Products with different UOM">Aufteilen oder Neuverpacken von gleichen Artikeln mit unterschiedlicher Maßeinheit</value>
-  <value column="Help" original="Example: &quot;Product EA&quot; has a defined UOM Conversion to &quot;Product 6Pack&quot; and vice versa.  &#10;This is a one-step replacement for defining BOM and creating/processes a Production.">Beispiel: "Artikel Stück" hat eine Maßeinheitsumrechnung zu "Artikel 6-Pack" definiert und umgekehrt. Dies ist ein einstufiger Ersatz für die Definition einer Stückliste und der Erstellung/Verarbeitung einer Produktion.</value>
  </row>
  <row id="312" trl="Y">
   <value column="Name" original="Print Dunning Letters">Mahnbriefe drucken</value>
@@ -1190,16 +1140,6 @@ Note that support is restricted to setup and test, but not data recovery.]]></va
   <value column="Description" original="Validate Staging Area">Staging Area überprüfen</value>
   <value column="Help" original=""/>
  </row>
- <row id="345" trl="Y">
-  <value column="Name" original="Deploy Web Project">Webprojekt veröffentlichen</value>
-  <value column="Description" original="Deploy Web Project">Webprojekt veröffentlichen</value>
-  <value column="Help" original="The process deploys the media to the media server(s) and then copies the stage to the container.">Dieser Prozess veröffentlicht die Medien auf den Medienservern und kopiert die Stufe zum Container.</value>
- </row>
- <row id="346" trl="Y">
-  <value column="Name" original="Verify BOMs">Stücklisten prüfen</value>
-  <value column="Description" original="Verify BOM Structures">Verifizieren Sie die Strukturen von Stücklisten.</value>
-  <value column="Help" original="The Verify BOM Structures checks the elements and steps which comprise a Bill of Materials.">Der Prozess "Stücklistenverifikation" überprüft Elemente und Abläufe einer Stückliste.</value>
- </row>
  <row id="347" trl="Y">
   <value column="Name" original="Validate">Validieren</value>
   <value column="Description" original="Validate Template">Vorlage validieren</value>
@@ -1214,11 +1154,6 @@ Note that support is restricted to setup and test, but not data recovery.]]></va
   <value column="Name" original="Validate">Validieren</value>
   <value column="Description" original="Validate Info Window SQL">Infofenster SQL validieren</value>
   <value column="Help" original="Validate generated Info Window SQL">Generiertes Infofenster SQL validieren</value>
- </row>
- <row id="350" trl="Y">
-  <value column="Name" original="Rebuild Index">Index neu aufbauen</value>
-  <value column="Description" original=""/>
-  <value column="Help" original="Be carefull, this process will reindex all tables and records which are marked to get indexed. Depending on the number of documents this could take a long time. This should only be run if you have removed stop words, if this is mentioned to be run after migration.">Seien Sie vorsichtig. Dieser Prozess erstellt neue Indexe für alle Tabellen und Datensätze die entsprechend markiert sind. Abhängig von der Anzahl der vorliegenden Belege kann das sehr lange dauern. Dies sollte nur ausgeführt werden falls Stop-Words entfernt wurden oder falls das erwähnt wurde nachdem eine Migration durchgeführt wurde.</value>
  </row>
  <row id="352" trl="Y">
   <value column="Name" original="Media Direct Deploy">Medien direkt veröffentlichen</value>
@@ -1273,16 +1208,6 @@ Note that support is restricted to setup and test, but not data recovery.]]></va
  <row id="52002" trl="Y">
   <value column="Name" original="Generate Invoices for Vendor RMA">Rechnungen für Lieferanten-RMA erzeugen</value>
   <value column="Description" original="Generate Invoices from open vendor RMA based on selection.">Rechnungen basierend auf den ausgewählten offenen Lieferanten-RMA erzeugen.</value>
-  <value column="Help" original=""/>
- </row>
- <row id="52003" trl="Y">
-  <value column="Name" original="Update Role Menu">Rollenmenü aktualisieren</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
- <row id="53002" trl="Y">
-  <value column="Name" original="Setup Web POS">Einrichtung Web-Kassensystem</value>
-  <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53004" trl="Y">
@@ -1420,11 +1345,6 @@ You can also include Distibution orders who have outstanding confirmations (e.g.
   <value column="Description" original="Let create every cost elements defined for a Organization, Accounting Schema, Warehouse, Resource, Cost Type ,Product and Product Attribute Set Instance .">Erstellt alle Kostenarten die definiert werden für eine Organisation, ein Buchführungsschema, ein Lager, eine Ressource, ein Artikel und eine Artikelattributsatzinstanz.</value>
   <value column="Help" original="With this process is possible to create every cost elements defined for a Organization, Accounting Schema, Warehouse, Resource, Cost Type and Product.">Mit diesem Vorgang können Sie jedes Kostenelement erstellen, das für eine Organisation, ein Buchführungsschema, ein Lager, eine Ressource, eine Kostenart oder einen Artikel festgelegt wurde.</value>
  </row>
- <row id="53054" trl="Y">
-  <value column="Name" original="Product Costing">Kostenrechnung Artikel</value>
-  <value column="Description" original="To watch the cost elements for every set of Product, Organization, Accounting Schema, Warehouse, Resource and Cost Type">Zur Überwachung der Kostenelemente für jeden Satz aus Artikel, Organisation, Buchführungsschema, Lager, Ressource und Kostenart.</value>
-  <value column="Help" original="To watch the cost elements for every set of Product, Organization, Accounting Schema, Warehouse, Resource and Cost Type.&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;">To watch the cost elements for every set of Product, Organization, Accounting Schema, Warehouse, Resource and Cost Type.												</value>
- </row>
  <row id="53056" trl="Y">
   <value column="Name" original="Copy Price to Standard Cost">Preis zu Standardkosten kopieren</value>
   <value column="Description" original="This process allow copy a Price from Price list Version to Element Cost">Mit diesem Prozess können Sie den Preis einer Preislistenversion zu einem Kostenelement kopieren.</value>
@@ -1434,11 +1354,6 @@ You can also include Distibution orders who have outstanding confirmations (e.g.
   <value column="Name" original="Workflow Cost Roll-Up">Zusammenfassung Workflow-Kosten</value>
   <value column="Description" original="This Process allow integrate Labor and Overhead Cost to a Manufacturing Workflow ">Mit diesem Vorgang können Overhead und Arbeitskosten in einen Fertigungs-Workflow integriert werden.</value>
   <value column="Help" original="This Process allow integrate Labor and Overhead Cost to a Manufacturing Workflow &#10;&#10;Labor Cost Operation = (Setup Time / Qty Batch Size) * Duration * Labor Rate to this Resource &#10;Overhead Cost Operation =  (Setup Time / Qty Batch Size) * Duration * Overhead Rate to this Resource &#10;&#10;Labor Cost Workflow = Sum of every the Labor Cost Operation&#10;Overhead Cost Workflow = Sum of every the Overhead Cost Operation&#10;&#10;Cost Workflow = Labor Cost Workflow + Overhead Cost Workflow&#10;">Mit diesem Vorgang können Sie Arbeits- und Unkosten der Kostenoperation eines Fertigungs-Workflow integrieren = (Einrichtung Zeit/Menge Chargengröße) * Dauer * Lohntarif für  = (Einrichtung Zeit/Batchgröße Menge) * Dauer * Zuschlagssatz für die Ressourcenkostenoperation dieses Workflows = Summe jeder Arbeitskostenzuschlagsoperation des Workflows = Summe jedes Zuschlags der Kostenzuschläge jeder Kostenoperation = Arbeitskosten Workflow + Zuschlagskosten Workflow</value>
- </row>
- <row id="53060" trl="Y">
-  <value column="Name" original="Cost Workflow &amp; Process Details"><![CDATA[Cost Workflow & Process Details]]></value>
-  <value column="Description" original="This report show every cost element to a BOM or Formula ">Dieser Report zeigt jedes Kostenelement einer Stückliste oder Formel.</value>
-  <value column="Help" original="This report show every cost element to a BOM or Formula ">Dieser Report zeigt jedes Kostenelement einer Stückliste oder Formel.</value>
  </row>
  <row id="53062" trl="Y">
   <value column="Name" original="Bill of Material &amp; Formula Cost Roll-UP" xml:space="preserve"><![CDATA[Bill of Material & Formula Cost Roll-UP]]></value>
@@ -1464,18 +1379,8 @@ Total BOM Cost = Sum every Element Cost]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53068" trl="Y">
-  <value column="Name" original="Update Sequence No">Nummernkreis aktualisieren</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
  <row id="53069" trl="Y">
   <value column="Name" original="Apply Migration Scripts">Migrationsskripte anwenden</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
- <row id="53070" trl="Y">
-  <value column="Name" original="Prepare Migration Scripts">Migrationsskripte vorbereiten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1531,11 +1436,6 @@ Total BOM Cost = Sum every Element Cost]]></value>
  </row>
  <row id="53093" trl="Y">
   <value column="Name" original="Build Depreciation Forecast File">Datei Abschreibungsprognose erstellen</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
- <row id="53095" trl="Y">
-  <value column="Name" original="Process Entry">Eintrag verarbeiten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1614,11 +1514,6 @@ Total BOM Cost = Sum every Element Cost]]></value>
   <value column="Description" original="Asset Convention Report">Bericht zu Anlagekonventionen</value>
   <value column="Help" original=""/>
  </row>
- <row id="53127" trl="Y">
-  <value column="Name" original="A_Depreciation_Entry_Cleanup">A_Depreciation_Entry_Cleanup</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
  <row id="53129" trl="Y">
   <value column="Name" original="Depreciation Calculation Methods">Abschreibung Berechnungsmethoden</value>
   <value column="Description" original="List Depreciation Calculation Methods Available">Liste der verfügbaren Methoden zur Abschreibungsberechnung</value>
@@ -1660,11 +1555,6 @@ The Parameters are default values for null import record values they do not over
   <value column="Description" original="Distribution Order Detail Report">Detailbericht Distributionsauftrag</value>
   <value column="Help" original="The report includes order detail information Distribution Orders.">Der Bericht enthält Informationen zu Distributionsaufträgen.</value>
  </row>
- <row id="53152" trl="Y">
-  <value column="Name" original="Immediate Bank Transfer">Sofortüberweisung</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
  <row id="53153" trl="Y">
   <value column="Name" original="Bank/Cash Transfer">Banküberweisung</value>
   <value column="Description" original="Bank/Cash Transfer let money tranfer between Banks">Banküberweisungen transferieren Gelder zwischen Banken</value>
@@ -1696,7 +1586,7 @@ The Parameters are default values for null import record values they do not over
   <value column="Help" original="Lets freeze or unfreeze the cost, If the Cost is UnFrozen then can be changed">Ermöglicht das Einfrieren/Freigeben der Kosten. Eingefrorene Kosten können nicht geändert werden</value>
  </row>
  <row id="53161" trl="Y">
-  <value column="Name" original="Initial Client Setup Process">Prozess Ersteinrichtung Mandant</value>
+  <value column="Name" original="Initial Client Setup">Prozess Ersteinrichtung Mandant</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1885,15 +1775,15 @@ The Parameters are default values for null import record values they do not over
   <value column="Description" original="Inventory Replenish Report">Bericht zur Bestandsnachbestellung</value>
   <value column="Help" original="Report lists products to be replenished. Note that a product can have only one current vendor. If there are more then vendor per product, both records are reset.  You need to select a current vendor manually.&lt;br&gt;&#13;&#10;Movements are only created, if a sourcing warehouse is defined for the warehouse to be replenished.">Der Bericht listet Artikel die wieder aufgefüllt werden. Bitte beachten, dass ein Artikel nur einen aktuellen Lieferanten haben kann. Falls mehrere Lieferanten für einen Artikel existieren, werden beide Datensätze zurückgesetzt. Der aktuelle Lieferant muss manuell festgelegt werden.</value>
  </row>
- <row id="53276" trl="N">
-  <value column="Name" original="Convert Lead">Convert Lead</value>
-  <value column="Description" original="Convert Lead to BP and Opportunity">Convert Lead to BP and Opportunity</value>
-  <value column="Help" original="Convert Lead into a Business Partner and (optional) Sales Opportunity">Convert Lead into a Business Partner and (optional) Sales Opportunity</value>
+ <row id="53276" trl="Y">
+  <value column="Name" original="Convert Lead">Hinweis umwandeln</value>
+  <value column="Description" original="Convert Lead to BP and Opportunity">Hinweis in Geschäftspartner und Chance umwandeln</value>
+  <value column="Help" original="Convert Lead into a Business Partner and (optional) Sales Opportunity">Wandelt einen Hinweis in einen Geschäftspartner und (optional) eine Verkaufschance um</value>
  </row>
- <row id="53710" trl="N">
-  <value column="Name" original="Revenue Recognition Run">Revenue Recognition Run</value>
-  <value column="Description" original="Generate revenue recognition journal">Generate revenue recognition journal</value>
-  <value column="Help" original="Generate GL journal based on valid revenue recognition run entries">Generate GL journal based on valid revenue recognition run entries</value>
+ <row id="53710" trl="Y">
+  <value column="Name" original="Revenue Recognition Run">Umsatzrealisierungslauf</value>
+  <value column="Description" original="Generate revenue recognition journal">Erzeugt ein Umsatzrealisierungsjournal</value>
+  <value column="Help" original="Generate GL journal based on valid revenue recognition run entries">Erzeugt ein Buchhaltungsjournal auf der Basis der gültigen Einträge eines Umsatzrealisierungslaufs</value>
  </row>
  <row id="200000" trl="Y">
   <value column="Name" original="FA_ProjectCreateAsset">Projekt erstellt Vermögenswert</value>
@@ -2030,156 +1920,156 @@ The Parameters are default values for null import record values they do not over
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200036" trl="N">
-  <value column="Name" original="Product/Component Where Used">Product/Component Where Used</value>
-  <value column="Description" original="Product/Component Where Used">Product/Component Where Used</value>
-  <value column="Help" original="Enter a product/component below, and the system will check for BOM(s) that contain that product/component.  This report is non-recursive.  In other words, it will only show one parent level above the product/component.">Enter a product/component below, and the system will check for BOM(s) that contain that product/component.  This report is non-recursive.  In other words, it will only show one parent level above the product/component.</value>
+ <row id="200036" trl="Y">
+  <value column="Name" original="Product/Component Where Used">Benutzung Artikel/Komponente</value>
+  <value column="Description" original="Product/Component Where Used">Benutzung Artikel/Komponente</value>
+  <value column="Help" original="Enter a product/component below, and the system will check for BOM(s) that contain that product/component.  This report is non-recursive.  In other words, it will only show one parent level above the product/component.">Geben Sie unten einen Artikel / eine Komponente ein und das System wird Stücklisten suchen, in denen dieser Artikel / diese Komponente enthalten ist. Der Bericht ist nicht rekursiv, d.h. es zeigt nur die Ebene direkt über dem Artikel / der Komponente an.</value>
  </row>
- <row id="200037" trl="N">
-  <value column="Name" original="Simple Fact View">Simple Fact View</value>
+ <row id="200037" trl="Y">
+  <value column="Name" original="Simple Fact View">Einfache Buchungsauflistung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200039" trl="N">
-  <value column="Name" original="Verify Language Configuration">Verify Language Configuration</value>
+ <row id="200039" trl="Y">
+  <value column="Name" original="Verify Language Configuration">Sprachkonfiguration überprüfen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200040" trl="N">
-  <value column="Name" original="Change Base Language">Change Base Language</value>
-  <value column="Description" original="Change Base Language">Change Base Language</value>
-  <value column="Help" original="In order to enable en_US as a translation you can enable any other language as base language.&#10;If you don't want to have a base language choose a language that won't be used for login.&#10;If all languages are going to be used as login, create a xx_XX language not login and use it as base.&#10;Please note that base language cannot be a system language.">In order to enable en_US as a translation you can enable any other language as base language.
-If you don't want to have a base language choose a language that won't be used for login.
-If all languages are going to be used as login, create a xx_XX language not login and use it as base.
-Please note that base language cannot be a system language.</value>
+ <row id="200040" trl="Y">
+  <value column="Name" original="Change Base Language">Basissprache ändern</value>
+  <value column="Description" original="Change Base Language">Basissprache ändern</value>
+  <value column="Help" original="In order to enable en_US as a translation you can enable any other language as base language.&#10;If you don't want to have a base language choose a language that won't be used for login.&#10;If all languages are going to be used as login, create a xx_XX language not login and use it as base.&#10;Please note that base language cannot be a system language.">Um en_US als Übersetzung aktivieren zu können, können Sie eine andere Sprache als Basissprache aktivieren.
+Wenn Sie gar keine Basissprache haben wollen (also alle Sprachen als Übersetzung), dann wählen Sie eine Sprache als Basissprache, die nicht für Anmeldungen benutzt wird.
+Wenn alle Sprachen auch für die Anmeldung verwendet werden, dann erzeugen Sie eine Sprache xx_XX, mit der Sie sich nicht anmelden und benutzen diese als Basissprache.
+Bedenken Sie, dass die Basissprache nicht Systemsprache sein kann.</value>
  </row>
- <row id="200055" trl="N">
-  <value column="Name" original="Index Validate">Index Validate</value>
+ <row id="200055" trl="Y">
+  <value column="Name" original="Index Validate">Indexüberprüfung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200056" trl="N">
-  <value column="Name" original="View Validate">View Validate</value>
+ <row id="200056" trl="Y">
+  <value column="Name" original="View Validate">Ansicht überprüfen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200057" trl="N">
-  <value column="Name" original="Create Table Index">Create Table Index</value>
+ <row id="200057" trl="Y">
+  <value column="Name" original="Create Table Index">Tabellenindex erzeugen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200058" trl="N">
-  <value column="Name" original="Create Foreign Key">Create Foreign Key</value>
+ <row id="200058" trl="Y">
+  <value column="Name" original="Create Foreign Key">Fremdschlüssel erzeugen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200059" trl="N">
-  <value column="Name" original="Refresh Current Cost">Refresh Current Cost</value>
-  <value column="Description" original="Refresh current cost for cost adjustment line">Refresh current cost for cost adjustment line</value>
+ <row id="200059" trl="Y">
+  <value column="Name" original="Refresh Current Cost">Gegenwärtige Kosten aktualisieren</value>
+  <value column="Description" original="Refresh current cost for cost adjustment line">Aktualisiert die gegenwärtigen Kosten einer Kostenanpassungszeile</value>
   <value column="Help" original=""/>
  </row>
- <row id="200060" trl="N">
-  <value column="Name" original="Validate Connection">Validate Connection</value>
+ <row id="200060" trl="Y">
+  <value column="Name" original="Validate Connection">Verbindung prüfen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200061" trl="N">
-  <value column="Name" original="Validate Address">Validate Address</value>
+ <row id="200061" trl="Y">
+  <value column="Name" original="Validate Address">Adresse prüfen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200064" trl="N">
-  <value column="Name" original="Captured Process Parameter">Captured Process Parameter</value>
+ <row id="200064" trl="Y">
+  <value column="Name" original="Captured Process Parameter">Gespeicherte Prozessparameter</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200065" trl="N">
-  <value column="Name" original="Drop Table Index">Drop Table Index</value>
+ <row id="200065" trl="Y">
+  <value column="Name" original="Drop Table Index">Tabellenindex löschen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200066" trl="N">
-  <value column="Name" original="Drop view">Drop view</value>
+ <row id="200066" trl="Y">
+  <value column="Name" original="Drop view">Ansicht löschen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200067" trl="N">
-  <value column="Name" original="Copy Info Window Columns">Copy Info Window Columns</value>
+ <row id="200067" trl="Y">
+  <value column="Name" original="Copy Info Window Columns">Spalten des Info-Fensters kopieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200068" trl="N">
-  <value column="Name" original="Process Production">Process Production</value>
+ <row id="200068" trl="Y">
+  <value column="Name" original="Process Production">Prozess Produktion</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200074" trl="N">
-  <value column="Name" original="Recurring Run">Recurring Run</value>
-  <value column="Description" original="Recurring Run">Recurring Run</value>
+ <row id="200074" trl="Y">
+  <value column="Name" original="Recurring Run">Wiederkehrerlauf</value>
+  <value column="Description" original="Recurring Run">Wiederkehrerlauf</value>
   <value column="Help" original=""/>
  </row>
- <row id="200076" trl="N">
-  <value column="Name" original="Import CSV Process">Import CSV Process</value>
+ <row id="200076" trl="Y">
+  <value column="Name" original="Import CSV Process">CSV-Import Prozess</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200077" trl="N">
-  <value column="Name" original="Generate Production from Project">Generate Production from Project</value>
-  <value column="Description" original="Generate Production from Project Line(s)">Generate Production from Project Line(s)</value>
+ <row id="200077" trl="Y">
+  <value column="Name" original="Generate Production from Project">Produktion aus Projekt erzeugen</value>
+  <value column="Description" original="Generate Production from Project Line(s)">Produktion aus Projektzeile(n) erzeugen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200086" trl="N">
-  <value column="Name" original="Copy Components From View">Copy Components From View</value>
-  <value column="Description" original="Create dictionary view components for a table taking another as base">Create dictionary view components for a table taking another as base</value>
+ <row id="200086" trl="Y">
+  <value column="Name" original="Copy Components From View">Komponenten aus Ansicht kopieren</value>
+  <value column="Description" original="Create dictionary view components for a table taking another as base">Einträge für Komponenten der Tabelle aus denen der Ansicht erzeugen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200093" trl="N">
-  <value column="Name" original="Reject Field Suggestion">Reject Field Suggestion</value>
-  <value column="Description" original="Reject suggested name, description and help changes">Reject suggested name, description and help changes</value>
+ <row id="200093" trl="Y">
+  <value column="Name" original="Reject Field Suggestion">Vorschlag für Feld zurückweisen</value>
+  <value column="Description" original="Reject suggested name, description and help changes">Weist die vorgeschlagenen Änderungen an Name, Beschreibung und Hilfe zurück</value>
   <value column="Help" original=""/>
  </row>
- <row id="200094" trl="N">
-  <value column="Name" original="Accept Field Suggestion">Accept Field Suggestion</value>
-  <value column="Description" original="Accept suggested changes for field">Accept suggested changes for field</value>
+ <row id="200094" trl="Y">
+  <value column="Name" original="Accept Field Suggestion">Vorschlag für Feld annehmen</value>
+  <value column="Description" original="Accept suggested changes for field">Aktzeptiert die vorgeschlagenen Änderungen für das Feld</value>
   <value column="Help" original=""/>
  </row>
- <row id="200095" trl="N">
-  <value column="Name" original="Compare Field Suggestion">Compare Field Suggestion</value>
-  <value column="Description" original=""/>
+ <row id="200095" trl="Y">
+  <value column="Name" original="Compare Field Suggestion">Änderungsvorschlag vergleichen</value>
+  <value column="Description" original="">Zeigt einen Vergleich der vorgeschlagenen Änderungen mit dem bisherigen Stand</value>
   <value column="Help" original=""/>
  </row>
- <row id="200096" trl="N">
-  <value column="Name" original="Accept Context Help Suggestion">Accept Context Help Suggestion</value>
-  <value column="Description" original="Accept suggested changes for context help">Accept suggested changes for context help</value>
+ <row id="200096" trl="Y">
+  <value column="Name" original="Accept Context Help Suggestion">Vorschlag für Kontexthilfe annehmen</value>
+  <value column="Description" original="Accept suggested changes for context help">Nimmt die vorgeschlagenen Änderungen für die Kontexthilfe an</value>
   <value column="Help" original=""/>
  </row>
- <row id="200097" trl="N">
-  <value column="Name" original="Reject Context Help Suggestion">Reject Context Help Suggestion</value>
-  <value column="Description" original="Reject suggested changes for context help">Reject suggested changes for context help</value>
+ <row id="200097" trl="Y">
+  <value column="Name" original="Reject Context Help Suggestion">Vorschlag für Kontexthilfe abweisen</value>
+  <value column="Description" original="Reject suggested changes for context help">Weist die vorgeschlagenen Änderungen für die Kontexthilfe zurück</value>
   <value column="Help" original=""/>
  </row>
- <row id="200098" trl="N">
-  <value column="Name" original="Compare Context Help Suggestion">Compare Context Help Suggestion</value>
-  <value column="Description" original=""/>
+ <row id="200098" trl="Y">
+  <value column="Name" original="Compare Context Help Suggestion">Änderungsvorschlag vergleichen</value>
+  <value column="Description" original="">Zeigt einen Vergleich der vorgeschlagenen Änderungen mit dem bisherigen Stand</value>
   <value column="Help" original=""/>
  </row>
- <row id="200099" trl="N">
-  <value column="Name" original="Apply Pack In from Folder">Apply Pack In from Folder</value>
-  <value column="Description" original="Apply all zip files from a folder following the rules and conventions of Automatic Pack In process">Apply all zip files from a folder following the rules and conventions of Automatic Pack In process</value>
-  <value column="Help" original="&lt;p&gt;This process apply all the pack in files found in a folder recursively - ordered by timestamp.&lt;br /&gt;&#10;The filename of the pack in files is important, it must follow the following convention:&lt;br /&gt;&#10;[Timestamp]_[ClientValue][_AdditionalInformation].zip&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;Timestamp:&lt;/strong&gt; must be in the format yyyymmddHHMM&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;ClientValue:&lt;/strong&gt; case sensitive and compared against AD_Client.Value to find the tenant where the pack in must be applied&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;AdditionalInformation:&lt;/strong&gt; Any additional information to identify the zip file&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;NOTE that AD_Client.Value must not contain underscore in order for this process to work.&lt;br /&gt;&#10;There is a special case for ClientValue, if the ClientValue is ALL-CLIENTS then the 2pack is intended to be applied in all active non-system clients.&lt;br /&gt;&#10;If there is a need to apply initially in a seed tenant then the ClientValue must take the form ALL-CLIENTS-Seed.&lt;br /&gt;&#10;For example:&lt;br /&gt;&#10;201803151607_ALL-CLIENTS-GardenWorld_Test123.zip&lt;/p&gt;&#10;" xml:space="preserve"><![CDATA[<p>This process apply all the pack in files found in a folder recursively - ordered by timestamp.<br />
-The filename of the pack in files is important, it must follow the following convention:<br />
-[Timestamp]_[ClientValue][_AdditionalInformation].zip</p>
+ <row id="200099" trl="Y">
+  <value column="Name" original="Apply Pack In from Folder">Pack In aus Ordner anwenden</value>
+  <value column="Description" original="Apply all zip files from a folder following the rules and conventions of Automatic Pack In process">Wendet alle zip-Dateien aus einem Ordner so an, wie das der automatische Pack In-Prozess tut</value>
+  <value column="Help" original="&lt;p&gt;This process apply all the pack in files found in a folder recursively - ordered by timestamp.&lt;br /&gt;&#10;The filename of the pack in files is important, it must follow the following convention:&lt;br /&gt;&#10;[Timestamp]_[ClientValue][_AdditionalInformation].zip&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;Timestamp:&lt;/strong&gt; must be in the format yyyymmddHHMM&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;ClientValue:&lt;/strong&gt; case sensitive and compared against AD_Client.Value to find the tenant where the pack in must be applied&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;strong&gt;AdditionalInformation:&lt;/strong&gt; Any additional information to identify the zip file&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;NOTE that AD_Client.Value must not contain underscore in order for this process to work.&lt;br /&gt;&#10;There is a special case for ClientValue, if the ClientValue is ALL-CLIENTS then the 2pack is intended to be applied in all active non-system clients.&lt;br /&gt;&#10;If there is a need to apply initially in a seed tenant then the ClientValue must take the form ALL-CLIENTS-Seed.&lt;br /&gt;&#10;For example:&lt;br /&gt;&#10;201803151607_ALL-CLIENTS-GardenWorld_Test123.zip&lt;/p&gt;&#10;" xml:space="preserve"><![CDATA[<p>Dieser Prozess wendet alle Pack In-Dateien aus einem Ordner rekursiv an, sortiert nach Datumsstempel.<br />
+Der Dateiname der Pack In-Dateien ist wichtig, er muss folgender Muster entsprechen:<br />
+[Zeitstempel]_[Mandantensatznummer][_weitereInformationen].zip</p>
 
 <ul>
-	<li><strong>Timestamp:</strong> must be in the format yyyymmddHHMM</li>
-	<li><strong>ClientValue:</strong> case sensitive and compared against AD_Client.Value to find the tenant where the pack in must be applied</li>
-	<li><strong>AdditionalInformation:</strong> Any additional information to identify the zip file</li>
+	<li><strong>Zeitstempel:</strong> muss im format yyyymmddHHMM vorliegen</li>
+	<li><strong>Mandantensatznummer:</strong> wird mit AD_Client.Value (Fenster Mandant, Feld Satznummer) verglichen, um den Mandanten zu finden, für den das Pack In angewandt werden muss. Groß/Kleinschreibung ist zu beachten</li>
+	<li><strong>AdditionalInformation:</strong> beliebige weitere Information, die die zip-Datei beschreibt</li>
 </ul>
 
-<p>NOTE that AD_Client.Value must not contain underscore in order for this process to work.<br />
-There is a special case for ClientValue, if the ClientValue is ALL-CLIENTS then the 2pack is intended to be applied in all active non-system clients.<br />
-If there is a need to apply initially in a seed tenant then the ClientValue must take the form ALL-CLIENTS-Seed.<br />
-For example:<br />
+<p>HINWEIS: der AD_Client.Value (Mandantensatznummer) darf keinen Unterstrich enthalten, damit dieser Prozess funktioniert.<br />
+Außerdem gibt es eine Besonderheit, wenn als Mandantensatznummer ALL-CLIENTS angegeben wird, dann wird das Pack In auf alle aktiven Mandanten außer SYSTEM angewandt.<br />
+Wenn es erforderlich ist, das Pack In zunächst auf einen Saat-Mandanten anzuwenden, dann muss die Mandantensatznummer die Form ALL-CLIENTS-Saat-Mandant haben.<br />
+Beispiel:<br />
 201803151607_ALL-CLIENTS-GardenWorld_Test123.zip</p>
 ]]></value>
  </row>
@@ -2188,39 +2078,102 @@ For example:<br />
   <value column="Description" original="Creates a credit memo based on the invoice.">Erstellt eine Gutschrift auf Basis der Rechnung</value>
   <value column="Help" original="The invoice should be correct and completed.">Die Rechnung sollte korrekt und fertiggestellt sein.</value>
  </row>
- <row id="200102" trl="N">
-  <value column="Name" original="Clean Orphan Cascade Records">Clean Orphan Cascade Records</value>
+ <row id="200102" trl="Y">
+  <value column="Name" original="Clean Orphan Cascade Records">Verwaiste kaskadiert Datensätze löschen</value>
   <value column="Description" original=""/>
-  <value column="Help" original="Some processes accessing directly the database can leave orphan records, this process clean those orphan records deleting them">Some processes accessing directly the database can leave orphan records, this process clean those orphan records deleting them</value>
+  <value column="Help" original="Some processes accessing directly the database can leave orphan records, this process clean those orphan records deleting them">Manche Prozesse, die die Datenbank direkt ansprechen, können verwaiste Datensätze hinterlassen. Dieser Prozess löscht sie</value>
  </row>
- <row id="200107" trl="N">
-  <value column="Name" original="Recreate Storage Reservation">Recreate Storage Reservation</value>
+ <row id="200107" trl="Y">
+  <value column="Name" original="Recreate Storage Reservation">Lagerreservierung neu erzeugen</value>
   <value column="Description" original=""/>
-  <value column="Help" original="The process checks if there are errors in storage reservartion (storageqtyReserved &lt;&gt; orderqtyreserved), if there are, it recreates all the reservation records for the offending products." xml:space="preserve"><![CDATA[The process checks if there are errors in storage reservartion (storageqtyReserved <> orderqtyreserved), if there are, it recreates all the reservation records for the offending products.]]></value>
+  <value column="Help" original="The process checks if there are errors in storage reservartion (storageqtyReserved &lt;&gt; orderqtyreserved), if there are, it recreates all the reservation records for the offending products." xml:space="preserve"><![CDATA[
+  Der Prozess überprüft, ob es Fehler in den Lagerreservierungen gibt (storageqtyReserved <> orderqtyreserved), wenn ja, werden alle Reservierungen für die betroffenen Artikel neu erzeugt.]]></value>
  </row>
- <row id="200110" trl="N">
-  <value column="Name" original="Copy Client">Copy Client</value>
-  <value column="Description" original="Process to copy a client">Process to copy a client</value>
-  <value column="Help" original="This process can be used to copy a client from an external database to the current database, or to duplicate a template client within the current database.">This process can be used to copy a client from an external database to the current database, or to duplicate a template client within the current database.</value>
+ <row id="200110" trl="Y">
+  <value column="Name" original="Copy Client">Mandanten kopieren</value>
+  <value column="Description" original="Process to copy a client">Prozess zum Kopieren eines Mandanten</value>
+  <value column="Help" original="This process can be used to copy a client from an external database to the current database, or to duplicate a template client within the current database.">Dieser Prozess ermöglicht es, einen Mandanten aus einer externen Datenbank in die aktuelle zu kopieren oder einen Mustermandanten innerhalb der aktuellen Datenbank zu kopieren.</value>
  </row>
- <row id="200111" trl="N">
-  <value column="Name" original="Migrate ID">Migrate ID</value>
-  <value column="Description" original="Process to migrate an ID or a UUID">Process to migrate an ID or a UUID</value>
+ <row id="200111" trl="Y">
+  <value column="Name" original="Migrate ID">ID migrieren</value>
+  <value column="Description" original="Process to migrate an ID or a UUID">Prozess zum migrieren einer ID oder UUID</value>
   <value column="Help" original=""/>
  </row>
- <row id="200112" trl="N">
-  <value column="Name" original="Activate">Activate</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
- </row>
- <row id="200113" trl="N">
-  <value column="Name" original="Deactivate">Deactivate</value>
+ <row id="200112" trl="Y">
+  <value column="Name" original="Activate">Aktivieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200114" trl="N">
-  <value column="Name" original="Delete">Delete</value>
+ <row id="200113" trl="Y">
+  <value column="Name" original="Deactivate">Deaktivieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
+ </row>
+ <row id="200114" trl="Y">
+  <value column="Name" original="Delete">Löschen</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200117" trl="Y">
+  <value column="Name" original="Migrate Storage Provider">Speicherdienst migrieren</value>
+  <value column="Description" original="Migrate the storage provider for attachments, archives and/or images">Migriert den Speicherdienst für Anhänge, Archive und / oder Bilder</value>
+  <value column="Help" original="&lt;p&gt;&lt;span style=&quot;color:#ff0000&quot;&gt;&lt;b&gt;WARNING: This process can be destructive, so please be sure that you have a backup of the database, as well as a backup of your old storage provider.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;The process migrates files between storage providers.&lt;/p&gt;&#10;&#10;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Client:&lt;/b&gt; Optional, you can select a client to migrate, if empty it will try to migrate storage providers from all clients with the Actual Storage Provider selected below.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Actual Storage Provider:&lt;/b&gt; If the client is empty, you define here the storage provider to migrate, if empty it migrates clients with the storage provider not set (this is by default DB).&lt;/li&gt;&lt;li&gt;&lt;b&gt;Storage Provider:&lt;/b&gt; The new storage provider to migrate the files.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Migrate Attachment:&lt;/b&gt; If enabled, it migrates the attachment files to the new storage provider.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Migrate Archive:&lt;/b&gt; If enabled, it migrates the archive files to the new storage provider.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Migrate Image:&lt;/b&gt; If enabled, it migrates the image files to the new storage provider.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Delete old/existing files:&lt;/b&gt; If enabled, after the files are migrated the program tries to free space deleting the files from the previous storage provider.  &lt;span style=&quot;color:#ff0000&quot;&gt;Note that migrating from/to a DB storage provider is a destructive action that cannot be recovered, it implies deleting the old/existing files&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&#10;&#10;&lt;p&gt;Please note that during the migration the whole set of records in the table being migrated (attachment, archive, image) is locked, so operations on these records are not permitted.  Because of this, it is recommended to run this process in a &lt;b&gt;maintenance window&lt;/b&gt; without users logged in the system.&lt;/p&gt;&#10;&#10;&lt;p&gt;In case of failure the attachments / archives / images that succeeded as a whole from a client are still migrated, but not partial records (which would result in data corruption if allowed).&lt;/p&gt;&#10;" xml:space="preserve"><![CDATA[<p><span style="color:#ff0000"><b>WARNUNG: Dieser Prozess kann zerstörerisch sein, deshalb müssen Sie sicherstellen, dass Sie eine Datensicherung der Datenbank und natürlich des bisherigen Speicherdienstes haben.</b></span></p>
+
+<p>Der Prozess migriert die Dateien zwischen Speicherdiensten.</p>
+
+<ul><li><b>Mandant:</b> Optional können Sie einen Mandanten auswählen, dessen Daten migriert werden sollen. Falls leer, wird versucht, die Daten aller Mandanten des unten ausgewählten aktuellen Speicherdienstes zu migrieren.</li><li><b>Aktueller Speicherdienst:</b> Wenn der Mandant leer gelassen wird, definieren Sie hier den Speicherdienst, der migriert werden soll. Wenn hier leer gelassen, werden alle Mandanten migriert, bei denen kein Speicherdienst gesetzt ist (das ist standardmäßig die Datenbank).</li><li><b>Speicherdienst:</b> Der neue Speicherdienst zu dem migriert werden soll.</li><li><b>Anhänge migrieren:</b> Wenn aktiviert, Anhänge werden zu dem neuen Speicherdienst migriert.</li><li><b>Archiv migrieren:</b> Wenn aktiviert, werden die Archivdateien zum neuen Speicherdienst migriert.</li><li><b>Bilder migrieren:</b> Wenn aktiviert, werden Bilddateien zum neuen Speicherdienst migriert.</li><li><b>Alte / existierende Dateien löschen:</b> Wenn aktiviere, versucht das Programm nach der Migration Platz frei zu räumen, indem die Dateien beim alten Speicherdienst gelöscht werden.  <span style="color:#ff0000">Bedenken Sie, dass die Migration von oder zu einer Datenbank als Speicherdienst eine zerstörerische Aktion ist, die nicht rückgängig gemacht werden kann, es impliziert das Löschen der alter oder existierenden Dateien</span>.</li></ul>
+
+<p>Bitte bedenken Sie auch, dass während der Migration alle Datensätze in der zu migrierenden Tabelle (Anhänge, Archiv, Bilder) gesperrt werden, weshalb keine Operationen auf diese Datensätze zulässig sind. Deshalb wird empfohlen den Prozess einen einem <b>Wartungsfenster</b> ohne angemeldete Benutzer laufen zu lassen.</p>
+
+<p>Im Falle eines Fehlers bleiben die erfolgreich migrierten Anhänge / Archive / Bilder migriert, wo es nur teilweise gelang jedoch nicht (dies würde zu Datensalat führen, wenn es erlaubt würde).</p>
+]]></value>
+ </row>
+ <row id="200118" trl="Y">
+  <value column="Name" original="Create Window, Tab &amp; Field from Table" xml:space="preserve"><![CDATA[Fenster, Register und Felder aus Tabelle erzeugen]]></value>
+  <value column="Description" original="Create Window, Tab &amp; Field record of the Table" xml:space="preserve"><![CDATA[Fenster, Register und Felder aus Tabelle erzeugen]]></value>
+  <value column="Help" original="This process will take the table definition and create the Window/Tab and field record with these options:&lt;br&gt;&#10;&#10;New Window: if selected the process will create a new Window record. Otherwise, the process will create a new tab and add it to the selected window.&lt;br&gt;&#10;Create Menu: if selected the process creates the menu record for the new window." xml:space="preserve"><![CDATA[Dieser Prozess nimmt die Tabellendefinition und erzeugt das Fenster / Register und Felder mit diesen Optionen:<br>
+
+Neues Fenster: wenn angewählt, wird der Prozess ein neues Fenster anlegen, anderenfalls legt er ein neues Register im ausgewählten Fenster an.<br>
+Menü erzeugen: wenn angewählt, wird der Prozess einen Menü-Eintrag für das neue Fenster erstellen.]]></value>
+ </row>
+ <row id="200119" trl="Y">
+  <value column="Name" original="Create Default Parameters">Standardparameter erzeugen</value>
+  <value column="Description" original="This process will add required parameters for current web service type">Dieser Prozesse erzeugt erforderliche Parameter für den aktuellen Webdienst</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200120" trl="Y">
+  <value column="Name" original="Drop Database Table">Datenbanktabelle löschen</value>
+  <value column="Description" original="Drop the table in the database">Löscht die Tabelle in der Datenbank</value>
+  <value column="Help" original="WARNING!!!  This is a destructive action, please make a backup before proceeding.">WARNUNG!!! Dies ist eine zerstörerische Aktion, machen Sie vorher eine Datensicherung.</value>
+ </row>
+ <row id="200121" trl="Y">
+  <value column="Name" original="Rename Database Table">Datenbanktabelle umbenennen</value>
+  <value column="Description" original="Rename the table in the database and dictionary">Benennt die Tabelle in der Datenbank und im Dictionary um</value>
+  <value column="Help" original="This process renames the table in database, the dictionary and also the associated columns _ID and _UU">Dieser Prozess benennt die Tabelle in der Datenbank, im Dictionary und außerdem die zugehörigen Spalten _ID und _UU</value>
+ </row>
+ <row id="200122" trl="Y">
+  <value column="Name" original="Drop Database Column">Datenbankspalte löschen</value>
+  <value column="Description" original="Drop the column in the database">Löscht die Spalte in der Datenbank</value>
+  <value column="Help" original="WARNING!!!  This is a destructive action, please make a backup before proceeding.">WARNUNG!!! Dies ist eine zerstörerische Aktion, machen Sie vorher eine Datensicherung.</value>
+ </row>
+ <row id="200123" trl="Y">
+  <value column="Name" original="Drop Database Constraint">Datenbankeinschränkung löschen</value>
+  <value column="Description" original="Drop the constraint in the database">Löscht eine Einschränkung in der Datenbank</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200124" trl="Y">
+  <value column="Name" original="Rename Column(s) in Database">Datenbankspalte(n) umbenennen</value>
+  <value column="Description" original="Rename Column(s) in Database">Datenbankspalte(n) umbenennen</value>
+  <value column="Help" original="This process rename all the columns associated with the element">Dieser Prozess benennt alle Spalten um, die mit diesem Element verknüpft sind.</value>
+ </row>
+ <row id="200126" trl="Y">
+  <value column="Name" original="Translation Import/Export">Übersetzung im/exportieren</value>
+  <value column="Description" original="Import or Export Language Translation">Importiert oder exportiert eine Übersetzung</value>
+  <value column="Help" original="Export/Import Translation info to/from xml for translation in external tool.  Please note that the Language MUST be an enabled and verified System Language.">Exportiert / importiert eine Übersetzung nach / aus xml zur Bearbeitung mit einem externen Tool. Bitte beachten Sie, dass die Sprache eine aktivierte und überprüfte Systemsprache sein MUSS.</value>
+ </row>
+ <row id="200127" trl="Y">
+  <value column="Name" original="Rename Column in Database">Datenbankspalte umbenennen</value>
+  <value column="Description" original="Rename Column in Database">Datenbankspalte umbenennen</value>
+  <value column="Help" original="This process rename the column on the database">Dieser Prozess benennt die Spalte in der Datenbank um</value>
  </row>
 </idempiereTrl>
