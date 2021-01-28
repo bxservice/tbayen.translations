@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Ref_List">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Ref_List">
  <row id="51" trl="Y">
   <value column="Name" original="Organization">Organisation</value>
   <value column="Description" original=""/>
@@ -4644,52 +4644,52 @@
   <value column="Name" original="Year">Jahr</value>
   <value column="Description" original=""/>
  </row>
- <row id="53637" trl="N">
-  <value column="Name" original="Area Chart">Area Chart</value>
+ <row id="53637" trl="Y">
+  <value column="Name" original="Area Chart">Bereichdiagramm</value>
   <value column="Description" original=""/>
  </row>
- <row id="53638" trl="N">
-  <value column="Name" original="Bar Chart">Bar Chart</value>
+ <row id="53638" trl="Y">
+  <value column="Name" original="Bar Chart">Balkendiagramm</value>
   <value column="Description" original=""/>
  </row>
- <row id="53639" trl="N">
-  <value column="Name" original="Stacked Area Chart">Stacked Area Chart</value>
+ <row id="53639" trl="Y">
+  <value column="Name" original="Stacked Area Chart">Diagramm mit gestapelten Bereichen</value>
   <value column="Description" original=""/>
  </row>
- <row id="53640" trl="N">
-  <value column="Name" original="3D Bar Chart">3D Bar Chart</value>
+ <row id="53640" trl="Y">
+  <value column="Name" original="3D Bar Chart">3D-Balkendiagramm</value>
   <value column="Description" original=""/>
  </row>
- <row id="53641" trl="N">
-  <value column="Name" original="Stacked Bar Chart">Stacked Bar Chart</value>
+ <row id="53641" trl="Y">
+  <value column="Name" original="Stacked Bar Chart">Diagramm mit gestapelten Balken</value>
   <value column="Description" original=""/>
  </row>
- <row id="53642" trl="N">
-  <value column="Name" original="3D Stacked Bar Chart">3D Stacked Bar Chart</value>
+ <row id="53642" trl="Y">
+  <value column="Name" original="3D Stacked Bar Chart">3D-Diagramm mit gestapelten Balken</value>
   <value column="Description" original=""/>
  </row>
- <row id="53643" trl="N">
-  <value column="Name" original="Line Chart">Line Chart</value>
+ <row id="53643" trl="Y">
+  <value column="Name" original="Line Chart">Liniendiagramm</value>
   <value column="Description" original=""/>
  </row>
- <row id="53644" trl="N">
-  <value column="Name" original="3D Line Chart">3D Line Chart</value>
+ <row id="53644" trl="Y">
+  <value column="Name" original="3D Line Chart">3D-Liniendiagramm</value>
   <value column="Description" original=""/>
  </row>
- <row id="53645" trl="N">
-  <value column="Name" original="Waterfall Chart">Waterfall Chart</value>
+ <row id="53645" trl="Y">
+  <value column="Name" original="Waterfall Chart">Wasserfalldiagramm</value>
   <value column="Description" original=""/>
  </row>
- <row id="53646" trl="N">
-  <value column="Name" original="Pie Chart">Pie Chart</value>
+ <row id="53646" trl="Y">
+  <value column="Name" original="Pie Chart">Tortendiagramm</value>
   <value column="Description" original=""/>
  </row>
- <row id="53647" trl="N">
-  <value column="Name" original="3D Pie Chart">3D Pie Chart</value>
+ <row id="53647" trl="Y">
+  <value column="Name" original="3D Pie Chart">3D-Tortendiagramm</value>
   <value column="Description" original=""/>
  </row>
- <row id="53648" trl="N">
-  <value column="Name" original="Ring Chart">Ring Chart</value>
+ <row id="53648" trl="Y">
+  <value column="Name" original="Ring Chart">Ringdiagramm</value>
   <value column="Description" original=""/>
  </row>
  <row id="53660" trl="Y">
@@ -5304,36 +5304,36 @@
   <value column="Name" original="Fixed Assets Depreciation">Abschreibung Anlagen</value>
   <value column="Description" original=""/>
  </row>
- <row id="200142" trl="N">
-  <value column="Name" original="Binary LOB">Binary LOB</value>
+ <row id="200142" trl="Y">
+  <value column="Name" original="Binary LOB">Binäres LOB</value>
   <value column="Description" original=""/>
  </row>
- <row id="200143" trl="N">
-  <value column="Name" original="Character Fixed">Character Fixed</value>
+ <row id="200143" trl="Y">
+  <value column="Name" original="Character Fixed">Text fester Länge</value>
   <value column="Description" original=""/>
  </row>
- <row id="200144" trl="N">
-  <value column="Name" original="Decimal">Decimal</value>
+ <row id="200144" trl="Y">
+  <value column="Name" original="Decimal">Dezimal</value>
   <value column="Description" original=""/>
  </row>
- <row id="200145" trl="N">
-  <value column="Name" original="Integer">Integer</value>
+ <row id="200145" trl="Y">
+  <value column="Name" original="Integer">Ganzzahl</value>
   <value column="Description" original=""/>
  </row>
- <row id="200146" trl="N">
-  <value column="Name" original="Character LOB">Character LOB</value>
+ <row id="200146" trl="Y">
+  <value column="Name" original="Character LOB">Text LOB</value>
   <value column="Description" original=""/>
  </row>
- <row id="200147" trl="N">
-  <value column="Name" original="Number">Number</value>
+ <row id="200147" trl="Y">
+  <value column="Name" original="Number">Zahl</value>
   <value column="Description" original=""/>
  </row>
- <row id="200148" trl="N">
-  <value column="Name" original="Timestamp">Timestamp</value>
+ <row id="200148" trl="Y">
+  <value column="Name" original="Timestamp">Zeitstempel</value>
   <value column="Description" original=""/>
  </row>
- <row id="200149" trl="N">
-  <value column="Name" original="Character Variable">Character Variable</value>
+ <row id="200149" trl="Y">
+  <value column="Name" original="Character Variable">Textvariable</value>
   <value column="Description" original=""/>
  </row>
  <row id="200155" trl="Y">
@@ -5460,9 +5460,17 @@
   <value column="Name" original="Detail">Detail</value>
   <value column="Description" original=""/>
  </row>
+ <row id="200344" trl="N">
+  <value column="Name" original="Material Management System">Material Management System</value>
+  <value column="Description" original=""/>
+ </row>
  <row id="200345" trl="Y">
   <value column="Name" original="Payment">Zahlung</value>
   <value column="Description" original=""/>
+ </row>
+ <row id="200352" trl="Y">
+  <value column="Name" original="Reference">Referenz</value>
+  <value column="Description" original="Reference">Referenz</value>
  </row>
  <row id="200356" trl="N">
   <value column="Name" original="SQL Mandatory">SQL Mandatory</value>
@@ -5525,14 +5533,14 @@
   <value column="Description" original=""/>
  </row>
  <row id="200459" trl="N">
-  <value column="Name" original="System Support">System Support</value>
+  <value column="Name" original="System Support">Systemunterstützung</value>
   <value column="Description" original=""/>
  </row>
- <row id="200460" trl="N">
-  <value column="Name" original="Mobile">Mobile</value>
+ <row id="200460" trl="Y">
+  <value column="Name" original="Mobile">Mobil</value>
   <value column="Description" original=""/>
  </row>
- <row id="200461" trl="N">
+ <row id="200461" trl="Y">
   <value column="Name" original="Swing">Swing</value>
   <value column="Description" original=""/>
  </row>
@@ -5577,7 +5585,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="200472" trl="Y">
-  <value column="Name" original="Excel">Excel</value>
+  <value column="Name" original="XLS">Excel</value>
   <value column="Description" original=""/>
  </row>
  <row id="200473" trl="Y">
@@ -5594,6 +5602,58 @@
  </row>
  <row id="200476" trl="Y">
   <value column="Name" original="According to threshold">Abhängig vom Schwellwert</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200477" trl="Y">
+  <value column="Name" original="Dotted">Gepunktet</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200478" trl="Y">
+  <value column="Name" original="Dashed">Gestrichelt</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200479" trl="Y">
+  <value column="Name" original="Double Dotted">Doppelt gepunktet</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200480" trl="Y">
+  <value column="Name" original="Double Dashed">Doppelter gestrichelt</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200481" trl="Y">
+  <value column="Name" original="Double Solid">Doppelt durchgehender Strich</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200482" trl="Y">
+  <value column="Name" original="Solid">Durchgehender Strich</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200483" trl="Y">
+  <value column="Name" original="Blank line">Weiße Linie</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200491" trl="N">
+  <value column="Name" original="XLSX">XLSX</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200492" trl="N">
+  <value column="Name" original="Data Single">Data Single</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200493" trl="Y">
+  <value column="Name" original="Hundred">Hundert</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200494" trl="Y">
+  <value column="Name" original="Thousand">Tausend</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200495" trl="Y">
+  <value column="Name" original="Import">Import</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200496" trl="Y">
+  <value column="Name" original="Export">Export</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>
