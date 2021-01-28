@@ -10,6 +10,11 @@
   <value column="Description" original="Load flat Files into import tables">Lädt Textdateien in Importtabellen</value>
   <value column="Help" original="The Import File Loader parses the content of a flat file and loads it into import tables. Comments start with a '[' and end with a ']' and are ignored; example: [Some Heading].">Import Ladeprogramm untersucht den Inhalt der Datei und lädt ihn in eine Importtabelle. Kommentare beginnen mit einem '[' und enden mit einem ']' und werden ignoriert. Beispiel: [Eine Überschrift].</value>
  </row>
+ <row id="102" trl="Y">
+  <value column="Name" original="Initial Client Setup">Ersteinrichtung Mandant</value>
+  <value column="Description" original="Initial new Client/Tenant Setup">Ersteinrichtung Mandant</value>
+  <value column="Help" original="Set up a new Client/Tenant of the system">Einrichtung eines neuen Mandanten des Systems</value>
+ </row>
  <row id="103" trl="Y">
   <value column="Name" original="Material Transactions">Warenbewegungen</value>
   <value column="Description" original="Material Transactions">Warenbewegungen</value>
@@ -39,6 +44,11 @@
   <value column="Name" original="Matching PO-Receipt-Invoice">Zuordnung Bestellung-Lieferschein-Rechnung</value>
   <value column="Description" original="Match Purchase Orders, Receipts, Vendor Invoices">Ordnen Sie Bestellungen, Lieferscheine und Lieferantenrechnungen zu.</value>
   <value column="Help" original="Make sure that the Receipts and Invoices are processed. If you want to match partial shipment, make sure that &quot;Same Quantity&quot; is not selected.">Stellen Sie sicher, dass Lieferscheine und Rechnungen bearbeitet wurden. Wenn Sie Teillieferungen zuordnen wollen, stellen Sie sicher, dass nicht "Gleiche Menge" ausgewählt wurde.</value>
+ </row>
+ <row id="109" trl="Y">
+  <value column="Name" original="Translation Import/Export">Übersetzung - Import/Export</value>
+  <value column="Description" original="Import or Export Language Translation">Importieren oder exportieren Sie Übersetzungen.</value>
+  <value column="Help" original="Export/Import Translation info to/from xml for translation in external tool. Please note that the Language MUST be an enabled and verified System Langage.">Export/Import von Übersetzungen in oder aus XML-Dateien zur Bearbeitung mit einem externen Werkzeug. Beachten Sie, dass die Sprache eine ausgewählte und verifizierte Systemsprache sein MUSS!</value>
  </row>
  <row id="110" trl="Y">
   <value column="Name" original="Generate Shipments (manual)">Lieferscheine erzeugen (manuell)</value>
@@ -150,6 +160,11 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
   <value column="Name" original="Payroll Action Notice">Gehaltsabrechnung Aktionshinweis</value>
   <value column="Description" original="Payroll Action Notice let entry the events that happend with any Employee">Mit einem Aktionshinweis können Sie Vorkommnisse mit einem Mitarbeiter die Gehaltsabrechnung betreffend erfassen</value>
   <value column="Help" original=""/>
+ </row>
+ <row id="53010" trl="Y">
+  <value column="Name" original="Generate Shipments &amp; Invoices (manual)"><![CDATA[Lieferscheine & Rechnungen erzeugen (manuell)]]></value>
+  <value column="Description" original="Select and generate shipments &amp; Invoices"><![CDATA[Auswählen und erzeugen von Lieferungen & Rechnungen]]></value>
+  <value column="Help" original="Generate Shipments &amp; Invoices from Orders.  &#10;Select the orders to generate the shipments &amp; Invoices for."><![CDATA[Lieferscheine & Rechnungen aus Aufträgen erzeugen. Aufträge auswählen für die Lieferscheine und Rechnungen erzeugt werden sollen.]]></value>
  </row>
  <row id="53012" trl="Y">
   <value column="Name" original="Material Receipt Distribution Order">Distributionsauftrag Wareneingang</value>
