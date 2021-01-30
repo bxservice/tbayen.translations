@@ -40,12 +40,12 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200013" trl="N">
+ <row id="200013" trl="Y">
   <value column="Name" original="Role (All)">Rollen (Alle)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200014" trl="N">
+ <row id="200014" trl="Y">
   <value column="Name" original="Support Users vs Roles">Unterstützende Benutzer mit ihren Rollen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>

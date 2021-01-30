@@ -2070,8 +2070,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Help" original=""/>
  </row>
  <row id="200059" trl="Y">
-  <value column="Name" original="Recurring Group">Wiederkehrer Gruppe</value>
-  <value column="Description" original="Recurring Group">Die Wiederkehrer Gruppe ist eine Zusammenfassung regelmäßig auftretender Vorgänge</value>
+  <value column="Name" original="Recurring Group">Wiederholergruppe</value>
+  <value column="Description" original="Recurring Group">Die Wiederholergruppe ist eine Zusammenfassung regelmäßig auftretender Vorgänge</value>
   <value column="Help" original=""/>
  </row>
  <row id="200061" trl="Y">

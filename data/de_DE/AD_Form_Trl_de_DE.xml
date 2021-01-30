@@ -211,32 +211,32 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200008" trl="N">
+ <row id="200008" trl="Y">
   <value column="Name" original="Captured Process Parameter">Gespeicherte Prozessparameter</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200009" trl="N">
+ <row id="200009" trl="Y">
   <value column="Name" original="Compare Field Suggestion">Änderungsvorschlag vergleichen</value>
   <value column="Description" original="Review field changes for label, descriptipn and help">Begutachten Sie die Änderungen für Name, Beschreibung und Hilfe</value>
   <value column="Help" original=""/>
  </row>
- <row id="200010" trl="N">
+ <row id="200010" trl="Y">
   <value column="Name" original="Compare Context Help Suggestion">Änderungsvorschlage Kontexthilfe vergleichenn</value>
   <value column="Description" original="Review changes for context help">Begutachten Sie die Änderungen der Kontexthilfe</value>
   <value column="Help" original=""/>
  </row>
- <row id="200011" trl="N">
+ <row id="200011" trl="Y">
   <value column="Name" original="idempiereMonitor">idempiereMonitor</value>
   <value column="Description" original="Form to configure access to /idempiereMonitor - do not add to menu">Formular um den Zugriff zum /idempiereMonitor zu konfigurieren, bitte nicht ins Menü aufnehmen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200012" trl="N">
+ <row id="200012" trl="Y">
   <value column="Name" original="Apache Felix Web Console">Apache Felix Web Console</value>
   <value column="Description" original="Form to configure access to /osgi/system/console - do not add to menu">Formular um den Zugriff zur /osgi/system/console zu konfigurieren, bitte nicht ins Menü aufnehmen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200015" trl="N">
+ <row id="200015" trl="Y">
   <value column="Name" original="Plugin Manager">Plugin Manager</value>
   <value column="Description" original="Plugin Manager">Plugin Manager</value>
   <value column="Help" original="Plugin Manager">Plugin Manager</value>

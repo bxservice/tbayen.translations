@@ -2114,8 +2114,8 @@ Bedenken Sie, dass die Basissprache nicht Systemsprache sein kann.</value>
   <value column="Help" original=""/>
  </row>
  <row id="200074" trl="Y">
-  <value column="Name" original="Recurring Run">Wiederkehrerlauf</value>
-  <value column="Description" original="Recurring Run">Wiederkehrerlauf</value>
+  <value column="Name" original="Recurring Run">Wiederholerlauf</value>
+  <value column="Description" original="Recurring Run">Wiederholerlauf</value>
   <value column="Help" original=""/>
  </row>
  <row id="200076" trl="Y">

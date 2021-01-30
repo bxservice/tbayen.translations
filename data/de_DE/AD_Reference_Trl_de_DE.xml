@@ -2170,7 +2170,7 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53370" trl="N">
+ <row id="53370" trl="Y">
   <value column="Name" original="Chart">Diagramm</value>
   <value column="Description" original="Chart">Diagramm</value>
   <value column="Help" original="A chart provides a graphical display of information.">Ein Diagramm zeigt eine graphische Ansicht der Informationen.</value>
@@ -2590,7 +2590,7 @@
   <value column="Description" original="Client selection">Client selection</value>
   <value column="Help" original=""/>
  </row>
- <row id="200145" trl="N">
+ <row id="200145" trl="Y">
   <value column="Name" original="AD_User Users from all Clients">AD_User Benutzer aus allen Mandanten</value>
   <value column="Description" original="Users from all clients">Benutzer aus allen Mandanten</value>
   <value column="Help" original=""/>

@@ -6223,7 +6223,7 @@ Fortfahren?</value>
   <value column="MsgText" original="Delete All">Alles löschen</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200185" trl="N">
+ <row id="200185" trl="Y">
   <value column="MsgText" original="Error calculating tax">Fehler beim Berechnen der Steuer</value>
   <value column="MsgTip" original=""/>
  </row>
