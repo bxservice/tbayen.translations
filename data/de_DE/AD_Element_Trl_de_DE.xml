@@ -58624,7 +58624,7 @@ Artikel: Verwendet um schnell Artikel in der Position aufzunehmen <br>>]]></valu
   <value column="PO_PrintName" original=""/>
  </row>
  <row id="202220" trl="Y">
-  <value column="Name" original="Zoom condition">Bedingung für Zoomn</value>
+  <value column="Name" original="Zoom condition">Bedingung für Zoom</value>
   <value column="PrintName" original="Zoom Condition">Bedingung für Zoom</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
