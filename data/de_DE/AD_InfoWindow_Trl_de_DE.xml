@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
-<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
-<idempiereTrl language="de_DE" table="AD_InfoWindow">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_InfoWindow">
+ <row id="200000" trl="Y">
+  <value column="Name" original="Product Info">Artikelinfo</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
  <row id="200001" trl="Y">
   <value column="Name" original="Business Partner Info">Info Geschäftspartner</value>
   <value column="Description" original=""/>
@@ -34,6 +37,16 @@
  </row>
  <row id="200007" trl="Y">
   <value column="Name" original="Asset Info">Info Vermögenswerte</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200013" trl="Y">
+  <value column="Name" original="Role (All)">Rollen (Alle)</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200014" trl="Y">
+  <value column="Name" original="Support Users vs Roles">Unterstützende Benutzer mit ihren Rollen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>

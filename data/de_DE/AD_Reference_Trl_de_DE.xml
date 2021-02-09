@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Reference">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Reference">
  <row id="1" trl="Y">
   <value column="Name" original="AD_Reference Data Types">AD_Reference Datentypen</value>
   <value column="Description" original="Data Type selection">Auswahl Datentyp</value>
@@ -2170,34 +2170,34 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53370" trl="N">
-  <value column="Name" original="Chart">Chart</value>
-  <value column="Description" original="Chart">Chart</value>
-  <value column="Help" original="A chart provides a graphical display of information.">A chart provides a graphical display of information.</value>
+ <row id="53370" trl="Y">
+  <value column="Name" original="Chart">Diagramm</value>
+  <value column="Description" original="Chart">Diagramm</value>
+  <value column="Help" original="A chart provides a graphical display of information.">Ein Diagramm zeigt eine graphische Ansicht der Informationen.</value>
  </row>
  <row id="53371" trl="Y">
-  <value column="Name" original="Reconciliation Type">Reconciliation Type</value>
+  <value column="Name" original="Reconciliation Type">Abstimmart</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="53372" trl="Y">
-  <value column="Name" original="Reconciliation Rules">Reconciliation Rules</value>
+  <value column="Name" original="Reconciliation Rules">Abstimmregeln</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53375" trl="N">
-  <value column="Name" original="ChartOrientation">ChartOrientation</value>
-  <value column="Description" original="Chart Orientation">Chart Orientation</value>
-  <value column="Help" original="Horizontal or vertical">Horizontal or vertical</value>
+ <row id="53375" trl="Y">
+  <value column="Name" original="ChartOrientation">Orientierung des Diagramms</value>
+  <value column="Description" original="Chart Orientation">Orientierung des Diagramms</value>
+  <value column="Help" original="Horizontal or vertical">Horizontal oder vertikal</value>
  </row>
- <row id="53376" trl="N">
-  <value column="Name" original="TimeUnit">TimeUnit</value>
-  <value column="Description" original="Time units for charting.">Time units for charting.</value>
+ <row id="53376" trl="Y">
+  <value column="Name" original="TimeUnit">Zeiteinheit</value>
+  <value column="Description" original="Time units for charting.">Zeiteinheiten für die Diagrammdarstellung.</value>
   <value column="Help" original=""/>
  </row>
- <row id="53377" trl="N">
-  <value column="Name" original="ChartType">ChartType</value>
-  <value column="Description" original="Chart Type">Chart Type</value>
+ <row id="53377" trl="Y">
+  <value column="Name" original="ChartType">Diagrammart</value>
+  <value column="Description" original="Chart Type">Diagrammart</value>
   <value column="Help" original=""/>
  </row>
  <row id="53382" trl="Y">
@@ -2230,23 +2230,23 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53410" trl="N">
-  <value column="Name" original="PriceOverrideType">PriceOverrideType</value>
-  <value column="Description" original="Price Override Type">Price Override Type</value>
-  <value column="Help" original="Fixed price or discount off list">Fixed price or discount off list</value>
+ <row id="53410" trl="Y">
+  <value column="Name" original="PriceOverrideType">Art der Preisübersteuerung</value>
+  <value column="Description" original="Price Override Type">Art der Preisübersteuerung</value>
+  <value column="Help" original="Fixed price or discount off list">Festpreis oder Rabatt gegenüber der Liste</value>
  </row>
  <row id="53412" trl="Y">
   <value column="Name" original="M_Replenishment Production Create ">M_Replenishment Production Create </value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53415" trl="N">
-  <value column="Name" original="Lead Source">Lead Source</value>
-  <value column="Description" original="Lead Source">Lead Source</value>
-  <value column="Help" original="The source of a lead">The source of a lead</value>
+ <row id="53415" trl="Y">
+  <value column="Name" original="Lead Source">Quelle des Hinweises</value>
+  <value column="Description" original="Lead Source">Quelle des Hinweises</value>
+  <value column="Help" original="The source of a lead">Die Quelle eines Hinweises</value>
  </row>
- <row id="53416" trl="N">
-  <value column="Name" original="Lead Status">Lead Status</value>
+ <row id="53416" trl="Y">
+  <value column="Name" original="Lead Status">Hinweistatuss</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2490,13 +2490,13 @@
   <value column="Description" original="M_Inventory Types list">M_Inventory Types list</value>
   <value column="Help" original=""/>
  </row>
- <row id="200069" trl="N">
-  <value column="Name" original="AD_Language NOT System/Base">AD_Language NOT System/Base</value>
-  <value column="Description" original="Language not system neither base">Language not system neither base</value>
+ <row id="200069" trl="Y">
+  <value column="Name" original="AD_Language NOT System/Base">AD_Language NICHGT System/Basis</value>
+  <value column="Description" original="Language not system neither base">Die Sprache ist weder System- noch Basissprache</value>
   <value column="Help" original=""/>
  </row>
- <row id="200070" trl="N">
-  <value column="Name" original="Database Data Type">Database Data Type</value>
+ <row id="200070" trl="Y">
+  <value column="Name" original="Database Data Type">Datentyp der Datenbank</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2515,8 +2515,8 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200075" trl="N">
-  <value column="Name" original="Foreign Key Constraint Type">Foreign Key Constraint Type</value>
+ <row id="200075" trl="Y">
+  <value column="Name" original="Foreign Key Constraint Type">Typ der Einschränkung des Fremdschlüssels</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2545,8 +2545,8 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200098" trl="N">
-  <value column="Name" original="Import Mode">Import Mode</value>
+ <row id="200098" trl="Y">
+  <value column="Name" original="Import Mode">Importmodus</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2555,14 +2555,19 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
+ <row id="200115" trl="N">
+  <value column="Name" original="AttributeSet Type">AttributeSet Type</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
  <row id="200121" trl="N">
   <value column="Name" original="AD_Style">AD_Style</value>
   <value column="Description" original="CSS Style">CSS Style</value>
   <value column="Help" original=""/>
  </row>
- <row id="200122" trl="N">
-  <value column="Name" original="Dashboard Content">Dashboard Content</value>
-  <value column="Description" original="Dashboard Content">Dashboard Content</value>
+ <row id="200122" trl="Y">
+  <value column="Name" original="Dashboard Content">Inhalt Instrumententafel</value>
+  <value column="Description" original="Dashboard Content">Inhalt Instrumententafel</value>
   <value column="Help" original=""/>
  </row>
  <row id="200123" trl="N">
@@ -2570,13 +2575,13 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200127" trl="N">
-  <value column="Name" original="Single Selection Grid">Single Selection Grid</value>
+ <row id="200127" trl="Y">
+  <value column="Name" original="Single Selection Grid">Tabelle mit Einzelauswahl</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200128" trl="N">
-  <value column="Name" original="Multiple Selection Grid">Multiple Selection Grid</value>
+ <row id="200128" trl="Y">
+  <value column="Name" original="Multiple Selection Grid">Tabelle mit Mehrfachauswahl</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2585,9 +2590,14 @@
   <value column="Description" original="Client selection">Client selection</value>
   <value column="Help" original=""/>
  </row>
- <row id="200145" trl="N">
-  <value column="Name" original="AD_User Users from all Clients">AD_User Users from all Clients</value>
-  <value column="Description" original="Users from all clients">Users from all clients</value>
+ <row id="200145" trl="Y">
+  <value column="Name" original="AD_User Users from all Clients">AD_User Benutzer aus allen Mandanten</value>
+  <value column="Description" original="Users from all clients">Benutzer aus allen Mandanten</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200152" trl="Y">
+  <value column="Name" original="Radio Group List">Knöpfe mit exklusiver Auswahl</value>
+  <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="200157" trl="N">
@@ -2625,8 +2635,8 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200167" trl="N">
-  <value column="Name" original="Activate/Deactivate/Delete">Activate/Deactivate/Delete</value>
+ <row id="200167" trl="Y">
+  <value column="Name" original="Activate/Deactivate/Delete">Aktivieren / Deaktivieren / Löschen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2645,9 +2655,34 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200173" trl="N">
-  <value column="Name" original="Scheduler State">Scheduler State</value>
-  <value column="Description" original="View and change the state of a scheduler">View and change the state of a scheduler</value>
+ <row id="200173" trl="Y">
+  <value column="Name" original="Scheduler State">Zeitplanerstatus</value>
+  <value column="Description" original="View and change the state of a scheduler">Anzeigen und Ändern des Status eines Zeitplaners</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200174" trl="N">
+  <value column="Name" original="PA_ReportLine Line Stroke Type">PA_ReportLine Line Stroke Type</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200175" trl="N">
+  <value column="Name" original="C_BPartner (all)">C_BPartner (all)</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200176" trl="N">
+  <value column="Name" original="M_Product (all)">M_Product (all)</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200178" trl="N">
+  <value column="Name" original="ImportOrExport">ImportOrExport</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200179" trl="N">
+  <value column="Name" original="AD_Table Trl">AD_Table Trl</value>
+  <value column="Description" original="Translated Tables">Translated Tables</value>
   <value column="Help" original=""/>
  </row>
 </idempiereTrl>

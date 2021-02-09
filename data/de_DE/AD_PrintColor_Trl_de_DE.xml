@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_PrintColor">
+ <row id="100" trl="Y">
+  <value column="Name" original="Black">Schwarz</value>
+ </row>
+ <row id="102" trl="Y">
+  <value column="Name" original="Red">Rot</value>
+ </row>
+ <row id="103" trl="Y">
+  <value column="Name" original="Green">Grün</value>
+ </row>
+ <row id="104" trl="Y">
+  <value column="Name" original="Blue">Blau</value>
+ </row>
+ <row id="105" trl="Y">
+  <value column="Name" original="Gray dark">Dunkelgrau</value>
+ </row>
+ <row id="106" trl="Y">
+  <value column="Name" original="Gray">Grau</value>
+ </row>
+ <row id="107" trl="Y">
+  <value column="Name" original="Gray light">Hellgrau</value>
+ </row>
+ <row id="108" trl="Y">
+  <value column="Name" original="White">Weiß</value>
+ </row>
+ <row id="109" trl="Y">
+  <value column="Name" original="Cyan">Cyan</value>
+ </row>
+ <row id="110" trl="Y">
+  <value column="Name" original="Magenta">Magenta</value>
+ </row>
+ <row id="111" trl="Y">
+  <value column="Name" original="Orange">Orange</value>
+ </row>
+ <row id="112" trl="Y">
+  <value column="Name" original="Pink">Rosa</value>
+ </row>
+ <row id="113" trl="Y">
+  <value column="Name" original="Yellow">Gelb</value>
+ </row>
+ <row id="114" trl="Y">
+  <value column="Name" original="Blue dark">Dunkelblau</value>
+ </row>
+ <row id="115" trl="Y">
+  <value column="Name" original="Gray white">Weiß/grau</value>
+ </row>
+ <row id="116" trl="Y">
+  <value column="Name" original="Green dark">Dunkelgrün</value>
+ </row>
+ <row id="117" trl="Y">
+  <value column="Name" original="Green black">Grünschwarz</value>
+ </row>
+ <row id="119" trl="Y">
+  <value column="Name" original="Blue black">Blauschwarz</value>
+ </row>
+ <row id="120" trl="Y">
+  <value column="Name" original="Brown">Braun</value>
+ </row>
+ <row id="121" trl="Y">
+  <value column="Name" original="Brown dark">Dunkelbraun</value>
+ </row>
+</idempiereTrl>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Message">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Message">
  <row id="101" trl="Y">
   <value column="MsgText" original="zero">null</value>
   <value column="MsgTip" original=""/>
@@ -137,7 +137,7 @@
   <value column="MsgTip" original=""/>
  </row>
  <row id="135" trl="Y">
-  <value column="MsgText" original="&amp;Advanced">Erweitert</value>
+  <value column="MsgText" original="Advanced">Erweitert</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="136" trl="Y">
@@ -261,11 +261,11 @@
   <value column="MsgTip" original=""/>
  </row>
  <row id="166" trl="Y">
-  <value column="MsgText" original="&amp;Cancel">Abbrechen</value>
+  <value column="MsgText" original="Cancel">Abbrechen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="167" trl="Y">
-  <value column="MsgText" original="&amp;Cancel Query">Suche abbrechen</value>
+  <value column="MsgText" original="Cancel Query">Suche abbrechen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="168" trl="Y">
@@ -349,7 +349,7 @@
   <value column="MsgTip" original=""/>
  </row>
  <row id="188" trl="Y">
-  <value column="MsgText" original="&amp;Copy Record">Datensatz kopieren</value>
+  <value column="MsgText" original="Copy Record">Datensatz kopieren</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="189" trl="Y">
@@ -454,7 +454,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="214" trl="Y">
-  <value column="MsgText" original="&amp;Delete record">Datensatz löschen</value>
+  <value column="MsgText" original="Delete Record">Datensatz löschen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="215" trl="Y">
@@ -534,7 +534,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="234" trl="Y">
-  <value column="MsgText" original="&amp;Edit" xml:space="preserve"><![CDATA[&Bearbeiten]]></value>
+  <value column="MsgText" original="Edit" xml:space="preserve"><![CDATA[&Bearbeiten]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="235" trl="Y">
@@ -542,11 +542,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="236" trl="Y">
-  <value column="MsgText" original="e&amp;Xit Window">Fenster verlassen</value>
+  <value column="MsgText" original="Exit Window">Fenster verlassen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="237" trl="Y">
-  <value column="MsgText" original="Enter &amp;Query">Suche eingeben</value>
+  <value column="MsgText" original="Enter Query">Suche eingeben</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="238" trl="Y">
@@ -578,7 +578,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="245" trl="Y">
-  <value column="MsgText" original="&amp;Expand Tree">Baum aufklappen</value>
+  <value column="MsgText" original="Expand Tree">Baum aufklappen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="246" trl="Y">
@@ -610,7 +610,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="253" trl="Y">
-  <value column="MsgText" original="&amp;File" xml:space="preserve"><![CDATA[&Datei]]></value>
+  <value column="MsgText" original="File" xml:space="preserve"><![CDATA[&Datei]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="254" trl="Y">
@@ -678,7 +678,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="270" trl="Y">
-  <value column="MsgText" original="&amp;Lookup Record">Datensatz suchen</value>
+  <value column="MsgText" original="Lookup Record">Datensatz suchen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="271" trl="Y">
@@ -734,7 +734,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="284" trl="Y">
-  <value column="MsgText" original="&amp;Go">Los</value>
+  <value column="MsgText" original="Go">Los</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="285" trl="Y">
@@ -762,7 +762,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="291" trl="Y">
-  <value column="MsgText" original="&amp;Help">Hilfe</value>
+  <value column="MsgText" original="Help">Hilfe</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="292" trl="Y">
@@ -770,7 +770,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="293" trl="Y">
-  <value column="MsgText" original="&amp;Home">Übersicht</value>
+  <value column="MsgText" original="Home">Übersicht</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="294" trl="Y">
@@ -778,7 +778,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="295" trl="Y">
-  <value column="MsgText" original="&amp;Undo changes">Änderungen rückgängig</value>
+  <value column="MsgText" original="Undo Changes">Änderungen rückgängig</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="296" trl="Y">
@@ -818,7 +818,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="305" trl="Y">
-  <value column="MsgText" original="Product &amp;Info">Artikel Info</value>
+  <value column="MsgText" original="Product Info">Artikel Info</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="306" trl="Y">
@@ -934,7 +934,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="334" trl="Y">
-  <value column="MsgText" original="&amp;Menu">Menü</value>
+  <value column="MsgText" original="Menu">Menü</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="335" trl="Y">
@@ -958,7 +958,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="340" trl="Y">
-  <value column="MsgText" original="Grid t&amp;Oggle">Tabellenansicht umschalten</value>
+  <value column="MsgText" original="Grid Toggle">Tabellenansicht umschalten</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="341" trl="Y">
@@ -970,7 +970,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="343" trl="Y">
-  <value column="MsgText" original="&amp;Name">Name</value>
+  <value column="MsgText" original="Name">Name</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="344" trl="Y">
@@ -1062,7 +1062,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="366" trl="Y">
-  <value column="MsgText" original="&amp;OK" xml:space="preserve"><![CDATA[&OK]]></value>
+  <value column="MsgText" original="OK" xml:space="preserve"><![CDATA[&OK]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="367" trl="Y">
@@ -1298,7 +1298,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="425" trl="Y">
-  <value column="MsgText" original="&amp;Print">Drucken</value>
+  <value column="MsgText" original="Print">Drucken</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="426" trl="Y">
@@ -1362,7 +1362,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="441" trl="Y">
-  <value column="MsgText" original="Process finished successful">Der Vorgang wurde erfolgreich abgeschlossen</value>
+  <value column="MsgText" original="Process finished successfully">Der Vorgang wurde erfolgreich abgeschlossen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="442" trl="Y">
@@ -1458,7 +1458,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="465" trl="Y">
-  <value column="MsgText" original="Re&amp;Query">Aktualisieren</value>
+  <value column="MsgText" original="ReQuery">Aktualisieren</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="466" trl="Y">
@@ -1490,7 +1490,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="473" trl="Y">
-  <value column="MsgText" original="&amp;Report" xml:space="preserve"><![CDATA[&Bericht]]></value>
+  <value column="MsgText" original="Report" xml:space="preserve"><![CDATA[&Bericht]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="474" trl="Y">
@@ -1586,7 +1586,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="497" trl="Y">
-  <value column="MsgText" original="&amp;Save changes">Änderungen speichern</value>
+  <value column="MsgText" original="Save Changes">Änderungen speichern</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="498" trl="Y">
@@ -1866,7 +1866,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="567" trl="Y">
-  <value column="MsgText" original="&amp;Tools" xml:space="preserve"><![CDATA[&Extras]]></value>
+  <value column="MsgText" original="Tools" xml:space="preserve"><![CDATA[&Extras]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="568" trl="Y">
@@ -1966,7 +1966,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="592" trl="Y">
-  <value column="MsgText" original="&amp;Key">Schlüssel</value>
+  <value column="MsgText" original="Key">Schlüssel</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="593" trl="Y">
@@ -1994,7 +1994,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="599" trl="Y">
-  <value column="MsgText" original="&amp;View" xml:space="preserve"><![CDATA[&Ansicht]]></value>
+  <value column="MsgText" original="View" xml:space="preserve"><![CDATA[&Ansicht]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="600" trl="Y">
@@ -2006,7 +2006,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="602" trl="Y">
-  <value column="MsgText" original="&amp;Enter Query">Suche eingeben</value>
+  <value column="MsgText" original="Enter Query">Suche eingeben</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="603" trl="Y">
@@ -2046,7 +2046,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="612" trl="Y">
-  <value column="MsgText" original="&amp;Warehouse">Lager</value>
+  <value column="MsgText" original="Warehouse">Lager</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="613" trl="Y">
@@ -2070,7 +2070,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="618" trl="Y">
-  <value column="MsgText" original="&amp;Zoom">Zoom</value>
+  <value column="MsgText" original="Zoom">Zoom</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="619" trl="Y">
@@ -2586,7 +2586,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="757" trl="Y">
-  <value column="MsgText" original="Active &amp;Workflows">Aktive Workflows</value>
+  <value column="MsgText" original="Active Workflows">Aktive Workflows</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="758" trl="Y">
@@ -2594,7 +2594,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="759" trl="Y">
-  <value column="MsgText" original="&amp;Zoom Across (where used)" xml:space="preserve"><![CDATA[&Zoom Across (falls verwendet)]]></value>
+  <value column="MsgText" original="Zoom Across (where used)" xml:space="preserve"><![CDATA[&Zoom Across (falls verwendet)]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="760" trl="Y">
@@ -2666,11 +2666,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="777" trl="Y">
-  <value column="MsgText" original="&amp;Product">Artikel</value>
+  <value column="MsgText" original="Product">Artikel</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="778" trl="Y">
-  <value column="MsgText" original="&amp;Business Partner">Geschäftspartner</value>
+  <value column="MsgText" original="Business Partner">Geschäftspartner</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="779" trl="Y">
@@ -2843,11 +2843,11 @@ Beispiel: Um Stück nach Paar umzurechnen muß der Multiplikator 0,5 sein]]></va
   <value column="MsgTip" original=""/>
  </row>
  <row id="821" trl="Y">
-  <value column="MsgText" original="&amp;Check Requests">Anfragen prüfen</value>
+  <value column="MsgText" original="Check Requests">Anfragen prüfen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="822" trl="Y">
-  <value column="MsgText" original="&amp;Archived Documents/Reports" xml:space="preserve"><![CDATA[&Archivierte Belege und Berichte]]></value>
+  <value column="MsgText" original="Archived Documents/Reports" xml:space="preserve"><![CDATA[Archivierte Belege und Berichte]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="823" trl="Y">
@@ -2996,11 +2996,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="859" trl="Y">
-  <value column="MsgText" original="&amp;Workflow" xml:space="preserve"><![CDATA[&Workflow]]></value>
+  <value column="MsgText" original="Workflow" xml:space="preserve"><![CDATA[Workflow]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="860" trl="Y">
-  <value column="MsgText" original="&amp;Lookup">Nachschlagen</value>
+  <value column="MsgText" original="Lookup">Nachschlagen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="861" trl="Y">
@@ -3012,11 +3012,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="863" trl="Y">
-  <value column="MsgText" original="&amp;OK" xml:space="preserve"><![CDATA[&OK]]></value>
+  <value column="MsgText" original="OK" xml:space="preserve"><![CDATA[OK]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="864" trl="Y">
-  <value column="MsgText" original="&amp;Document No" xml:space="preserve"><![CDATA[&Belegnr.]]></value>
+  <value column="MsgText" original="Document No" xml:space="preserve"><![CDATA[Belegnr.]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="865" trl="Y">
@@ -3024,7 +3024,7 @@ Fortfahren?</value>
   <value column="MsgTip" original="Cache Window Definitions on Client">Fensterdefinitionen werden auf dem Client zwischengespeichert.</value>
  </row>
  <row id="866" trl="Y">
-  <value column="MsgText" original="&amp;Performance" xml:space="preserve"><![CDATA[&Leistung]]></value>
+  <value column="MsgText" original="Performance" xml:space="preserve"><![CDATA[Leistung]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="867" trl="Y">
@@ -3112,7 +3112,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="888" trl="Y">
-  <value column="MsgText" original="Select &amp;All" xml:space="preserve"><![CDATA[&Alles auswählen]]></value>
+  <value column="MsgText" original="Select All" xml:space="preserve"><![CDATA[Alles auswählen]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="20001" trl="Y">
@@ -4828,7 +4828,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52413" trl="Y">
-  <value column="MsgText" original="To">An</value>
+  <value column="MsgText" original="bis">An</value>
   <value column="MsgTip" original=" "> </value>
  </row>
  <row id="52414" trl="Y">
@@ -5520,7 +5520,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53127" trl="Y">
-  <value column="MsgText" original="Credit">Haben</value>
+  <value column="MsgText" original="Credit">Danksagungen</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="53128" trl="Y">
@@ -6223,6 +6223,10 @@ Fortfahren?</value>
   <value column="MsgText" original="Delete All">Alles löschen</value>
   <value column="MsgTip" original=""/>
  </row>
+ <row id="200185" trl="Y">
+  <value column="MsgText" original="Error calculating tax">Fehler beim Berechnen der Steuer</value>
+  <value column="MsgTip" original=""/>
+ </row>
  <row id="200186" trl="Y">
   <value column="MsgText" original="Save Column Width">Spaltenbreite speichern</value>
   <value column="MsgTip" original=""/>
@@ -6316,11 +6320,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200211" trl="Y">
-  <value column="MsgText" original="Manage Gadgets">Gadgets verwalten</value>
+  <value column="MsgText" original="Manage Gadgets">Geräte verwalten</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200212" trl="Y">
-  <value column="MsgText" original="Dashboard Gadgets">Dashboard Gadgets</value>
+  <value column="MsgText" original="Dashboard Gadgets">Instrumententafelgerät</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200215" trl="Y">
@@ -6664,7 +6668,11 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200439" trl="Y">
-  <value column="MsgText" original="To">An</value>
+  <value column="MsgText" original="To">Nach</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200440" trl="Y">
+  <value column="MsgText" original="Quick Form">Schnelleingabe</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200442" trl="Y">
@@ -6701,6 +6709,10 @@ Fortfahren?</value>
  </row>
  <row id="200450" trl="Y">
   <value column="MsgText" original="Request a Read Receipt">Lesebestätigung anfordern</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200451" trl="Y">
+  <value column="MsgText" original="xlsx - Excel file">xlsx - Excel Datei</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200452" trl="Y">
@@ -6751,7 +6763,7 @@ Fortfahren?</value>
   <value column="MsgText" original="Failed when processing document">Belegbearbeitung gescheitert</value>
   <value column="MsgTip" original=""/>
  </row>
- <row id="200491" trl="">
+ <row id="200491" trl="Y">
   <value column="MsgText" original="Time Line">Zeitablauf</value>
   <value column="MsgTip" original=""/>
  </row>
@@ -7033,6 +7045,162 @@ Fortfahren?</value>
  </row>
  <row id="200593" trl="Y">
   <value column="MsgText" original="More">Mehr</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200594" trl="Y">
+  <value column="MsgText" original="UnSort">Unsortiert</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200595" trl="Y">
+  <value column="MsgText" original="Save and Close ( Alt+K )">Speichern und schließen ( Alt+K )</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200596" trl="Y">
+  <value column="MsgText" original="Save changes ( Alt+S )">Änderungen speichern ( Alt+S )</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200597" trl="Y">
+  <value column="MsgText" original="Close quick form ( Alt+X )">Schnelleingabe schließen ( Alt+X )</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200598" trl="Y">
+  <value column="MsgText" original="Ignore changes ( Alt+Z )">Änderungen verwerfen ( Alt+Z )</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200599" trl="Y">
+  <value column="MsgText" original="Delete selected or current record ( Alt+D )">Aktuellen oder markierte Sätze löschen ( Alt+D )</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200600" trl="Y">
+  <value column="MsgText" original="Restore sorting to natural order ( Alt+R )">Natürliche Sortierung wiederherstellen ( Alt+R )</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200601" trl="Y">
+  <value column="MsgText" original="ReQuery all record ( Alt+E )">Alle Sätze erneut abfragen ( Alt+E )</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200602" trl="Y">
+  <value column="MsgText" original="Customize grid ( Alt+L )">Tabellendarstellung anpassen ( Alt+L )</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200613" trl="Y">
+  <value column="MsgText" original="No Business Partner/Group selected">Kein Geschäftspartner / keine Gruppe ausgewählt</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200615" trl="Y">
+  <value column="MsgText" original="The table is not valid to create a new window, please verify that it has these columns: AD_Client_ID, AD_Org_ID, Created, CreatedBy, IsActive, Updated, UpdatedBy.">Die Tabelle ist nicht geeignet, um ein neues Fenster zu erzeugen. Prüfen Sie, ob folgende Spalten angelegt sind: AD_Client_ID, AD_Org_ID, Created, CreatedBy, IsActive, Updated, UpdatedBy.</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200616" trl="Y">
+  <value column="MsgText" original="Transaction windows require to have a Processed column. Please create the column and try again.">Ein Fenster für Transaktionen erfordert, dass die Tabelle eine Spalte Processed besitzt. Bitte erzeugen Sie die Spalte und versuchen es erneut.</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200617" trl="Y">
+  <value column="MsgText" original="There is already a window with the name {0}">Es gibt schon ein Fenster mit dem Namen {0}</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200618" trl="Y">
+  <value column="MsgText" original="No column is defined as Parent Link, therefore, the table cannot be a detail tab.">Keine der Spalten ist als übergeordnete Spalte definiert, deshalb kann die Tabelle keine untergeordneters Register sein.</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200619" trl="Y">
+  <value column="MsgText" original="The maximum tab level for this window can be {0}.">Die höchstmögliche Registerebene für dies Fenster ist {0}.</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200620" trl="Y">
+  <value column="MsgText" original="&lt;html&gt;The file is too large for automatic viewing, click the Preview button to load it&lt;/html&gt;" xml:space="preserve"><![CDATA[<html>Die Datei ist zu groß um automatisch angezeigt zu werden. klicken Sie auf den Vorschau-Knof um sie zu laden</html>]]></value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200624" trl="Y">
+  <value column="MsgText" original=" ="> =</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200625" trl="Y">
+  <value column="MsgText" original=" Not Equal"> ungleich</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200626" trl="Y">
+  <value column="MsgText" original=" Like"> ähnlich</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200627" trl="Y">
+  <value column="MsgText" original=" Not Like"> nicht ähnlich</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200628" trl="Y">
+  <value column="MsgText" original=" &gt;" xml:space="preserve"><![CDATA[ >]]></value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200629" trl="Y">
+  <value column="MsgText" original=" &gt;=" xml:space="preserve"><![CDATA[ >=]]></value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200630" trl="Y">
+  <value column="MsgText" original=" &lt;" xml:space="preserve"><![CDATA[ <]]></value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200631" trl="Y">
+  <value column="MsgText" original=" &lt;=" xml:space="preserve"><![CDATA[ <=]]></value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200632" trl="Y">
+  <value column="MsgText" original=" Between"> zwischen</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200633" trl="Y">
+  <value column="MsgText" original=" Not Null"> nicht Null</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200634" trl="Y">
+  <value column="MsgText" original=" Is Null"> ist Null</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200639" trl="Y">
+  <value column="MsgText" original="COULD NOT FIND FREIGHT DEFINED FOR: Shipper {0} - Freight Category {1} - Date {2,date,short} - Weight {3,number,#,##0.00} - Dimension {4,number,#,##0.00} - Origin Country {5} - Destination Country {6} - Origin Region {7} - Destination Region {8}">Konnte keine Frachtdefinition finden für: Spediteur {0} - Frachtkategorie {1} - Datum {2,date,short} - Gewicht {3,number,#,##0.00} - Volumen {4,number,#,##0.00} - Ursprungsland {5} - Zielland {6} - Ursprungsregion {7} - Zielregion {8}</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200640" trl="Y">
+  <value column="MsgText" original="Found freight record [{9}] with price {10,number,#,##0.00} for: Shipper {0} - Freight Category {1} - Date {2,date,short} - Weight {3,number,#,##0.00} - Dimension {4,number,#,##0.00} - Origin Country {5} - Destination Country {6} - Origin Region {7} - Destination Region {8}">Frachtrate [{9}] mit Preis {10,number,#,##0.00} gefunden für: Spediteur {0} - Frachtkategorie {1} - Datum {2,date,short} - Gewicht {3,number,#,##0.00} - Volumen {4,number,#,##0.00} - Ursprungsland {5} - Zielland {6} - Ursprungsregion {7} - Zielregion {8}</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200641" trl="Y">
+  <value column="MsgText" original="Window customization Language != Session Language">Sprache für die Fensteranpassung != Sitzungssprache</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200643" trl="Y">
+  <value column="MsgText" original="Select Query">Abfrage auswählen</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200644" trl="Y">
+  <value column="MsgText" original="Grid Toggle">Umschalten auf Tabellenansicht</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200645" trl="Y">
+  <value column="MsgText" original="Parent Record">übergeordneter Satz</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200646" trl="Y">
+  <value column="MsgText" original="Detail record">untergeordneter Satz</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200647" trl="Y">
+  <value column="MsgText" original="Active Workflows">Aktive Workflows</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200648" trl="Y">
+  <value column="MsgText" original="Check Requests">Anfrage überprüfen</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200649" trl="Y">
+  <value column="MsgText" original="Product Info">Produktinfo</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200651" trl="Y">
+  <value column="MsgText" original="Preview">Vorschau</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="200654" trl="Y">
+  <value column="MsgText" original="Invalid File Format: only ZIP files are supported">Ungeeignetes Dateiformat: nur ZIP wird unterstützt</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="520010" trl="Y">

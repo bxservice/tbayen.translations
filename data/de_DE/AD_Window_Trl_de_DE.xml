@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Window">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Window">
  <row id="100" trl="Y">
   <value column="Name" original="Table and Column">Tabelle und Spalte</value>
   <value column="Description" original="Maintain Tables and Columns">Verwaltung Tabellen und Spalten</value>
@@ -196,7 +196,7 @@ Zugriffsinformationen werden zwischengespeichert. Nach Änderungen ist eine Neua
  <row id="143" trl="Y">
   <value column="Name" original="Sales Order">Auftrag</value>
   <value column="Description" original="Enter and change sales orders">Aufträge anlegen und ändern</value>
-  <value column="Help" original="The Order Window allows you to enter and modify Sales Orders.">Im Fenster "Auftrag" können Sie Aufträge anlegen und ändern.</value>
+  <value column="Help" original="The Order Window allows you to enter and modify Sales Orders.  ">Im Fenster "Auftrag" können Sie Aufträge anlegen und ändern.</value>
  </row>
  <row id="144" trl="Y">
   <value column="Name" original="Product Category">Artikelkategorie</value>
@@ -1839,12 +1839,12 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="This window allow import Inventory Move transaction">Dieses Fenster ermöglicht den Import von Lagerbewegungstransaktionen</value>
   <value column="Help" original=""/>
  </row>
- <row id="53124" trl="N">
-  <value column="Name" original="Chart">Chart</value>
-  <value column="Description" original="Chart Definition">Chart Definition</value>
+ <row id="53124" trl="Y">
+  <value column="Name" original="Chart">Diagramm</value>
+  <value column="Description" original="Chart Definition">Diagrammdefinition</value>
   <value column="Help" original=""/>
  </row>
- <row id="53125" trl="Y">
+ <row id="53125" trl="N">
   <value column="Name" original="Fact Reconciliation">Fact Reconciliation</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -1874,33 +1874,33 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="Manufacturing Part Types">Teileart</value>
   <value column="Help" original=""/>
  </row>
- <row id="53152" trl="N">
-  <value column="Name" original="Contact">Contact</value>
-  <value column="Description" original="Maintain Contacts">Maintain Contacts</value>
-  <value column="Help" original="The Contact Window allows you to maintain Contacts who are individuals you deal with.  Contacts may also be internal or external users who can log into the system and have access to functionality via one or more roles.  A contact can also be a business partner contact.">The Contact Window allows you to maintain Contacts who are individuals you deal with.  Contacts may also be internal or external users who can log into the system and have access to functionality via one or more roles.  A contact can also be a business partner contact.</value>
+ <row id="53152" trl="Y">
+  <value column="Name" original="Contact">Kontakt</value>
+  <value column="Description" original="Maintain Contacts">Kontakte pflegen</value>
+  <value column="Help" original="The Contact Window allows you to maintain Contacts who are individuals you deal with.  Contacts may also be internal or external users who can log into the system and have access to functionality via one or more roles.  A contact can also be a business partner contact.">Das Fenster Kontakte erlaubt Ihnen, Kontakte, also die Personen mit denen Sie interagieren, zu pflegen. Kontakte können sowohl interne als auch externe Benutzer sein, die sich am System anmelden können und abhängig von den zugewiesenen Rollen Zugriff darauf haben. Ein Kontakt kann auch der Kontakt eines Geschäftspartners sein.</value>
  </row>
- <row id="53153" trl="N">
-  <value column="Name" original="Lead">Lead</value>
-  <value column="Description" original="Maintain Leads">Maintain Leads</value>
-  <value column="Help" original="The Lead Window allows you to maintain Sales Leads.  These are unqualified contacts to who you wish to market to. ">The Lead Window allows you to maintain Sales Leads.  These are unqualified contacts to who you wish to market to. </value>
+ <row id="53153" trl="Y">
+  <value column="Name" original="Lead">Hinweise</value>
+  <value column="Description" original="Maintain Leads">Hinweise pflegen</value>
+  <value column="Help" original="The Lead Window allows you to maintain Sales Leads.  These are unqualified contacts to who you wish to market to. ">Das Fenster Hinweise erlaubt Ihnen, Ihre Hinweise auf Vertriebsmöglichkeiten zu pflegen. Dies sind nicht weiter qualifizierte Kontakt, denen Sie etwas anbieten möchten.. </value>
  </row>
- <row id="53154" trl="N">
-  <value column="Name" original="Sales Stage">Sales Stage</value>
+ <row id="53154" trl="Y">
+  <value column="Name" original="Sales Stage">Vertriebsstufe</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53155" trl="N">
-  <value column="Name" original="Sales Opportunity">Sales Opportunity</value>
-  <value column="Description" original="A potential sale">A potential sale</value>
+ <row id="53155" trl="Y">
+  <value column="Name" original="Sales Opportunity">Vertriebschance</value>
+  <value column="Description" original="A potential sale">Ein möglicher Verkauf</value>
   <value column="Help" original=""/>
  </row>
- <row id="53156" trl="N">
-  <value column="Name" original="Sales Rep Dashboard">Sales Rep Dashboard</value>
-  <value column="Description" original="The Sales Rep Dashboard provides a single location for managing sales opportunities">The Sales Rep Dashboard provides a single location for managing sales opportunities</value>
+ <row id="53156" trl="Y">
+  <value column="Name" original="Sales Rep Dashboard">Instrumententafel Vertriebsbeauftragter</value>
+  <value column="Description" original="The Sales Rep Dashboard provides a single location for managing sales opportunities">Die Instrumententafel für den Vertriebsbeauftragten ist eine zentrale Stelle um Vertriebschancen zu bearbeiten</value>
   <value column="Help" original=""/>
  </row>
- <row id="53165" trl="N">
-  <value column="Name" original="Customer">Customer</value>
+ <row id="53165" trl="Y">
+  <value column="Name" original="Customer">Kunde</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2059,8 +2059,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200049" trl="N">
-  <value column="Name" original="Status Line">Status Line</value>
+ <row id="200049" trl="Y">
+  <value column="Name" original="Status Line">Statuszeile</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2069,9 +2069,9 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="This window if for save preference for process parameter panel and info window in case open from menu (stand alone window)">This window if for save preference for process parameter panel and info window in case open from menu (stand alone window)</value>
   <value column="Help" original=""/>
  </row>
- <row id="200059" trl="N">
-  <value column="Name" original="Recurring Group">Recurring Group</value>
-  <value column="Description" original="Recurring Group">Recurring Group</value>
+ <row id="200059" trl="Y">
+  <value column="Name" original="Recurring Group">Wiederholergruppe</value>
+  <value column="Description" original="Recurring Group">Die Wiederholergruppe ist eine Zusammenfassung regelmäßig auftretender Vorgänge</value>
   <value column="Help" original=""/>
  </row>
  <row id="200061" trl="Y">
@@ -2079,14 +2079,14 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200063" trl="N">
-  <value column="Name" original="Import Template">Import Template</value>
+ <row id="200063" trl="Y">
+  <value column="Name" original="Import Template">Importvorlage</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200073" trl="N">
-  <value column="Name" original="User Preference">User Preference</value>
-  <value column="Description" original="This window is use to set up the preferences entries for each user.">This window is use to set up the preferences entries for each user.</value>
+ <row id="200073" trl="Y">
+  <value column="Name" original="User Preference">Vorlieben des Benutzers</value>
+  <value column="Description" original="This window is use to set up the preferences entries for each user.">In diesem Fenster werden Einstellungen anhand der Vorlieben eines jeden Benutzers gemacht.</value>
   <value column="Help" original=""/>
  </row>
  <row id="200074" trl="N">
@@ -2094,8 +2094,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200083" trl="N">
-  <value column="Name" original="Menu favourites">Menu favourites</value>
+ <row id="200083" trl="Y">
+  <value column="Name" original="Menu favourites">Favoritenmenu</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2104,14 +2104,14 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200087" trl="N">
-  <value column="Name" original="Field Suggestions">Field Suggestions</value>
-  <value column="Description" original="Suggestions for field name, description and help.">Suggestions for field name, description and help.</value>
+ <row id="200087" trl="Y">
+  <value column="Name" original="Field Suggestions">Vorschlag für Felder</value>
+  <value column="Description" original="Suggestions for field name, description and help.">Vorschläge für Feldnamen, Beschreibung und Hilfe.</value>
   <value column="Help" original=""/>
  </row>
- <row id="200088" trl="N">
-  <value column="Name" original="Context Help Suggestion">Context Help Suggestion</value>
-  <value column="Description" original="Review context help suggestion from tenant">Review context help suggestion from tenant</value>
+ <row id="200088" trl="Y">
+  <value column="Name" original="Context Help Suggestion">Vorschlag Kontexthilfe</value>
+  <value column="Description" original="Review context help suggestion from tenant">Überprüfen der Vorschläge für die Kontexthilfe eines Mandanten</value>
   <value column="Help" original=""/>
  </row>
  <row id="200089" trl="N">
@@ -2119,39 +2119,44 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200090" trl="N">
-  <value column="Name" original="Document Status">Document Status</value>
+ <row id="200090" trl="Y">
+  <value column="Name" original="Document Status">Dokumentenstatus</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200092" trl="N">
-  <value column="Name" original="All Clients">All Clients</value>
+ <row id="200092" trl="Y">
+  <value column="Name" original="All Clients">Alle Mandanten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200093" trl="N">
-  <value column="Name" original="All Users">All Users</value>
-  <value column="Description" original="Users from All Clients">Users from All Clients</value>
+ <row id="200093" trl="Y">
+  <value column="Name" original="All Users">Alle Benutzer</value>
+  <value column="Description" original="Users from All Clients">Benutzer aus allen Mandanten</value>
   <value column="Help" original=""/>
  </row>
- <row id="200095" trl="N">
-  <value column="Name" original="Process Customization">User defined Process</value>
-  <value column="Description" original="Define Process Customization for Role/User">User defined Process</value>
-  <value column="Help" original="The customization values defined here overwrite/replace the default system definition if defined.">User defined Process</value>
+ <row id="200095" trl="Y">
+  <value column="Name" original="Process Customization">Benutzerdefinierter Prozess</value>
+  <value column="Description" original="Define Process Customization for Role/User">Benutzerdefinierten Prozess definieren</value>
+  <value column="Help" original="The customization values defined here overwrite/replace the default system definition if defined.">Die Daten hier überschreiben bzw. ersetzen die Standardwerte des Systems, falls es solche gibt.</value>
  </row>
- <row id="200107" trl="N">
-  <value column="Name" original="All User Roles">All User Roles</value>
+ <row id="200107" trl="Y">
+  <value column="Name" original="All User Roles">Alle Benutzerrollen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200108" trl="N">
-  <value column="Name" original="All Roles">All Roles</value>
+ <row id="200108" trl="Y">
+  <value column="Name" original="All Roles">Alle Rollen</value>
   <value column="Description" original="Roles from All Clients">Roles from All Clients</value>
   <value column="Help" original=""/>
  </row>
- <row id="200109" trl="N">
-  <value column="Name" original="User Queries">User Queries</value>
-  <value column="Description" original="View and maintain saved queries">View and maintain saved queries</value>
+ <row id="200109" trl="Y">
+  <value column="Name" original="User Queries">Abfragen des Benutzers</value>
+  <value column="Description" original="View and maintain saved queries">Ansehen und Bearbeiten von benutzerspezifischen Abfragen</value>
   <value column="Help" original=""/>
+ </row>
+ <row id="200110" trl="Y">
+  <value column="Name" original="Info Window Customization">Anpassung Info-Fenster</value>
+  <value column="Description" original="Define Info Window Customization for Role/User">Info-Fenster für eine Rolle / einen Benutzer anpassen</value>
+  <value column="Help" original="The customization values defined here overwrite/replace the default system definition if defined.">Die Daten hier überschreiben bzw. ersetzen die Standardwerte des Systems, falls es solche gibt.</value>
  </row>
 </idempiereTrl>

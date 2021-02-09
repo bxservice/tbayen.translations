@@ -1,46 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Workflow">
+<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Workflow">
  <row id="101" trl="Y">
   <value column="Name" original="Project Setup and Use">Projekteinrichtung und Verwendung</value>
   <value column="Description" original="Setup of projects and project reporting">Einrichtung von Projekten und Projektberichten</value>
-  <value column="Help" original="Projects allow to monitor the status and progress of sales opportunities, service projects and investment projects. A Project is a process that is undertaken which can involve multiple steps or phases and require resources from more than one area.">Projects allow to monitor the status and progress of sales opportunities, service projects and investment projects. A Project is a process that is undertaken which can involve multiple steps or phases and require resources from more than one area.</value>
+  <value column="Help" original="Projects allow to monitor the status and progress of sales opportunities, service projects and investment projects. A Project is a process that is undertaken which can involve multiple steps or phases and require resources from more than one area.">Projekte ermöglichen, den Status und den Fortschritt von Verkaufschancen, Dienstleistungs- und Investitionsprojekten zu überwachen. Ein Projekt ist ein Prozess, der bei der Durchführung mehrere Schritte oder Phasen durchlaufen kann und dabei Resourcen aus verschieden Bereichen benötigt.</value>
  </row>
  <row id="103" trl="Y">
   <value column="Name" original="Language Setup">Einrichtung Sprache</value>
   <value column="Description" original="Setup a new Language of the system and translate elements">Einrichtung einer neuen Systemsprache und Übersetzung der Elemente</value>
-  <value column="Help" original="Define a new language as a system language.">Define a new language as a system language.</value>
+  <value column="Help" original="Define a new language as a system language.">Definieren Sie eine neue Sprache als Systemsprache.</value>
  </row>
  <row id="104" trl="Y">
   <value column="Name" original="Initial Client Setup Review">Überprüfung Ersteinrichtung Mandant</value>
   <value column="Description" original="Review of system level setup of a new  Client">Überprüfung der Ersteinrichtung eines neuen Mandanten auf Systemebene</value>
-  <value column="Help" original="This workflow reviews the system setup of a new client as performed by the automatic Initial Client Setup.&#10;You may want to check also the following Workflows:&#10;- Accounting Setup&#10;- Business Partner Setup&#10;- Product Setup&#10;- Price list Setup&#10;- Warehouse Setup&#10;- Tax Setup">This workflow reviews the system setup of a new client as performed by the automatic Initial Client Setup.
-You may want to check also the following Workflows:
-- Accounting Setup
-- Business Partner Setup
-- Product Setup
-- Price list Setup
-- Warehouse Setup
-- Tax Setup</value>
+  <value column="Help" original="This workflow reviews the system setup of a new client as performed by the automatic Initial Client Setup.&#10;You may want to check also the following Workflows:&#10;- Accounting Setup&#10;- Business Partner Setup&#10;- Product Setup&#10;- Price list Setup&#10;- Warehouse Setup&#10;- Tax Setup">Dieser Workflow überprüft die Einrichtung eines neuen Mandanten, nachdem er mit "Ersteinrichtung Mandant" erstellt wurde.
+Sie sollten außerdem die folgenden Workflow überprüfen:
+- Einrichtung Buchführung
+- Einrichtung Geschäftspartner
+- Einrichtung Artikel
+- Einrichtung Preisliste
+- Einrichtung Steuern</value>
  </row>
  <row id="105" trl="Y">
   <value column="Name" original="Accounting Setup">Einrichtung Buchführung</value>
   <value column="Description" original="Review and change Accounting Setup">Überprüfung und Anpassung der Einrichtung Buchführung</value>
-  <value column="Help" original="This workflow allows you to review and change your Accounting Rules. ">This workflow allows you to review and change your Accounting Rules. </value>
+  <value column="Help" original="This workflow allows you to review and change your Accounting Rules. ">Dieser Workflow ermöglicht Ihnen, die Buchführungsregeln zu überprüfen und zu ändern. </value>
  </row>
  <row id="106" trl="Y">
   <value column="Name" original="Business Partner Setup">Einrichtung Geschäftspartner</value>
   <value column="Description" original="Setup Business Partner Rules">Einrichtung Geschäftspartnereinstellungen</value>
-  <value column="Help" original="This workflow defines the Business Partners and the supporting rules.">This workflow defines the Business Partners and the supporting rules.</value>
+  <value column="Help" original="This workflow defines the Business Partners and the supporting rules.">Dieser Workflow legt die Geschäftspartner und unterstützende Regeln fest.</value>
  </row>
  <row id="107" trl="Y">
   <value column="Name" original="Product Setup">Einrichtung Artikel</value>
   <value column="Description" original="Set up Products">Einrichtung Artikel</value>
-  <value column="Help" original="Define your products manually. You should verify the settings especially if you import your products.">Define your products manually. You should verify the settings especially if you import your products.</value>
+  <value column="Help" original="Define your products manually. You should verify the settings especially if you import your products.">Legen Sie Ihre Artikel manual an. Sie sollten die Einstellungen besonders überprüfen, wenn Sie Artikel importieren.</value>
  </row>
  <row id="108" trl="Y">
   <value column="Name" original="Price List Setup">Einrichtung Preisliste</value>
   <value column="Description" original="Define your Price Lists and Discounts">Legen Sie Preislisten und Rabatte/Skonti an</value>
-  <value column="Help" original="You define your price lists after entering or importing your products. In addition to price lists, you can define discounts for business partners.  Assign specific Price Lists and Discounst to Business Partners.">You define your price lists after entering or importing your products. In addition to price lists, you can define discounts for business partners.  Assign specific Price Lists and Discounst to Business Partners.</value>
+  <value column="Help" original="You define your price lists after entering or importing your products. In addition to price lists, you can define discounts for business partners.  Assign specific Price Lists and Discounst to Business Partners.">Sie erstellen Preislisten, nachdem Sie Ihre Artikel eingegeben oder importiert haben. Neben den Preislisten können Sie Rabatte für bestimmte Geschäftspartnerition festlegen. Auch können Sie Geschäftspartnern spezielle Preislisten und Rabattstaffeln zuweisen.</value>
  </row>
  <row id="109" trl="Y">
   <value column="Name" original="Replication Setup">Einrichtung Replikation</value>
@@ -49,29 +48,30 @@ You may want to check also the following Workflows:
  <row id="110" trl="Y">
   <value column="Name" original="Tax Setup">Einrichtung Steuern</value>
   <value column="Description" original="Setup tax calculation">Einrichtung Steuerberechnung</value>
-  <value column="Help" original="Setup the tax calculation for products, services and charges">Setup the tax calculation for products, services and charges</value>
+  <value column="Help" original="Setup the tax calculation for products, services and charges">Richten Sie die Steuerberechnung für Artikel, Dienstleistungen und Aufwände ein</value>
  </row>
  <row id="111" trl="Y">
   <value column="Name" original="Sales Setup">Einrichtung Vertrieb</value>
   <value column="Description" original="Setup Sales">Einrichtung Vertrieb</value>
-  <value column="Help" original="Setting up Sales Representatives, Commissions as well as Marketing Channels and Campaigns.">Setting up Sales Representatives, Commissions as well as Marketing Channels and Campaigns.</value>
+  <value column="Help" original="Setting up Sales Representatives, Commissions as well as Marketing Channels and Campaigns.">Richten Sie die Vertriebler, Kommissionen sowie Vertriebskanäle und Kampagnen ein.</value>
  </row>
  <row id="112" trl="Y">
   <value column="Name" original="Performance Measurement Setup">Einrichtung Leistungsmessung</value>
   <value column="Description" original="Setup your Performance Measurement">Einrichtung Leistungsmessung</value>
-  <value column="Help" original="This workflow guides you through setting up your performance measurement based on Key Performance Indicators, Balanced Scorecard, etc.&#10;&#10;Most important: Do your analysis first!&#10;- What are your goals and how do you measure it?&#10;&#10;When you are setting up the system, you do it in reverse:&#10;First you define how you measure it and last you define the goals for the measurements.&#10;You have three ways measuring performance:&#10;- via quantifiable measures (e.g. sales of $3 million in Q1)&#10;- via manual measures&#10;- via achievements (tasks)&#10;&#10;The system converts the measures into percentages (based on the target and achieved measure - or number of total and reached achievements)">This workflow guides you through setting up your performance measurement based on Key Performance Indicators, Balanced Scorecard, etc.
+  <value column="Help" original="This workflow guides you through setting up your performance measurement based on Key Performance Indicators, Balanced Scorecard, etc.&#10;&#10;Most important: Do your analysis first!&#10;- What are your goals and how do you measure it?&#10;&#10;When you are setting up the system, you do it in reverse:&#10;First you define how you measure it and last you define the goals for the measurements.&#10;You have three ways measuring performance:&#10;- via quantifiable measures (e.g. sales of $3 million in Q1)&#10;- via manual measures&#10;- via achievements (tasks)&#10;&#10;The system converts the measures into percentages (based on the target and achieved measure - or number of total and reached achievements)">
+Dieser Workflow führt Sie durch die Einrichtung Ihres Kennzahlensystems auf der Basis von Leistungskennzahlen, Balanced Scorecard, etc.
 
-Most important: Do your analysis first!
-- What are your goals and how do you measure it?
+Ganz wichtig: Analysieren Sie zuerst
+- Was sind Ihre Ziele und wie können Sie sie messen?
 
-When you are setting up the system, you do it in reverse:
-First you define how you measure it and last you define the goals for the measurements.
-You have three ways measuring performance:
-- via quantifiable measures (e.g. sales of $3 million in Q1)
-- via manual measures
-- via achievements (tasks)
+Wenn Sie ihr System einrichten, gehen Sie rückwärts vor:
+Erst legen Sie fest, wie Sie messen wollen und dann legen Sie die Ziele der Messungen fest.
+Sie haben drei Möglichkeiten die Leistung zu messen:
+- über quantitative Messungen (z.B. Umsatz über drei Millionen Euro im ersten Quartal)
+- über manuelle Messungen
+- über das Erledigen von Aufgaben
 
-The system converts the measures into percentages (based on the target and achieved measure - or number of total and reached achievements)</value>
+Das System rechnet die Messungen in Prozentwerte um (basierend auf dem Ziel und dem erreichten Ergebnis - oder der Gesamtzahl und der Zahl der erledigten Aufgaben)</value>
  </row>
  <row id="113" trl="Y">
   <value column="Name" original="Request Setup">Einrichtung Anfragen</value>
@@ -130,7 +130,7 @@ The system converts the measures into percentages (based on the target and achie
  <row id="124" trl="Y">
   <value column="Name" original="Process_InOutConfirm">Process_InOutConfirm</value>
   <value column="Description" original="(Standard Process Confirmation)">(Standardvorgehen Bestätigung Warenbewegung)</value>
-  <value column="Help" original="Startet jetzt noch den Complete-Workflow für m_inout, wenn confirmtype=PC oder SC"/>
+  <value column="Help" original=""/>
  </row>
  <row id="125" trl="Y">
   <value column="Name" original="Process_Allocation">Process_Allocation</value>
@@ -218,26 +218,27 @@ The system converts the measures into percentages (based on the target and achie
  <row id="50012" trl="Y">
   <value column="Name" original="Setup Replication">Einrichtung Replikation</value>
   <value column="Description" original="Setup of data replication">Einrichtung Datenreplikation</value>
-  <value column="Help" original="Data Replication allows you to synchronize data of remote instances with a central office.  All actions are initialized from the central office.&lt;p&gt;&#10;&lt;b&gt;Central System:&lt;/b&gt;&lt;br&gt;&#10;- setup system with all organizations, roles, etc.&lt;br&gt;&#10;- run the migration to make sure that it is up-to-date&lt;br&gt;&#10;- export the central system&lt;br&gt;&#10;&lt;p&gt;&#10;&lt;b&gt;Remote System:&lt;/b&gt;&#10;- install the exact version as Central System&lt;br&gt;&#10;- import data from Central System in the remote locations&lt;br&gt;&#10;&lt;p&gt;&#10;&lt;b&gt;Central System:&lt;/b&gt;&#10;- Replication Strategy&lt;br&gt;&#10;- Define Export Format&lt;br&gt;&#10;- Config Export Processor&lt;br&gt;&#10;- Start JMS Server&lt;br&gt;&#10;&lt;p&gt;&#10;** Enter Transactions **&#10;&lt;p&gt;&#10;&lt;b&gt;Remote System:&lt;/b&gt;&lt;br&gt;&#10;- Config Import Processor&lt;br&gt;" xml:space="preserve"><![CDATA[Data Replication allows you to synchronize data of remote instances with a central office.  All actions are initialized from the central office.<p>
-<b>Central System:</b><br>
-- setup system with all organizations, roles, etc.<br>
-- run the migration to make sure that it is up-to-date<br>
-- export the central system<br>
+  <value column="Help" original="Data Replication allows you to synchronize data of remote instances with a central office.  All actions are initialized from the central office.&lt;p&gt;&#10;&lt;b&gt;Central System:&lt;/b&gt;&lt;br&gt;&#10;- setup system with all organizations, roles, etc.&lt;br&gt;&#10;- run the migration to make sure that it is up-to-date&lt;br&gt;&#10;- export the central system&lt;br&gt;&#10;&lt;p&gt;&#10;&lt;b&gt;Remote System:&lt;/b&gt;&#10;- install the exact version as Central System&lt;br&gt;&#10;- import data from Central System in the remote locations&lt;br&gt;&#10;&lt;p&gt;&#10;&lt;b&gt;Central System:&lt;/b&gt;&#10;- Replication Strategy&lt;br&gt;&#10;- Define Export Format&lt;br&gt;&#10;- Config Export Processor&lt;br&gt;&#10;- Start JMS Server&lt;br&gt;&#10;&lt;p&gt;&#10;** Enter Transactions **&#10;&lt;p&gt;&#10;&lt;b&gt;Remote System:&lt;/b&gt;&lt;br&gt;&#10;- Config Import Processor&lt;br&gt;" xml:space="preserve"><![CDATA[
+Datenreplikation ermöglicht die Synchronisation der Daten von entfernt liegenden Einheiten mit dem zentralen Büro. Alle Aktionen werden vom zentralen Büro aus eingeleitet.<p>
+<b>Das zentrale System:</b><br>
+- richten Sie das System mit allen Organisationen, Rollen etc. ein.<br>
+- lassen Sie die Migration laufen, um sicherzustellen, dass es auf dem aktuellen Stand ist<br>
+- exportieren Sie das zentrale System<br>
 <p>
-<b>Remote System:</b>
-- install the exact version as Central System<br>
-- import data from Central System in the remote locations<br>
+<b>das entfernte System:</b>
+- installieren Sie exakt die Version des zentralen Systems<br>
+- importieren Sie die Daten des zentralen Systems in der entfernten System<br>
 <p>
-<b>Central System:</b>
-- Replication Strategy<br>
-- Define Export Format<br>
-- Config Export Processor<br>
-- Start JMS Server<br>
+<b>Im zentralen System:</b>
+- Replikationsstrategie<br>
+- Exportformat festlegen<br>
+- Exportprozessor konfigurieren<br>
+- JMS-Server starten<br>
 <p>
-** Enter Transactions **
+** Geben Sie Transaktionen ein **
 <p>
-<b>Remote System:</b><br>
-- Config Import Processor<br>]]></value>
+<b>auf dem entfernte System:</b><br>
+- konfigurieren Sie den Importprozessor<br>]]></value>
  </row>
  <row id="50013" trl="Y">
   <value column="Name" original="Process_Payroll">Process_Payroll</value>
@@ -268,32 +269,32 @@ The system converts the measures into percentages (based on the target and achie
   <value column="Help" original=""/>
  </row>
  <row id="50020" trl="Y">
-  <value column="Name" original="Process_Asset_Adition">Process_Asset_Adition</value>
+  <value column="Name" original="Process_Asset_Adition">Prozess Anlagegut anlegen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="50021" trl="Y">
-  <value column="Name" original="Process_Asset_Disposed">Process_Asset_Disposed</value>
+  <value column="Name" original="Process_Asset_Disposed">Prozess Anlagegut entsorgt</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="50022" trl="Y">
-  <value column="Name" original="Process_Asset_Transfer">Process_Asset_Transfer</value>
+  <value column="Name" original="Process_Asset_Transfer">Prozess Anlagegut übertragen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="50023" trl="Y">
-  <value column="Name" original="Process_Asset_Reval">Process_Asset_Reval</value>
+  <value column="Name" original="Process_Asset_Reval">Prozess Anlagegut neubewerten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
  <row id="50024" trl="Y">
-  <value column="Name" original="Process Asset Depreciation Entry">Prozess Vermögenswert Abschreibungseintrag</value>
+  <value column="Name" original="Process Asset Depreciation Entry">Prozess Anlagegut Abschreibungseintrag</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200002" trl="N">
-  <value column="Name" original="Process_Production">Process_Production</value>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Process_Production">Prozess Produktion</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
