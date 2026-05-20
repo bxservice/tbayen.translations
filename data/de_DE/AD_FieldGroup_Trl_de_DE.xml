@@ -210,31 +210,31 @@
  <row id="200022" trl="Y">
   <value column="Name" original="Placeholders">Platzhalter</value>
  </row>
- <row id="200024" trl="N">
-  <value column="Name" original="FROM BANK ACCOUNT">FROM BANK ACCOUNT</value>
+ <row id="200024" trl="Y">
+  <value column="Name" original="FROM BANK ACCOUNT">VON BANKKONTO</value>
  </row>
- <row id="200025" trl="N">
-  <value column="Name" original="TO BANK ACCOUNT">TO BANK ACCOUNT</value>
+ <row id="200025" trl="Y">
+  <value column="Name" original="TO BANK ACCOUNT">ZU BANKKONTO</value>
  </row>
- <row id="200027" trl="N">
-  <value column="Name" original="EMail">EMail</value>
+ <row id="200027" trl="Y">
+  <value column="Name" original="EMail">E-Mail</value>
  </row>
- <row id="200028" trl="N">
+ <row id="200028" trl="Y">
   <value column="Name" original="TOTP">TOTP</value>
  </row>
- <row id="200029" trl="N">
-  <value column="Name" original="Source">Source</value>
+ <row id="200029" trl="Y">
+  <value column="Name" original="Source">Quelle</value>
  </row>
- <row id="200030" trl="N">
-  <value column="Name" original="Printing">Printing</value>
+ <row id="200030" trl="Y">
+  <value column="Name" original="Printing">Druck</value>
  </row>
- <row id="200031" trl="N">
-  <value column="Name" original="( None )">( None )</value>
+ <row id="200031" trl="Y">
+  <value column="Name" original="( None )">( Keine )</value>
  </row>
- <row id="200032" trl="N">
-  <value column="Name" original="Additional Dimensions">Additional Dimensions</value>
+ <row id="200032" trl="Y">
+  <value column="Name" original="Additional Dimensions">Zusätzliche Dimensionen</value>
  </row>
- <row id="200033" trl="N">
-  <value column="Name" original="Security Checklist">Security Checklist</value>
+ <row id="200033" trl="Y">
+  <value column="Name" original="Security Checklist">Sicherheits-Checkliste</value>
  </row>
 </idempiereTrl>

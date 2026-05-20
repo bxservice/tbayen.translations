@@ -42,13 +42,13 @@
   <value column="Help" original=""/>
   <value column="HTML" original=""/>
  </row>
- <row id="200018" trl="N">
+ <row id="200018" trl="Y">
   <value column="Name" original="KPI1">KPI1</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="HTML" original=""/>
  </row>
- <row id="200019" trl="N">
+ <row id="200019" trl="Y">
   <value column="Name" original="KPI2">KPI2</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>

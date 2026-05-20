@@ -265,13 +265,13 @@
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200001" trl="N">
-  <value column="Name" original="Asset Vehicle">Asset Vehicle</value>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Asset Vehicle">Anlagengut Fahrzeug</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200002" trl="N">
-  <value column="Name" original="Computers">Computers</value>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Computers">Computer</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>

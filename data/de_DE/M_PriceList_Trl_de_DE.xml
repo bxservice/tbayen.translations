@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--iDempiere(r) Release 14_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="M_PriceList">
- <row id="101" trl="N">
+ <row id="101" trl="Y">
   <value column="Name" original="Standard">Standard</value>
-  <value column="Description" original="This is the sales price list and we create it based on the Purchase list">This is the sales price list and we create it based on the Purchase list</value>
+  <value column="Description" original="This is the sales price list and we create it based on the Purchase list">Dies ist die Verkaufspreisliste, erstellt auf Basis der Einkaufspreisliste</value>
  </row>
- <row id="102" trl="N">
-  <value column="Name" original="Purchase">Purchase</value>
-  <value column="Description" original="This list is created first - the &quot;root&quot; of the other price lists">This list is created first - the "root" of the other price lists</value>
+ <row id="102" trl="Y">
+  <value column="Name" original="Purchase">Einkauf</value>
+  <value column="Description" original="This list is created first - the &quot;root&quot; of the other price lists">Diese Liste wird zuerst erstellt – die "Wurzel" der anderen Preislisten</value>
  </row>
- <row id="103" trl="N">
+ <row id="103" trl="Y">
   <value column="Name" original="Export">Export</value>
-  <value column="Description" original="Export Prices in EUR">Export Prices in EUR</value>
+  <value column="Description" original="Export Prices in EUR">Exportpreise in EUR</value>
  </row>
- <row id="200000" trl="N">
+ <row id="200000" trl="Y">
   <value column="Name" original="Import">Import</value>
-  <value column="Description" original="Import Prices in EUR">Import Prices in EUR</value>
+  <value column="Description" original="Import Prices in EUR">Importpreise in EUR</value>
  </row>
 </idempiereTrl>

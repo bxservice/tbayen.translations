@@ -1396,8 +1396,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="Chart Definition">Diagrammdefinition</value>
   <value column="Help" original=""/>
  </row>
- <row id="53125" trl="N">
-  <value column="Name" original="Fact Reconciliation">Fact Reconciliation</value>
+ <row id="53125" trl="Y">
+  <value column="Name" original="Fact Reconciliation">Buchhaltungsfakten-Abstimmung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1576,38 +1576,38 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="Maintain Context Helps">Kontexthilfen verwalten</value>
   <value column="Help" original="The Context Help window defines the context help message text to display in the help pane. It is for Web UI only.">The Context Help window defines the context help message text to display in the help pane. It is for Web UI only.</value>
  </row>
- <row id="200036" trl="N">
-  <value column="Name" original="1099 Box">1099 Box</value>
+ <row id="200036" trl="Y">
+  <value column="Name" original="1099 Box">1099-Box</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200043" trl="N">
-  <value column="Name" original="Cost Adjustment">Cost Adjustment</value>
-  <value column="Description" original="Enter Inventory Cost Adjustment">Enter Inventory Cost Adjustment</value>
-  <value column="Help" original="The Cost Adjustment Window allow user to enter cost adjustment for products">The Cost Adjustment Window allow user to enter cost adjustment for products</value>
+ <row id="200043" trl="Y">
+  <value column="Name" original="Cost Adjustment">Kostenkorrektur</value>
+  <value column="Description" original="Enter Inventory Cost Adjustment">Lagerkosten-Korrektur eingeben</value>
+  <value column="Help" original="The Cost Adjustment Window allow user to enter cost adjustment for products">Das Fenster 'Kostenkorrektur' ermöglicht die Eingabe von Kostenkorrekturen für Produkte</value>
  </row>
- <row id="200044" trl="N">
-  <value column="Name" original="Tax Provider Configuration">Tax Provider Configuration</value>
+ <row id="200044" trl="Y">
+  <value column="Name" original="Tax Provider Configuration">Steueranbieter-Konfiguration</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200045" trl="N">
-  <value column="Name" original="Tax Provider">Tax Provider</value>
+ <row id="200045" trl="Y">
+  <value column="Name" original="Tax Provider">Steueranbieter</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200046" trl="N">
-  <value column="Name" original="Address Validation Configuration">Address Validation Configuration</value>
+ <row id="200046" trl="Y">
+  <value column="Name" original="Address Validation Configuration">Adressvalidierungs-Konfiguration</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200047" trl="N">
-  <value column="Name" original="Address Validation">Address Validation</value>
+ <row id="200047" trl="Y">
+  <value column="Name" original="Address Validation">Adressvalidierung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200048" trl="N">
-  <value column="Name" original="Address Transaction">Address Transaction</value>
+ <row id="200048" trl="Y">
+  <value column="Name" original="Address Transaction">Adresstransaktion</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1616,9 +1616,9 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200054" trl="N">
+ <row id="200054" trl="Y">
   <value column="Name" original="Dummy">Dummy</value>
-  <value column="Description" original="This window if for save preference for process parameter panel and info window in case open from menu (stand alone window)">This window if for save preference for process parameter panel and info window in case open from menu (stand alone window)</value>
+  <value column="Description" original="This window if for save preference for process parameter panel and info window in case open from menu (stand alone window)">Dieses Fenster dient zum Speichern von Einstellungen für Prozessparameter-Panels und Info-Fenster, wenn diese vom Menü aus geöffnet werden (eigenständiges Fenster)</value>
   <value column="Help" original=""/>
  </row>
  <row id="200059" trl="Y">
@@ -1641,13 +1641,13 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="This window is use to set up the preferences entries for each user.">In diesem Fenster werden Einstellungen anhand der Vorlieben eines jeden Benutzers gemacht.</value>
   <value column="Help" original=""/>
  </row>
- <row id="200074" trl="N">
-  <value column="Name" original="Locator Type">Locator Type</value>
+ <row id="200074" trl="Y">
+  <value column="Name" original="Locator Type">Lagerorttyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200086" trl="N">
-  <value column="Name" original="CSS Style">CSS Style</value>
+ <row id="200086" trl="Y">
+  <value column="Name" original="CSS Style">CSS-Stil</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1661,8 +1661,8 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="Review context help suggestion from tenant">Überprüfen der Vorschläge für die Kontexthilfe eines Mandanten</value>
   <value column="Help" original=""/>
  </row>
- <row id="200089" trl="N">
-  <value column="Name" original="Post-it">Post-it</value>
+ <row id="200089" trl="Y">
+  <value column="Name" original="Post-it">Notizzettel</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -1686,14 +1686,14 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="Define Process Customization for Role/User">Benutzerdefinierten Prozess definieren</value>
   <value column="Help" original="The customization values defined here overwrite/replace the default system definition if defined.">Die Daten hier überschreiben bzw. ersetzen die Standardwerte des Systems, falls es solche gibt.</value>
  </row>
- <row id="200100" trl="N">
-  <value column="Name" original="Print Header/Footer">Print Header/Footer</value>
-  <value column="Description" original="Maintain Print Header/Footer">Maintain Print Header/Footer</value>
+ <row id="200100" trl="Y">
+  <value column="Name" original="Print Header/Footer">Druckkopf/-fußzeile</value>
+  <value column="Description" original="Maintain Print Header/Footer">Druckkopf/-fußzeile verwalten</value>
   <value column="Help" original=""/>
  </row>
- <row id="200105" trl="N">
-  <value column="Name" original="Bank/Cash Transfer">Bank/Cash Transfer</value>
-  <value column="Description" original="Manage Bank Transfer">Manage Bank Transfer</value>
+ <row id="200105" trl="Y">
+  <value column="Name" original="Bank/Cash Transfer">Bank-/Kassenüberweisung</value>
+  <value column="Description" original="Manage Bank Transfer">Banküberweisung verwalten</value>
   <value column="Help" original=""/>
  </row>
  <row id="200107" trl="Y">
@@ -1716,150 +1716,150 @@ MRP - 110	 No exists Dem</value>
   <value column="Description" original="Define Info Window Customization for Role/User">Info-Fenster für eine Rolle / einen Benutzer anpassen</value>
   <value column="Help" original="The customization values defined here overwrite/replace the default system definition if defined.">Die Daten hier überschreiben bzw. ersetzen die Standardwerte des Systems, falls es solche gibt.</value>
  </row>
- <row id="200111" trl="N">
-  <value column="Name" original="Menu user favourites">Menu user favourites</value>
+ <row id="200111" trl="Y">
+  <value column="Name" original="Menu user favourites">Benutzer-Menüfavoriten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200112" trl="N">
-  <value column="Name" original="Authorization Provider">Authorization Provider</value>
+ <row id="200112" trl="Y">
+  <value column="Name" original="Authorization Provider">Autorisierungsanbieter</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200113" trl="N">
-  <value column="Name" original="Authorization Credential">Authorization Credential</value>
+ <row id="200113" trl="Y">
+  <value column="Name" original="Authorization Credential">Autorisierungsdaten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200114" trl="N">
-  <value column="Name" original="MFA Method">MFA Method</value>
-  <value column="Description" original="Multi-factor Authentication Method">Multi-factor Authentication Method</value>
+ <row id="200114" trl="Y">
+  <value column="Name" original="MFA Method">MFA-Methode</value>
+  <value column="Description" original="Multi-factor Authentication Method">Mehrfaktor-Authentifizierungsmethode</value>
   <value column="Help" original=""/>
  </row>
- <row id="200115" trl="N">
-  <value column="Name" original="MFA Registered Device">MFA Registered Device</value>
+ <row id="200115" trl="Y">
+  <value column="Name" original="MFA Registered Device">Vertrauenswürdiges MFA-Gerät</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200116" trl="N">
-  <value column="Name" original="MFA Registration">MFA Registration</value>
+ <row id="200116" trl="Y">
+  <value column="Name" original="MFA Registration">MFA-Registrierung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200117" trl="N">
-  <value column="Name" original="MFA Rule">MFA Rule</value>
-  <value column="Description" original="Multi-factor Authentication Rule">Multi-factor Authentication Rule</value>
+ <row id="200117" trl="Y">
+  <value column="Name" original="MFA Rule">MFA-Regel</value>
+  <value column="Description" original="Multi-factor Authentication Rule">Mehrfaktor-Authentifizierungsregel</value>
   <value column="Help" original=""/>
  </row>
- <row id="200118" trl="N">
-  <value column="Name" original="SMTP Server">SMTP Server</value>
+ <row id="200118" trl="Y">
+  <value column="Name" original="SMTP Server">SMTP-Server</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200119" trl="N">
-  <value column="Name" original="Customization of the Wlistbox">Customization of the Wlistbox</value>
+ <row id="200119" trl="Y">
+  <value column="Name" original="Customization of the Wlistbox">Anpassung der Wlistbox</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200120" trl="N">
-  <value column="Name" original="Tenant level messages">Tenant level messages</value>
+ <row id="200120" trl="Y">
+  <value column="Name" original="Tenant level messages">Mandantenebene Nachrichten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200123" trl="N">
-  <value column="Name" original="Drill Rule">Drill Rule</value>
+ <row id="200123" trl="Y">
+  <value column="Name" original="Drill Rule">Drill-Regel</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200128" trl="N">
-  <value column="Name" original="Label Category">Label Category</value>
+ <row id="200128" trl="Y">
+  <value column="Name" original="Label Category">Etikett-Kategorie</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200129" trl="N">
-  <value column="Name" original="Label">Label</value>
+ <row id="200129" trl="Y">
+  <value column="Name" original="Label">Etikett</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200130" trl="N">
-  <value column="Name" original="Label Assignment">Label Assignment</value>
+ <row id="200130" trl="Y">
+  <value column="Name" original="Label Assignment">Etikettenzuweisung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200132" trl="N">
-  <value column="Name" original="SSO Configuration">SSO Configuration</value>
-  <value column="Description" original="Single sign-on Configuration">Single sign-on Configuration</value>
-  <value column="Help" original="Single sign-on is an authentication scheme that allows a user to log in with a single ID to any of several related, yet independent, software systems.">Single sign-on is an authentication scheme that allows a user to log in with a single ID to any of several related, yet independent, software systems.</value>
+ <row id="200132" trl="Y">
+  <value column="Name" original="SSO Configuration">SSO-Konfiguration</value>
+  <value column="Description" original="Single sign-on Configuration">Single Sign-On Konfiguration</value>
+  <value column="Help" original="Single sign-on is an authentication scheme that allows a user to log in with a single ID to any of several related, yet independent, software systems.">Single Sign-On ist ein Authentifizierungsverfahren, das einem Benutzer ermöglicht, sich mit einer einzigen ID bei mehreren zusammenhängenden, aber unabhängigen Softwaresystemen anzumelden.</value>
  </row>
- <row id="200137" trl="N">
-  <value column="Name" original="Verify Migration">Verify Migration</value>
+ <row id="200137" trl="Y">
+  <value column="Name" original="Verify Migration">Migrationsprüfung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200138" trl="N">
-  <value column="Name" original="Test UU Based Table">Test UU Based Table</value>
+ <row id="200138" trl="Y">
+  <value column="Name" original="Test UU Based Table">Test UUID-basierte Tabelle</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200139" trl="N">
-  <value column="Name" original="Test UU Detail">Test UU Detail</value>
+ <row id="200139" trl="Y">
+  <value column="Name" original="Test UU Detail">Test UUID-Detail</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200140" trl="N">
-  <value column="Name" original="Document Base Type Group">Document Base Type Group</value>
+ <row id="200140" trl="Y">
+  <value column="Name" original="Document Base Type Group">Basisbelegtypgruppe</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200141" trl="N">
-  <value column="Name" original="Model Generator Template">Model Generator Template</value>
+ <row id="200141" trl="Y">
+  <value column="Name" original="Model Generator Template">Modellgenerator-Vorlage</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200147" trl="N">
-  <value column="Name" original="Private Access">Private Access</value>
+ <row id="200147" trl="Y">
+  <value column="Name" original="Private Access">Privater Zugang</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200148" trl="N">
-  <value column="Name" original="Department">Department</value>
+ <row id="200148" trl="Y">
+  <value column="Name" original="Department">Abteilung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200149" trl="N">
-  <value column="Name" original="Cost Center">Cost Center</value>
+ <row id="200149" trl="Y">
+  <value column="Name" original="Cost Center">Kostenstelle</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200150" trl="N">
-  <value column="Name" original="Dynamic Validation per Table">Dynamic Validation per Table</value>
+ <row id="200150" trl="Y">
+  <value column="Name" original="Dynamic Validation per Table">Dynamische Validierung pro Tabelle</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200151" trl="N">
-  <value column="Name" original="Theme Customization">Theme Customization</value>
+ <row id="200151" trl="Y">
+  <value column="Name" original="Theme Customization">Design-Anpassung</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200155" trl="N">
-  <value column="Name" original="Required Plugin">Required Plugin</value>
+ <row id="200155" trl="Y">
+  <value column="Name" original="Required Plugin">Erforderliches Plugin</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200157" trl="N">
-  <value column="Name" original="Table Attribute Instance">Table Attribute Instance</value>
+ <row id="200157" trl="Y">
+  <value column="Name" original="Table Attribute Instance">Tabellenattributinstanz</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200158" trl="N">
-  <value column="Name" original="Role Template">Role Template</value>
-  <value column="Description" original="Maintain role templates">Maintain role templates</value>
-  <value column="Help" original="The Role Template Window allows you to define role templates for inclusion by role.  &#10;Note that access information is cached and requires re-login or reset of cache.">The Role Template Window allows you to define role templates for inclusion by role.  
-Note that access information is cached and requires re-login or reset of cache.</value>
+ <row id="200158" trl="Y">
+  <value column="Name" original="Role Template">Rollenvorlage</value>
+  <value column="Description" original="Maintain role templates">Rollenvorlagen verwalten</value>
+  <value column="Help" original="The Role Template Window allows you to define role templates for inclusion by role.  &#10;Note that access information is cached and requires re-login or reset of cache.">Das Fenster 'Rollenvorlage' ermöglicht die Definition von Rollenvorlagen zur Einbindung durch eine Rolle.
+Zugangsinformationen werden gecacht und erfordern eine erneute Anmeldung oder das Zurücksetzen des Caches.</value>
  </row>
- <row id="200160" trl="N">
-  <value column="Name" original="Extension Registry">Extension Registry</value>
-  <value column="Description" original="Manages the registry of bundled and external extensions">Manages the registry of bundled and external extensions</value>
-  <value column="Help" original="Maintains a record of all extensions installed in the system, whether bundled or external. It stores the JSON manifest , tracks the current deployment state (e.g., Installing, Installed, Disabled) , and helps validate dependencies before deployment.">Maintains a record of all extensions installed in the system, whether bundled or external. It stores the JSON manifest , tracks the current deployment state (e.g., Installing, Installed, Disabled) , and helps validate dependencies before deployment.</value>
+ <row id="200160" trl="Y">
+  <value column="Name" original="Extension Registry">Erweiterungsregistrierung</value>
+  <value column="Description" original="Manages the registry of bundled and external extensions">Verwaltet die Registrierung von integrierten und externen Erweiterungen</value>
+  <value column="Help" original="Maintains a record of all extensions installed in the system, whether bundled or external. It stores the JSON manifest , tracks the current deployment state (e.g., Installing, Installed, Disabled) , and helps validate dependencies before deployment.">Führt einen Datensatz aller im System installierten Erweiterungen, ob integriert oder extern. Speichert das JSON-Manifest, verfolgt den aktuellen Bereitstellungsstatus (z.B. Installiert, Installiert, Deaktiviert) und hilft bei der Validierung von Abhängigkeiten vor der Bereitstellung.</value>
  </row>
 </idempiereTrl>

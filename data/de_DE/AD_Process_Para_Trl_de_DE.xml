@@ -91,17 +91,17 @@
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="223" trl="N">
-  <value column="Name" original="Tenant">Tenant</value>
-  <value column="Description" original="Tenant for this installation.">Tenant for this installation.</value>
-  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">A Tenant is a company or a legal entity. You cannot share data between Tenants.</value>
+ <row id="223" trl="Y">
+  <value column="Name" original="Tenant">Mandant</value>
+  <value column="Description" original="Tenant for this installation.">Mandant dieser Installation.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">Ein Mandant ist ein Unternehmen oder eine juristische Person. Daten können nicht zwischen Mandanten geteilt werden.</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="225" trl="N">
-  <value column="Name" original="Tenant">Tenant</value>
-  <value column="Description" original="Tenant for this installation.">Tenant for this installation.</value>
-  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">A Tenant is a company or a legal entity. You cannot share data between Tenants.</value>
+ <row id="225" trl="Y">
+  <value column="Name" original="Tenant">Mandant</value>
+  <value column="Description" original="Tenant for this installation.">Mandant dieser Installation.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">Ein Mandant ist ein Unternehmen oder eine juristische Person. Daten können nicht zwischen Mandanten geteilt werden.</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
@@ -500,10 +500,10 @@ wird E-Mail, die nicht verarbeitet werden konnte, in den Ordner vietnam unter de
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="Project">Project</value>
-  <value column="Description" original="Financial Project">Financial Project</value>
-  <value column="Help" original="A Project allows you to track and control internal or external activities.">A Project allows you to track and control internal or external activities.</value>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Project">Projekt</value>
+  <value column="Description" original="Financial Project">Finanzielles Projekt</value>
+  <value column="Help" original="A Project allows you to track and control internal or external activities.">Ein Projekt ermöglicht die Verfolgung und Steuerung interner oder externer Aktivitäten.</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
@@ -613,225 +613,225 @@ Die Feld sagt, wo sie angelegt werden.</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200359" trl="N">
-  <value column="Name" original="Create 'Value' column">Create 'Value' column</value>
+ <row id="200359" trl="Y">
+  <value column="Name" original="Create 'Value' column">'Wert'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200360" trl="N">
-  <value column="Name" original="Create 'Name' column">Create 'Name' column</value>
+ <row id="200360" trl="Y">
+  <value column="Name" original="Create 'Name' column">'Name'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200361" trl="N">
-  <value column="Name" original="Create KeyColumn">Create KeyColumn</value>
+ <row id="200361" trl="Y">
+  <value column="Name" original="Create KeyColumn">Schlüsselspalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200362" trl="N">
-  <value column="Name" original="Create a Workflow">Create a Workflow</value>
+ <row id="200362" trl="Y">
+  <value column="Name" original="Create a Workflow">Workflow erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200363" trl="N">
-  <value column="Name" original="Create a Translation Table">Create a Translation Table</value>
+ <row id="200363" trl="Y">
+  <value column="Name" original="Create a Translation Table">Übersetzungstabelle erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200364" trl="N">
-  <value column="Name" original="Create 'Description' column">Create 'Description' column</value>
+ <row id="200364" trl="Y">
+  <value column="Name" original="Create 'Description' column">'Beschreibung'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200365" trl="N">
-  <value column="Name" original="Create 'Help' column">Create 'Help' column</value>
+ <row id="200365" trl="Y">
+  <value column="Name" original="Create 'Help' column">'Hilfe'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200366" trl="N">
-  <value column="Name" original="Create 'DocumentNo' column">Create 'DocumentNo' column</value>
+ <row id="200366" trl="Y">
+  <value column="Name" original="Create 'DocumentNo' column">'Belegnummer'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200367" trl="N">
-  <value column="Name" original="Create 'DocAction' column">Create 'DocAction' column</value>
+ <row id="200367" trl="Y">
+  <value column="Name" original="Create 'DocAction' column">'Belegaktion'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200368" trl="N">
-  <value column="Name" original="Create 'DocStatus' column">Create 'DocStatus' column</value>
+ <row id="200368" trl="Y">
+  <value column="Name" original="Create 'DocStatus' column">'Belegstatus'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200369" trl="N">
-  <value column="Name" original="Create 'Processed' column">Create 'Processed' column</value>
+ <row id="200369" trl="Y">
+  <value column="Name" original="Create 'Processed' column">'Verarbeitet'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200370" trl="N">
-  <value column="Name" original="Create 'ProcessedOn' column">Create 'ProcessedOn' column</value>
+ <row id="200370" trl="Y">
+  <value column="Name" original="Create 'ProcessedOn' column">'VerarbeitetAm'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200371" trl="N">
-  <value column="Name" original="Create 'Processing' column">Create 'Processing' column</value>
+ <row id="200371" trl="Y">
+  <value column="Name" original="Create 'Processing' column">'Verarbeitung'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200372" trl="N">
-  <value column="Name" original="Create 'C_DocTypeTarget_ID' column">Create 'C_DocTypeTarget_ID' column</value>
+ <row id="200372" trl="Y">
+  <value column="Name" original="Create 'C_DocTypeTarget_ID' column">'C_DocTypeTarget_ID'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200373" trl="N">
-  <value column="Name" original="Create 'C_DocType_ID' column">Create 'C_DocType_ID' column</value>
+ <row id="200373" trl="Y">
+  <value column="Name" original="Create 'C_DocType_ID' column">'C_DocType_ID'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200374" trl="N">
-  <value column="Name" original="Create 'C_Currency_ID' column">Create 'C_Currency_ID' column</value>
+ <row id="200374" trl="Y">
+  <value column="Name" original="Create 'C_Currency_ID' column">'C_Currency_ID'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200375" trl="N">
-  <value column="Name" original="Create 'DateTrx' column">Create 'DateTrx' column</value>
+ <row id="200375" trl="Y">
+  <value column="Name" original="Create 'DateTrx' column">'Buchungsdatum'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200376" trl="N">
-  <value column="Name" original="Create 'DateAcct' column">Create 'DateAcct' column</value>
+ <row id="200376" trl="Y">
+  <value column="Name" original="Create 'DateAcct' column">'Wertstellungsdatum'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200377" trl="N">
-  <value column="Name" original="Create 'Posted' column">Create 'Posted' column</value>
+ <row id="200377" trl="Y">
+  <value column="Name" original="Create 'Posted' column">'Verbucht'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200378" trl="N">
-  <value column="Name" original="Create 'IsApproved' column">Create 'IsApproved' column</value>
+ <row id="200378" trl="Y">
+  <value column="Name" original="Create 'IsApproved' column">'Genehmigt'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200379" trl="N">
-  <value column="Name" original="Create 'SalesRep_ID' column">Create 'SalesRep_ID' column</value>
+ <row id="200379" trl="Y">
+  <value column="Name" original="Create 'SalesRep_ID' column">'Vertriebsbeauftragter_ID'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200380" trl="N">
-  <value column="Name" original="Create 'AD_User_ID' column">Create 'AD_User_ID' column</value>
+ <row id="200380" trl="Y">
+  <value column="Name" original="Create 'AD_User_ID' column">'Benutzer_ID'-Spalte erstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200384" trl="N">
-  <value column="Name" original="Also Without Postings">Also Without Postings</value>
+ <row id="200384" trl="Y">
+  <value column="Name" original="Also Without Postings">Auch ohne Buchungen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200392" trl="N">
-  <value column="Name" original="Shipment Date">Shipment Date</value>
-  <value column="Description" original="Date printed on shipment">Date printed on shipment</value>
-  <value column="Help" original="The Shipment Date indicates the date printed on the shipment.">The Shipment Date indicates the date printed on the shipment.</value>
+ <row id="200392" trl="Y">
+  <value column="Name" original="Shipment Date">Lieferdatum</value>
+  <value column="Description" original="Date printed on shipment">Auf dem Lieferschein gedrucktes Datum</value>
+  <value column="Help" original="The Shipment Date indicates the date printed on the shipment.">Das Lieferdatum gibt das auf dem Lieferschein gedruckte Datum an.</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200393" trl="N">
-  <value column="Name" original="Orders with unconfirmed Shipments">Orders with unconfirmed Shipments</value>
-  <value column="Description" original="Generate shipments for Orders with open delivery confirmations?">Generate shipments for Orders with open delivery confirmations?</value>
-  <value column="Help" original="You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available).">You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available).</value>
+ <row id="200393" trl="Y">
+  <value column="Name" original="Orders with unconfirmed Shipments">Aufträge mit unbestätigten Lieferungen</value>
+  <value column="Description" original="Generate shipments for Orders with open delivery confirmations?">Lieferungen für Aufträge mit offenen Lieferbestätigungen erstellen?</value>
+  <value column="Help" original="You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available).">Sie können auch Aufträge einbeziehen, für die noch ausstehende Bestätigungen vorliegen (z.B. bestellt=10 - unbestätigte Lieferungen=4 - würde eine neue Lieferung von 6 erstellen, falls verfügbar).</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200417" trl="N">
-  <value column="Name" original="AD_Language">AD_Language</value>
+ <row id="200417" trl="Y">
+  <value column="Name" original="AD_Language">Sprache</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200418" trl="N">
-  <value column="Name" original="Date To">Date To</value>
-  <value column="Description" original="Last Date to verify Change Log">Last Date to verify Change Log</value>
-  <value column="Help" original="The change log is verified until this date (useful for example to exclude the application of some 2Packs)">The change log is verified until this date (useful for example to exclude the application of some 2Packs)</value>
+ <row id="200418" trl="Y">
+  <value column="Name" original="Date To">Datum bis</value>
+  <value column="Description" original="Last Date to verify Change Log">Letztes Datum zur Überprüfung des Änderungsprotokolls</value>
+  <value column="Help" original="The change log is verified until this date (useful for example to exclude the application of some 2Packs)">Das Änderungsprotokoll wird bis zu diesem Datum überprüft (nützlich z.B. um die Anwendung bestimmter 2Packs auszuschließen)</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200433" trl="N">
-  <value column="Name" original="Link Column">Link Column</value>
-  <value column="Description" original="Link Column for Multi-Parent tables">Link Column for Multi-Parent tables</value>
-  <value column="Help" original="The Link Column indicates which column is the primary key for those situations where there is more than one parent.  Only define it, if the table has more than one parent column (e.g. AD_User_Roles).">The Link Column indicates which column is the primary key for those situations where there is more than one parent.  Only define it, if the table has more than one parent column (e.g. AD_User_Roles).</value>
+ <row id="200433" trl="Y">
+  <value column="Name" original="Link Column">Verknüpfungsspalte</value>
+  <value column="Description" original="Link Column for Multi-Parent tables">Verknüpfungsspalte für Tabellen mit mehreren übergeordneten Einträgen</value>
+  <value column="Help" original="The Link Column indicates which column is the primary key for those situations where there is more than one parent.  Only define it, if the table has more than one parent column (e.g. AD_User_Roles).">Die Verknüpfungsspalte gibt an, welche Spalte der Primärschlüssel ist, wenn mehr als eine übergeordnete Spalte vorhanden ist. Nur definieren, wenn die Tabelle mehr als eine übergeordnete Spalte hat (z.B. AD_User_Roles).</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200441" trl="N">
-  <value column="Name" original="Table Like">Table Like</value>
-  <value column="Description" original="You can use % or a comma separated list of table names enclosed within single quotes (case sensitive)">You can use % or a comma separated list of table names enclosed within single quotes (case sensitive)</value>
-  <value column="Help" original="The DB Table Name indicates the name of the table in database.">The DB Table Name indicates the name of the table in database.</value>
+ <row id="200441" trl="Y">
+  <value column="Name" original="Table Like">Tabelle wie</value>
+  <value column="Description" original="You can use % or a comma separated list of table names enclosed within single quotes (case sensitive)">Sie können % oder eine durch Komma getrennte Liste von Tabellennamen in einfachen Anführungszeichen verwenden (Groß-/Kleinschreibung beachten)</value>
+  <value column="Help" original="The DB Table Name indicates the name of the table in database.">Der DB-Tabellenname gibt den Namen der Tabelle in der Datenbank an.</value>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200447" trl="N">
-  <value column="Name" original="Keep Log Days">Keep Log Days</value>
+ <row id="200447" trl="Y">
+  <value column="Name" original="Keep Log Days">Protokoll-Tage behalten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200448" trl="N">
-  <value column="Name" original="Partitioning Method">Partitioning Method</value>
+ <row id="200448" trl="Y">
+  <value column="Name" original="Partitioning Method">Partitionierungsmethode</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200449" trl="N">
-  <value column="Name" original="Table Name">Table Name</value>
+ <row id="200449" trl="Y">
+  <value column="Name" original="Table Name">Tabellenname</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>

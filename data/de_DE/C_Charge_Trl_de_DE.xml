@@ -8,8 +8,8 @@
   <value column="Name" original="Commissions Paid">Gezahlte Provisionen</value>
   <value column="Description" original=""/>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="Freight Charges">Freight Charges</value>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Freight Charges">Frachtkosten</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>

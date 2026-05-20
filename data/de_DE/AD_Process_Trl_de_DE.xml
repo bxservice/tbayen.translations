@@ -1900,13 +1900,13 @@ The Parameters are default values for null import record values they do not over
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200034" trl="N">
-  <value column="Name" original="1099 Extract">1099 Extract</value>
+ <row id="200034" trl="Y">
+  <value column="Name" original="1099 Extract">1099-Extrakt</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200035" trl="N">
-  <value column="Name" original="Bank Register Report">Bank Register Report</value>
+ <row id="200035" trl="Y">
+  <value column="Name" original="Bank Register Report">Bankregisterbericht</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2068,8 +2068,8 @@ Beispiel:<br />
   <value column="Description" original="Creates a credit memo based on the invoice.">Erstellt eine Gutschrift auf Basis der Rechnung</value>
   <value column="Help" original="The invoice should be correct and completed.">Die Rechnung sollte korrekt und fertiggestellt sein.</value>
  </row>
- <row id="200101" trl="N">
-  <value column="Name" original="Process Bank Transfer">Process Bank Transfer</value>
+ <row id="200101" trl="Y">
+  <value column="Name" original="Process Bank Transfer">Banküberweisung verarbeiten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2170,149 +2170,149 @@ Menü erzeugen: wenn angewählt, wird der Prozess einen Menü-Eintrag für das n
   <value column="Description" original="Rename Column in Database">Datenbankspalte umbenennen</value>
   <value column="Help" original="This process rename the column on the database">Dieser Prozess benennt die Spalte in der Datenbank um</value>
  </row>
- <row id="200128" trl="N">
-  <value column="Name" original="Add Authorization Account">Add Authorization Account</value>
+ <row id="200128" trl="Y">
+  <value column="Name" original="Add Authorization Account">Autorisierungskonto hinzufügen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200129" trl="N">
-  <value column="Name" original="Unregister MFA Mechanism">Unregister MFA Mechanism</value>
-  <value column="Description" original="Unregister a multi-factor authentication registration">Unregister a multi-factor authentication registration</value>
+ <row id="200129" trl="Y">
+  <value column="Name" original="Unregister MFA Mechanism">MFA-Mechanismus abmelden</value>
+  <value column="Description" original="Unregister a multi-factor authentication registration">Registrierung eines Mehrfaktor-Authentifizierungsmechanismus aufheben</value>
   <value column="Help" original=""/>
  </row>
- <row id="200130" trl="N">
-  <value column="Name" original="Complete MFA Registration">Complete MFA Registration</value>
-  <value column="Description" original="Complete a registration for a multi-factor authentication mechanism">Complete a registration for a multi-factor authentication mechanism</value>
+ <row id="200130" trl="Y">
+  <value column="Name" original="Complete MFA Registration">MFA-Registrierung abschließen</value>
+  <value column="Description" original="Complete a registration for a multi-factor authentication mechanism">Registrierung eines Mehrfaktor-Authentifizierungsmechanismus abschließen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200131" trl="N">
-  <value column="Name" original="Revoke MFA Trusted Device">Revoke MFA Trusted Device</value>
-  <value column="Description" original="Revoke one multi-factor authentication trusted device or all">Revoke one multi-factor authentication trusted device or all</value>
+ <row id="200131" trl="Y">
+  <value column="Name" original="Revoke MFA Trusted Device">Vertrauenswürdiges MFA-Gerät widerrufen</value>
+  <value column="Description" original="Revoke one multi-factor authentication trusted device or all">Ein oder alle vertrauenswürdigen Mehrfaktor-Authentifizierungsgeräte widerrufen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200132" trl="N">
-  <value column="Name" original="Register MFA">Register MFA</value>
-  <value column="Description" original="Register a multi-factor authentication mechanism">Register a multi-factor authentication mechanism</value>
+ <row id="200132" trl="Y">
+  <value column="Name" original="Register MFA">MFA registrieren</value>
+  <value column="Description" original="Register a multi-factor authentication mechanism">Einen Mehrfaktor-Authentifizierungsmechanismus registrieren</value>
   <value column="Help" original=""/>
  </row>
- <row id="200133" trl="N">
-  <value column="Name" original="Copy from Pack Out">Copy from Pack Out</value>
-  <value column="Description" original="Copy Package Details from another Pack Out">Copy Package Details from another Pack Out</value>
+ <row id="200133" trl="Y">
+  <value column="Name" original="Copy from Pack Out">Aus Pack-Out kopieren</value>
+  <value column="Description" original="Copy Package Details from another Pack Out">Paketdetails aus einem anderen Pack-Out kopieren</value>
   <value column="Help" original=""/>
  </row>
- <row id="200134" trl="N">
-  <value column="Name" original="Create/Complete Table">Create/Complete Table</value>
+ <row id="200134" trl="Y">
+  <value column="Name" original="Create/Complete Table">Tabelle erstellen/fertigstellen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200135" trl="N">
-  <value column="Name" original="Process Project Issue">Process Project Issue</value>
+ <row id="200135" trl="Y">
+  <value column="Name" original="Process Project Issue">Projektausgabe verarbeiten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200136" trl="N">
-  <value column="Name" original="Reverse Prepare Payment">Reverse Prepare Payment</value>
-  <value column="Description" original="Reverse what Prepare Payment process did">Reverse what Prepare Payment process did</value>
-  <value column="Help" original="Delete prepared payments and allow to add/remove invoices">Delete prepared payments and allow to add/remove invoices</value>
+ <row id="200136" trl="Y">
+  <value column="Name" original="Reverse Prepare Payment">Zahlungsvorbereitung rückgängig machen</value>
+  <value column="Description" original="Reverse what Prepare Payment process did">Rückgängigmachen des Prozesses 'Zahlung vorbereiten'</value>
+  <value column="Help" original="Delete prepared payments and allow to add/remove invoices">Vorbereitete Zahlungen löschen und das Hinzufügen/Entfernen von Rechnungen ermöglichen</value>
  </row>
- <row id="200138" trl="N">
-  <value column="Name" original="Create Production from Order">Create Production from Order</value>
-  <value column="Description" original="Create Production for BOM ordered products">Create Production for BOM ordered products</value>
+ <row id="200138" trl="Y">
+  <value column="Name" original="Create Production from Order">Produktion aus Auftrag erstellen</value>
+  <value column="Description" original="Create Production for BOM ordered products">Produktion für Stückliste bestellter Produkte erstellen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200141" trl="N">
-  <value column="Name" original="Create lines from Shipment/Receipt">Create lines from Shipment/Receipt</value>
-  <value column="Description" original="Create lines from Shipment/Receipt">Create lines from Shipment/Receipt</value>
+ <row id="200141" trl="Y">
+  <value column="Name" original="Create lines from Shipment/Receipt">Zeilen aus Lieferung/Empfang erstellen</value>
+  <value column="Description" original="Create lines from Shipment/Receipt">Zeilen aus Lieferung/Empfang erstellen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200142" trl="N">
-  <value column="Name" original="Create lines from RMA">Create lines from RMA</value>
-  <value column="Description" original="Create lines from RMA">Create lines from RMA</value>
+ <row id="200142" trl="Y">
+  <value column="Name" original="Create lines from RMA">Zeilen aus RMA erstellen</value>
+  <value column="Description" original="Create lines from RMA">Zeilen aus RMA erstellen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200143" trl="N">
-  <value column="Name" original="Create lines from Invoice">Create lines from Invoice</value>
-  <value column="Description" original="Create lines from Invoice">Create lines from Invoice</value>
+ <row id="200143" trl="Y">
+  <value column="Name" original="Create lines from Invoice">Zeilen aus Rechnung erstellen</value>
+  <value column="Description" original="Create lines from Invoice">Zeilen aus Rechnung erstellen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200146" trl="N">
-  <value column="Name" original="Synchronize Print Format based on Report View">Synchronize Print Format based on Report View</value>
+ <row id="200146" trl="Y">
+  <value column="Name" original="Synchronize Print Format based on Report View">Druckformat anhand der Berichtsansicht synchronisieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200147" trl="N">
-  <value column="Name" original="Validate">Validate</value>
-  <value column="Description" original="Validate Drill Rule Parameters">Validate Drill Rule Parameters</value>
-  <value column="Help" original="Validate the Drill Rule, if all mandatory parameters are set.">Validate the Drill Rule, if all mandatory parameters are set.</value>
+ <row id="200147" trl="Y">
+  <value column="Name" original="Validate">Validieren</value>
+  <value column="Description" original="Validate Drill Rule Parameters">Drill-Regel-Parameter validieren</value>
+  <value column="Help" original="Validate the Drill Rule, if all mandatory parameters are set.">Drill-Regel validieren, wenn alle Pflichtparameter gesetzt sind.</value>
  </row>
- <row id="200148" trl="N">
-  <value column="Name" original="Process Deposit Batch">Process Deposit Batch</value>
+ <row id="200148" trl="Y">
+  <value column="Name" original="Process Deposit Batch">Einzahlungscharge verarbeiten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200149" trl="N">
-  <value column="Name" original="Verify Migration Process">Verify Migration Process</value>
-  <value column="Description" original="This process helps to verify if everything is OK after a migration and discover possible customizations lost">This process helps to verify if everything is OK after a migration and discover possible customizations lost</value>
-  <value column="Help" original="The Date To parameter serves to filter the change audit records, in case you want to detect changes just until some date, when empty it process all change audit records">The Date To parameter serves to filter the change audit records, in case you want to detect changes just until some date, when empty it process all change audit records</value>
+ <row id="200149" trl="Y">
+  <value column="Name" original="Verify Migration Process">Migrationsprozess überprüfen</value>
+  <value column="Description" original="This process helps to verify if everything is OK after a migration and discover possible customizations lost">Dieser Prozess hilft zu überprüfen, ob nach einer Migration alles in Ordnung ist und mögliche verlorene Anpassungen zu entdecken</value>
+  <value column="Help" original="The Date To parameter serves to filter the change audit records, in case you want to detect changes just until some date, when empty it process all change audit records">Der Parameter 'Datum bis' dient zum Filtern der Änderungsauditdatensätze, falls nur Änderungen bis zu einem bestimmten Datum erkannt werden sollen. Wenn leer, werden alle Änderungsauditdatensätze verarbeitet</value>
  </row>
- <row id="200150" trl="N">
-  <value column="Name" original="Discard this Verify Migration">Discard this Verify Migration</value>
-  <value column="Description" original="Discard the current record of verify migration process">Discard the current record of verify migration process</value>
-  <value column="Help" original="This process discards the current record of verify migration process, deleting all the associated details.  It cannot be discarded when there are records marked as Ignore.">This process discards the current record of verify migration process, deleting all the associated details.  It cannot be discarded when there are records marked as Ignore.</value>
+ <row id="200150" trl="Y">
+  <value column="Name" original="Discard this Verify Migration">Diese Migrationsprüfung verwerfen</value>
+  <value column="Description" original="Discard the current record of verify migration process">Den aktuellen Datensatz des Migrationsprüfprozesses verwerfen</value>
+  <value column="Help" original="This process discards the current record of verify migration process, deleting all the associated details.  It cannot be discarded when there are records marked as Ignore.">Dieser Prozess verwirft den aktuellen Datensatz des Migrationsprüfprozesses und löscht alle zugehörigen Details. Er kann nicht verworfen werden, wenn Datensätze als 'Ignorieren' markiert sind.</value>
  </row>
- <row id="200153" trl="N">
-  <value column="Name" original="TestUU Form Report">TestUU Form Report</value>
+ <row id="200153" trl="Y">
+  <value column="Name" original="TestUU Form Report">TestUU-Formularbericht</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200154" trl="N">
-  <value column="Name" original="Generate Model">Generate Model</value>
+ <row id="200154" trl="Y">
+  <value column="Name" original="Generate Model">Modell generieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200155" trl="N">
-  <value column="Name" original="Switch Active Flag on this Test UU and its Details">Switch Active Flag on this Test UU and its Details</value>
+ <row id="200155" trl="Y">
+  <value column="Name" original="Switch Active Flag on this Test UU and its Details">Umschalt das Aktiv-Flag für dieses Test und dessen Details</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200156" trl="N">
-  <value column="Name" original="Delete Trace Logs">Delete Trace Logs</value>
-  <value column="Description" original="delete log files with last modified older than n days of current time">delete log files with last modified older than n days of current time</value>
+ <row id="200156" trl="Y">
+  <value column="Name" original="Delete Trace Logs">Trace-Protokolle löschen</value>
+  <value column="Description" original="delete log files with last modified older than n days of current time">Protokolldateien löschen, die älter als n Tage sind</value>
   <value column="Help" original=""/>
  </row>
- <row id="200157" trl="N">
-  <value column="Name" original="Create/Update Table Partition">Create/Update Table Partition</value>
-  <value column="Description" original="Process which create or update table partitions based on the table and column records">Process which create or update table partitions based on the table and column records</value>
-  <value column="Help" original="The Create/update partition process will create or update table partitions based on the information in the table and column records">The Create/update partition process will create or update table partitions based on the information in the table and column records</value>
+ <row id="200157" trl="Y">
+  <value column="Name" original="Create/Update Table Partition">Tabellenpartition erstellen/aktualisieren</value>
+  <value column="Description" original="Process which create or update table partitions based on the table and column records">Prozess zum Erstellen oder Aktualisieren von Tabellenpartitionen basierend auf Tabellen- und Spaltendatensätzen</value>
+  <value column="Help" original="The Create/update partition process will create or update table partitions based on the information in the table and column records">Der Prozess 'Tabellenpartition erstellen/aktualisieren' erstellt oder aktualisiert Tabellenpartitionen anhand der Informationen in den Tabellen- und Spaltendatensätzen</value>
  </row>
- <row id="200158" trl="N">
-  <value column="Name" original="Detach/re-attach Table Partition">Detach/re-attach Table Partition</value>
-  <value column="Description" original="Detach or re-attach table partition">Detach or re-attach table partition</value>
-  <value column="Help" original="Detach an attached table partition or re-attach a detached table partition">Detach an attached table partition or re-attach a detached table partition</value>
+ <row id="200158" trl="Y">
+  <value column="Name" original="Detach/re-attach Table Partition">Tabellenpartition trennen/neu anhängen</value>
+  <value column="Description" original="Detach or re-attach table partition">Tabellenpartition trennen oder neu anhängen</value>
+  <value column="Help" original="Detach an attached table partition or re-attach a detached table partition">Eine angehängte Tabellenpartition trennen oder eine getrennte wieder anhängen</value>
  </row>
- <row id="200162" trl="N">
-  <value column="Name" original="Customize Grid View">Customize Grid View</value>
+ <row id="200162" trl="Y">
+  <value column="Name" original="Customize Grid View">Rasteransicht anpassen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200164" trl="N">
-  <value column="Name" original="Install Extension">Install Extension</value>
-  <value column="Description" original="Process to install extension">Process to install extension</value>
+ <row id="200164" trl="Y">
+  <value column="Name" original="Install Extension">Erweiterung installieren</value>
+  <value column="Description" original="Process to install extension">Prozess zum Installieren einer Erweiterung</value>
   <value column="Help" original=""/>
  </row>
- <row id="200165" trl="N">
-  <value column="Name" original="Uninstall Extension">Uninstall Extension</value>
-  <value column="Description" original="Process to uninstall extension">Process to uninstall extension</value>
+ <row id="200165" trl="Y">
+  <value column="Name" original="Uninstall Extension">Erweiterung deinstallieren</value>
+  <value column="Description" original="Process to uninstall extension">Prozess zum Deinstallieren einer Erweiterung</value>
   <value column="Help" original=""/>
  </row>
- <row id="200166" trl="N">
-  <value column="Name" original="Disable Extension">Disable Extension</value>
-  <value column="Description" original="Process to disable an extension">Process to disable an extension</value>
+ <row id="200166" trl="Y">
+  <value column="Name" original="Disable Extension">Erweiterung deaktivieren</value>
+  <value column="Description" original="Process to disable an extension">Prozess zum Deaktivieren einer Erweiterung</value>
   <value column="Help" original=""/>
  </row>
- <row id="200167" trl="N">
-  <value column="Name" original="Enable Extension">Enable Extension</value>
-  <value column="Description" original="Process to enable an extension">Process to enable an extension</value>
+ <row id="200167" trl="Y">
+  <value column="Name" original="Enable Extension">Erweiterung aktivieren</value>
+  <value column="Description" original="Process to enable an extension">Prozess zum Aktivieren einer Erweiterung</value>
   <value column="Help" original=""/>
  </row>
 </idempiereTrl>
