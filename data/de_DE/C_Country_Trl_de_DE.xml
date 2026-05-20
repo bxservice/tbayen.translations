@@ -3430,9 +3430,9 @@
   <value column="PlaceholderPostal_Add" original=""/>
   <value column="RegionName" original="State">Land</value>
  </row>
- <row id="200000" trl="N">
+ <row id="200000" trl="Y">
   <value column="Name" original="Sint Maarten">Sint Maarten</value>
-  <value column="Description" original="Sint Maarten (Dutch part)">Sint Maarten (Dutch part)</value>
+  <value column="Description" original="Sint Maarten (Dutch part)">Sint Maarten (Niederländischer Teil)</value>
   <value column="PlaceholderAddress1" original=""/>
   <value column="PlaceholderAddress2" original=""/>
   <value column="PlaceholderAddress3" original=""/>
@@ -3444,9 +3444,9 @@
   <value column="PlaceholderPostal_Add" original=""/>
   <value column="RegionName" original="State">State</value>
  </row>
- <row id="200001" trl="N">
-  <value column="Name" original="South Sudan">South Sudan</value>
-  <value column="Description" original="the Republic of South Sudan">the Republic of South Sudan</value>
+ <row id="200001" trl="Y">
+  <value column="Name" original="South Sudan">Südsudan</value>
+  <value column="Description" original="the Republic of South Sudan">Republik Südsudan</value>
   <value column="PlaceholderAddress1" original=""/>
   <value column="PlaceholderAddress2" original=""/>
   <value column="PlaceholderAddress3" original=""/>
@@ -3458,9 +3458,9 @@
   <value column="PlaceholderPostal_Add" original=""/>
   <value column="RegionName" original="State">State</value>
  </row>
- <row id="200002" trl="N">
-  <value column="Name" original="Bonaire, Sint Eustatius and Saba">Bonaire, Sint Eustatius and Saba</value>
-  <value column="Description" original="Bonaire, Sint Eustatius and Saba">Bonaire, Sint Eustatius and Saba</value>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Bonaire, Sint Eustatius and Saba">Bonaire, Sint Eustatius und Saba</value>
+  <value column="Description" original="Bonaire, Sint Eustatius and Saba">Bonaire, Sint Eustatius und Saba</value>
   <value column="PlaceholderAddress1" original=""/>
   <value column="PlaceholderAddress2" original=""/>
   <value column="PlaceholderAddress3" original=""/>
@@ -3472,7 +3472,7 @@
   <value column="PlaceholderPostal_Add" original=""/>
   <value column="RegionName" original="State">State</value>
  </row>
- <row id="200003" trl="N">
+ <row id="200003" trl="Y">
   <value column="Name" original="Curaçao">Curaçao</value>
   <value column="Description" original="Curaçao">Curaçao</value>
   <value column="PlaceholderAddress1" original=""/>

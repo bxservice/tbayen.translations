@@ -220,34 +220,34 @@ The left panel shows the BOM hierarchies in a tree form. The right panel shows t
   <value column="Description" original="Plugin Manager">Plugin Manager</value>
   <value column="Help" original="Plugin Manager">Plugin Manager</value>
  </row>
- <row id="200016" trl="N">
-  <value column="Name" original="Add Authorization Mail Account">Add Authorization Mail Account</value>
+ <row id="200016" trl="Y">
+  <value column="Name" original="Add Authorization Mail Account">E-Mail-Konto für externe Autorisierung hinzufügen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200017" trl="N">
-  <value column="Name" original="Register MFA">Register MFA</value>
-  <value column="Description" original="Register a multi-factor authentication mechanism">Register a multi-factor authentication mechanism</value>
+ <row id="200017" trl="Y">
+  <value column="Name" original="Register MFA">MFA registrieren</value>
+  <value column="Description" original="Register a multi-factor authentication mechanism">Einen Mehrfaktor-Authentifizierungsmechanismus registrieren</value>
   <value column="Help" original=""/>
  </row>
- <row id="200018" trl="N">
-  <value column="Name" original="SQL Query">SQL Query</value>
-  <value column="Description" original="Process SQL Queries">Process SQL Queries</value>
-  <value column="Help" original="Process SQL Queries">Process SQL Queries</value>
+ <row id="200018" trl="Y">
+  <value column="Name" original="SQL Query">SQL-Abfrage</value>
+  <value column="Description" original="Process SQL Queries">SQL-Abfragen verarbeiten</value>
+  <value column="Help" original="Process SQL Queries">SQL-Abfragen verarbeiten</value>
  </row>
- <row id="200019" trl="N">
-  <value column="Name" original="Customize Grid View">Customize Grid View</value>
-  <value column="Description" original="Form to customize the grid view of tabs in window customization">Form to customize the grid view of tabs in window customization</value>
+ <row id="200019" trl="Y">
+  <value column="Name" original="Customize Grid View">Rasteransicht anpassen</value>
+  <value column="Description" original="Form to customize the grid view of tabs in window customization">Formular zur Anpassung der Rasteransicht von Tabs in der Fensteranpassung</value>
   <value column="Help" original=""/>
  </row>
- <row id="200020" trl="N">
-  <value column="Name" original="Account Info">Account Info</value>
+ <row id="200020" trl="Y">
+  <value column="Name" original="Account Info">Kontoinformation</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200021" trl="N">
-  <value column="Name" original="Extension Management">Extension Management</value>
-  <value column="Description" original="Interface to manage the installation and status of iDempiere extensions">Interface to manage the installation and status of iDempiere extensions</value>
-  <value column="Help" original="Use this form to manage bundled and external extensions. You can install new extensions, update installed extensions and disable or uninstall extensions that are no longer required">Use this form to manage bundled and external extensions. You can install new extensions, update installed extensions and disable or uninstall extensions that are no longer required</value>
+ <row id="200021" trl="Y">
+  <value column="Name" original="Extension Management">Erweiterungsverwaltung</value>
+  <value column="Description" original="Interface to manage the installation and status of iDempiere extensions">Schnittstelle zur Verwaltung der Installation und des Status von iDempiere-Erweiterungen</value>
+  <value column="Help" original="Use this form to manage bundled and external extensions. You can install new extensions, update installed extensions and disable or uninstall extensions that are no longer required">Verwenden Sie dieses Formular, um Erweiterungen zu verwalten: installieren, aktualisieren, deaktivieren oder deinstallieren.</value>
  </row>
 </idempiereTrl>

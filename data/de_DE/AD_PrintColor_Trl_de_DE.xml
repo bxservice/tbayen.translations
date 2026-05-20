@@ -60,13 +60,13 @@
  <row id="121" trl="Y">
   <value column="Name" original="Brown dark">Dunkelbraun</value>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="Metabase Red">Metabase Red</value>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Metabase Red">Metabase Rot</value>
  </row>
- <row id="200001" trl="N">
-  <value column="Name" original="Metabase Yellow">Metabase Yellow</value>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Metabase Yellow">Metabase Gelb</value>
  </row>
- <row id="200002" trl="N">
-  <value column="Name" original="Metabase Green">Metabase Green</value>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Metabase Green">Metabase Grün</value>
  </row>
 </idempiereTrl>

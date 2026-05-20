@@ -648,8 +648,8 @@
   <value column="Description" original="Serbian Dinar">Dinar (100 Para)</value>
   <value column="CurSymbol" original="RSD">RSD</value>
  </row>
- <row id="200000" trl="N">
-  <value column="Description" original="South Sudanese pound">South Sudanese pound</value>
+ <row id="200000" trl="Y">
+  <value column="Description" original="South Sudanese pound">Südsudan-Pfund</value>
   <value column="CurSymbol" original="SS£">SS£</value>
  </row>
 </idempiereTrl>

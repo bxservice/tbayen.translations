@@ -70,8 +70,8 @@
   <value column="Description" original=""/>
   <value column="UOMSymbol" original="L">L</value>
  </row>
- <row id="200001" trl="N">
-  <value column="Name" original="Centimeter">Centimeter</value>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Centimeter">Zentimeter</value>
   <value column="Description" original=""/>
   <value column="UOMSymbol" original="cm">cm</value>
  </row>

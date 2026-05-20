@@ -229,19 +229,19 @@ Datenreplikation ermöglicht die Synchronisation der Daten von entfernt liegende
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200005" trl="N">
-  <value column="Name" original="Process_BankTransfer">Process_BankTransfer</value>
-  <value column="Description" original="(Standard Process_BankTransfer)">(Standard Process_BankTransfer)</value>
+ <row id="200005" trl="Y">
+  <value column="Name" original="Process_BankTransfer">Banküberweisung verarbeiten</value>
+  <value column="Description" original="(Standard Process_BankTransfer)">(Standardprozess Banküberweisung)</value>
   <value column="Help" original=""/>
  </row>
- <row id="200007" trl="N">
-  <value column="Name" original="Process_C_ProjectIssue">Process_C_ProjectIssue</value>
+ <row id="200007" trl="Y">
+  <value column="Name" original="Process_C_ProjectIssue">Projektausgabe verarbeiten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200012" trl="N">
-  <value column="Name" original="Process_DepositBatch">Process_DepositBatch</value>
-  <value column="Description" original="(Standard Process Deposit Batch)">(Standard Process Deposit Batch)</value>
+ <row id="200012" trl="Y">
+  <value column="Name" original="Process_DepositBatch">Einzahlungscharge verarbeiten</value>
+  <value column="Description" original="(Standard Process Deposit Batch)">(Standardprozess Einzahlungscharge)</value>
   <value column="Help" original=""/>
  </row>
 </idempiereTrl>

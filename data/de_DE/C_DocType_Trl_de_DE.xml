@@ -225,39 +225,39 @@
   <value column="PrintName" original="Manufacturing Cost Collector">Kostensammler Fertigung</value>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="Internal Use Inventory">Internal Use Inventory</value>
-  <value column="PrintName" original="Internal Use Inventory">Internal Use Inventory</value>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Internal Use Inventory">Interne Verwendung Inventur</value>
+  <value column="PrintName" original="Internal Use Inventory">Interne Verwendung Inventur</value>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200001" trl="N">
-  <value column="Name" original="Asset Addition">Asset Addition</value>
-  <value column="PrintName" original="Asset Addition">Asset Addition</value>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Asset Addition">Anlagenzugang</value>
+  <value column="PrintName" original="Asset Addition">Anlagenzugang</value>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200002" trl="N">
-  <value column="Name" original="Asset Depreciation">Asset Depreciation</value>
-  <value column="PrintName" original="Asset Depreciation">Asset Depreciation</value>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Asset Depreciation">Anlagenabschreibung</value>
+  <value column="PrintName" original="Asset Depreciation">Anlagenabschreibung</value>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200003" trl="N">
-  <value column="Name" original="Asset Disposal">Asset Disposal</value>
-  <value column="PrintName" original="Asset Disposal">Asset Disposal</value>
+ <row id="200003" trl="Y">
+  <value column="Name" original="Asset Disposal">Anlagenentsorgung</value>
+  <value column="PrintName" original="Asset Disposal">Anlagenentsorgung</value>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200004" trl="N">
-  <value column="Name" original="Cost Adjustment">Cost Adjustment</value>
-  <value column="PrintName" original="Cost Adjustment">Cost Adjustment</value>
+ <row id="200004" trl="Y">
+  <value column="Name" original="Cost Adjustment">Kostenkorrektur</value>
+  <value column="PrintName" original="Cost Adjustment">Kostenkorrektur</value>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200026" trl="N">
-  <value column="Name" original="Warehouse Purchase Order">Warehouse Purchase Order</value>
-  <value column="PrintName" original="Warehouse Purchase Order">Warehouse Purchase Order</value>
+ <row id="200026" trl="Y">
+  <value column="Name" original="Warehouse Purchase Order">Lager-Einkaufsbestellung</value>
+  <value column="PrintName" original="Warehouse Purchase Order">Lager-Einkaufsbestellung</value>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="200027" trl="N">
-  <value column="Name" original="Point of Purchase Order">Point of Purchase Order</value>
-  <value column="PrintName" original="POP Order">POP Order</value>
+ <row id="200027" trl="Y">
+  <value column="Name" original="Point of Purchase Order">Point-of-Purchase-Bestellung</value>
+  <value column="PrintName" original="POP Order">POP-Bestellung</value>
   <value column="DocumentNote" original=""/>
  </row>
 </idempiereTrl>
