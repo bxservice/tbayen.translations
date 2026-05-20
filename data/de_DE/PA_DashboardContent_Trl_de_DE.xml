@@ -1,41 +1,57 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="PA_DashboardContent">
- <row id="50000" trl="Y">
-  <value column="Name" original="Activities">Aktivitäten</value>
-  <value column="Description" original="Workflow activities, notices and requests">Workflow-Aktivitäten, Hinweise und Anfragen</value>
- </row>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 14_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="PA_DashboardContent">
  <row id="50001" trl="Y">
-  <value column="Name" original="Favourites">Favoriten</value>
-  <value column="Description" original="User favourities">Eigene Favoriten</value>
+  <value column="Name" original="Favorites">Favoriten</value>
+  <value column="Description" original="User favorites">Eigene Favoriten</value>
+  <value column="Help" original="Set your favorite menu from menu tree panel or drag and drop menu item to favorite dashboard panel. Right click on favorite item to remove. You can organize your favorites by folder.">Set your favorite menu from menu tree panel or drag and drop menu item to favorite dashboard panel. Right click on favorite item to remove. You can organize your favorites by folder.</value>
   <value column="HTML" original=""/>
  </row>
  <row id="50002" trl="Y">
   <value column="Name" original="Views">Ansichten</value>
   <value column="Description" original="Info views">Info Ansichten</value>
+  <value column="Help" original=""/>
   <value column="HTML" original=""/>
  </row>
  <row id="50003" trl="Y">
   <value column="Name" original="Performance">Leistung</value>
   <value column="Description" original="Performance meters">Leistungsindikatoren</value>
+  <value column="Help" original=""/>
   <value column="HTML" original=""/>
  </row>
  <row id="50004" trl="Y">
   <value column="Name" original="Calendar">Kalender</value>
   <value column="Description" original="Request Calendar">Anfragekalender</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
  </row>
  <row id="200000" trl="Y">
   <value column="Name" original="Recent Items">Zuletzt verwendet</value>
   <value column="Description" original="Recent items">Zuletzt verwendet</value>
+  <value column="Help" original="Show your latest opened document. Drag and drop a recent item to trash bin to remove it.">Show your latest opened document. Drag and drop a recent item to trash bin to remove it.</value>
   <value column="HTML" original=""/>
  </row>
  <row id="200002" trl="Y">
   <value column="Name" original="Running Jobs">Laufende Jobs</value>
   <value column="Description" original="Running Jobs">Laufende Jobs</value>
+  <value column="Help" original=""/>
   <value column="HTML" original=""/>
  </row>
  <row id="200003" trl="Y">
   <value column="Name" original="Activities">Aktivitäten</value>
   <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200018" trl="N">
+  <value column="Name" original="KPI1">KPI1</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200019" trl="N">
+  <value column="Name" original="KPI2">KPI2</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
   <value column="HTML" original=""/>
  </row>
 </idempiereTrl>

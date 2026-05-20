@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 7.1_2019-11-22 -Smart Suite ERP, CRM and SCM- (c) 1999-2019 iDempiere(r); Implementation: iDempiere - Martin Schönbeck Beratungen GmbH--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_WF_Node">
+<!--iDempiere(r) Release 14_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_WF_Node">
  <row id="116" trl="Y">
   <value column="Name" original="Accounting Schema">Buchführungsschema</value>
   <value column="Description" original="Project as Account Segment">Projekt als Kontensegment</value>
@@ -51,8 +51,8 @@
   <value column="Help" original="Translate Name, Description and Help of Workflows and their Nodes.  You only need to translate the List Elements !!">Translate Name, Description and Help of Workflows and their Nodes.  You only need to translate the List Elements !!</value>
  </row>
  <row id="152" trl="Y">
-  <value column="Name" original="Check Client Setup">Ersteinrichtung Mandant überprüfen</value>
-  <value column="Description" original="Check Client setup for Requests">Prüfen Sie die Mandanteneinrichtung für Anfragen</value>
+  <value column="Name" original="Check Tenant Setup">Ersteinrichtung Mandant überprüfen</value>
+  <value column="Description" original="Check Tenant setup for Requests">Prüfen Sie die Mandanteneinrichtung für Anfragen</value>
   <value column="Help" original="You need to have a mail server and an email address from which the requets an notifications are sent.  Optionally, if you define a mail user and password, requests are read from the mail users's folder and imported into the system.">You need to have a mail server and an email address from which the requets an notifications are sent.  Optionally, if you define a mail user and password, requests are read from the mail users's folder and imported into the system.</value>
  </row>
  <row id="153" trl="Y">
@@ -332,8 +332,8 @@ Review and change the GL and Default accounts. The actual accounts used in trans
   <value column="Help" original=""/>
  </row>
  <row id="50064" trl="Y">
-  <value column="Name" original="Import Proccesor">Importprozessor</value>
-  <value column="Description" original="Import Proccesor">Importprozessor</value>
+  <value column="Name" original="Import Processor">Importprozessor</value>
+  <value column="Description" original="Import Processor">Importprozessor</value>
   <value column="Help" original=""/>
  </row>
  <row id="50065" trl="Y">
@@ -361,50 +361,10 @@ Review and change the GL and Default accounts. The actual accounts used in trans
   <value column="Description" original="Replication Strategy">Replikationsstrategie</value>
   <value column="Help" original=""/>
  </row>
- <row id="50074" trl="Y">
-  <value column="Name" original="Payroll">Lohn- und Gehaltsabrechnung</value>
-  <value column="Description" original=""/>
- </row>
- <row id="50075" trl="Y">
-  <value column="Name" original="Payroll Concept Category">Gehaltsabrechnung Konzeptkategorie</value>
-  <value column="Description" original=""/>
- </row>
- <row id="50076" trl="Y">
-  <value column="Name" original="Payroll Contract">Gehaltsabrechnung Vertrag</value>
-  <value column="Description" original=""/>
- </row>
- <row id="50077" trl="Y">
-  <value column="Name" original="Payroll Process">Gehaltsabrechnung Prozess</value>
-  <value column="Description" original=""/>
- </row>
- <row id="50078" trl="Y">
-  <value column="Name" original="Payroll Table">Gehaltsabrechnung Tabelle</value>
-  <value column="Description" original=""/>
- </row>
- <row id="50079" trl="Y">
-  <value column="Name" original="Payroll Department">Gehaltsabrechnung Abteilung</value>
-  <value column="Description" original=""/>
- </row>
- <row id="50080" trl="Y">
-  <value column="Name" original="Payroll Employee">Gehaltsabrechnung Mitarbeiter</value>
-  <value column="Description" original=""/>
- </row>
  <row id="50081" trl="Y">
   <value column="Name" original="Payroll Action Notice">Gehaltsabrechnung Aktionshinweis</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
- </row>
- <row id="50082" trl="Y">
-  <value column="Name" original="Payroll Table Type">Gehaltsabrechnung Tabellentyp</value>
-  <value column="Description" original=""/>
- </row>
- <row id="50083" trl="Y">
-  <value column="Name" original="Payroll Job">Gehaltsabrechnung Stellen</value>
-  <value column="Description" original=""/>
- </row>
- <row id="50084" trl="Y">
-  <value column="Name" original="Payroll Concept Catalog">Gehaltsabrechnung Konzeptkatalog</value>
-  <value column="Description" original=""/>
  </row>
  <row id="50099" trl="Y">
   <value column="Name" original="(DocAuto)">(Beleg Auto)</value>
@@ -425,10 +385,6 @@ Review and change the GL and Default accounts. The actual accounts used in trans
   <value column="Name" original="(Start)">(Start)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
- </row>
- <row id="50103" trl="Y">
-  <value column="Name" original="Activation Approval">Genehmigung Aktivierung</value>
-  <value column="Description" original="Approve asset activation">Aktivierung des Vermögenswerts genehmigen</value>
  </row>
  <row id="50104" trl="Y">
   <value column="Name" original="(DocAuto)">(Beleg Auto)</value>

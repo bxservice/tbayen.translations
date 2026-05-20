@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 1.0a_2012-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2012 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community-->
-<!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">-->
-<idempiereTrl language="de_DE" table="C_DocType">
+<!--iDempiere(r) Release 14_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="C_DocType">
  <row id="0" trl="Y">
   <value column="Name" original="** New **">** Neu **</value>
   <value column="PrintName" original="** New **">** Neu **</value>
@@ -225,6 +223,41 @@
  <row id="50013" trl="Y">
   <value column="Name" original="Manufacturing Cost Collector">Kostensammler Fertigung</value>
   <value column="PrintName" original="Manufacturing Cost Collector">Kostensammler Fertigung</value>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="200000" trl="N">
+  <value column="Name" original="Internal Use Inventory">Internal Use Inventory</value>
+  <value column="PrintName" original="Internal Use Inventory">Internal Use Inventory</value>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="200001" trl="N">
+  <value column="Name" original="Asset Addition">Asset Addition</value>
+  <value column="PrintName" original="Asset Addition">Asset Addition</value>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="200002" trl="N">
+  <value column="Name" original="Asset Depreciation">Asset Depreciation</value>
+  <value column="PrintName" original="Asset Depreciation">Asset Depreciation</value>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="200003" trl="N">
+  <value column="Name" original="Asset Disposal">Asset Disposal</value>
+  <value column="PrintName" original="Asset Disposal">Asset Disposal</value>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="200004" trl="N">
+  <value column="Name" original="Cost Adjustment">Cost Adjustment</value>
+  <value column="PrintName" original="Cost Adjustment">Cost Adjustment</value>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="200026" trl="N">
+  <value column="Name" original="Warehouse Purchase Order">Warehouse Purchase Order</value>
+  <value column="PrintName" original="Warehouse Purchase Order">Warehouse Purchase Order</value>
+  <value column="DocumentNote" original=""/>
+ </row>
+ <row id="200027" trl="N">
+  <value column="Name" original="Point of Purchase Order">Point of Purchase Order</value>
+  <value column="PrintName" original="POP Order">POP Order</value>
   <value column="DocumentNote" original=""/>
  </row>
 </idempiereTrl>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 8.2_2020-12-20 -Smart Suite ERP, CRM and SCM- (c) 1999-2021 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//ComPiere, Inc.//DTD iDempiere Translation 1.0//EN" "http://www.idempiere.com/dtd/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Field">
+<!--iDempiere(r) Release 14_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_Field">
  <row id="1546" trl="Y">
   <value column="Name" original="Link Column">Link-Spalte</value>
   <value column="Description" original="Link Column for Multi-Parent tables">Link-Spalte bei mehreren übergeordneten Tabellen</value>
@@ -9,13 +9,19 @@
  <row id="2124" trl="Y">
   <value column="Name" original="Language">Sprache</value>
   <value column="Description" original="Language for this Business Partner if Multi-Language enabled">Die Sprache für den Geschäftspartner, wenn Mehrsprachigkeit aktiviert wurde.</value>
-  <value column="Help" original="The Language identifies the language to use for display and formatting documents. It requires, that on Client level, Multi-Lingual documents are selected and that you have created/loaded the language.">Die Sprache identifiziert die für die Darstellung und Formatierung von Belegen zu verwendende Sprache. Voraussetzung ist, dass auf Mandantenebene mehrsprachige Belege aktiviert sind und dass die Sprache erzeugt und geladen ist.</value>
+  <value column="Help" original="The Language identifies the language to use for display and formatting documents. It requires, that on Tenant level, Multi-Lingual documents are selected and that you have created/loaded the language.">Die Sprache identifiziert die für die Darstellung und Formatierung von Belegen zu verwendende Sprache. Voraussetzung ist, dass auf Mandantenebene mehrsprachige Belege aktiviert sind und dass die Sprache erzeugt und geladen ist.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="3665" trl="Y">
   <value column="Name" original="Start Node">Startknoten</value>
   <value column="Description" original="Workflow Node, step or process">Workflow-Knoten, -schritt oder -prozess</value>
   <value column="Help" original="The Workflow Node indicates a unique step or process in a Workflow.">Ein Workflow-Knoten ist ein einzelner Schritt oder Prozess in einem Workflow.</value>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="3819" trl="N">
+  <value column="Name" original="List of Files">List of Files</value>
+  <value column="Description" original="Where to find the list of files on this attachment">Where to find the list of files on this attachment</value>
+  <value column="Help" original="Where to find the list of files on this attachment, it can be ZIP, XML or in Attachment File">Where to find the list of files on this attachment, it can be ZIP, XML or in Attachment File</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="4055" trl="Y">
@@ -41,6 +47,13 @@ The Accounting Date on Bank/Cash Statement Line is used for currency conversion 
   <value column="Name" original="Acknowledge">Bestätigen</value>
   <value column="Description" original="System Notice acknowledged">Systemmeldung bestätigt</value>
   <value column="Help" original="The Acknowledged checkbox indicates if this notice does not need to be retained.">Wurde das Optionsfeld "Bestätigt" aktiviert, kann die Nachricht gelöscht werden.</value>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="4939" trl="N">
+  <value column="Name" original="Over/Under Payment">Over/Under Payment</value>
+  <value column="Description" original="Over-Payment (unallocated) or Under-Payment (partial payment) Amount">Over-Payment (unallocated) or Under-Payment (partial payment) Amount</value>
+  <value column="Help" original="Overpayments (negative) are unallocated amounts and allow you to receive money for more than the particular invoice. &#10;Underpayments (positive) is a partial payment for the invoice. You do not write off the unpaid amount.">Overpayments (negative) are unallocated amounts and allow you to receive money for more than the particular invoice. 
+Underpayments (positive) is a partial payment for the invoice. You do not write off the unpaid amount.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="5092" trl="Y">
@@ -131,7 +144,7 @@ will filter orders by active and where the sales representative is the current u
  <row id="12732" trl="Y">
   <value column="Name" original="Language">Sprache</value>
   <value column="Description" original="Language for this Business Partner if Multi-Language enabled">Die Sprache für den Geschäftspartner, wenn Mehrsprachigkeit aktiviert wurde.</value>
-  <value column="Help" original="The Language identifies the language to use for display and formatting documents. It requires, that on Client level, Multi-Lingual documents are selected and that you have created/loaded the language.">Die Sprache identifiziert die für die Darstellung und Formatierung von Belegen zu verwendende Sprache. Voraussetzung ist, dass auf Mandantenebene mehrsprachige Belege aktiviert sind und dass die Sprache erzeugt und geladen ist.</value>
+  <value column="Help" original="The Language identifies the language to use for display and formatting documents. It requires, that on Tenant level, Multi-Lingual documents are selected and that you have created/loaded the language.">Die Sprache identifiziert die für die Darstellung und Formatierung von Belegen zu verwendende Sprache. Voraussetzung ist, dass auf Mandantenebene mehrsprachige Belege aktiviert sind und dass die Sprache erzeugt und geladen ist.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="13179" trl="Y">
@@ -178,7 +191,7 @@ E-Mail der für das System verantwortlichen Person (im Webshop registriert)</val
   <value column="Placeholder" original=""/>
  </row>
  <row id="50069" trl="Y">
-  <value column="Name" original="Client">Mandant</value>
+  <value column="Name" original="Tenant">Mandant</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -274,7 +287,7 @@ E-Mail der für das System verantwortlichen Person (im Webshop registriert)</val
   <value column="Placeholder" original=""/>
  </row>
  <row id="50092" trl="Y">
-  <value column="Name" original="Client">Mandant</value>
+  <value column="Name" original="Tenant">Mandant</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -323,12 +336,6 @@ E-Mail der für das System verantwortlichen Person (im Webshop registriert)</val
  </row>
  <row id="50110" trl="Y">
   <value column="Name" original="Workflow">Workflow</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
-  <value column="Placeholder" original=""/>
- </row>
- <row id="50112" trl="Y">
-  <value column="Name" original="Workbench">Workbench</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -385,8 +392,8 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
  </row>
  <row id="53480" trl="Y">
   <value column="Name" original="Copy BOM Lines From">Stücklistenpositionen kopieren aus</value>
-  <value column="Description" original="Copy BOM Lines from an exising BOM">Kopieren Sie Stücklistenpositionen aus einer bestehenden Stückliste</value>
-  <value column="Help" original="Copy BOM Lines from an exising BOM. The BOM being copied to, must not have any existing BOM Lines.">Kopieren Sie Stücklistenpositionen aus einer bestehenden Stückliste. Die Stückliste in die Sie kopieren, darf noch nicht über Positionen verfügen.</value>
+  <value column="Description" original="Copy BOM Lines from an existing BOM">Kopieren Sie Stücklistenpositionen aus einer bestehenden Stückliste</value>
+  <value column="Help" original="Copy BOM Lines from an existing BOM. The BOM being copied to, must not have any existing BOM Lines.">Kopieren Sie Stücklistenpositionen aus einer bestehenden Stückliste. Die Stückliste in die Sie kopieren, darf noch nicht über Positionen verfügen.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="53490" trl="Y">
@@ -416,7 +423,7 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
  <row id="53518" trl="Y">
   <value column="Name" original="Workflow">Workflow</value>
   <value column="Description" original="Workflow or combination of tasks">Ein Workflow oder Kombination von Aufgaben</value>
-  <value column="Help" original="The Workflow field identifies a unique Workflow in the system.&#10;&#10;The Workflow you introduce in this window will be considered the default Workflow to produce the product in this Organization-Plant-Warehouse. If you do not fill this field the defaul Workflow for the entity will be the Workflow with the same name as the product.">Das Workflow-Feld kennzeichnet einen spezifischen Workflow im System. Der in diesem Fenster angegeben Workflow wird als Standard-Workflow angesehen um den Artikel in dieser Organisation/Fabrik/Lager herzustellen. Falls dieses Feld nicht ausgefüllt ist, wird als Standard-Workflow der Eintrag mit demselben Namen wie der Artikel verwendet.</value>
+  <value column="Help" original="The Workflow field identifies a unique Workflow in the system.&#10;&#10;The Workflow you introduce in this window will be considered the default Workflow to produce the product in this Organization-Plant-Warehouse. If you do not fill this field the default Workflow for the entity will be the Workflow with the same name as the product.">Das Workflow-Feld kennzeichnet einen spezifischen Workflow im System. Der in diesem Fenster angegeben Workflow wird als Standard-Workflow angesehen um den Artikel in dieser Organisation/Fabrik/Lager herzustellen. Falls dieses Feld nicht ausgefüllt ist, wird als Standard-Workflow der Eintrag mit demselben Namen wie der Artikel verwendet.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="53523" trl="Y">
@@ -629,6 +636,12 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
+ <row id="56710" trl="N">
+  <value column="Name" original="Query">Query</value>
+  <value column="Description" original="SQL query or where clause">SQL query or where clause</value>
+  <value column="Help" original="SELECT SQL query for Query search type, where clause (without the WHERE keyword) for other search type">SELECT SQL query for Query search type, where clause (without the WHERE keyword) for other search type</value>
+  <value column="Placeholder" original=""/>
+ </row>
  <row id="57331" trl="Y">
   <value column="Name" original="Acknowledge">Bestätigen</value>
   <value column="Description" original="System Notice acknowledged">Systemmeldung bestätigt</value>
@@ -655,8 +668,8 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
  </row>
  <row id="58101" trl="Y">
   <value column="Name" original="Copy BOM Lines From">Stücklistenpositionen kopieren aus</value>
-  <value column="Description" original="Copy BOM Lines from an exising BOM">Kopieren Sie Stücklistenpositionen aus einer bestehenden Stückliste</value>
-  <value column="Help" original="Copy BOM Lines from an exising BOM. The BOM being copied to, must not have any existing BOM Lines.">Kopieren Sie Stücklistenpositionen aus einer bestehenden Stückliste. Die Stückliste in die Sie kopieren, darf noch nicht über Positionen verfügen.</value>
+  <value column="Description" original="Copy BOM Lines from an existing BOM">Kopieren Sie Stücklistenpositionen aus einer bestehenden Stückliste</value>
+  <value column="Help" original="Copy BOM Lines from an existing BOM. The BOM being copied to, must not have any existing BOM Lines.">Kopieren Sie Stücklistenpositionen aus einer bestehenden Stückliste. Die Stückliste in die Sie kopieren, darf noch nicht über Positionen verfügen.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="58114" trl="Y">
@@ -734,7 +747,7 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
  <row id="62779" trl="Y">
   <value column="Name" original="Language">Sprache</value>
   <value column="Description" original="Language for this Business Partner if Multi-Language enabled">Sprache diese Geschäftspartners, falls Mehrsprachigkeit aktiviert</value>
-  <value column="Help" original="The Language identifies the language to use for display and formatting documents. It requires, that on Client level, Multi-Lingual documents are selected and that you have created/loaded the language.">Die Sprache definiert die Sprache, die für die Anzeige und die Erstellung von Dokumenten benutzt wird. Es erfordert, dass auf Mandantenebene mehrsprachige Dokumente freigeschaltet sind und die Sprachpakete geladen oder erzeugt wurden.</value>
+  <value column="Help" original="The Language identifies the language to use for display and formatting documents. It requires, that on Tenant level, Multi-Lingual documents are selected and that you have created/loaded the language.">Die Sprache definiert die Sprache, die für die Anzeige und die Erstellung von Dokumenten benutzt wird. Es erfordert, dass auf Mandantenebene mehrsprachige Dokumente freigeschaltet sind und die Sprachpakete geladen oder erzeugt wurden.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="62991" trl="Y">
@@ -936,15 +949,21 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Placeholder" original=""/>
  </row>
  <row id="205154" trl="Y">
-  <value column="Name" original="Client">Mandant</value>
+  <value column="Name" original="Tenant">Mandant</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
  <row id="205174" trl="Y">
-  <value column="Name" original="Client">Mandant</value>
+  <value column="Name" original="Tenant">Mandant</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="205705" trl="N">
+  <value column="Name" original="To Business Partner ">To Business Partner </value>
+  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="205898" trl="Y">
@@ -988,6 +1007,37 @@ will filter orders by active and where the sales representative is the current u
   <value column="Name" original="Invoice Contact">Rechnungskontakt</value>
   <value column="Description" original="Business Partner Invoice/Bill Contact">Kontakt des Geschäftspartner für Rechnungen</value>
   <value column="Help" original="If the Invoice Contact is selected, the contact is used to send notifications about invoices to a customer or a vendor.">Wenn ein Kontakt als Rechnungskontakt gekennzeichnet ist, wird dieser Kontakt für die Zusendung von Rechnungen ausgewählt.</value>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="207695" trl="N">
+  <value column="Name" original="DB Table Name">DB Table Name</value>
+  <value column="Description" original=""/>
+  <value column="Help" original="You can use % or a comma separated list of table names (case sensitive)&#10;Using '@TableName@' will change to current table when executing the process">You can use % or a comma separated list of table names (case sensitive)
+Using '@TableName@' will change to current table when executing the process</value>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="207825" trl="N">
+  <value column="Name" original="Country Group">Country Group</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="207826" trl="N">
+  <value column="Name" original="To">To</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="208363" trl="N">
+  <value column="Name" original="SQL Filter">SQL Filter</value>
+  <value column="Description" original="SQL Filter">SQL Filter</value>
+  <value column="Help" original="Enter a valid WHERE SQL fully qualified clause.  The WHERE is not needed, the code will be surrounded within parenthesis before applied">Enter a valid WHERE SQL fully qualified clause.  The WHERE is not needed, the code will be surrounded within parenthesis before applied</value>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="208482" trl="N">
+  <value column="Name" original="Attribute Set Instance">Attribute Set Instance</value>
+  <value column="Description" original="Attribute Set Instance">Attribute Set Instance</value>
+  <value column="Help" original="The values of the actual Attribute Instances.">The values of the actual Attribute Instances.</value>
   <value column="Placeholder" original=""/>
  </row>
 </idempiereTrl>
