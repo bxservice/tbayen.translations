@@ -7544,7 +7544,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200705" trl="Y">
-  <value column="MsgText" original="&lt;b&gt;Barcode:&lt;/b&gt;" xml:space="preserve"><![CDATA[&lt;b&gt;Barcode:&lt;/b&gt;]]></value>
+  <value column="MsgText" original="&lt;b&gt;Barcode:&lt;/b&gt;" xml:space="preserve"><![CDATA[<b>Barcode:</b>]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200706" trl="Y">
@@ -7552,15 +7552,15 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200707" trl="Y">
-  <value column="MsgText" original="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Step 1:&lt;/b&gt; Visit the App Store to get an authenticator app like Google Authenticator or Authy, then follow the instructions in the application to set up an account with them&lt;/li&gt;&lt;li&gt;&lt;b&gt;Step 2:&lt;/b&gt; Use your authenticator app to scan the barcode below or enter manually the Secret instead&lt;/li&gt;&lt;/ul&gt;&#10;" xml:space="preserve"><![CDATA[&lt;ul&gt;&lt;li&gt;&lt;b&gt;Schritt 1:&lt;/b&gt; Besuchen Sie den App Store, um eine Authenticator-App wie Google Authenticator oder Authy zu installieren, und folgen Sie den Anweisungen zum Einrichten eines Kontos.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Schritt 2:&lt;/b&gt; Verwenden Sie Ihre Authenticator-App, um den untenstehenden Barcode zu scannen oder das Geheimnis manuell einzugeben.&lt;/li&gt;&lt;/ul&gt;&#10;]]></value>
+  <value column="MsgText" original="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Step 1:&lt;/b&gt; Visit the App Store to get an authenticator app like Google Authenticator or Authy, then follow the instructions in the application to set up an account with them&lt;/li&gt;&lt;li&gt;&lt;b&gt;Step 2:&lt;/b&gt; Use your authenticator app to scan the barcode below or enter manually the Secret instead&lt;/li&gt;&lt;/ul&gt;&#10;" xml:space="preserve"><![CDATA[<ul><li><b>Schritt 1:</b> Besuchen Sie den App Store, um eine Authenticator-App wie Google Authenticator oder Authy zu installieren, und folgen Sie den Anweisungen zum Einrichten eines Kontos.</li><li><b>Schritt 2:</b> Verwenden Sie Ihre Authenticator-App, um den untenstehenden Barcode zu scannen oder das Geheimnis manuell einzugeben.</li></ul>]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200708" trl="Y">
-  <value column="MsgText" original="&lt;b&gt;Secret:&lt;/b&gt;" xml:space="preserve"><![CDATA[&lt;b&gt;Geheimnis:&lt;/b&gt;]]></value>
+  <value column="MsgText" original="&lt;b&gt;Secret:&lt;/b&gt;" xml:space="preserve"><![CDATA[<b>Geheimnis:</b>]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200709" trl="Y">
-  <value column="MsgText" original="Register this device for {0,choice,1#1 day|1&lt;{0} days}" xml:space="preserve"><![CDATA[Dieses Gerät für {0,choice,1#1 Tag|1&lt;{0} Tage} registrieren]]></value>
+  <value column="MsgText" original="Register this device for {0,choice,1#1 day|1&lt;{0} days}" xml:space="preserve"><![CDATA[Dieses Gerät für {0,choice,1#1 Tag|1<{0} Tage} registrieren]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200710" trl="Y">
@@ -7680,7 +7680,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200749" trl="Y">
-  <value column="MsgText" original="&lt;html&gt;There was an error previewing this file.&lt;/html&gt;" xml:space="preserve"><![CDATA[&lt;html&gt;Beim Anzeigen dieser Datei ist ein Fehler aufgetreten.&lt;/html&gt;]]></value>
+  <value column="MsgText" original="&lt;html&gt;There was an error previewing this file.&lt;/html&gt;" xml:space="preserve"><![CDATA[<html>Beim Anzeigen dieser Datei ist ein Fehler aufgetreten.</html>]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200750" trl="Y">
@@ -7692,11 +7692,13 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200753" trl="Y">
-  <value column="MsgText" original="You selected the Copy Report function. It creates a brand new Print Format which you can modify, update, change. This is usually used for improving reporting to get additional information views&lt;br /&gt;&#10;Print Format Name:" xml:space="preserve"><![CDATA[Sie haben die Funktion 'Bericht kopieren' ausgewählt. Es wird ein neues Druckformat erstellt, das Sie ändern und anpassen können. Dies wird üblicherweise verwendet, um zusätzliche Informationsansichten zu erhalten.&lt;br /&gt;&#10;Name des Druckformats:]]></value>
+  <value column="MsgText" original="You selected the Copy Report function. It creates a brand new Print Format which you can modify, update, change. This is usually used for improving reporting to get additional information views&lt;br /&gt;&#10;Print Format Name:" xml:space="preserve"><![CDATA[Sie haben die Funktion 'Bericht kopieren' ausgewählt. Es wird ein neues Druckformat erstellt, das Sie ändern und anpassen können. Dies wird üblicherweise verwendet, um zusätzliche Informationsansichten zu erhalten.<br/>
+Name des Druckformats:]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200754" trl="Y">
-  <value column="MsgText" original="You selected the New Report function. It creates a brand new Print Format which you can modify, update, change. This is usually used for improving reporting to get additional information views&lt;br /&gt;&#10;Print Format Name:" xml:space="preserve"><![CDATA[Sie haben die Funktion 'Neuer Bericht' ausgewählt. Es wird ein neues Druckformat erstellt, das Sie ändern und anpassen können. Dies wird üblicherweise verwendet, um zusätzliche Informationsansichten zu erhalten.&lt;br /&gt;&#10;Name des Druckformats:]]></value>
+  <value column="MsgText" original="You selected the New Report function. It creates a brand new Print Format which you can modify, update, change. This is usually used for improving reporting to get additional information views&lt;br /&gt;&#10;Print Format Name:" xml:space="preserve"><![CDATA[Sie haben die Funktion 'Neuer Bericht' ausgewählt. Es wird ein neues Druckformat erstellt, das Sie ändern und anpassen können. Dies wird üblicherweise verwendet, um zusätzliche Informationsansichten zu erhalten.<br/>
+Name des Druckformats:]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200755" trl="Y">
@@ -7728,11 +7730,13 @@ Fortfahren?</value>
   <value column="MsgTip" original="You can define new definitions in Drill Rule window, then run the 'Validate' process.">Sie können neue Definitionen im Fenster 'Drill-Regel' anlegen und anschließend den Prozess 'Validieren' ausführen.</value>
  </row>
  <row id="200763" trl="Y">
-  <value column="MsgText" original="Do you want to delete the record?&lt;br /&gt;&#10;Please confirm by typing: &lt;b&gt;{0}&lt;b/&gt;" xml:space="preserve"><![CDATA[Möchten Sie den Datensatz löschen?&lt;br /&gt;&#10;Bitte bestätigen Sie durch Eingabe von: &lt;b&gt;{0}&lt;b/&gt;]]></value>
+  <value column="MsgText" original="Do you want to delete the record?&lt;br /&gt;&#10;Please confirm by typing: &lt;b&gt;{0}&lt;b/&gt;" xml:space="preserve"><![CDATA[Möchten Sie den Datensatz löschen?<br/>
+Bitte bestätigen Sie durch Eingabe von: <b>{0}<b/>]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200764" trl="Y">
-  <value column="MsgText" original="Do you want to delete {0} (selected) items?&lt;br /&gt;&#10;Please confirm by typing: &lt;b&gt;{1}&lt;b/&gt;" xml:space="preserve"><![CDATA[Möchten Sie {0} (ausgewählte) Elemente löschen?&lt;br /&gt;&#10;Bitte bestätigen Sie durch Eingabe von: &lt;b&gt;{1}&lt;b/&gt;]]></value>
+  <value column="MsgText" original="Do you want to delete {0} (selected) items?&lt;br /&gt;&#10;Please confirm by typing: &lt;b&gt;{1}&lt;b/&gt;" xml:space="preserve"><![CDATA[Möchten Sie {0} (ausgewählte) Elemente löschen?<br/>
+Bitte bestätigen Sie durch Eingabe von: <b>{1}<b/>]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200765" trl="Y">
@@ -7824,23 +7828,23 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200798" trl="Y">
-  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Year|1&lt; Years}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Jahr|1&lt; Jahre}]]></value>
+  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Year|1&lt; Years}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1<{1}}{1,choice,1#Jahr|1< Jahre}]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200799" trl="Y">
-  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Quarter|1&lt; Quarters}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Quartal|1&lt; Quartale}]]></value>
+  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Quarter|1&lt; Quarters}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1<{1}}{1,choice,1#Quartal|1< Quartale}]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200800" trl="Y">
-  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Month|1&lt; Months}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Monat|1&lt; Monate}]]></value>
+  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Month|1&lt; Months}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1<{1}}{1,choice,1#Monat|1< Monate}]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200801" trl="Y">
-  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Week|1&lt; Weeks}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Woche|1&lt; Wochen}]]></value>
+  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Week|1&lt; Weeks}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1<{1}}{1,choice,1#Woche|1< Wochen}]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200802" trl="Y">
-  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Day|1&lt; Days}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Tag|1&lt; Tage}]]></value>
+  <value column="MsgText" original="{0} {1,choice,1#|1&lt;{1}}{1,choice,1#Day|1&lt; Days}" xml:space="preserve"><![CDATA[{0} {1,choice,1#|1<{1}}{1,choice,1#Tag|1< Tage}]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200804" trl="Y">
@@ -7964,7 +7968,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200834" trl="Y">
-  <value column="MsgText" original="{0} {1}{0,choice,1#|1&lt;s} Ago" xml:space="preserve"><![CDATA[{0} {1}{0,choice,1#|1&lt;s} vor]]></value>
+  <value column="MsgText" original="{0} {1}{0,choice,1#|1&lt;s} Ago" xml:space="preserve"><![CDATA[{0} {1}{0,choice,1#|1<s} vor]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200836" trl="Y">
@@ -8168,7 +8172,16 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200901" trl="Y">
-  <value column="MsgText" original="&lt;h2 style=&quot;text-align: center;&quot;&gt;&#10;   &lt;div style=&quot;{2,choice,-1#color:red;|0#color:gray;|0&lt;color:green;}&quot;&gt;{2,number,#.#}&lt;/div&gt;&#10;&lt;/h2&gt;&#10;&lt;div style=&quot;font-size: small; text-align: center;&quot;&gt;Order Count&lt;/div&gt;&#10;&lt;div style=&quot;font-size: small; color: gray; margin-top: 5px;&quot;&gt;&#10;   Top Year (2002): {1}&#10;&lt;/div&gt;&#10;&lt;div style=&quot;font-size: small; color: gray; margin-top: 5px;&quot;&gt;&#10;   Current Year: {0}&#10;&lt;/div&gt;" xml:space="preserve"><![CDATA[&lt;h2 style=&quot;text-align: center;&quot;&gt;&#10;   &lt;div style=&quot;{2,choice,-1#color:red;|0#color:gray;|0&lt;color:green;}&quot;&gt;{2,number,#.#}&lt;/div&gt;&#10;&lt;/h2&gt;&#10;&lt;div style=&quot;font-size: small; text-align: center;&quot;&gt;Auftragsanzahl&lt;/div&gt;&#10;&lt;div style=&quot;font-size: small; color: gray; margin-top: 5px;&quot;&gt;&#10;   Bestes Jahr (2002): {1}&#10;&lt;/div&gt;&#10;&lt;div style=&quot;font-size: small; color: gray; margin-top: 5px;&quot;&gt;&#10;   Aktuelles Jahr: {0}&#10;&lt;/div&gt;]]></value>
+  <value column="MsgText" original="&lt;h2 style=&quot;text-align: center;&quot;&gt;&#10;   &lt;div style=&quot;{2,choice,-1#color:red;|0#color:gray;|0&lt;color:green;}&quot;&gt;{2,number,#.#}&lt;/div&gt;&#10;&lt;/h2&gt;&#10;&lt;div style=&quot;font-size: small; text-align: center;&quot;&gt;Order Count&lt;/div&gt;&#10;&lt;div style=&quot;font-size: small; color: gray; margin-top: 5px;&quot;&gt;&#10;   Top Year (2002): {1}&#10;&lt;/div&gt;&#10;&lt;div style=&quot;font-size: small; color: gray; margin-top: 5px;&quot;&gt;&#10;   Current Year: {0}&#10;&lt;/div&gt;" xml:space="preserve"><![CDATA[<h2 style="text-align: center;">
+   <div style="{2,choice,-1#color:red;|0#color:gray;|0<color:green;}">{2,number,#.#}</div>
+</h2>
+<div style="font-size: small; text-align: center;">Auftragsanzahl</div>
+<div style="font-size: small; color: gray; margin-top: 5px;">
+   Bestes Jahr (2002): {1}
+</div>
+<div style="font-size: small; color: gray; margin-top: 5px;">
+   Aktuelles Jahr: {0}
+</div>]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200902" trl="Y">
@@ -8220,7 +8233,7 @@ Fortfahren?</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200917" trl="Y">
-  <value column="MsgText" original="&lt;div style=&quot;background-color:yellow;&quot;&gt;{0,choice,0#Do not forget to set SysConfig MESSAGES_AT_TENANT_LEVEL=Y to enable this feature|1#}&lt;/div&gt;" xml:space="preserve"><![CDATA[&lt;div style=&quot;background-color:yellow;&quot;&gt;{0,choice,0#Vergessen Sie nicht, SysConfig MESSAGES_AT_TENANT_LEVEL=Y zu setzen, um diese Funktion zu aktivieren|1#}&lt;/div&gt;]]></value>
+  <value column="MsgText" original="&lt;div style=&quot;background-color:yellow;&quot;&gt;{0,choice,0#Do not forget to set SysConfig MESSAGES_AT_TENANT_LEVEL=Y to enable this feature|1#}&lt;/div&gt;" xml:space="preserve"><![CDATA[<div style="background-color:yellow;">{0,choice,0#Vergessen Sie nicht, SysConfig MESSAGES_AT_TENANT_LEVEL=Y zu setzen, um diese Funktion zu aktivieren|1#}</div>]]></value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="200919" trl="Y">
