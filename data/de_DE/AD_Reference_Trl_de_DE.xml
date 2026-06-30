@@ -2240,13 +2240,13 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="53423" trl="N">
-  <value column="Name" original="C_ContactActivity Type">C_ContactActivity Type</value>
-  <value column="Description" original="Contact Activity Types">Contact Activity Types</value>
+ <row id="53423" trl="Y">
+  <value column="Name" original="C_ContactActivity Type">C_ContactActivity Typ</value>
+  <value column="Description" original="Contact Activity Types">Kontaktaktivitätstypen</value>
   <value column="Help" original=""/>
  </row>
- <row id="53424" trl="N">
-  <value column="Name" original="C_SalesStage">C_SalesStage</value>
+ <row id="53424" trl="Y">
+  <value column="Name" original="C_SalesStage">C_Verkaufsphase</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2390,74 +2390,74 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200043" trl="N">
-  <value column="Name" original="C_DunningLevel">C_DunningLevel</value>
-  <value column="Description" original="DunningLevel">DunningLevel</value>
+ <row id="200043" trl="Y">
+  <value column="Name" original="C_DunningLevel">C_Mahnstufe</value>
+  <value column="Description" original="DunningLevel">Mahnstufe</value>
   <value column="Help" original=""/>
  </row>
- <row id="200044" trl="N">
-  <value column="Name" original="C_Dunning">C_Dunning</value>
-  <value column="Description" original="Dunning">Dunning</value>
+ <row id="200044" trl="Y">
+  <value column="Name" original="C_Dunning">C_Mahnung</value>
+  <value column="Description" original="Dunning">Mahnung</value>
   <value column="Help" original=""/>
  </row>
- <row id="200045" trl="N">
-  <value column="Name" original="C_BP_Group">C_BP_Group</value>
-  <value column="Description" original="Business Partner Group">Business Partner Group</value>
+ <row id="200045" trl="Y">
+  <value column="Name" original="C_BP_Group">C_Geschäftspartnergruppe</value>
+  <value column="Description" original="Business Partner Group">Geschäftspartnergruppe</value>
   <value column="Help" original=""/>
  </row>
- <row id="200046" trl="N">
-  <value column="Name" original="C_InvoiceSchedule">C_InvoiceSchedule</value>
-  <value column="Description" original="InvoiceSchedule">InvoiceSchedule</value>
+ <row id="200046" trl="Y">
+  <value column="Name" original="C_InvoiceSchedule">C_Rechnungsplan</value>
+  <value column="Description" original="InvoiceSchedule">Rechnungsplan</value>
   <value column="Help" original=""/>
  </row>
- <row id="200047" trl="N">
-  <value column="Name" original="C_TaxGroup">C_TaxGroup</value>
-  <value column="Description" original="TaxGroup">TaxGroup</value>
+ <row id="200047" trl="Y">
+  <value column="Name" original="C_TaxGroup">C_Steuergruppe</value>
+  <value column="Description" original="TaxGroup">Steuergruppe</value>
   <value column="Help" original=""/>
  </row>
- <row id="200048" trl="N">
-  <value column="Name" original="M_Promotion">M_Promotion</value>
-  <value column="Description" original="Promotion">Promotion</value>
+ <row id="200048" trl="Y">
+  <value column="Name" original="M_Promotion">M_Aktion</value>
+  <value column="Description" original="Promotion">Aktion</value>
   <value column="Help" original=""/>
  </row>
- <row id="200051" trl="N">
-  <value column="Name" original="M_FreightCategory">M_FreightCategory</value>
-  <value column="Description" original="Freight Category">Freight Category</value>
+ <row id="200051" trl="Y">
+  <value column="Name" original="M_FreightCategory">M_Frachtkosten-Kategorie</value>
+  <value column="Description" original="Freight Category">Frachtkosten-Kategorie</value>
   <value column="Help" original=""/>
  </row>
- <row id="200053" trl="N">
-  <value column="Name" original="C_TaxCategory">C_TaxCategory</value>
-  <value column="Description" original="Tax Category">Tax Category</value>
+ <row id="200053" trl="Y">
+  <value column="Name" original="C_TaxCategory">C_Steuerkategorie</value>
+  <value column="Description" original="Tax Category">Steuerkategorie</value>
   <value column="Help" original=""/>
  </row>
- <row id="200055" trl="N">
-  <value column="Name" original="M_AttributeSet">M_AttributeSet</value>
-  <value column="Description" original="Attribute Set">Attribute Set</value>
+ <row id="200055" trl="Y">
+  <value column="Name" original="M_AttributeSet">M_Attributgruppe</value>
+  <value column="Description" original="Attribute Set">Attributgruppe</value>
   <value column="Help" original=""/>
  </row>
- <row id="200056" trl="N">
-  <value column="Name" original="C_ProjectPhase">C_ProjectPhase</value>
-  <value column="Description" original="Project Phase">Project Phase</value>
+ <row id="200056" trl="Y">
+  <value column="Name" original="C_ProjectPhase">C_Projektphase</value>
+  <value column="Description" original="Project Phase">Projektphase</value>
   <value column="Help" original=""/>
  </row>
- <row id="200057" trl="N">
-  <value column="Name" original="C_ProjectTask">C_ProjectTask</value>
-  <value column="Description" original="Project Task">Project Task</value>
+ <row id="200057" trl="Y">
+  <value column="Name" original="C_ProjectTask">C_Projektaufgabe</value>
+  <value column="Description" original="Project Task">Projektaufgabe</value>
   <value column="Help" original=""/>
  </row>
- <row id="200058" trl="N">
+ <row id="200058" trl="Y">
   <value column="Name" original="C_Phase">C_Phase</value>
   <value column="Description" original="Phase">Phase</value>
   <value column="Help" original=""/>
  </row>
- <row id="200059" trl="N">
-  <value column="Name" original="C_ProjectType">C_ProjectType</value>
-  <value column="Description" original="Project Type">Project Type</value>
+ <row id="200059" trl="Y">
+  <value column="Name" original="C_ProjectType">C_Projekttyp</value>
+  <value column="Description" original="Project Type">Projekttyp</value>
   <value column="Help" original=""/>
  </row>
- <row id="200060" trl="N">
-  <value column="Name" original="C_ProjectIssue">C_ProjectIssue</value>
-  <value column="Description" original="Project Issue">Project Issue</value>
+ <row id="200060" trl="Y">
+  <value column="Name" original="C_ProjectIssue">C_Projektausgabe</value>
+  <value column="Description" original="Project Issue">Projektausgabe</value>
   <value column="Help" original=""/>
  </row>
  <row id="200061" trl="Y">
@@ -2470,14 +2470,14 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200065" trl="N">
+ <row id="200065" trl="Y">
   <value column="Name" original="ASU_1099Box">ASU_1099Box</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200068" trl="N">
-  <value column="Name" original="C_DocType SubTypeInv">C_DocType SubTypeInv</value>
-  <value column="Description" original="M_Inventory Types list">M_Inventory Types list</value>
+ <row id="200068" trl="Y">
+  <value column="Name" original="C_DocType SubTypeInv">C_BelegTyp UntertypInv</value>
+  <value column="Description" original="M_Inventory Types list">Liste der M_Inventartypen</value>
   <value column="Help" original=""/>
  </row>
  <row id="200069" trl="Y">
@@ -2490,18 +2490,18 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200071" trl="N">
-  <value column="Name" original="AD_RelatedInfoWindow">AD_RelatedInfoWindow</value>
+ <row id="200071" trl="Y">
+  <value column="Name" original="AD_RelatedInfoWindow">Zugehöriges Info-Fenster</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200072" trl="N">
-  <value column="Name" original="AD_LinkInfowindow">AD_LinkInfowindow</value>
+ <row id="200072" trl="Y">
+  <value column="Name" original="AD_LinkInfowindow">Link-Info-Fenster</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200074" trl="N">
-  <value column="Name" original="TreeDisplayedOn">TreeDisplayedOn</value>
+ <row id="200074" trl="Y">
+  <value column="Name" original="TreeDisplayedOn">Baum angezeigt auf</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2510,28 +2510,28 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200076" trl="N">
-  <value column="Name" original="C_ElementValue Account BPartner Type">C_ElementValue Account BPartner Type</value>
+ <row id="200076" trl="Y">
+  <value column="Name" original="C_ElementValue Account BPartner Type">Kontotyp Geschäftspartner</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200080" trl="N">
-  <value column="Name" original="M_Production">M_Production</value>
+ <row id="200080" trl="Y">
+  <value column="Name" original="M_Production">M_Produktion</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200083" trl="N">
-  <value column="Name" original="AD_InfoProcess LayoutType">AD_InfoProcess LayoutType</value>
-  <value column="Description" original="Define layout type of info process button">Define layout type of info process button</value>
+ <row id="200083" trl="Y">
+  <value column="Name" original="AD_InfoProcess LayoutType">Info-Prozess Layout-Typ</value>
+  <value column="Description" original="Define layout type of info process button">Layout-Typ der Info-Prozessschaltfläche</value>
   <value column="Help" original=""/>
  </row>
- <row id="200084" trl="N">
-  <value column="Name" original="ParentPreferenceType">ParentPreferenceType</value>
-  <value column="Description" original="Type of preference WEditor lie on (process, info window, window)">Type of preference WEditor lie on (process, info window, window)</value>
+ <row id="200084" trl="Y">
+  <value column="Name" original="ParentPreferenceType">Eltern-Einstellungstyp</value>
+  <value column="Description" original="Type of preference WEditor lie on (process, info window, window)">Typ der Einstellung (Prozess, Info-Fenster, Fenster)</value>
   <value column="Help" original=""/>
  </row>
- <row id="200085" trl="N">
-  <value column="Name" original="DocSource Generate Shipments/Invoices (manual)">DocSource Generate Shipments/Invoices (manual)</value>
+ <row id="200085" trl="Y">
+  <value column="Name" original="DocSource Generate Shipments/Invoices (manual)">Belegquelle Lieferungen/Rechnungen erzeugen (manuell)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2545,24 +2545,24 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200099" trl="N">
-  <value column="Name" original="IsToolbarButton">IsToolbarButton</value>
+ <row id="200099" trl="Y">
+  <value column="Name" original="IsToolbarButton">Ist Symbolleisten-Schaltfläche</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200115" trl="N">
-  <value column="Name" original="AttributeSet Type">AttributeSet Type</value>
+ <row id="200115" trl="Y">
+  <value column="Name" original="AttributeSet Type">Attributgruppen-Typ</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200117" trl="N">
-  <value column="Name" original="TabTypeList">TabTypeList</value>
-  <value column="Description" original="List of tab type">List of tab type</value>
+ <row id="200117" trl="Y">
+  <value column="Name" original="TabTypeList">Register-Typ-Liste</value>
+  <value column="Description" original="List of tab type">Liste der Register-Typen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200121" trl="N">
-  <value column="Name" original="AD_Style">AD_Style</value>
-  <value column="Description" original="CSS Style">CSS Style</value>
+ <row id="200121" trl="Y">
+  <value column="Name" original="AD_Style">CSS-Stil</value>
+  <value column="Description" original="CSS Style">CSS-Stil</value>
   <value column="Help" original=""/>
  </row>
  <row id="200122" trl="Y">
@@ -2570,8 +2570,8 @@
   <value column="Description" original="Dashboard Content">Inhalt Instrumententafel</value>
   <value column="Help" original=""/>
  </row>
- <row id="200123" trl="N">
-  <value column="Name" original="FieldSuggestionTargetList">FieldSuggestionTargetList</value>
+ <row id="200123" trl="Y">
+  <value column="Name" original="FieldSuggestionTargetList">Feldvorschlag-Zielliste</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2585,24 +2585,24 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200133" trl="N">
-  <value column="Name" original="Timestamp With Time Zone">Timestamp With Time Zone</value>
-  <value column="Description" original="Date and time with time zone">Date and time with time zone</value>
+ <row id="200133" trl="Y">
+  <value column="Name" original="Timestamp With Time Zone">Zeitstempel mit Zeitzone</value>
+  <value column="Description" original="Date and time with time zone">Datum und Uhrzeit mit Zeitzone</value>
   <value column="Help" original=""/>
  </row>
- <row id="200135" trl="N">
-  <value column="Name" original="Time Zone">Time Zone</value>
-  <value column="Description" original="Time Zone">Time Zone</value>
+ <row id="200135" trl="Y">
+  <value column="Name" original="Time Zone">Zeitzone</value>
+  <value column="Description" original="Time Zone">Zeitzone</value>
   <value column="Help" original=""/>
  </row>
- <row id="200137" trl="N">
-  <value column="Name" original="AD_Tree_Favorite_Node list">AD_Tree_Favorite_Node list</value>
+ <row id="200137" trl="Y">
+  <value column="Name" original="AD_Tree_Favorite_Node list">Baumfavoriten-Knoten-Liste</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200144" trl="N">
-  <value column="Name" original="AD_Client All Tenants">AD_Client All Clients</value>
-  <value column="Description" original="Tenant selection">Client selection</value>
+ <row id="200144" trl="Y">
+  <value column="Name" original="AD_Client All Tenants">Alle Mandanten</value>
+  <value column="Description" original="Tenant selection">Mandantenauswahl</value>
   <value column="Help" original=""/>
  </row>
  <row id="200145" trl="Y">
@@ -2615,43 +2615,43 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200157" trl="N">
-  <value column="Name" original="AD_Process Execution Type">AD_Process Execution Type</value>
-  <value column="Description" original="Report/Process Execution Type">Report/Process Execution Type</value>
+ <row id="200157" trl="Y">
+  <value column="Name" original="AD_Process Execution Type">Prozess-Ausführungstyp</value>
+  <value column="Description" original="Report/Process Execution Type">Bericht-/Prozess-Ausführungstyp</value>
   <value column="Help" original=""/>
  </row>
- <row id="200158" trl="N">
-  <value column="Name" original="AD_Process Multiple Execution">AD_Process Multiple Execution</value>
-  <value column="Description" original="Multiple execution rule list">Multiple execution rule list</value>
+ <row id="200158" trl="Y">
+  <value column="Name" original="AD_Process Multiple Execution">Mehrfachausführungsregel</value>
+  <value column="Description" original="Multiple execution rule list">Liste der Mehrfachausführungsregeln</value>
   <value column="Help" original=""/>
  </row>
- <row id="200160" trl="N">
-  <value column="Name" original="C_Tax Posting Indicator">C_Tax Posting Indicator</value>
+ <row id="200160" trl="Y">
+  <value column="Name" original="C_Tax Posting Indicator">Steuer-Buchungskennzeichen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200161" trl="N">
-  <value column="Name" original="Chosen Multiple Selection List">Chosen Multiple Selection List</value>
-  <value column="Description" original="Chosen multiple selection box for reference list">Chosen multiple selection box for reference list</value>
+ <row id="200161" trl="Y">
+  <value column="Name" original="Chosen Multiple Selection List">Mehrfachauswahl-Liste</value>
+  <value column="Description" original="Chosen multiple selection box for reference list">Mehrfachauswahlfeld für Referenzlisten</value>
   <value column="Help" original=""/>
  </row>
- <row id="200162" trl="N">
-  <value column="Name" original="Chosen Multiple Selection Table">Chosen Multiple Selection Table</value>
-  <value column="Description" original="Chosen multiple selection box for table list">Chosen multiple selection box for table list</value>
+ <row id="200162" trl="Y">
+  <value column="Name" original="Chosen Multiple Selection Table">Mehrfachauswahl-Tabelle</value>
+  <value column="Description" original="Chosen multiple selection box for table list">Mehrfachauswahlfeld für Tabellenlisten</value>
   <value column="Help" original=""/>
  </row>
- <row id="200163" trl="N">
-  <value column="Name" original="Chosen Multiple Selection Search">Chosen Multiple Selection Search</value>
-  <value column="Description" original="Chosen multiple selection box for search">Chosen multiple selection box for search</value>
+ <row id="200163" trl="Y">
+  <value column="Name" original="Chosen Multiple Selection Search">Mehrfachauswahl-Suche</value>
+  <value column="Description" original="Chosen multiple selection box for search">Mehrfachauswahlfeld für Suche</value>
   <value column="Help" original=""/>
  </row>
- <row id="200165" trl="N">
-  <value column="Name" original="AD_Table with ID Column">AD_Table with ID Column</value>
+ <row id="200165" trl="Y">
+  <value column="Name" original="AD_Table with ID Column">Tabelle mit ID-Spalte</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200166" trl="N">
-  <value column="Name" original="AD_Role RoleType">AD_Role RoleType</value>
+ <row id="200166" trl="Y">
+  <value column="Name" original="AD_Role RoleType">Rollentyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2660,18 +2660,18 @@
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200169" trl="N">
-  <value column="Name" original="ReportOutputType">ReportOutputType</value>
+ <row id="200169" trl="Y">
+  <value column="Name" original="ReportOutputType">Berichtsausgabetyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200170" trl="N">
-  <value column="Name" original="ViewFindResult">ViewFindResult</value>
+ <row id="200170" trl="Y">
+  <value column="Name" original="ViewFindResult">Suchergebnis-Ansicht</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200171" trl="N">
-  <value column="Name" original="RelType C_Invoice -&gt; C_Invoice (CM)" xml:space="preserve"><![CDATA[RelType C_Invoice -> C_Invoice (CM)]]></value>
+ <row id="200171" trl="Y">
+  <value column="Name" original="RelType C_Invoice -&gt; C_Invoice (CM)">Verknüpfungstyp Rechnung → Gutschrift</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
@@ -2680,274 +2680,284 @@
   <value column="Description" original="View and change the state of a scheduler">Anzeigen und Ändern des Status eines Zeitplaners</value>
   <value column="Help" original=""/>
  </row>
- <row id="200174" trl="N">
-  <value column="Name" original="PA_ReportLine Line Stroke Type">PA_ReportLine Line Stroke Type</value>
+ <row id="200174" trl="Y">
+  <value column="Name" original="PA_ReportLine Line Stroke Type">Berichtszeilendiagramm-Strichtyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200175" trl="N">
-  <value column="Name" original="C_BPartner (all)">C_BPartner (all)</value>
+ <row id="200175" trl="Y">
+  <value column="Name" original="C_BPartner (all)">Geschäftspartner (alle)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200176" trl="N">
-  <value column="Name" original="M_Product (all)">M_Product (all)</value>
+ <row id="200176" trl="Y">
+  <value column="Name" original="M_Product (all)">Produkt (alle)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200178" trl="N">
-  <value column="Name" original="ImportOrExport">ImportOrExport</value>
+ <row id="200178" trl="Y">
+  <value column="Name" original="ImportOrExport">Import/Export</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200179" trl="N">
-  <value column="Name" original="AD_Table Trl">AD_Table Trl</value>
-  <value column="Description" original="Translated Tables">Translated Tables</value>
+ <row id="200179" trl="Y">
+  <value column="Name" original="AD_Table Trl">Übersetzbare Tabellen</value>
+  <value column="Description" original="Translated Tables">Übersetzte Tabellen</value>
   <value column="Help" original=""/>
  </row>
- <row id="200180" trl="N">
-  <value column="Name" original="M_AttributeSetInstance">M_AttributeSetInstance</value>
-  <value column="Description" original="Attribute Set Instance">Attribute Set Instance</value>
+ <row id="200180" trl="Y">
+  <value column="Name" original="M_AttributeSetInstance">Attributgruppen-Instanz</value>
+  <value column="Description" original="Attribute Set Instance">Attributgruppen-Instanz</value>
   <value column="Help" original=""/>
  </row>
- <row id="200181" trl="N">
-  <value column="Name" original="S_ResourceAssignment">S_ResourceAssignment</value>
-  <value column="Description" original="Resource Assignment">Resource Assignment</value>
+ <row id="200181" trl="Y">
+  <value column="Name" original="S_ResourceAssignment">Ressourcenzuweisung</value>
+  <value column="Description" original="Resource Assignment">Ressourcenzuweisung</value>
   <value column="Help" original=""/>
  </row>
- <row id="200182" trl="N">
-  <value column="Name" original="AD_Image">AD_Image</value>
-  <value column="Description" original="Image">Image</value>
+ <row id="200182" trl="Y">
+  <value column="Name" original="AD_Image">Bild</value>
+  <value column="Description" original="Image">Bild</value>
   <value column="Help" original=""/>
  </row>
- <row id="200183" trl="N">
-  <value column="Name" original="AD_Chart">AD_Chart</value>
-  <value column="Description" original="Chart">Chart</value>
+ <row id="200183" trl="Y">
+  <value column="Name" original="AD_Chart">Diagramm</value>
+  <value column="Description" original="Chart">Diagramm</value>
   <value column="Help" original=""/>
  </row>
- <row id="200184" trl="N">
-  <value column="Name" original="AD_AuthorizationType">AD_AuthorizationType</value>
+ <row id="200184" trl="Y">
+  <value column="Name" original="AD_AuthorizationType">Autorisierungstyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200185" trl="N">
-  <value column="Name" original="AD_AuthorizationScope">AD_AuthorizationScope</value>
+ <row id="200185" trl="Y">
+  <value column="Name" original="AD_AuthorizationScope">Autorisierungsbereich</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200186" trl="N">
-  <value column="Name" original="HTML Attachment Type List">HTML Attachment Type List</value>
+ <row id="200186" trl="Y">
+  <value column="Name" original="HTML Attachment Type List">HTML-Anhang-Typ-Liste</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200187" trl="N">
-  <value column="Name" original="MFA_Method">MFA_Method</value>
+ <row id="200187" trl="Y">
+  <value column="Name" original="MFA_Method">MFA-Methode</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200188" trl="N">
-  <value column="Name" original="MFAType">MFAType</value>
+ <row id="200188" trl="Y">
+  <value column="Name" original="MFAType">MFA-Typ</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200189" trl="N">
-  <value column="Name" original="MFATimeProvider">MFATimeProvider</value>
+ <row id="200189" trl="Y">
+  <value column="Name" original="MFATimeProvider">MFA-Zeitanbieter</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200190" trl="N">
-  <value column="Name" original="AD_Element">AD_Element</value>
+ <row id="200190" trl="Y">
+  <value column="Name" original="AD_Element">Element</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200191" trl="N">
-  <value column="Name" original="MFA_Method - on tenant rule">MFA_Method - on tenant rule</value>
+ <row id="200191" trl="Y">
+  <value column="Name" original="MFA_Method - on tenant rule">MFA-Methode (Mandantenregel)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200194" trl="N">
-  <value column="Name" original="M_WarehouseTo of Tenant">M_WarehouseTo of Tenant</value>
+ <row id="200194" trl="Y">
+  <value column="Name" original="M_WarehouseTo of Tenant">Ziellager des Mandanten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200198" trl="N">
-  <value column="Name" original="FinReport ExcludeAdjustmentPeriods">FinReport ExcludeAdjustmentPeriods</value>
+ <row id="200198" trl="Y">
+  <value column="Name" original="FinReport ExcludeAdjustmentPeriods">Fin.Bericht Anpassungsperioden ausschließen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200202" trl="N">
-  <value column="Name" original="Record ID">Record ID</value>
+ <row id="200202" trl="Y">
+  <value column="Name" original="Record ID">Datensatz-ID</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200208" trl="N">
-  <value column="Name" original="C_DocType S.Order + RMA">C_DocType S.Order + RMA</value>
+ <row id="200208" trl="Y">
+  <value column="Name" original="C_DocType S.Order + RMA">Belegtyp Auftrag + RMA</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200213" trl="N">
-  <value column="Name" original="SSO Provider List">SSO Provider List</value>
+ <row id="200213" trl="Y">
+  <value column="Name" original="SSO Provider List">SSO-Anbieter-Liste</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200215" trl="N">
-  <value column="Name" original="AD_Role RoleType - WebService">AD_Role RoleType - WebService</value>
-  <value column="Description" original="Roles with RoleType NULL or WebService">Roles with RoleType NULL or WebService</value>
+ <row id="200215" trl="Y">
+  <value column="Name" original="AD_Role RoleType - WebService">Rollentyp - Webdienst</value>
+  <value column="Description" original="Roles with RoleType NULL or WebService">Rollen mit Rollentyp NULL oder Webdienst</value>
   <value column="Help" original=""/>
  </row>
- <row id="200217" trl="N">
-  <value column="Name" original="DateSelectionMode">DateSelectionMode</value>
-  <value column="Description" original="Date Selection Mode">Date Selection Mode</value>
+ <row id="200217" trl="Y">
+  <value column="Name" original="DateSelectionMode">Datumsauswahlmodus</value>
+  <value column="Description" original="Date Selection Mode">Datumsauswahlmodus</value>
   <value column="Help" original=""/>
  </row>
- <row id="200221" trl="N">
-  <value column="Name" original="Months">Months</value>
+ <row id="200221" trl="Y">
+  <value column="Name" original="Months">Monate</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200222" trl="N">
-  <value column="Name" original="Quarters">Quarters</value>
+ <row id="200222" trl="Y">
+  <value column="Name" original="Quarters">Quartale</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200224" trl="N">
-  <value column="Name" original="S_ResourceType">S_ResourceType</value>
-  <value column="Description" original="Resource Type">Resource Type</value>
+ <row id="200224" trl="Y">
+  <value column="Name" original="S_ResourceType">Ressourcentyp</value>
+  <value column="Description" original="Resource Type">Ressourcentyp</value>
   <value column="Help" original=""/>
  </row>
- <row id="200227" trl="N">
-  <value column="Name" original="PrintFormatItemSync Source">PrintFormatItemSync Source</value>
+ <row id="200227" trl="Y">
+  <value column="Name" original="PrintFormatItemSync Source">Druckformat-Element-Synchronisierungsquelle</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200228" trl="N">
-  <value column="Name" original="Date Range Option">Date Range Option</value>
-  <value column="Description" original="Options, how the date editor will be displayed.">Options, how the date editor will be displayed.</value>
+ <row id="200228" trl="Y">
+  <value column="Name" original="Date Range Option">Datumsbereichs-Option</value>
+  <value column="Description" original="Options, how the date editor will be displayed.">Optionen zur Anzeige des Datumsfelds</value>
   <value column="Help" original=""/>
  </row>
- <row id="200230" trl="N">
-  <value column="Name" original="AD_Reference Show Inactive">AD_Reference Show Inactive</value>
+ <row id="200230" trl="Y">
+  <value column="Name" original="AD_Reference Show Inactive">Referenz Inaktive anzeigen</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200231" trl="N">
+ <row id="200231" trl="Y">
   <value column="Name" original="UUID">UUID</value>
-  <value column="Description" original="Universally unique identifier">Universally unique identifier</value>
+  <value column="Description" original="Universally unique identifier">Universell eindeutiger Bezeichner</value>
   <value column="Help" original=""/>
  </row>
- <row id="200232" trl="N">
-  <value column="Name" original="AD_Table Name">AD_Table Name</value>
+ <row id="200232" trl="Y">
+  <value column="Name" original="AD_Table Name">Tabellenname</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200233" trl="N">
-  <value column="Name" original="Table (UU)">Table (UU)</value>
-  <value column="Description" original="Table List based on UUID">Table List based on UUID</value>
+ <row id="200233" trl="Y">
+  <value column="Name" original="Table (UU)">Tabelle (UUID)</value>
+  <value column="Description" original="Table List based on UUID">Tabellenliste auf UUID-Basis</value>
   <value column="Help" original=""/>
  </row>
- <row id="200234" trl="N">
-  <value column="Name" original="Table Direct (UU)">Table Direct (UU)</value>
-  <value column="Description" original="Direct Table Access based on UUID">Direct Table Access based on UUID</value>
+ <row id="200234" trl="Y">
+  <value column="Name" original="Table Direct (UU)">Direkttabelle (UUID)</value>
+  <value column="Description" original="Direct Table Access based on UUID">Direkter Tabellenzugriff auf UUID-Basis</value>
   <value column="Help" original=""/>
  </row>
- <row id="200235" trl="N">
-  <value column="Name" original="Search (UU)">Search (UU)</value>
-  <value column="Description" original="Search Field based on UUID">Search Field based on UUID</value>
+ <row id="200235" trl="Y">
+  <value column="Name" original="Search (UU)">Suche (UUID)</value>
+  <value column="Description" original="Search Field based on UUID">Suchfeld auf UUID-Basis</value>
   <value column="Help" original=""/>
  </row>
- <row id="200236" trl="N">
-  <value column="Name" original="Test UU">Test UU</value>
+ <row id="200236" trl="Y">
+  <value column="Name" original="Test UU">Test UUID</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200237" trl="N">
-  <value column="Name" original="AD_Table with ID or UU Column">AD_Table with ID or UU Column</value>
+ <row id="200237" trl="Y">
+  <value column="Name" original="AD_Table with ID or UU Column">Tabelle mit ID- oder UUID-Spalte</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200239" trl="N">
-  <value column="Name" original="Authentication Type List">Authentication Type List</value>
+ <row id="200239" trl="Y">
+  <value column="Name" original="Authentication Type List">Authentifizierungstyp-Liste</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200240" trl="N">
-  <value column="Name" original="Record UUID">Record UUID</value>
+ <row id="200240" trl="Y">
+  <value column="Name" original="Record UUID">Datensatz-UUID</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200241" trl="N">
-  <value column="Name" original="GL_Category (all)">GL_Category (all)</value>
+ <row id="200241" trl="Y">
+  <value column="Name" original="GL_Category (all)">Sachkontokategorie (alle)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200242" trl="N">
-  <value column="Name" original="AD_PInstance_Log PInstanceLogType">AD_PInstance_Log PInstanceLogType</value>
+ <row id="200242" trl="Y">
+  <value column="Name" original="AD_PInstance_Log PInstanceLogType">Prozessinstanz-Protokolltyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200247" trl="N">
-  <value column="Name" original="C_UOM Weight Type">C_UOM Weight Type</value>
-  <value column="Description" original="Unit of Measure selection for Weight UOM Type">Unit of Measure selection for Weight UOM Type</value>
+ <row id="200247" trl="Y">
+  <value column="Name" original="C_UOM Weight Type">Maßeinheit Gewichtstyp</value>
+  <value column="Description" original="Unit of Measure selection for Weight UOM Type">Maßeinheitenauswahl für Gewicht</value>
   <value column="Help" original=""/>
  </row>
- <row id="200248" trl="N">
-  <value column="Name" original="C_UOM Length Type">C_UOM Length Type</value>
-  <value column="Description" original="Unit of Measure selection for Length UOM Type">Unit of Measure selection for Length UOM Type</value>
+ <row id="200248" trl="Y">
+  <value column="Name" original="C_UOM Length Type">Maßeinheit Längentyp</value>
+  <value column="Description" original="Unit of Measure selection for Length UOM Type">Maßeinheitenauswahl für Länge</value>
   <value column="Help" original=""/>
  </row>
- <row id="200261" trl="N">
-  <value column="Name" original="AD_Column PartitioningMethod">AD_Column PartitioningMethod</value>
+ <row id="200261" trl="Y">
+  <value column="Name" original="AD_Column PartitioningMethod">Tabellen-Partitionierungsmethode</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200262" trl="N">
-  <value column="Name" original="AD_TablePartition">AD_TablePartition</value>
-  <value column="Description" original="Table Partition">Table Partition</value>
+ <row id="200262" trl="Y">
+  <value column="Name" original="AD_TablePartition">Tabellenpartition</value>
+  <value column="Description" original="Table Partition">Tabellenpartition</value>
   <value column="Help" original=""/>
  </row>
- <row id="200265" trl="N">
-  <value column="Name" original="AD_WF_Responsible">AD_WF_Responsible</value>
+ <row id="200265" trl="Y">
+  <value column="Name" original="AD_WF_Responsible">Workflow-Verantwortlicher</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200267" trl="N">
+ <row id="200267" trl="Y">
   <value column="Name" original="JSON">JSON</value>
-  <value column="Description" original="JSON format values">JSON format values</value>
+  <value column="Description" original="JSON format values">JSON-Formatwerte</value>
   <value column="Help" original=""/>
  </row>
- <row id="200268" trl="N">
-  <value column="Name" original="ImportTemplateType">ImportTemplateType</value>
+ <row id="200268" trl="Y">
+  <value column="Name" original="ImportTemplateType">Importvorlagentyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200271" trl="N">
-  <value column="Name" original="Image URL">Image URL</value>
-  <value column="Description" original="Web URL of an image">Web URL of an image</value>
+ <row id="200271" trl="Y">
+  <value column="Name" original="Image URL">Bild-URL</value>
+  <value column="Description" original="Web URL of an image">Web-URL eines Bildes</value>
   <value column="Help" original=""/>
  </row>
- <row id="200274" trl="N">
-  <value column="Name" original="PluginExpectedState">PluginExpectedState</value>
+ <row id="200274" trl="Y">
+  <value column="Name" original="PluginExpectedState">Plugin-Erwarteter-Status</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200275" trl="N">
-  <value column="Name" original="AD_Attachment Title">AD_Attachment Title</value>
+ <row id="200275" trl="Y">
+  <value column="Name" original="AD_Attachment Title">Anhang-Titel</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200276" trl="N">
-  <value column="Name" original="PasswordHashAlgorithm List">PasswordHashAlgorithm List</value>
+ <row id="200276" trl="Y">
+  <value column="Name" original="PasswordHashAlgorithm List">Passwort-Hash-Algorithmus-Liste</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200280" trl="N">
-  <value column="Name" original="StatementType">StatementType</value>
+ <row id="200280" trl="Y">
+  <value column="Name" original="StatementType">Auszugstyp</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200284" trl="N">
-  <value column="Name" original="AD_Extension ExtensionState List">AD_Extension ExtensionState List</value>
-  <value column="Description" original="List of valid states for an extension's lifecycle">List of valid states for an extension's lifecycle</value>
-  <value column="Help" original="Defines the allowed deployment and operational states for records in the AD_Extension table">Defines the allowed deployment and operational states for records in the AD_Extension table</value>
+ <row id="200284" trl="Y">
+  <value column="Name" original="AD_Extension ExtensionState List">Erweiterungsstatus-Liste</value>
+  <value column="Description" original="List of valid states for an extension's lifecycle">Liste gültiger Zustände für den Lebenszyklus einer Erweiterung</value>
+  <value column="Help" original="Defines the allowed deployment and operational states for records in the AD_Extension table">Definiert die zulässigen Bereitstellungs- und Betriebszustände für Datensätze in der AD_Extension-Tabelle</value>
+ </row>
+ <row id="200286" trl="Y">
+  <value column="Name" original="2Pack Export Format">2Pack-Exportformat</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200287" trl="Y">
+  <value column="Name" original="C_SalesStage - for C_Opportunity">C_SalesStage - für C_Opportunity</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
  </row>
 </idempiereTrl>

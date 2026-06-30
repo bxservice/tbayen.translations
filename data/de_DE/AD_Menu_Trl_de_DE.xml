@@ -188,12 +188,12 @@
   <value column="Name" original="Sales Management">Verkauf</value>
   <value column="Description" original=""/>
  </row>
- <row id="200178" trl="N">
-  <value column="Name" original="External Authorization">External Authorization</value>
+ <row id="200178" trl="Y">
+  <value column="Name" original="External Authorization">Externe Autorisierung</value>
   <value column="Description" original=""/>
  </row>
- <row id="200184" trl="N">
-  <value column="Name" original="Multi Factor Authentication">Multi Factor Authentication</value>
+ <row id="200184" trl="Y">
+  <value column="Name" original="Multi Factor Authentication">Mehrfaktor-Authentifizierung</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>

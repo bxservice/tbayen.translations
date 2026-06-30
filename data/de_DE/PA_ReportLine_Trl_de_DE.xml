@@ -1,455 +1,455 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--iDempiere(r) Release 14_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="PA_ReportLine">
- <row id="100" trl="N">
+ <row id="100" trl="Y">
   <value column="Name" original="1">1</value>
-  <value column="Description" original="Assets">Assets</value>
+  <value column="Description" original="Assets">Vermögen</value>
  </row>
- <row id="101" trl="N">
+ <row id="101" trl="Y">
   <value column="Name" original="11">11</value>
-  <value column="Description" original="Cash">Cash</value>
+  <value column="Description" original="Cash">Kasse</value>
  </row>
- <row id="102" trl="N">
+ <row id="102" trl="Y">
   <value column="Name" original="12">12</value>
-  <value column="Description" original="Accounts Receivable">Accounts Receivable</value>
+  <value column="Description" original="Accounts Receivable">Forderungen aus Lieferungen und Leistungen</value>
  </row>
- <row id="103" trl="N">
+ <row id="103" trl="Y">
   <value column="Name" original="13">13</value>
-  <value column="Description" original="Investments">Investments</value>
+  <value column="Description" original="Investments">Kapitalanlagen</value>
  </row>
- <row id="104" trl="N">
+ <row id="104" trl="Y">
   <value column="Name" original="14">14</value>
-  <value column="Description" original="Inventory">Inventory</value>
+  <value column="Description" original="Inventory">Vorräte</value>
  </row>
- <row id="105" trl="N">
+ <row id="105" trl="Y">
   <value column="Name" original="15">15</value>
-  <value column="Description" original="Prepaid Expenses, Deposits &amp; Other Current Assets" xml:space="preserve"><![CDATA[Prepaid Expenses, Deposits & Other Current Assets]]></value>
+  <value column="Description" original="Prepaid Expenses, Deposits &amp; Other Current Assets" xml:space="preserve"><![CDATA[Vorauszahlungen, Kautionen & sonstiges Umlaufvermögen]]></value>
  </row>
- <row id="106" trl="N">
+ <row id="106" trl="Y">
   <value column="Name" original="15_">15_</value>
-  <value column="Description" original="Total Current Assets">Total Current Assets</value>
+  <value column="Description" original="Total Current Assets">Umlaufvermögen gesamt</value>
  </row>
- <row id="107" trl="N">
+ <row id="107" trl="Y">
   <value column="Name" original="16">16</value>
-  <value column="Description" original="Land and Building">Land and Building</value>
+  <value column="Description" original="Land and Building">Grundstücke und Gebäude</value>
  </row>
- <row id="108" trl="N">
+ <row id="108" trl="Y">
   <value column="Name" original="17">17</value>
-  <value column="Description" original="Furniture, Fixtures &amp; Equipment" xml:space="preserve"><![CDATA[Furniture, Fixtures & Equipment]]></value>
+  <value column="Description" original="Furniture, Fixtures &amp; Equipment">Betriebs- und Geschäftsausstattung</value>
  </row>
- <row id="109" trl="N">
+ <row id="109" trl="Y">
   <value column="Name" original="18">18</value>
-  <value column="Description" original="Accumulated Depreciation">Accumulated Depreciation</value>
+  <value column="Description" original="Accumulated Depreciation">Kumulierte Abschreibungen</value>
  </row>
- <row id="110" trl="N">
+ <row id="110" trl="Y">
   <value column="Name" original="19">19</value>
-  <value column="Description" original="Other Assets">Other Assets</value>
+  <value column="Description" original="Other Assets">Sonstiges Vermögen</value>
  </row>
- <row id="111" trl="N">
+ <row id="111" trl="Y">
   <value column="Name" original="19_">19_</value>
-  <value column="Description" original="Fixed and other Assets">Fixed and other Assets</value>
+  <value column="Description" original="Fixed and other Assets">Anlage- und sonstiges Vermögen</value>
  </row>
- <row id="112" trl="N">
+ <row id="112" trl="Y">
   <value column="Name" original="2">2</value>
-  <value column="Description" original="Liabilities">Liabilities</value>
+  <value column="Description" original="Liabilities">Verbindlichkeiten</value>
  </row>
- <row id="113" trl="N">
+ <row id="113" trl="Y">
   <value column="Name" original="21">21</value>
-  <value column="Description" original="Accounts Payable">Accounts Payable</value>
+  <value column="Description" original="Accounts Payable">Verbindlichkeiten aus Lieferungen und Leistungen</value>
  </row>
- <row id="114" trl="N">
+ <row id="114" trl="Y">
   <value column="Name" original="22">22</value>
-  <value column="Description" original="Accrued Expenses">Accrued Expenses</value>
+  <value column="Description" original="Accrued Expenses">Rückstellungen</value>
  </row>
- <row id="115" trl="N">
+ <row id="115" trl="Y">
   <value column="Name" original="23">23</value>
-  <value column="Description" original="Current Note Payables">Current Note Payables</value>
+  <value column="Description" original="Current Note Payables">Kurzfristige Schuldscheine</value>
  </row>
- <row id="116" trl="N">
+ <row id="116" trl="Y">
   <value column="Name" original="24">24</value>
-  <value column="Description" original="Long Term Liabilities">Long Term Liabilities</value>
+  <value column="Description" original="Long Term Liabilities">Langfristige Verbindlichkeiten</value>
  </row>
- <row id="117" trl="N">
+ <row id="117" trl="Y">
   <value column="Name" original="3">3</value>
-  <value column="Description" original="Owner's Equity/Net Worth">Owner's Equity/Net Worth</value>
+  <value column="Description" original="Owner's Equity/Net Worth">Eigenkapital</value>
  </row>
- <row id="118" trl="N">
+ <row id="118" trl="Y">
   <value column="Name" original="31">31</value>
-  <value column="Description" original="Capital">Capital</value>
+  <value column="Description" original="Capital">Kapital</value>
  </row>
- <row id="119" trl="N">
+ <row id="119" trl="Y">
   <value column="Name" original="32">32</value>
-  <value column="Description" original="Current Profit &amp; Loss" xml:space="preserve"><![CDATA[Current Profit & Loss]]></value>
+  <value column="Description" original="Current Profit &amp; Loss" xml:space="preserve"><![CDATA[Laufender Gewinn & Verlust]]></value>
  </row>
- <row id="120" trl="N">
+ <row id="120" trl="Y">
   <value column="Name" original="33">33</value>
-  <value column="Description" original="Total Liabilities and Equity">Total Liabilities and Equity</value>
+  <value column="Description" original="Total Liabilities and Equity">Verbindlichkeiten und Eigenkapital gesamt</value>
  </row>
- <row id="121" trl="N">
+ <row id="121" trl="Y">
   <value column="Name" original="1__">1__</value>
-  <value column="Description" original="Toral Assets">Toral Assets</value>
+  <value column="Description" original="Toral Assets">Vermögen gesamt</value>
  </row>
- <row id="122" trl="N">
+ <row id="122" trl="Y">
   <value column="Name" original="2__">2__</value>
-  <value column="Description" original="Total Liabilities">Total Liabilities</value>
+  <value column="Description" original="Total Liabilities">Verbindlichkeiten gesamt</value>
  </row>
- <row id="123" trl="N">
+ <row id="123" trl="Y">
   <value column="Name" original="4">4</value>
-  <value column="Description" original="Sales">Sales</value>
+  <value column="Description" original="Sales">Umsatz</value>
  </row>
- <row id="124" trl="N">
+ <row id="124" trl="Y">
   <value column="Name" original="49">49</value>
-  <value column="Description" original="Sales Discounts">Sales Discounts</value>
+  <value column="Description" original="Sales Discounts">Umsatzrabatte</value>
  </row>
- <row id="125" trl="N">
+ <row id="125" trl="Y">
   <value column="Name" original="5">5</value>
-  <value column="Description" original="Cost of Goods Sold">Cost of Goods Sold</value>
+  <value column="Description" original="Cost of Goods Sold">Wareneinsatz</value>
  </row>
- <row id="126" trl="N">
+ <row id="126" trl="Y">
   <value column="Name" original="55">55</value>
-  <value column="Description" original="Returns">Returns</value>
+  <value column="Description" original="Returns">Retouren</value>
  </row>
- <row id="127" trl="N">
+ <row id="127" trl="Y">
   <value column="Name" original="56">56</value>
-  <value column="Description" original="Inventory CoGs">Inventory CoGs</value>
+  <value column="Description" original="Inventory CoGs">Lagerwareneinsatz</value>
  </row>
- <row id="128" trl="N">
+ <row id="128" trl="Y">
   <value column="Name" original="58">58</value>
-  <value column="Description" original="CoGs Variances">CoGs Variances</value>
+  <value column="Description" original="CoGs Variances">Wareneinsatz-Abweichungen</value>
  </row>
- <row id="129" trl="N">
+ <row id="129" trl="Y">
   <value column="Name" original="59">59</value>
-  <value column="Description" original="CoGS Discounts">CoGS Discounts</value>
+  <value column="Description" original="CoGS Discounts">Wareneinsatz-Rabatte</value>
  </row>
- <row id="130" trl="N">
+ <row id="130" trl="Y">
   <value column="Name" original="5_">5_</value>
-  <value column="Description" original="Gross Margin">Gross Margin</value>
+  <value column="Description" original="Gross Margin">Bruttoertrag</value>
  </row>
- <row id="131" trl="N">
+ <row id="131" trl="Y">
   <value column="Name" original="60">60</value>
-  <value column="Description" original="Payroll Expense">Payroll Expense</value>
+  <value column="Description" original="Payroll Expense">Personalaufwand</value>
  </row>
- <row id="132" trl="N">
+ <row id="132" trl="Y">
   <value column="Name" original="61">61</value>
-  <value column="Description" original="Occupancy Cost">Occupancy Cost</value>
+  <value column="Description" original="Occupancy Cost">Raumkosten</value>
  </row>
- <row id="133" trl="N">
+ <row id="133" trl="Y">
   <value column="Name" original="62">62</value>
-  <value column="Description" original="Advertising &amp; Promotion" xml:space="preserve"><![CDATA[Advertising & Promotion]]></value>
+  <value column="Description" original="Advertising &amp; Promotion" xml:space="preserve"><![CDATA[Werbung & Verkaufsförderung]]></value>
  </row>
- <row id="134" trl="N">
+ <row id="134" trl="Y">
   <value column="Name" original="63">63</value>
-  <value column="Description" original="Telephone and Communication">Telephone and Communication</value>
+  <value column="Description" original="Telephone and Communication">Telefon und Kommunikation</value>
  </row>
- <row id="135" trl="N">
+ <row id="135" trl="Y">
   <value column="Name" original="64">64</value>
-  <value column="Description" original="Professional Services">Professional Services</value>
+  <value column="Description" original="Professional Services">Freiberufliche Dienstleistungen</value>
  </row>
- <row id="136" trl="N">
+ <row id="136" trl="Y">
   <value column="Name" original="65">65</value>
-  <value column="Description" original="Stationary &amp; Supplies" xml:space="preserve"><![CDATA[Stationary & Supplies]]></value>
+  <value column="Description" original="Stationary &amp; Supplies" xml:space="preserve"><![CDATA[Büromaterial & Verbrauchsmaterial]]></value>
  </row>
- <row id="137" trl="N">
+ <row id="137" trl="Y">
   <value column="Name" original="66">66</value>
-  <value column="Description" original="Data Processing Expense">Data Processing Expense</value>
+  <value column="Description" original="Data Processing Expense">EDV-Aufwand</value>
  </row>
- <row id="138" trl="N">
+ <row id="138" trl="Y">
   <value column="Name" original="67">67</value>
-  <value column="Description" original="Depreciation Expense">Depreciation Expense</value>
+  <value column="Description" original="Depreciation Expense">Abschreibungsaufwand</value>
  </row>
- <row id="139" trl="N">
+ <row id="139" trl="Y">
   <value column="Name" original="68">68</value>
-  <value column="Description" original="Travel &amp; Entertainment" xml:space="preserve"><![CDATA[Travel & Entertainment]]></value>
+  <value column="Description" original="Travel &amp; Entertainment" xml:space="preserve"><![CDATA[Reise & Bewirtung]]></value>
  </row>
- <row id="140" trl="N">
+ <row id="140" trl="Y">
   <value column="Name" original="69">69</value>
-  <value column="Description" original="Insurance">Insurance</value>
+  <value column="Description" original="Insurance">Versicherungen</value>
  </row>
- <row id="141" trl="N">
+ <row id="141" trl="Y">
   <value column="Name" original="70">70</value>
-  <value column="Description" original="Payment Processor Costs">Payment Processor Costs</value>
+  <value column="Description" original="Payment Processor Costs">Zahlungsabwicklungskosten</value>
  </row>
- <row id="142" trl="N">
+ <row id="142" trl="Y">
   <value column="Name" original="71">71</value>
-  <value column="Description" original="Dues &amp; Subscriptions" xml:space="preserve"><![CDATA[Dues & Subscriptions]]></value>
+  <value column="Description" original="Dues &amp; Subscriptions" xml:space="preserve"><![CDATA[Mitgliedsbeiträge & Abonnements]]></value>
  </row>
- <row id="143" trl="N">
+ <row id="143" trl="Y">
   <value column="Name" original="72">72</value>
-  <value column="Description" original="Office Expense">Office Expense</value>
+  <value column="Description" original="Office Expense">Büroaufwand</value>
  </row>
- <row id="144" trl="N">
+ <row id="144" trl="Y">
   <value column="Name" original="73">73</value>
-  <value column="Description" original="Postage &amp; Shipping" xml:space="preserve"><![CDATA[Postage & Shipping]]></value>
+  <value column="Description" original="Postage &amp; Shipping" xml:space="preserve"><![CDATA[Porto & Versand]]></value>
  </row>
- <row id="145" trl="N">
+ <row id="145" trl="Y">
   <value column="Name" original="74">74</value>
-  <value column="Description" original="Taxes and Licenses">Taxes and Licenses</value>
+  <value column="Description" original="Taxes and Licenses">Steuern und Abgaben</value>
  </row>
- <row id="146" trl="N">
+ <row id="146" trl="Y">
   <value column="Name" original="75">75</value>
-  <value column="Description" original="Education">Education</value>
+  <value column="Description" original="Education">Weiterbildung</value>
  </row>
- <row id="147" trl="N">
+ <row id="147" trl="Y">
   <value column="Name" original="76">76</value>
-  <value column="Description" original="Equipment Rent">Equipment Rent</value>
+  <value column="Description" original="Equipment Rent">Gerätemietaufwand</value>
  </row>
- <row id="148" trl="N">
+ <row id="148" trl="Y">
   <value column="Name" original="77">77</value>
-  <value column="Description" original="Repairs &amp; Maintenance" xml:space="preserve"><![CDATA[Repairs & Maintenance]]></value>
+  <value column="Description" original="Repairs &amp; Maintenance" xml:space="preserve"><![CDATA[Reparaturen & Wartung]]></value>
  </row>
- <row id="149" trl="N">
+ <row id="149" trl="Y">
   <value column="Name" original="78">78</value>
-  <value column="Description" original="Other Operating Expenses">Other Operating Expenses</value>
+  <value column="Description" original="Other Operating Expenses">Sonstige Betriebsaufwendungen</value>
  </row>
- <row id="150" trl="N">
+ <row id="150" trl="Y">
   <value column="Name" original="79">79</value>
-  <value column="Description" original="Default/Suspense Accounts">Default/Suspense Accounts</value>
+  <value column="Description" original="Default/Suspense Accounts">Standard-/Schwebekonten</value>
  </row>
- <row id="151" trl="N">
+ <row id="151" trl="Y">
   <value column="Name" original="79_">79_</value>
-  <value column="Description" original="Total Operating Expenses">Total Operating Expenses</value>
+  <value column="Description" original="Total Operating Expenses">Betriebsaufwendungen gesamt</value>
  </row>
- <row id="152" trl="N">
+ <row id="152" trl="Y">
   <value column="Name" original="79__">79__</value>
-  <value column="Description" original="Operating Income">Operating Income</value>
+  <value column="Description" original="Operating Income">Betriebsergebnis</value>
  </row>
- <row id="153" trl="N">
+ <row id="153" trl="Y">
   <value column="Name" original="80">80</value>
-  <value column="Description" original="Other Income">Other Income</value>
+  <value column="Description" original="Other Income">Sonstige Erträge</value>
  </row>
- <row id="154" trl="N">
+ <row id="154" trl="Y">
   <value column="Name" original="805">805</value>
-  <value column="Description" original="Currency Gain">Currency Gain</value>
+  <value column="Description" original="Currency Gain">Währungsgewinne</value>
  </row>
- <row id="155" trl="N">
+ <row id="155" trl="Y">
   <value column="Name" original="82">82</value>
-  <value column="Description" original="Other Expense">Other Expense</value>
+  <value column="Description" original="Other Expense">Sonstiger Aufwand</value>
  </row>
- <row id="156" trl="N">
+ <row id="156" trl="Y">
   <value column="Name" original="825">825</value>
-  <value column="Description" original="Currency Loss">Currency Loss</value>
+  <value column="Description" original="Currency Loss">Währungsverluste</value>
  </row>
- <row id="157" trl="N">
+ <row id="157" trl="Y">
   <value column="Name" original="82_">82_</value>
-  <value column="Description" original="Net Income before Tax">Net Income before Tax</value>
+  <value column="Description" original="Net Income before Tax">Ergebnis vor Steuern</value>
  </row>
- <row id="158" trl="N">
+ <row id="158" trl="Y">
   <value column="Name" original="89">89</value>
-  <value column="Description" original="Income Tax &amp; Summary" xml:space="preserve"><![CDATA[Income Tax & Summary]]></value>
+  <value column="Description" original="Income Tax &amp; Summary" xml:space="preserve"><![CDATA[Ertragssteuern & Zusammenfassung]]></value>
  </row>
- <row id="159" trl="N">
+ <row id="159" trl="Y">
   <value column="Name" original="89_">89_</value>
-  <value column="Description" original="Net Income">Net Income</value>
+  <value column="Description" original="Net Income">Jahresüberschuss</value>
  </row>
- <row id="160" trl="N">
+ <row id="160" trl="Y">
   <value column="Name" original="4">4</value>
-  <value column="Description" original="Sales">Sales</value>
+  <value column="Description" original="Sales">Umsatz</value>
  </row>
- <row id="162" trl="N">
+ <row id="162" trl="Y">
   <value column="Name" original="5">5</value>
-  <value column="Description" original="Cost of Goods Sold">Cost of Goods Sold</value>
+  <value column="Description" original="Cost of Goods Sold">Wareneinsatz</value>
  </row>
- <row id="167" trl="N">
-  <value column="Name" original="Gross Margin">Gross Margin</value>
-  <value column="Description" original="Gross Margin">Gross Margin</value>
+ <row id="167" trl="Y">
+  <value column="Name" original="Gross Margin">Bruttoertrag</value>
+  <value column="Description" original="Gross Margin">Bruttoertrag</value>
  </row>
- <row id="177" trl="N">
+ <row id="177" trl="Y">
   <value column="Name" original="6">6</value>
-  <value column="Description" original="6-Expenses">6-Expenses</value>
+  <value column="Description" original="6-Expenses">6-Aufwendungen</value>
  </row>
- <row id="188" trl="N">
-  <value column="Name" original="Total Expenses">Total Expenses</value>
-  <value column="Description" original="Total  Expenses">Total  Expenses</value>
+ <row id="188" trl="Y">
+  <value column="Name" original="Total Expenses">Aufwendungen gesamt</value>
+  <value column="Description" original="Total  Expenses">Aufwendungen gesamt</value>
  </row>
- <row id="189" trl="N">
-  <value column="Name" original="Gross Margin less Expenses">Gross Margin less Expenses</value>
-  <value column="Description" original="Gross Margin less Expenses">Gross Margin less Expenses</value>
+ <row id="189" trl="Y">
+  <value column="Name" original="Gross Margin less Expenses">Bruttoertrag abzgl. Aufwendungen</value>
+  <value column="Description" original="Gross Margin less Expenses">Bruttoertrag abzüglich Aufwendungen</value>
  </row>
- <row id="190" trl="N">
+ <row id="190" trl="Y">
   <value column="Name" original="80">80</value>
-  <value column="Description" original="Other Income summarized ">Other Income summarized </value>
+  <value column="Description" original="Other Income summarized ">Sonstige Erträge zusammengefasst</value>
  </row>
- <row id="192" trl="N">
+ <row id="192" trl="Y">
   <value column="Name" original="82">82</value>
-  <value column="Description" original="Other Expense">Other Expense</value>
+  <value column="Description" original="Other Expense">Sonstiger Aufwand</value>
  </row>
- <row id="194" trl="N">
-  <value column="Name" original="Net other income (loss)">Net other income (loss)</value>
-  <value column="Description" original="Net Other Income (loss)">Net Other Income (loss)</value>
+ <row id="194" trl="Y">
+  <value column="Name" original="Net other income (loss)">Sonstiges Nettoergebnis</value>
+  <value column="Description" original="Net Other Income (loss)">Sonstiges Nettoergebnis (Gewinn/Verlust)</value>
  </row>
- <row id="195" trl="N">
+ <row id="195" trl="Y">
   <value column="Name" original="89">89</value>
-  <value column="Description" original="Income Tax &amp; Summary" xml:space="preserve"><![CDATA[Income Tax & Summary]]></value>
+  <value column="Description" original="Income Tax &amp; Summary" xml:space="preserve"><![CDATA[Ertragssteuern & Zusammenfassung]]></value>
  </row>
- <row id="196" trl="N">
-  <value column="Name" original="Net Income">Net Income</value>
-  <value column="Description" original="Net Income">Net Income</value>
+ <row id="196" trl="Y">
+  <value column="Name" original="Net Income">Jahresüberschuss</value>
+  <value column="Description" original="Net Income">Jahresüberschuss</value>
  </row>
- <row id="199" trl="N">
-  <value column="Name" original="7-Expenses">7-Expenses</value>
-  <value column="Description" original="Summary of all 7-Expenses">Summary of all 7-Expenses</value>
+ <row id="199" trl="Y">
+  <value column="Name" original="7-Expenses">7-Aufwendungen</value>
+  <value column="Description" original="Summary of all 7-Expenses">Summe aller 7-Aufwendungen</value>
  </row>
- <row id="200" trl="N">
-  <value column="Name" original="Net Income Before Taxes">Net Income Before Taxes</value>
-  <value column="Description" original="Net Income Before Taxes">Net Income Before Taxes</value>
+ <row id="200" trl="Y">
+  <value column="Name" original="Net Income Before Taxes">Ergebnis vor Steuern</value>
+  <value column="Description" original="Net Income Before Taxes">Ergebnis vor Steuern</value>
  </row>
- <row id="201" trl="N">
-  <value column="Name" original="Depreciation Expense summarized">Depreciation Expense summarized</value>
-  <value column="Description" original="Depreciation Expense summarized">Depreciation Expense summarized</value>
+ <row id="201" trl="Y">
+  <value column="Name" original="Depreciation Expense summarized">Abschreibungen zusammengefasst</value>
+  <value column="Description" original="Depreciation Expense summarized">Abschreibungen zusammengefasst</value>
  </row>
- <row id="202" trl="N">
-  <value column="Name" original="Accrued A/P increase">Accrued A/P increase</value>
-  <value column="Description" original="Accrued A/P increase">Accrued A/P increase</value>
+ <row id="202" trl="Y">
+  <value column="Name" original="Accrued A/P increase">Zuwachs Verbindlichkeiten</value>
+  <value column="Description" original="Accrued A/P increase">Zuwachs Verbindlichkeiten aus Lieferungen</value>
  </row>
- <row id="203" trl="N">
-  <value column="Name" original="Additions to Cash Flow">Additions to Cash Flow</value>
-  <value column="Description" original="Additions to Cash Flow">Additions to Cash Flow</value>
+ <row id="203" trl="Y">
+  <value column="Name" original="Additions to Cash Flow">Zuflüsse Cashflow</value>
+  <value column="Description" original="Additions to Cash Flow">Zuflüsse Cashflow</value>
  </row>
- <row id="204" trl="N">
-  <value column="Name" original="Cash Flow sub total">Cash Flow sub total</value>
-  <value column="Description" original="Cash Flow sub total">Cash Flow sub total</value>
+ <row id="204" trl="Y">
+  <value column="Name" original="Cash Flow sub total">Cashflow-Zwischensumme</value>
+  <value column="Description" original="Cash Flow sub total">Cashflow-Zwischensumme</value>
  </row>
- <row id="205" trl="N">
-  <value column="Name" original="Loss on sale of fixed asset">Loss on sale of fixed asset</value>
-  <value column="Description" original="Loss on sale of fixed asset">Loss on sale of fixed asset</value>
+ <row id="205" trl="Y">
+  <value column="Name" original="Loss on sale of fixed asset">Verlust bei Anlagenveräußerung</value>
+  <value column="Description" original="Loss on sale of fixed asset">Verlust bei Anlagenveräußerung</value>
  </row>
- <row id="206" trl="N">
-  <value column="Name" original="Receivables(A/R, loans, taxes) summarized">Receivables(A/R, loans, taxes) summarized</value>
-  <value column="Description" original="Receivables(A/R, loans, taxes) summarized">Receivables(A/R, loans, taxes) summarized</value>
+ <row id="206" trl="Y">
+  <value column="Name" original="Receivables(A/R, loans, taxes) summarized">Forderungen zusammengefasst</value>
+  <value column="Description" original="Receivables(A/R, loans, taxes) summarized">Forderungen (Debitoren, Darlehen, Steuern) zusammengefasst</value>
  </row>
- <row id="207" trl="N">
-  <value column="Name" original="Inventory summarized">Inventory summarized</value>
-  <value column="Description" original="Inventory summarized">Inventory summarized</value>
+ <row id="207" trl="Y">
+  <value column="Name" original="Inventory summarized">Vorräte zusammengefasst</value>
+  <value column="Description" original="Inventory summarized">Vorräte zusammengefasst</value>
  </row>
- <row id="208" trl="N">
-  <value column="Name" original="Prepayments summarized">Prepayments summarized</value>
-  <value column="Description" original="Prepayments summarized">Prepayments summarized</value>
+ <row id="208" trl="Y">
+  <value column="Name" original="Prepayments summarized">Vorauszahlungen zusammengefasst</value>
+  <value column="Description" original="Prepayments summarized">Vorauszahlungen zusammengefasst</value>
  </row>
- <row id="209" trl="N">
-  <value column="Name" original="Accounts Payable summarized">Accounts Payable summarized</value>
-  <value column="Description" original="Accounts Payable summarized">Accounts Payable summarized</value>
+ <row id="209" trl="Y">
+  <value column="Name" original="Accounts Payable summarized">Verbindlichkeiten zusammengefasst</value>
+  <value column="Description" original="Accounts Payable summarized">Verbindlichkeiten zusammengefasst</value>
  </row>
- <row id="210" trl="N">
-  <value column="Name" original="Subtractions to Cash Flow">Subtractions to Cash Flow</value>
-  <value column="Description" original="Subtractions to Cash Flow">Subtractions to Cash Flow</value>
+ <row id="210" trl="Y">
+  <value column="Name" original="Subtractions to Cash Flow">Abflüsse Cashflow</value>
+  <value column="Description" original="Subtractions to Cash Flow">Abflüsse Cashflow</value>
  </row>
- <row id="211" trl="N">
-  <value column="Name" original="Cash Flow from Operations">Cash Flow from Operations</value>
-  <value column="Description" original="Cash Flow from Operations">Cash Flow from Operations</value>
+ <row id="211" trl="Y">
+  <value column="Name" original="Cash Flow from Operations">Cashflow aus laufender Geschäftstätigkeit</value>
+  <value column="Description" original="Cash Flow from Operations">Cashflow aus laufender Geschäftstätigkeit</value>
  </row>
- <row id="212" trl="N">
-  <value column="Name" original="Investments activities summarized">Investments activities summarized</value>
-  <value column="Description" original="Investments activities summarized">Investments activities summarized</value>
+ <row id="212" trl="Y">
+  <value column="Name" original="Investments activities summarized">Investitionstätigkeiten zusammengefasst</value>
+  <value column="Description" original="Investments activities summarized">Investitionstätigkeiten zusammengefasst</value>
  </row>
- <row id="214" trl="N">
-  <value column="Name" original="Fixed Asset activity summarized">Fixed Asset activity summarized</value>
-  <value column="Description" original="Fixed Asset activity summarized">Fixed Asset activity summarized</value>
+ <row id="214" trl="Y">
+  <value column="Name" original="Fixed Asset activity summarized">Anlagenaktivität zusammengefasst</value>
+  <value column="Description" original="Fixed Asset activity summarized">Anlagenaktivität zusammengefasst</value>
  </row>
- <row id="215" trl="N">
-  <value column="Name" original="Equipment activity summarized">Equipment activity summarized</value>
-  <value column="Description" original="Equipment activity summarized">Equipment activity summarized</value>
+ <row id="215" trl="Y">
+  <value column="Name" original="Equipment activity summarized">Geräteaktivität zusammengefasst</value>
+  <value column="Description" original="Equipment activity summarized">Geräteaktivität zusammengefasst</value>
  </row>
- <row id="216" trl="N">
-  <value column="Name" original="Net cash from Investment activity">Net cash from Investment activity</value>
-  <value column="Description" original="Net cash from Investment activity">Net cash from Investment activity</value>
+ <row id="216" trl="Y">
+  <value column="Name" original="Net cash from Investment activity">Netto-Cashflow aus Investitionstätigkeit</value>
+  <value column="Description" original="Net cash from Investment activity">Netto-Cashflow aus Investitionstätigkeit</value>
  </row>
- <row id="218" trl="N">
-  <value column="Name" original="Loss on sale of fixed asset">Loss on sale of fixed asset</value>
-  <value column="Description" original="Loss on sale of fixed asset">Loss on sale of fixed asset</value>
+ <row id="218" trl="Y">
+  <value column="Name" original="Loss on sale of fixed asset">Verlust aus Anlagenveräußerung</value>
+  <value column="Description" original="Loss on sale of fixed asset">Verlust aus Anlagenveräußerung</value>
  </row>
- <row id="219" trl="N">
-  <value column="Name" original="Gain in sale of fixed asset">Gain in sale of fixed asset</value>
-  <value column="Description" original="Gain in sale of fixed asset">Gain in sale of fixed asset</value>
+ <row id="219" trl="Y">
+  <value column="Name" original="Gain in sale of fixed asset">Gewinn aus Anlagenveräußerung</value>
+  <value column="Description" original="Gain in sale of fixed asset">Gewinn aus Anlagenveräußerung</value>
  </row>
- <row id="220" trl="N">
-  <value column="Name" original="Net gain on sale of fixed assets">Net gain on sale of fixed assets</value>
-  <value column="Description" original="Net gain  on sale of fixed assets">Net gain  on sale of fixed assets</value>
+ <row id="220" trl="Y">
+  <value column="Name" original="Net gain on sale of fixed assets">Nettogewinn Anlagenveräußerung</value>
+  <value column="Description" original="Net gain  on sale of fixed assets">Nettogewinn aus Anlagenveräußerung</value>
  </row>
- <row id="221" trl="N">
-  <value column="Name" original="Accum. Depreciation summarized">Accum. Depreciation summarized</value>
-  <value column="Description" original="Accum. Depreciation summarized">Accum. Depreciation summarized</value>
+ <row id="221" trl="Y">
+  <value column="Name" original="Accum. Depreciation summarized">Kum. Abschreibungen zusammengefasst</value>
+  <value column="Description" original="Accum. Depreciation summarized">Kum. Abschreibungen zusammengefasst</value>
  </row>
- <row id="222" trl="N">
-  <value column="Name" original="Accum. Depreciation summarized for Investments">Accum. Depreciation summarized for Investments</value>
-  <value column="Description" original="Accum. Depreciation summarized for Investments">Accum. Depreciation summarized for Investments</value>
+ <row id="222" trl="Y">
+  <value column="Name" original="Accum. Depreciation summarized for Investments">Kum. Abschreibungen für Kapitalanlagen</value>
+  <value column="Description" original="Accum. Depreciation summarized for Investments">Kum. Abschreibungen für Kapitalanlagen</value>
  </row>
- <row id="223" trl="N">
-  <value column="Name" original="Common Stock summarized">Common Stock summarized</value>
-  <value column="Description" original="Common Stock summarized">Common Stock summarized</value>
+ <row id="223" trl="Y">
+  <value column="Name" original="Common Stock summarized">Stammkapital zusammengefasst</value>
+  <value column="Description" original="Common Stock summarized">Stammkapital zusammengefasst</value>
  </row>
- <row id="224" trl="N">
-  <value column="Name" original="Cash Dividends summarized">Cash Dividends summarized</value>
-  <value column="Description" original="Cash Dividends summarized">Cash Dividends summarized</value>
+ <row id="224" trl="Y">
+  <value column="Name" original="Cash Dividends summarized">Bardividenden zusammengefasst</value>
+  <value column="Description" original="Cash Dividends summarized">Bardividenden zusammengefasst</value>
  </row>
- <row id="225" trl="N">
-  <value column="Name" original="Net cash from financing activity">Net cash from financing activity</value>
-  <value column="Description" original="Net cash from financing activity">Net cash from financing activity</value>
+ <row id="225" trl="Y">
+  <value column="Name" original="Net cash from financing activity">Netto-Cashflow aus Finanzierungstätigkeit</value>
+  <value column="Description" original="Net cash from financing activity">Netto-Cashflow aus Finanzierungstätigkeit</value>
  </row>
- <row id="226" trl="N">
-  <value column="Name" original="Cash flow from investing and financing activity">Cash flow from investing and financing activity</value>
-  <value column="Description" original="Cash flow from investing and financing activity">Cash flow from investing and financing activity</value>
+ <row id="226" trl="Y">
+  <value column="Name" original="Cash flow from investing and financing activity">Cashflow aus Investitions- und Finanzierungstätigkeit</value>
+  <value column="Description" original="Cash flow from investing and financing activity">Cashflow aus Investitions- und Finanzierungstätigkeit</value>
  </row>
- <row id="227" trl="N">
-  <value column="Name" original="Net  calculated change in cash">Net  calculated change in cash</value>
-  <value column="Description" original="Net calculated change in cash">Net calculated change in cash</value>
+ <row id="227" trl="Y">
+  <value column="Name" original="Net  calculated change in cash">Netto berechnete Kassenveränderung</value>
+  <value column="Description" original="Net calculated change in cash">Netto berechnete Kassenveränderung</value>
  </row>
- <row id="230" trl="N">
-  <value column="Name" original="Cash summarized">Cash summarized</value>
-  <value column="Description" original="Cash summarized">Cash summarized</value>
+ <row id="230" trl="Y">
+  <value column="Name" original="Cash summarized">Kasse zusammengefasst</value>
+  <value column="Description" original="Cash summarized">Kasse zusammengefasst</value>
  </row>
- <row id="231" trl="N">
-  <value column="Name" original="Amoritization summarized">Amoritization summarized</value>
-  <value column="Description" original="Amoritization summarized">Amoritization summarized</value>
+ <row id="231" trl="Y">
+  <value column="Name" original="Amoritization summarized">Amortisierung zusammengefasst</value>
+  <value column="Description" original="Amoritization summarized">Amortisierung zusammengefasst</value>
  </row>
- <row id="232" trl="N">
-  <value column="Name" original="Uninsured Casualty Loss ">Uninsured Casualty Loss </value>
-  <value column="Description" original="Uninsured Casualty Loss">Uninsured Casualty Loss</value>
+ <row id="232" trl="Y">
+  <value column="Name" original="Uninsured Casualty Loss ">Nicht versicherter Sachschaden</value>
+  <value column="Description" original="Uninsured Casualty Loss">Nicht versicherter Sachschaden</value>
  </row>
- <row id="233" trl="N">
-  <value column="Name" original="Unrealized Loss">Unrealized Loss</value>
-  <value column="Description" original="Unrealized Loss">Unrealized Loss</value>
+ <row id="233" trl="Y">
+  <value column="Name" original="Unrealized Loss">Unrealisierter Verlust</value>
+  <value column="Description" original="Unrealized Loss">Unrealisierter Verlust</value>
  </row>
- <row id="234" trl="N">
-  <value column="Name" original="Capital Loss">Capital Loss</value>
-  <value column="Description" original="Capital Loss">Capital Loss</value>
+ <row id="234" trl="Y">
+  <value column="Name" original="Capital Loss">Kapitalverlust</value>
+  <value column="Description" original="Capital Loss">Kapitalverlust</value>
  </row>
- <row id="235" trl="N">
-  <value column="Name" original="Unrealized Gain">Unrealized Gain</value>
-  <value column="Description" original="Unrealized Gain">Unrealized Gain</value>
+ <row id="235" trl="Y">
+  <value column="Name" original="Unrealized Gain">Unrealisierter Gewinn</value>
+  <value column="Description" original="Unrealized Gain">Unrealisierter Gewinn</value>
  </row>
- <row id="236" trl="N">
-  <value column="Name" original="Fixed Asset Sale Gain">Fixed Asset Sale Gain</value>
-  <value column="Description" original="Fixed Asset Sale Gain">Fixed Asset Sale Gain</value>
+ <row id="236" trl="Y">
+  <value column="Name" original="Fixed Asset Sale Gain">Gewinn aus Anlagenverkauf</value>
+  <value column="Description" original="Fixed Asset Sale Gain">Gewinn aus Anlagenverkauf</value>
  </row>
- <row id="237" trl="N">
-  <value column="Name" original="Currency Balancing summarized">Currency Balancing summarized</value>
-  <value column="Description" original="Currency Balancing summarized">Currency Balancing summarized</value>
+ <row id="237" trl="Y">
+  <value column="Name" original="Currency Balancing summarized">Währungsausgleich zusammengefasst</value>
+  <value column="Description" original="Currency Balancing summarized">Währungsausgleich zusammengefasst</value>
  </row>
- <row id="238" trl="N">
-  <value column="Name" original="Sub total asset changes">Sub total asset changes</value>
-  <value column="Description" original="Sub total asset changes">Sub total asset changes</value>
+ <row id="238" trl="Y">
+  <value column="Name" original="Sub total asset changes">Zwischensumme Vermögensveränderungen</value>
+  <value column="Description" original="Sub total asset changes">Zwischensumme Vermögensveränderungen</value>
  </row>
- <row id="239" trl="N">
-  <value column="Name" original="Change in Deposits">Change in Deposits</value>
-  <value column="Description" original="Change in Deposits">Change in Deposits</value>
+ <row id="239" trl="Y">
+  <value column="Name" original="Change in Deposits">Veränderung der Kautionen</value>
+  <value column="Description" original="Change in Deposits">Veränderung der Kautionen</value>
  </row>
- <row id="240" trl="N">
-  <value column="Name" original="Unrealized Gain summarized for total cash flow">Unrealized Gain summarized for total cash flow</value>
-  <value column="Description" original="Unrealized Gain summarized for total cash flow">Unrealized Gain summarized for total cash flow</value>
+ <row id="240" trl="Y">
+  <value column="Name" original="Unrealized Gain summarized for total cash flow">Unrealisierter Gewinn für Gesamt-Cashflow</value>
+  <value column="Description" original="Unrealized Gain summarized for total cash flow">Unrealisierter Gewinn für Gesamt-Cashflow</value>
  </row>
- <row id="241" trl="N">
-  <value column="Name" original="Unrealized Losses summarized for total Cash flow">Unrealized Losses summarized for total Cash flow</value>
-  <value column="Description" original="Unrealized Losses summarized for total Cash flow">Unrealized Losses summarized for total Cash flow</value>
+ <row id="241" trl="Y">
+  <value column="Name" original="Unrealized Losses summarized for total Cash flow">Unrealisierte Verluste für Gesamt-Cashflow</value>
+  <value column="Description" original="Unrealized Losses summarized for total Cash flow">Unrealisierte Verluste für Gesamt-Cashflow</value>
  </row>
- <row id="242" trl="N">
-  <value column="Name" original="Currency Balancing summarized for total Cash flow">Currency Balancing summarized for total Cash flow</value>
-  <value column="Description" original="Unrealized Balancing summarized for total Cash flow">Unrealized Balancing summarized for total Cash flow</value>
+ <row id="242" trl="Y">
+  <value column="Name" original="Currency Balancing summarized for total Cash flow">Währungsausgleich für Gesamt-Cashflow</value>
+  <value column="Description" original="Unrealized Balancing summarized for total Cash flow">Unrealisierter Ausgleich für Gesamt-Cashflow</value>
  </row>
- <row id="243" trl="N">
-  <value column="Name" original="Net total effect of change in Direct Exchange rate">Net total effect of change in Direct Exchange rate</value>
-  <value column="Description" original="Net total effect of change in Direct Exchange rate">Net total effect of change in Direct Exchange rate</value>
+ <row id="243" trl="Y">
+  <value column="Name" original="Net total effect of change in Direct Exchange rate">Nettoeffekt Wechselkursveränderung</value>
+  <value column="Description" original="Net total effect of change in Direct Exchange rate">Nettoeffekt der direkten Wechselkursveränderung</value>
  </row>
- <row id="244" trl="N">
-  <value column="Name" original="Total Net  Cash Flow">Total Net  Cash Flow</value>
-  <value column="Description" original="Total Net  Cash Flow">Total Net  Cash Flow</value>
+ <row id="244" trl="Y">
+  <value column="Name" original="Total Net  Cash Flow">Gesamt-Netto-Cashflow</value>
+  <value column="Description" original="Total Net  Cash Flow">Gesamt-Netto-Cashflow</value>
  </row>
 </idempiereTrl>

@@ -1512,8 +1512,8 @@
   <value column="Name" original="Average Cost Variance">Abweichung Durchschnittskosten</value>
   <value column="Description" original="Account for Average Cost Variance">Konto für die "Abweichung Durchschnittskosten"</value>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="Landed Cost Clearing">Landed Cost Clearing</value>
-  <value column="Description" original="Account for Landed Cost Clearing">Account for Landed Cost Clearing</value>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Landed Cost Clearing">Frachtnebenkosten-Verrechnungskonto</value>
+  <value column="Description" original="Account for Landed Cost Clearing">Konto für Frachtnebenkosten-Verrechnung</value>
  </row>
 </idempiereTrl>

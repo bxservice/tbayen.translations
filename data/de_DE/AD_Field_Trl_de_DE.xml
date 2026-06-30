@@ -18,10 +18,10 @@
   <value column="Help" original="The Workflow Node indicates a unique step or process in a Workflow.">Ein Workflow-Knoten ist ein einzelner Schritt oder Prozess in einem Workflow.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="3819" trl="N">
-  <value column="Name" original="List of Files">List of Files</value>
-  <value column="Description" original="Where to find the list of files on this attachment">Where to find the list of files on this attachment</value>
-  <value column="Help" original="Where to find the list of files on this attachment, it can be ZIP, XML or in Attachment File">Where to find the list of files on this attachment, it can be ZIP, XML or in Attachment File</value>
+ <row id="3819" trl="Y">
+  <value column="Name" original="List of Files">Dateiliste</value>
+  <value column="Description" original="Where to find the list of files on this attachment">Wo die Dateiliste für diesen Anhang zu finden ist</value>
+  <value column="Help" original="Where to find the list of files on this attachment, it can be ZIP, XML or in Attachment File">Wo die Dateiliste für diesen Anhang zu finden ist; sie kann als ZIP, XML oder in einer Anhangsdatei vorliegen</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="4055" trl="Y">
@@ -30,11 +30,10 @@
   <value column="Help" original="The Tax Amount displays the total tax amount. The tax amount is only used for credit card processing.">Der "Steuerbetrag" zeigt den Gesamtsteuerbetrag an. Der Steuerbetrag wird nur für die Bearbeitung von Kreditkartentransaktionen verwendet.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="4121" trl="N">
-  <value column="Name" original="Account Conversion Date">Account Conversion Date</value>
-  <value column="Description" original="Accounting Conversion Date">Accounting Conversion Date</value>
-  <value column="Help" original="The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.&#10;The Accounting Date on Bank/Cash Statement Line is used for currency conversion and reporting purposes, the accounting is posted using the header date account.">The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.
-The Accounting Date on Bank/Cash Statement Line is used for currency conversion and reporting purposes, the accounting is posted using the header date account.</value>
+ <row id="4121" trl="Y">
+  <value column="Name" original="Account Conversion Date">Buchungsdatum Währungsumrechnung</value>
+  <value column="Description" original="Accounting Conversion Date">Buchungsdatum für die Buchhaltung</value>
+  <value column="Help" original="The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.&#10;The Accounting Date on Bank/Cash Statement Line is used for currency conversion and reporting purposes, the accounting is posted using the header date account.">Das Buchungsdatum gibt das Datum an, das für die Buchungen im Hauptbuch verwendet wird. Es wird auch für Währungsumrechnungen verwendet. Das Buchungsdatum in der Kontoauszugszeile wird für Währungsumrechnungen und Berichtszwecke verwendet; die Buchung erfolgt mit dem Kopfdatum.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="4462" trl="Y">
@@ -49,11 +48,10 @@ The Accounting Date on Bank/Cash Statement Line is used for currency conversion 
   <value column="Help" original="The Acknowledged checkbox indicates if this notice does not need to be retained.">Wurde das Optionsfeld "Bestätigt" aktiviert, kann die Nachricht gelöscht werden.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="4939" trl="N">
-  <value column="Name" original="Over/Under Payment">Over/Under Payment</value>
-  <value column="Description" original="Over-Payment (unallocated) or Under-Payment (partial payment) Amount">Over-Payment (unallocated) or Under-Payment (partial payment) Amount</value>
-  <value column="Help" original="Overpayments (negative) are unallocated amounts and allow you to receive money for more than the particular invoice. &#10;Underpayments (positive) is a partial payment for the invoice. You do not write off the unpaid amount.">Overpayments (negative) are unallocated amounts and allow you to receive money for more than the particular invoice. 
-Underpayments (positive) is a partial payment for the invoice. You do not write off the unpaid amount.</value>
+ <row id="4939" trl="Y">
+  <value column="Name" original="Over/Under Payment">Über-/Unterzahlung</value>
+  <value column="Description" original="Over-Payment (unallocated) or Under-Payment (partial payment) Amount">Betrag der Über- (nicht zugeordnet) oder Unterzahlung (Teilzahlung)</value>
+  <value column="Help" original="Overpayments (negative) are unallocated amounts and allow you to receive money for more than the particular invoice. &#10;Underpayments (positive) is a partial payment for the invoice. You do not write off the unpaid amount.">Überzahlungen (negativ) sind nicht zugeordnete Beträge. Unterzahlungen (positiv) sind Teilzahlungen für die Rechnung.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="5092" trl="Y">
@@ -100,10 +98,10 @@ Falls der Belegtyp des Belegs keine automatische Belegnummernkreis definiert hat
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="10769" trl="N">
-  <value column="Name" original="Schema Type">Schema Type</value>
-  <value column="Description" original="Type of trade schema calculation">Type of trade schema calculation</value>
-  <value column="Help" original="Type of procedure used to calculate the trade schema percentage">Type of procedure used to calculate the trade schema percentage</value>
+ <row id="10769" trl="Y">
+  <value column="Name" original="Schema Type">Schematyp</value>
+  <value column="Description" original="Type of trade schema calculation">Art der Handelsschema-Berechnung</value>
+  <value column="Help" original="Type of procedure used to calculate the trade schema percentage">Art des Verfahrens zur Berechnung des Handelsschema-Prozentsatzes</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="10886" trl="Y">
@@ -112,14 +110,14 @@ Falls der Belegtyp des Belegs keine automatische Belegnummernkreis definiert hat
   <value column="Help" original="If not overwritten, the value of the original account combination is used. If selected, but not specified, the segment is set to null.">Wenn das Segment nicht überschrieben wird, wird der Ursprungswert der Kontenkombination verwendet. Wenn das Segment ausgewählt, aber nicht spezifiziert wurde wird es auf 0 gesetzt.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="11264" trl="N">
-  <value column="Name" original="Column SQL">Column SQL</value>
-  <value column="Description" original="Virtual Column (r/o)">Virtual Column (r/o)</value>
-  <value column="Help" original="You can define virtual columns (not stored in the database). If defined, the Column name is the synonym of the SQL expression defined here. The SQL expression must be valid.&lt;br&gt;&#10;Example: &quot;Updated-Created&quot; would list the age of the entry in days.&lt;br&gt;&#10;It is not recommended to add complex queries in virtual columns as the impact on the database performance can be too expensive.&lt;br&gt;&#10;However, you can use the prefix @SQLFIND= for virtual columns that can be used for queries and reports, they have less impact on the database, but as a field they don't show values.&lt;br&gt;&#10;Additionally, the prefix @SQL= allows to define a virtual UI column, this is calculated on the fly and can use context variables in the query, virtual UI columns are shown in grid just on the current row, they are not searchable, and not shown in reports." xml:space="preserve"><![CDATA[You can define virtual columns (not stored in the database). If defined, the Column name is the synonym of the SQL expression defined here. The SQL expression must be valid.<br>
-Example: "Updated-Created" would list the age of the entry in days.<br>
-It is not recommended to add complex queries in virtual columns as the impact on the database performance can be too expensive.<br>
-However, you can use the prefix @SQLFIND= for virtual columns that can be used for queries and reports, they have less impact on the database, but as a field they don't show values.<br>
-Additionally, the prefix @SQL= allows to define a virtual UI column, this is calculated on the fly and can use context variables in the query, virtual UI columns are shown in grid just on the current row, they are not searchable, and not shown in reports.]]></value>
+ <row id="11264" trl="Y">
+  <value column="Name" original="Column SQL">Spalten-SQL</value>
+  <value column="Description" original="Virtual Column (r/o)">Virtuelle Spalte (schreibgeschützt)</value>
+  <value column="Help" original="You can define virtual columns (not stored in the database). If defined, the Column name is the synonym of the SQL expression defined here. The SQL expression must be valid.&lt;br&gt;&#10;Example: &quot;Updated-Created&quot; would list the age of the entry in days.&lt;br&gt;&#10;It is not recommended to add complex queries in virtual columns as the impact on the database performance can be too expensive.&lt;br&gt;&#10;However, you can use the prefix @SQLFIND= for virtual columns that can be used for queries and reports, they have less impact on the database, but as a field they don't show values.&lt;br&gt;&#10;Additionally, the prefix @SQL= allows to define a virtual UI column, this is calculated on the fly and can use context variables in the query, virtual UI columns are shown in grid just on the current row, they are not searchable, and not shown in reports." xml:space="preserve"><![CDATA[Sie können virtuelle Spalten definieren (nicht in der Datenbank gespeichert). Wenn definiert, ist der Spaltenname ein Synonym für den hier definierten SQL-Ausdruck. Der SQL-Ausdruck muss gültig sein.<br>
+Beispiel: „Updated-Created" würde das Alter des Eintrags in Tagen anzeigen.
+Es wird nicht empfohlen, komplexe Abfragen in virtuellen Spalten hinzuzufügen, da die Auswirkungen auf die Datenbankleistung zu kostspielig sein können.<br>
+Sie können jedoch das Präfix @SQLFIND= für virtuelle Spalten verwenden, die für Abfragen und Berichte genutzt werden können. Diese haben geringere Auswirkungen auf die Datenbank, zeigen jedoch als Feld keine Werte an.<br>
+Darüber hinaus ermöglicht das Präfix @SQL= die Definition einer virtuellen UI-Spalte. Diese wird dynamisch berechnet und kann Kontextvariablen in der Abfrage verwenden. Virtuelle UI-Spalten werden im Raster nur in der aktuellen Zeile angezeigt, sind nicht durchsuchbar und werden nicht in Berichten ausgegeben.]]></value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="11799" trl="Y">
@@ -128,17 +126,17 @@ Additionally, the prefix @SQL= allows to define a virtual UI column, this is cal
   <value column="Help" original="The values of the actual Product Attributes. Product Instance attributes are defined in the actual transactions.">Die Werte eines tatsächlichen Artikelattributs. Die Instanzen der Artikelattribute werden in den tatsächlichen Transaktionen festgelegt.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="12249" trl="N">
-  <value column="Name" original="Validation code">Validation code</value>
-  <value column="Description" original="Validation Code">Validation Code</value>
-  <value column="Help" original="The Validation Code displays the date, time and message of the error.&#10;&#10;You can add advanced SQL queries to your searches by filling this field with @SQL=[WHERE CLAUSE].&#10;Do not include the WHERE statement and use Fully qualified SQL statements. F.e:&#10;&#10;@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@ &#10;&#10;will filter orders by active and where the sales representative is the current user.">The Validation Code displays the date, time and message of the error.
+ <row id="12249" trl="Y">
+  <value column="Name" original="Validation code">Validierungscode</value>
+  <value column="Description" original="Validation Code">Validierungscode</value>
+  <value column="Help" original="The Validation Code displays the date, time and message of the error.&#10;&#10;You can add advanced SQL queries to your searches by filling this field with @SQL=[WHERE CLAUSE].&#10;Do not include the WHERE statement and use Fully qualified SQL statements. F.e:&#10;&#10;@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@ &#10;&#10;will filter orders by active and where the sales representative is the current user.">Der Validierungscode zeigt Datum, Uhrzeit und Meldung des Fehlers an.
 
-You can add advanced SQL queries to your searches by filling this field with @SQL=[WHERE CLAUSE].
-Do not include the WHERE statement and use Fully qualified SQL statements. F.e:
+Sie können erweiterte SQL-Abfragen zu Ihren Suchen hinzufügen, indem Sie dieses Feld mit @SQL=[WHERE-KLAUSEL] befüllen.
+Verwenden Sie nicht das Schlüsselwort WHERE und nutzen Sie vollständig qualifizierte SQL-Anweisungen. Zum Beispiel:
 
-@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@ 
+@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@
 
-will filter orders by active and where the sales representative is the current user.</value>
+filtert Aufträge nach aktiven Einträgen und nach dem aktuellen Benutzer als Vertriebsmitarbeiter.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="12732" trl="Y">
@@ -346,10 +344,10 @@ E-Mail der für das System verantwortlichen Person (im Webshop registriert)</val
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="50166" trl="N">
-  <value column="Name" original="Configured Value">Configured Value</value>
-  <value column="Description" original="Value for the configuration key">Value for the configuration key</value>
-  <value column="Help" original="You can check the valid variables and values at http://wiki.idempiere.org/en/System_Configurator_(Window_ID-50006)">You can check the valid variables and values at http://wiki.idempiere.org/en/System_Configurator_(Window_ID-50006)</value>
+ <row id="50166" trl="Y">
+  <value column="Name" original="Configured Value">Konfigurierter Wert</value>
+  <value column="Description" original="Value for the configuration key">Wert für den Konfigurationsschlüssel</value>
+  <value column="Help" original="You can check the valid variables and values at http://wiki.idempiere.org/en/System_Configurator_(Window_ID-50006)">Die gültigen Variablen und Werte finden Sie unter http://wiki.idempiere.org/en/System_Configurator_(Window_ID-50006)</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="53360" trl="Y">
@@ -636,10 +634,10 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="56710" trl="N">
-  <value column="Name" original="Query">Query</value>
-  <value column="Description" original="SQL query or where clause">SQL query or where clause</value>
-  <value column="Help" original="SELECT SQL query for Query search type, where clause (without the WHERE keyword) for other search type">SELECT SQL query for Query search type, where clause (without the WHERE keyword) for other search type</value>
+ <row id="56710" trl="Y">
+  <value column="Name" original="Query">Abfrage</value>
+  <value column="Description" original="SQL query or where clause">SQL-Abfrage oder WHERE-Klausel</value>
+  <value column="Help" original="SELECT SQL query for Query search type, where clause (without the WHERE keyword) for other search type">SELECT-SQL-Abfrage für den Abfragetyp, WHERE-Klausel (ohne WHERE) für andere Suchtypen</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="57331" trl="Y">
@@ -792,8 +790,8 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original="Actual Date/Time of Shipment (pick up)">Tatsächliches Lieferdatum (Kommissionierung).</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="201255" trl="N">
-  <value column="Name" original="Duties Shipper Account (For FedEx only)">Duties Shipper Account (For FedEx only)</value>
+ <row id="201255" trl="Y">
+  <value column="Name" original="Duties Shipper Account (For FedEx only)">Zollempfänger-Konto (nur für FedEx)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -804,14 +802,14 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original="The Partner address indicates the location of a Business Partner">Kennzeichnet den Standort des Geschäftspartners</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="201262" trl="N">
-  <value column="Name" original="Future Day Shipment (For FedEx only)">Future Day Shipment (For FedEx only)</value>
+ <row id="201262" trl="Y">
+  <value column="Name" original="Future Day Shipment (For FedEx only)">Zukünftiger Versandtag (nur für FedEx)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="201264" trl="N">
-  <value column="Name" original="Home Delivery Premium Type (For FedEx only)">Home Delivery Premium Type (For FedEx only)</value>
+ <row id="201264" trl="Y">
+  <value column="Name" original="Home Delivery Premium Type (For FedEx only)">Home Delivery Premium-Typ (nur für FedEx)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -834,8 +832,8 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="201268" trl="N">
-  <value column="Name" original="Dot Hazard Class or Division (For FedEx only)">Dot Hazard Class or Division (For FedEx only)</value>
+ <row id="201268" trl="Y">
+  <value column="Name" original="Dot Hazard Class or Division (For FedEx only)">DOT-Gefahrgutklasse oder -abteilung (nur für FedEx)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -846,8 +844,8 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="201270" trl="N">
-  <value column="Name" original="Accessible (For FedEx only)">Accessible (For FedEx only)</value>
+ <row id="201270" trl="Y">
+  <value column="Name" original="Accessible (For FedEx only)">Zugänglich (nur für FedEx)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -864,20 +862,20 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="201273" trl="N">
-  <value column="Name" original="Hold At Location (For FedEx only)">Hold At Location (For FedEx only)</value>
+ <row id="201273" trl="Y">
+  <value column="Name" original="Hold At Location (For FedEx only)">Einlagern am Standort (nur für FedEx)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="201274" trl="N">
-  <value column="Name" original="Hold Address (For FedEx only)">Hold Address (For FedEx only)</value>
+ <row id="201274" trl="Y">
+  <value column="Name" original="Hold Address (For FedEx only)">Einlageradresse (nur für FedEx)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="201354" trl="N">
-  <value column="Name" original="Added Handling (For UPS only)">Added Handling (For UPS only)</value>
+ <row id="201354" trl="Y">
+  <value column="Name" original="Added Handling (For UPS only)">Sonderbehandlung (nur für UPS)</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -894,26 +892,26 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="202210" trl="N">
-  <value column="Name" original="Index Validate">Index Validate</value>
+ <row id="202210" trl="Y">
+  <value column="Name" original="Index Validate">Index validieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="202234" trl="N">
-  <value column="Name" original="Sql WHERE">Sql WHERE</value>
-  <value column="Description" original="Fully qualified SQL WHERE clause">Fully qualified SQL WHERE clause</value>
-  <value column="Help" original="The Where Clause indicates the SQL WHERE clause to use for record selection. It must include the WHERE itself. Fully qualified means &quot;tablename.columnname&quot;.">The Where Clause indicates the SQL WHERE clause to use for record selection. It must include the WHERE itself. Fully qualified means "tablename.columnname".</value>
+ <row id="202234" trl="Y">
+  <value column="Name" original="Sql WHERE">SQL WHERE</value>
+  <value column="Description" original="Fully qualified SQL WHERE clause">Vollständig qualifizierte SQL-WHERE-Klausel</value>
+  <value column="Help" original="The Where Clause indicates the SQL WHERE clause to use for record selection. It must include the WHERE itself. Fully qualified means &quot;tablename.columnname&quot;.">Die WHERE-Klausel gibt die SQL-WHERE-Klausel für die Datensatzauswahl an. Vollständig qualifiziert bedeutet "tabellenname.spaltenname".</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="202235" trl="N">
-  <value column="Name" original="Sql FROM">Sql FROM</value>
-  <value column="Description" original="SQL FROM clause">SQL FROM clause</value>
-  <value column="Help" original="The Select Clause indicates the SQL FROM clause to use for selecting the record for a measure calculation. It can have JOIN clauses. It must include the FROM itself.">The Select Clause indicates the SQL FROM clause to use for selecting the record for a measure calculation. It can have JOIN clauses. It must include the FROM itself.</value>
+ <row id="202235" trl="Y">
+  <value column="Name" original="Sql FROM">SQL FROM</value>
+  <value column="Description" original="SQL FROM clause">SQL-FROM-Klausel</value>
+  <value column="Help" original="The Select Clause indicates the SQL FROM clause to use for selecting the record for a measure calculation. It can have JOIN clauses. It must include the FROM itself.">Die SQL-FROM-Klausel für die Datensatzauswahl. Kann JOIN-Klauseln enthalten und muss FROM selbst enthalten.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="202252" trl="N">
-  <value column="Name" original="View Validate">View Validate</value>
+ <row id="202252" trl="Y">
+  <value column="Name" original="View Validate">Ansicht validieren</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
@@ -930,10 +928,10 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original="The Purchase Order Line is a unique identifier for a line in an order.">Die Bestellposition ist eine eindeutiger Identifikation für eine Position in einem Auftrag.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="203108" trl="N">
-  <value column="Name" original="ViewID Column">ViewID Column</value>
-  <value column="Description" original="Name of unique column in a view. value of this column will save to t_selection table">Name of unique column in a view. value of this column will save to t_selection table</value>
-  <value column="Help" original="Column to resolve issue in https://idempiere.atlassian.net/browse/IDEMPIERE-1970">Column to resolve issue in https://idempiere.atlassian.net/browse/IDEMPIERE-1970</value>
+ <row id="203108" trl="Y">
+  <value column="Name" original="ViewID Column">ViewID-Spalte</value>
+  <value column="Description" original="Name of unique column in a view. value of this column will save to t_selection table">Name der eindeutigen Spalte in einer Ansicht. Wert wird in t_selection gespeichert</value>
+  <value column="Help" original="Column to resolve issue in https://idempiere.atlassian.net/browse/IDEMPIERE-1970">Spalte zur Behebung des Problems in https://idempiere.atlassian.net/browse/IDEMPIERE-1970</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="203325" trl="Y">
@@ -960,10 +958,10 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="205705" trl="N">
-  <value column="Name" original="To Business Partner ">To Business Partner </value>
-  <value column="Description" original="Identifies a Business Partner">Identifies a Business Partner</value>
-  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
+ <row id="205705" trl="Y">
+  <value column="Name" original="To Business Partner ">An Geschäftspartner</value>
+  <value column="Description" original="Identifies a Business Partner">Identifiziert einen Geschäftspartner</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Ein Geschäftspartner ist jede Person, mit der Sie Geschäfte machen (Lieferant, Kunde, Mitarbeiter oder Vertriebsmitarbeiter).</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="205898" trl="Y">
@@ -972,17 +970,10 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
   <value column="Help" original="The Display Search Key checkbox indicates if the Search Key will display in the tree before the Name">Wenn angehakt, wird der Suchschlüssel in der Baumanzeige vor dem Namen angezeigt</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="206305" trl="N">
-  <value column="Name" original="Validation code">Validation code</value>
-  <value column="Description" original="Validation Code">Validation Code</value>
-  <value column="Help" original="The Validation Code displays the date, time and message of the error.&#10;&#10;You can add advanced SQL queries to your searches by filling this field with @SQL=[WHERE CLAUSE].&#10;Do not include the WHERE statement and use Fully qualified SQL statements. F.e:&#10;&#10;@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@ &#10;&#10;will filter orders by active and where the sales representative is the current user.">The Validation Code displays the date, time and message of the error.
-
-You can add advanced SQL queries to your searches by filling this field with @SQL=[WHERE CLAUSE].
-Do not include the WHERE statement and use Fully qualified SQL statements. F.e:
-
-@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@ 
-
-will filter orders by active and where the sales representative is the current user.</value>
+ <row id="206305" trl="Y">
+  <value column="Name" original="Validation code">Validierungscode</value>
+  <value column="Description" original="Validation Code">Validierungscode</value>
+  <value column="Help" original="The Validation Code displays the date, time and message of the error.&#10;&#10;You can add advanced SQL queries to your searches by filling this field with @SQL=[WHERE CLAUSE].&#10;Do not include the WHERE statement and use Fully qualified SQL statements. F.e:&#10;&#10;@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@ &#10;&#10;will filter orders by active and where the sales representative is the current user.">Der Validierungscode zeigt Datum, Uhrzeit und Fehlermeldung an. Sie können erweiterte SQL-Abfragen hinzufügen mit @SQL=[WHERE-KLAUSEL].</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="206515" trl="Y">
@@ -1009,35 +1000,35 @@ will filter orders by active and where the sales representative is the current u
   <value column="Help" original="If the Invoice Contact is selected, the contact is used to send notifications about invoices to a customer or a vendor.">Wenn ein Kontakt als Rechnungskontakt gekennzeichnet ist, wird dieser Kontakt für die Zusendung von Rechnungen ausgewählt.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="207695" trl="N">
-  <value column="Name" original="DB Table Name">DB Table Name</value>
+ <row id="207695" trl="Y">
+  <value column="Name" original="DB Table Name">DB-Tabellenname</value>
   <value column="Description" original=""/>
-  <value column="Help" original="You can use % or a comma separated list of table names (case sensitive)&#10;Using '@TableName@' will change to current table when executing the process">You can use % or a comma separated list of table names (case sensitive)
-Using '@TableName@' will change to current table when executing the process</value>
+  <value column="Help" original="You can use % or a comma separated list of table names (case sensitive)&#10;Using '@TableName@' will change to current table when executing the process">Sie können % oder eine kommagetrennte Liste von Tabellennamen verwenden (Groß-/Kleinschreibung beachten).
+Die Verwendung von '@TableName@' wechselt zur aktuellen Tabelle bei der Ausführung des Prozesses.</value>
   <value column="Placeholder" original=""/>
  </row>
- <row id="207825" trl="N">
-  <value column="Name" original="Country Group">Country Group</value>
-  <value column="Description" original=""/>
-  <value column="Help" original=""/>
-  <value column="Placeholder" original=""/>
- </row>
- <row id="207826" trl="N">
-  <value column="Name" original="To">To</value>
+ <row id="207825" trl="Y">
+  <value column="Name" original="Country Group">Ländergruppe</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="208363" trl="N">
-  <value column="Name" original="SQL Filter">SQL Filter</value>
-  <value column="Description" original="SQL Filter">SQL Filter</value>
-  <value column="Help" original="Enter a valid WHERE SQL fully qualified clause.  The WHERE is not needed, the code will be surrounded within parenthesis before applied">Enter a valid WHERE SQL fully qualified clause.  The WHERE is not needed, the code will be surrounded within parenthesis before applied</value>
+ <row id="207826" trl="Y">
+  <value column="Name" original="To">Bis</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
  </row>
- <row id="208482" trl="N">
-  <value column="Name" original="Attribute Set Instance">Attribute Set Instance</value>
-  <value column="Description" original="Attribute Set Instance">Attribute Set Instance</value>
-  <value column="Help" original="The values of the actual Attribute Instances.">The values of the actual Attribute Instances.</value>
+ <row id="208363" trl="Y">
+  <value column="Name" original="SQL Filter">SQL-Filter</value>
+  <value column="Description" original="SQL Filter">SQL-Filter</value>
+  <value column="Help" original="Enter a valid WHERE SQL fully qualified clause.  The WHERE is not needed, the code will be surrounded within parenthesis before applied">Geben Sie eine gültige vollständig qualifizierte SQL-WHERE-Klausel ein. WHERE ist nicht nötig; der Code wird in Klammern eingeschlossen.</value>
+  <value column="Placeholder" original=""/>
+ </row>
+ <row id="208482" trl="Y">
+  <value column="Name" original="Attribute Set Instance">Attributsatz-Instanz</value>
+  <value column="Description" original="Attribute Set Instance">Attributsatz-Instanz</value>
+  <value column="Help" original="The values of the actual Attribute Instances.">Die Werte der tatsächlichen Attributinstanzen.</value>
   <value column="Placeholder" original=""/>
  </row>
 </idempiereTrl>

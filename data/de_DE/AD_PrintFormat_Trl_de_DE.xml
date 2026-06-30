@@ -1,462 +1,462 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--iDempiere(r) Release 14_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="de_DE" table="AD_PrintFormat">
- <row id="100" trl="N">
-  <value column="Name" original="Order_Header  ** TEMPLATE **">Order_Header  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Order Header">Standard Order Header</value>
+ <row id="100" trl="Y">
+  <value column="Name" original="Order_Header  ** TEMPLATE **">Auftragsformular ** VORLAGE **</value>
+  <value column="Description" original="Standard Order Header">Standard-Auftragskopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="101" trl="N">
-  <value column="Name" original="Order_LineTax  ** TEMPLATE **">Order_LineTax  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve"><![CDATA[Standard Order Line&Tax]]></value>
+ <row id="101" trl="Y">
+  <value column="Name" original="Order_LineTax  ** TEMPLATE **">Auftragspositionen/Steuer ** VORLAGE **</value>
+  <value column="Description" original="Standard Order Line&amp;Tax">Standard-Auftragsposition/-steuer</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="102" trl="N">
-  <value column="Name" original="Invoice_Header  ** TEMPLATE **">Invoice_Header  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Invoice Header">Standard Invoice Header</value>
+ <row id="102" trl="Y">
+  <value column="Name" original="Invoice_Header  ** TEMPLATE **">Rechnungsformular ** VORLAGE **</value>
+  <value column="Description" original="Standard Invoice Header">Standard-Rechnungskopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="103" trl="N">
-  <value column="Name" original="Invoice_LineTax  ** TEMPLATE **">Invoice_LineTax  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve"><![CDATA[Standard Invoice Line&Tax Lines]]></value>
+ <row id="103" trl="Y">
+  <value column="Name" original="Invoice_LineTax  ** TEMPLATE **">Rechnungspositionen/Steuer ** VORLAGE **</value>
+  <value column="Description" original="Standard Invoice Line&amp;Tax Lines">Standard-Rechnungsposition/-steuer</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="104" trl="N">
-  <value column="Name" original="InOut_Header ** TEMPLATE **">InOut_Header ** TEMPLATE **</value>
-  <value column="Description" original="Standard Shipment Header">Standard Shipment Header</value>
+ <row id="104" trl="Y">
+  <value column="Name" original="InOut_Header ** TEMPLATE **">Lieferscheinkopf ** VORLAGE **</value>
+  <value column="Description" original="Standard Shipment Header">Standard-Lieferscheinkopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="105" trl="N">
-  <value column="Name" original="InOut_Line  ** TEMPLATE **">InOut_Line  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Shipment Lines">Standard Shipment Lines</value>
+ <row id="105" trl="Y">
+  <value column="Name" original="InOut_Line  ** TEMPLATE **">Lieferscheinpositionen ** VORLAGE **</value>
+  <value column="Description" original="Standard Shipment Lines">Standard-Lieferscheinpositionen</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="106" trl="N">
-  <value column="Name" original="PaySelection_Check  ** TEMPLATE **">PaySelection_Check  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Check with Remittance Info">Standard Check with Remittance Info</value>
+ <row id="106" trl="Y">
+  <value column="Name" original="PaySelection_Check  ** TEMPLATE **">Scheck ** VORLAGE **</value>
+  <value column="Description" original="Standard Check with Remittance Info">Standard-Scheck mit Überweisungsinfo</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="107" trl="N">
-  <value column="Name" original="PaySelection_Remittance_Lines  ** TEMPLATE **">PaySelection_Remittance_Lines  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Check/Remittance Lines">Standard Check/Remittance Lines</value>
+ <row id="107" trl="Y">
+  <value column="Name" original="PaySelection_Remittance_Lines  ** TEMPLATE **">Überweisungspositionen ** VORLAGE **</value>
+  <value column="Description" original="Standard Check/Remittance Lines">Standard-Scheck-/Überweisungspositionen</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="108" trl="N">
-  <value column="Name" original="PaySelection_Remittance  ** TEMPLATE **">PaySelection_Remittance  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Remittance Header">Standard Remittance Header</value>
+ <row id="108" trl="Y">
+  <value column="Name" original="PaySelection_Remittance  ** TEMPLATE **">Überweisungskopf ** VORLAGE **</value>
+  <value column="Description" original="Standard Remittance Header">Standard-Überweisungskopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="118" trl="N">
-  <value column="Name" original="Order Header">Order Header</value>
-  <value column="Description" original="Standard Order Header">Standard Order Header</value>
+ <row id="118" trl="Y">
+  <value column="Name" original="Order Header">Auftragskopf</value>
+  <value column="Description" original="Standard Order Header">Standard-Auftragskopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="119" trl="N">
-  <value column="Name" original="Order LineTax">Order LineTax</value>
-  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve"><![CDATA[Standard Order Line&Tax]]></value>
+ <row id="119" trl="Y">
+  <value column="Name" original="Order LineTax">Auftragspositionen/Steuer</value>
+  <value column="Description" original="Standard Order Line&amp;Tax">Standard-Auftragsposition/-steuer</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="120" trl="N">
-  <value column="Name" original="Invoice Header">Invoice Header</value>
-  <value column="Description" original="Standard Invoice Header">Standard Invoice Header</value>
+ <row id="120" trl="Y">
+  <value column="Name" original="Invoice Header">Rechnungskopf</value>
+  <value column="Description" original="Standard Invoice Header">Standard-Rechnungskopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="121" trl="N">
-  <value column="Name" original="Invoice LineTax">Invoice LineTax</value>
-  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve"><![CDATA[Standard Invoice Line&Tax Lines]]></value>
+ <row id="121" trl="Y">
+  <value column="Name" original="Invoice LineTax">Rechnungspositionen/Steuer</value>
+  <value column="Description" original="Standard Invoice Line&amp;Tax Lines">Standard-Rechnungsposition/-steuer</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="122" trl="N">
-  <value column="Name" original="Shipment Header">Shipment Header</value>
-  <value column="Description" original="Standard Shipment Header">Standard Shipment Header</value>
+ <row id="122" trl="Y">
+  <value column="Name" original="Shipment Header">Lieferscheinkopf</value>
+  <value column="Description" original="Standard Shipment Header">Standard-Lieferscheinkopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="123" trl="N">
-  <value column="Name" original="Shipment Line">Shipment Line</value>
-  <value column="Description" original="Standard Shipment Lines">Standard Shipment Lines</value>
+ <row id="123" trl="Y">
+  <value column="Name" original="Shipment Line">Lieferscheinpositionen</value>
+  <value column="Description" original="Standard Shipment Lines">Standard-Lieferscheinpositionen</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="124" trl="N">
-  <value column="Name" original="Check">Check</value>
-  <value column="Description" original="Standard Check with Remittance Info">Standard Check with Remittance Info</value>
+ <row id="124" trl="Y">
+  <value column="Name" original="Check">Scheck</value>
+  <value column="Description" original="Standard Check with Remittance Info">Standard-Scheck mit Überweisungsinfo</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="125" trl="N">
-  <value column="Name" original="Remittance Lines">Remittance Lines</value>
-  <value column="Description" original="Standard Check/Remittance Lines">Standard Check/Remittance Lines</value>
+ <row id="125" trl="Y">
+  <value column="Name" original="Remittance Lines">Überweisungspositionen</value>
+  <value column="Description" original="Standard Check/Remittance Lines">Standard-Scheck-/Überweisungspositionen</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="126" trl="N">
-  <value column="Name" original="Remittance">Remittance</value>
-  <value column="Description" original="Standard Remittance Header">Standard Remittance Header</value>
+ <row id="126" trl="Y">
+  <value column="Name" original="Remittance">Überweisung</value>
+  <value column="Description" original="Standard Remittance Header">Standard-Überweisungskopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="134" trl="N">
-  <value column="Name" original="Statement of Accounts">Statement of Accounts</value>
-  <value column="Description" original="Statement of Accounts">Statement of Accounts</value>
+ <row id="134" trl="Y">
+  <value column="Name" original="Statement of Accounts">Kontoauszug</value>
+  <value column="Description" original="Statement of Accounts">Kontoauszug</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="139" trl="N">
-  <value column="Name" original="Project_Header ** TEMPLATE **">Project_Header ** TEMPLATE **</value>
-  <value column="Description" original="Standard Project">Standard Project</value>
+ <row id="139" trl="Y">
+  <value column="Name" original="Project_Header ** TEMPLATE **">Projektkopf ** VORLAGE **</value>
+  <value column="Description" original="Standard Project">Standardprojekt</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="140" trl="N">
-  <value column="Name" original="Project_Details ** TEMPLATE **">Project_Details ** TEMPLATE **</value>
-  <value column="Description" original="Standard Project Detail">Standard Project Detail</value>
+ <row id="140" trl="Y">
+  <value column="Name" original="Project_Details ** TEMPLATE **">Projektdetails ** VORLAGE **</value>
+  <value column="Description" original="Standard Project Detail">Standard-Projektdetail</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="142" trl="N">
-  <value column="Name" original="Test Report">Test Report</value>
+ <row id="142" trl="Y">
+  <value column="Name" original="Test Report">Testbericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="143" trl="N">
-  <value column="Name" original="Test Form">Test Form</value>
+ <row id="143" trl="Y">
+  <value column="Name" original="Test Form">Testformular</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="148" trl="N">
-  <value column="Name" original="RfQResponseLine ** TEMPLATE **">RfQResponseLine ** TEMPLATE **</value>
-  <value column="Description" original="Standard RfQ Response Line">Standard RfQ Response Line</value>
+ <row id="148" trl="Y">
+  <value column="Name" original="RfQResponseLine ** TEMPLATE **">Angebotsanfrage-Antwortposition ** VORLAGE **</value>
+  <value column="Description" original="Standard RfQ Response Line">Standard-Angebotsanfrage-Antwortposition</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="149" trl="N">
-  <value column="Name" original="RfQResponse ** TEMPLATE **">RfQResponse ** TEMPLATE **</value>
-  <value column="Description" original="Standard RfQ Response">Standard RfQ Response</value>
+ <row id="149" trl="Y">
+  <value column="Name" original="RfQResponse ** TEMPLATE **">Angebotsanfrage-Antwort ** VORLAGE **</value>
+  <value column="Description" original="Standard RfQ Response">Standard-Angebotsanfrage-Antwort</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="151" trl="N">
-  <value column="Name" original="Dunning_Header ** TEMPLATE **">Dunning_Header ** TEMPLATE **</value>
-  <value column="Description" original="Standard Dunning Letter">Standard Dunning Letter</value>
+ <row id="151" trl="Y">
+  <value column="Name" original="Dunning_Header ** TEMPLATE **">Mahnkopf ** VORLAGE **</value>
+  <value column="Description" original="Standard Dunning Letter">Standard-Mahnschreiben</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="152" trl="N">
-  <value column="Name" original="Dunning_Line ** TEMPLATE **">Dunning_Line ** TEMPLATE **</value>
-  <value column="Description" original="Standard Dunning Letter Lines">Standard Dunning Letter Lines</value>
+ <row id="152" trl="Y">
+  <value column="Name" original="Dunning_Line ** TEMPLATE **">Mahnpositionen ** VORLAGE **</value>
+  <value column="Description" original="Standard Dunning Letter Lines">Standard-Mahnschreiben-Positionen</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="153" trl="N">
-  <value column="Name" original="Inventory Move Hdr (Example)">Inventory Move Hdr (Example)</value>
-  <value column="Description" original="Example">Example</value>
+ <row id="153" trl="Y">
+  <value column="Name" original="Inventory Move Hdr (Example)">Lagerbewegungskopf (Beispiel)</value>
+  <value column="Description" original="Example">Beispiel</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="154" trl="N">
-  <value column="Name" original="Inventory Move Line (Example)">Inventory Move Line (Example)</value>
-  <value column="Description" original="Example">Example</value>
+ <row id="154" trl="Y">
+  <value column="Name" original="Inventory Move Line (Example)">Lagerbewegungspositionen (Beispiel)</value>
+  <value column="Description" original="Example">Beispiel</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="155" trl="N">
-  <value column="Name" original="Inventory Physical Line (Example)">Inventory Physical Line (Example)</value>
-  <value column="Description" original="Example">Example</value>
+ <row id="155" trl="Y">
+  <value column="Name" original="Inventory Physical Line (Example)">Inventurpositionen (Beispiel)</value>
+  <value column="Description" original="Example">Beispiel</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="156" trl="N">
-  <value column="Name" original="Inventory Physical Hdr (Example)">Inventory Physical Hdr (Example)</value>
-  <value column="Description" original="Example">Example</value>
+ <row id="156" trl="Y">
+  <value column="Name" original="Inventory Physical Hdr (Example)">Inventurkopf (Beispiel)</value>
+  <value column="Description" original="Example">Beispiel</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="161" trl="N">
-  <value column="Name" original="Reference List">Reference List</value>
+ <row id="161" trl="Y">
+  <value column="Name" original="Reference List">Referenzliste</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="162" trl="N">
-  <value column="Name" original="Message">Message</value>
+ <row id="162" trl="Y">
+  <value column="Name" original="Message">Nachricht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="163" trl="N">
-  <value column="Name" original="Report Line">Report Line</value>
+ <row id="163" trl="Y">
+  <value column="Name" original="Report Line">Berichtszeile</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="164" trl="N">
-  <value column="Name" original="Report Source">Report Source</value>
+ <row id="164" trl="Y">
+  <value column="Name" original="Report Source">Berichtsquelle</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="167" trl="N">
-  <value column="Name" original="Process">Process</value>
+ <row id="167" trl="Y">
+  <value column="Name" original="Process">Prozess</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50000" trl="N">
-  <value column="Name" original="MRP Review">MRP Review</value>
-  <value column="Description" original="MRP Detail">MRP Detail</value>
+ <row id="50000" trl="Y">
+  <value column="Name" original="MRP Review">MRP-Überprüfung</value>
+  <value column="Description" original="MRP Detail">MRP-Detail</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50001" trl="N">
-  <value column="Name" original="Manufacturing_Order_Header ** TEMPLATE **">Manufacturing_Order_Header ** TEMPLATE **</value>
-  <value column="Description" original="Manufacturing Order">Manufacturing Order</value>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Manufacturing_Order_Header ** TEMPLATE **">Fertigungsauftragskopf ** VORLAGE **</value>
+  <value column="Description" original="Manufacturing Order">Fertigungsauftrag</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50002" trl="N">
-  <value column="Name" original="Manufacturing_Order_BOMLine ** TEMPLATE **">Manufacturing_Order_BOMLine ** TEMPLATE **</value>
-  <value column="Description" original="Manufacturing Order BOM Line">Manufacturing Order BOM Line</value>
+ <row id="50002" trl="Y">
+  <value column="Name" original="Manufacturing_Order_BOMLine ** TEMPLATE **">Fertigungsauftrag-Stücklistenposition ** VORLAGE **</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Fertigungsauftrag-Stücklistenposition</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50003" trl="N">
-  <value column="Name" original="Manufacturing Orders Review  ">Manufacturing Orders Review  </value>
+ <row id="50003" trl="Y">
+  <value column="Name" original="Manufacturing Orders Review  ">Fertigungsaufträge-Überprüfung</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50004" trl="N">
-  <value column="Name" original="Manufacturing Orders Review   Copiar registro 4082309">Manufacturing Orders Review   Copiar registro 4082309</value>
+ <row id="50004" trl="Y">
+  <value column="Name" original="Manufacturing Orders Review   Copiar registro 4082309">Fertigungsaufträge-Überprüfung (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50005" trl="N">
-  <value column="Name" original="Component Check">Component Check</value>
+ <row id="50005" trl="Y">
+  <value column="Name" original="Component Check">Komponentenprüfung</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50006" trl="N">
-  <value column="Name" original="Order Transactions">Order Transactions</value>
+ <row id="50006" trl="Y">
+  <value column="Name" original="Order Transactions">Auftragstransaktionen</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50007" trl="N">
-  <value column="Name" original="Order Transactions Copiar registro 14306576">Order Transactions Copiar registro 14306576</value>
+ <row id="50007" trl="Y">
+  <value column="Name" original="Order Transactions Copiar registro 14306576">Auftragstransaktionen (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50008" trl="N">
-  <value column="Name" original="RV_PP_Operation_Activity &amp;Copy Record 4622012" xml:space="preserve"><![CDATA[RV_PP_Operation_Activity &Copy Record 4622012]]></value>
+ <row id="50008" trl="Y">
+  <value column="Name" original="RV_PP_Operation_Activity &amp;Copy Record 4622012">RV_PP_Vorgangsaktivität (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50009" trl="N">
-  <value column="Name" original="Operation Activity ** TEMPLATE **">Operation Activity ** TEMPLATE **</value>
-  <value column="Description" original="Operation Activity ** TEMPLATE **">Operation Activity ** TEMPLATE **</value>
+ <row id="50009" trl="Y">
+  <value column="Name" original="Operation Activity ** TEMPLATE **">Vorgangsaktivität ** VORLAGE **</value>
+  <value column="Description" original="Operation Activity ** TEMPLATE **">Vorgangsaktivität ** VORLAGE **</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50010" trl="N">
-  <value column="Name" original="DistributionOrder_Line  ** TEMPLATE **">DistributionOrder_Line  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Order Line">Standard Order Line</value>
+ <row id="50010" trl="Y">
+  <value column="Name" original="DistributionOrder_Line  ** TEMPLATE **">Verteilungsauftrag-Position ** VORLAGE **</value>
+  <value column="Description" original="Standard Order Line">Standard-Auftragsposition</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50011" trl="N">
-  <value column="Name" original="DistributionOrder_Header  ** TEMPLATE **">DistributionOrder_Header  ** TEMPLATE **</value>
-  <value column="Description" original="Standard Order Header">Standard Order Header</value>
+ <row id="50011" trl="Y">
+  <value column="Name" original="DistributionOrder_Header  ** TEMPLATE **">Verteilungsauftragskopf ** VORLAGE **</value>
+  <value column="Description" original="Standard Order Header">Standard-Auftragskopf</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50012" trl="N">
-  <value column="Name" original="Product Costing">Product Costing</value>
+ <row id="50012" trl="Y">
+  <value column="Name" original="Product Costing">Produktkalkulation</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50013" trl="N">
-  <value column="Name" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve"><![CDATA[Multi Level BOM & Formula Detail]]></value>
-  <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve"><![CDATA[Multi Level BOM & Formula Detail]]></value>
+ <row id="50013" trl="Y">
+  <value column="Name" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve"><![CDATA[Mehrstufige Stückliste & Formeldetail]]></value>
+  <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve"><![CDATA[Mehrstufige Stückliste & Formeldetail]]></value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50014" trl="N">
-  <value column="Name" original="Asset Disposal Expense Entry Rpt &amp;Copy Record 1500673861" xml:space="preserve"><![CDATA[Asset Disposal Expense Entry Rpt &Copy Record 1500673861]]></value>
+ <row id="50014" trl="Y">
+  <value column="Name" original="Asset Disposal Expense Entry Rpt &amp;Copy Record 1500673861">Anlagenentsorgungsaufwandsbericht (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50015" trl="N">
-  <value column="Name" original="Asset Disposal Expense Entry Rpt">Asset Disposal Expense Entry Rpt</value>
+ <row id="50015" trl="Y">
+  <value column="Name" original="Asset Disposal Expense Entry Rpt">Anlagenentsorgungsaufwandsbericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50016" trl="N">
-  <value column="Name" original="Asset Transfer Entry">Asset Transfer Entry</value>
+ <row id="50016" trl="Y">
+  <value column="Name" original="Asset Transfer Entry">Anlagenübertragungsbuchung</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50017" trl="N">
-  <value column="Name" original="Asset Transfer Entry &amp;Copy Record 733003674" xml:space="preserve"><![CDATA[Asset Transfer Entry &Copy Record 733003674]]></value>
+ <row id="50017" trl="Y">
+  <value column="Name" original="Asset Transfer Entry &amp;Copy Record 733003674">Anlagenübertragungsbuchung (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50018" trl="N">
-  <value column="Name" original="Asset Split Entry &amp;Copy Record 895559168" xml:space="preserve"><![CDATA[Asset Split Entry &Copy Record 895559168]]></value>
+ <row id="50018" trl="Y">
+  <value column="Name" original="Asset Split Entry &amp;Copy Record 895559168">Anlagenteilungsbuchung (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50019" trl="N">
-  <value column="Name" original="Asset Split Entry">Asset Split Entry</value>
+ <row id="50019" trl="Y">
+  <value column="Name" original="Asset Split Entry">Anlagenteilungsbuchung</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50020" trl="N">
-  <value column="Name" original="Depreciation Expense Entry &amp;Copy Record 1166440766" xml:space="preserve"><![CDATA[Depreciation Expense Entry &Copy Record 1166440766]]></value>
+ <row id="50020" trl="Y">
+  <value column="Name" original="Depreciation Expense Entry &amp;Copy Record 1166440766">Abschreibungsaufwandsbuchung (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50021" trl="N">
-  <value column="Name" original="Depreciation Expense Entry">Depreciation Expense Entry</value>
+ <row id="50021" trl="Y">
+  <value column="Name" original="Depreciation Expense Entry">Abschreibungsaufwandsbuchung</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50022" trl="N">
-  <value column="Name" original="Asset Depreciation Forecast &amp;Copy Record 1622765813" xml:space="preserve"><![CDATA[Asset Depreciation Forecast &Copy Record 1622765813]]></value>
+ <row id="50022" trl="Y">
+  <value column="Name" original="Asset Depreciation Forecast &amp;Copy Record 1622765813">Anlagenabschreibungsvorschau (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50023" trl="N">
-  <value column="Name" original="Asset Depreciation Forecast">Asset Depreciation Forecast</value>
+ <row id="50023" trl="Y">
+  <value column="Name" original="Asset Depreciation Forecast">Anlagenabschreibungsvorschau</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50024" trl="N">
-  <value column="Name" original="RV_Asset_Parent_Report">RV_Asset_Parent_Report</value>
+ <row id="50024" trl="Y">
+  <value column="Name" original="RV_Asset_Parent_Report">RV_Anlageübergeordneter Bericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50025" trl="N">
-  <value column="Name" original="RV_Depreciation_Table">RV_Depreciation_Table</value>
+ <row id="50025" trl="Y">
+  <value column="Name" original="RV_Depreciation_Table">RV_Abschreibungstabelle</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50026" trl="N">
-  <value column="Name" original="Spread Report">Spread Report</value>
+ <row id="50026" trl="Y">
+  <value column="Name" original="Spread Report">Verteilungsbericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50027" trl="N">
-  <value column="Name" original="RV_Asset_Depreciation_Method">RV_Asset_Depreciation_Method</value>
+ <row id="50027" trl="Y">
+  <value column="Name" original="RV_Asset_Depreciation_Method">RV_Anlagenabschreibungsmethode</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50028" trl="N">
-  <value column="Name" original="RV_Asset_Convention_Rpt">RV_Asset_Convention_Rpt</value>
+ <row id="50028" trl="Y">
+  <value column="Name" original="RV_Asset_Convention_Rpt">RV_Anlagenkonventionsbericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50029" trl="N">
-  <value column="Name" original="RV_Depreciation_Calculation_Methods">RV_Depreciation_Calculation_Methods</value>
+ <row id="50029" trl="Y">
+  <value column="Name" original="RV_Depreciation_Calculation_Methods">RV_Abschreibungsberechnungsmethoden</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50030" trl="N">
-  <value column="Name" original="RV_Asset_Group_Defaults">RV_Asset_Group_Defaults</value>
+ <row id="50030" trl="Y">
+  <value column="Name" original="RV_Asset_Group_Defaults">RV_Anlagegruppen-Standards</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50031" trl="N">
-  <value column="Name" original="Inbound Charge Entry Report">Inbound Charge Entry Report</value>
+ <row id="50031" trl="Y">
+  <value column="Name" original="Inbound Charge Entry Report">Eingangskostenbericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50032" trl="N">
-  <value column="Name" original="Forecast Report">Forecast Report</value>
+ <row id="50032" trl="Y">
+  <value column="Name" original="Forecast Report">Prognosebericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50033" trl="N">
-  <value column="Name" original="Forecast Report by Period">Forecast Report by Period</value>
+ <row id="50033" trl="Y">
+  <value column="Name" original="Forecast Report by Period">Prognosebericht nach Periode</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50035" trl="N">
-  <value column="Name" original="Multi Level BOM &amp; Formula Detail &amp;Copy Record 1746519845" xml:space="preserve"><![CDATA[Multi Level BOM & Formula Detail &Copy Record 1746519845]]></value>
-  <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve"><![CDATA[Multi Level BOM & Formula Detail]]></value>
+ <row id="50035" trl="Y">
+  <value column="Name" original="Multi Level BOM &amp; Formula Detail &amp;Copy Record 1746519845" xml:space="preserve"><![CDATA[Mehrstufige Stückliste & Formeldetail (Kopie)]]></value>
+  <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve"><![CDATA[Mehrstufige Stückliste & Formeldetail]]></value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50036" trl="N">
-  <value column="Name" original="Forecast Report &amp;Copy Record 1630346308" xml:space="preserve"><![CDATA[Forecast Report &Copy Record 1630346308]]></value>
+ <row id="50036" trl="Y">
+  <value column="Name" original="Forecast Report &amp;Copy Record 1630346308">Prognosebericht (Kopie)</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50037" trl="N">
-  <value column="Name" original="Manufacturing_Order_Node ** TEMPLATE **">Manufacturing_Order_Node ** TEMPLATE **</value>
-  <value column="Description" original="Manufacturing Order Node">Manufacturing Order Node</value>
+ <row id="50037" trl="Y">
+  <value column="Name" original="Manufacturing_Order_Node ** TEMPLATE **">Fertigungsauftragsknoten ** VORLAGE **</value>
+  <value column="Description" original="Manufacturing Order Node">Fertigungsauftragsknoten</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50038" trl="N">
-  <value column="Name" original="Cost BOM Multi Level Review">Cost BOM Multi Level Review</value>
-  <value column="Description" original="Cost BOM Multi Level Review">Cost BOM Multi Level Review</value>
+ <row id="50038" trl="Y">
+  <value column="Name" original="Cost BOM Multi Level Review">Kostenstückliste mehrstufige Überprüfung</value>
+  <value column="Description" original="Cost BOM Multi Level Review">Kostenstückliste mehrstufige Überprüfung</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50040" trl="N">
-  <value column="Name" original="Manufacturing_Order_BOMLine_Component ** TEMPLATE **">Manufacturing_Order_BOMLine_Component ** TEMPLATE **</value>
-  <value column="Description" original="Manufacturing Order BOM Line">Manufacturing Order BOM Line</value>
+ <row id="50040" trl="Y">
+  <value column="Name" original="Manufacturing_Order_BOMLine_Component ** TEMPLATE **">Fertigungsauftrag-Stücklistenposition-Komponente * VORLAGE *</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Fertigungsauftrag-Stücklistenposition</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50041" trl="N">
-  <value column="Name" original="Manufacturing_Order_BOM_Header ** TEMPLATE **">Manufacturing_Order_BOM_Header ** TEMPLATE **</value>
+ <row id="50041" trl="Y">
+  <value column="Name" original="Manufacturing_Order_BOM_Header ** TEMPLATE **">Fertigungsauftrag-Stücklisten-Kopf ** VORLAGE **</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50042" trl="N">
-  <value column="Name" original="Manufacturing_Order_Workflow_Header ** TEMPLATE **">Manufacturing_Order_Workflow_Header ** TEMPLATE **</value>
+ <row id="50042" trl="Y">
+  <value column="Name" original="Manufacturing_Order_Workflow_Header ** TEMPLATE **">Fertigungsauftrag-Workflow-Kopf ** VORLAGE **</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50043" trl="N">
-  <value column="Name" original="Manufacturing_Order_Node_Product ** TEMPLATE **">Manufacturing_Order_Node_Product ** TEMPLATE **</value>
+ <row id="50043" trl="Y">
+  <value column="Name" original="Manufacturing_Order_Node_Product ** TEMPLATE **">Fertigungsauftragsknoten-Produkt ** VORLAGE **</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50044" trl="N">
-  <value column="Name" original="Manufacturing_Order_BOMLine_Packing** TEMPLATE **">Manufacturing_Order_BOMLine_Packing** TEMPLATE **</value>
-  <value column="Description" original="Manufacturing Order BOM Line">Manufacturing Order BOM Line</value>
+ <row id="50044" trl="Y">
+  <value column="Name" original="Manufacturing_Order_BOMLine_Packing** TEMPLATE **">Fertigungsauftrag-Stücklistenposition-Verpackung * VORLAGE *</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Fertigungsauftrag-Stücklistenposition</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50045" trl="N">
-  <value column="Name" original="Manufacturing_Order_BOM_Header_Packing ** TEMPLATE **">Manufacturing_Order_BOM_Header_Packing ** TEMPLATE **</value>
+ <row id="50045" trl="Y">
+  <value column="Name" original="Manufacturing_Order_BOM_Header_Packing ** TEMPLATE **">Fertigungsauftrag-Stücklisten-Kopf-Verpackung ** VORLAGE **</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50051" trl="N">
-  <value column="Name" original="Accounting Fact Reconciliation">Accounting Fact Reconciliation</value>
+ <row id="50051" trl="Y">
+  <value column="Name" original="Accounting Fact Reconciliation">Buchhaltungsfakten-Abstimmung</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50057" trl="N">
-  <value column="Name" original="Indented Bill of Material">Indented Bill of Material</value>
+ <row id="50057" trl="Y">
+  <value column="Name" original="Indented Bill of Material">Eingerückte Stückliste</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="BOM Line">BOM Line</value>
+ <row id="200000" trl="Y">
+  <value column="Name" original="BOM Line">Stücklistenposition</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200001" trl="N">
-  <value column="Name" original="Single Level BOM">Single Level BOM</value>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Single Level BOM">Einstufige Stückliste</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200002" trl="N">
-  <value column="Name" original="1099 Extract">1099 Extract</value>
+ <row id="200002" trl="Y">
+  <value column="Name" original="1099 Extract">1099-Extrakt</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200005" trl="N">
-  <value column="Name" original="Bank Register Report">Bank Register Report</value>
+ <row id="200005" trl="Y">
+  <value column="Name" original="Bank Register Report">Bankregisterbericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200006" trl="N">
-  <value column="Name" original="Product/Component Where Used">Product/Component Where Used</value>
+ <row id="200006" trl="Y">
+  <value column="Name" original="Product/Component Where Used">Produkt/Komponente - Verwendungsnachweis</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200007" trl="N">
-  <value column="Name" original="Simple Fact View">Simple Fact View</value>
+ <row id="200007" trl="Y">
+  <value column="Name" original="Simple Fact View">Einfache Buchungsansicht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200014" trl="N">
-  <value column="Name" original="Trial Balance Report">Trial Balance Report</value>
+ <row id="200014" trl="Y">
+  <value column="Name" original="Trial Balance Report">Saldenbericht</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200016" trl="N">
-  <value column="Name" original="TestUUDet Print Format">TestUUDet Print Format</value>
+ <row id="200016" trl="Y">
+  <value column="Name" original="TestUUDet Print Format">TestUUDet-Druckformat</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200017" trl="N">
-  <value column="Name" original="TestUU Print Format">TestUU Print Format</value>
+ <row id="200017" trl="Y">
+  <value column="Name" original="TestUU Print Format">TestUU-Druckformat</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200018" trl="N">
-  <value column="Name" original="Tab">Tab</value>
+ <row id="200018" trl="Y">
+  <value column="Name" original="Tab">Register</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>

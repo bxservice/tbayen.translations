@@ -195,19 +195,29 @@
   <value column="PrintName" original="BOM Verified">Stückliste geprüft</value>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="200153" trl="N">
-  <value column="Name" original="Master BOM">Master BOM</value>
-  <value column="PrintName" original="Master BOM">Master BOM</value>
+ <row id="200153" trl="Y">
+  <value column="Name" original="Master BOM">Master-Stückliste</value>
+  <value column="PrintName" original="Master BOM">Master-Stückliste</value>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="200408" trl="N">
-  <value column="Name" original="Test Print Format for UUID Based Table">Test Print Format for UUID Based Table</value>
+ <row id="200408" trl="Y">
+  <value column="Name" original="Test Print Format for UUID Based Table">Testdruckformat für UUID-basierte Tabelle</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="200413" trl="N">
+ <row id="200413" trl="Y">
   <value column="Name" original="Detail">Detail</value>
   <value column="PrintName" original=""/>
+  <value column="PrintNameSuffix" original=""/>
+ </row>
+ <row id="200534" trl="Y">
+  <value column="Name" original="Account">Konto</value>
+  <value column="PrintName" original="Account">Konto</value>
+  <value column="PrintNameSuffix" original=""/>
+ </row>
+ <row id="200535" trl="Y">
+  <value column="Name" original="BPartner">Geschäftspartner</value>
+  <value column="PrintName" original="Business Partner">Geschäftspartner</value>
   <value column="PrintNameSuffix" original=""/>
  </row>
 </idempiereTrl>

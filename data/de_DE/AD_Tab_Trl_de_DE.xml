@@ -5902,14 +5902,14 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200077" trl="N">
-  <value column="Name" original="Zoom Condition">Zoom Condition</value>
+ <row id="200077" trl="Y">
+  <value column="Name" original="Zoom Condition">Zoom-Bedingung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200078" trl="N">
-  <value column="Name" original="1099 Box">1099 Box</value>
+ <row id="200078" trl="Y">
+  <value column="Name" original="1099 Box">1099-Box</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -5926,86 +5926,86 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original="Cities without Region">Städte ohne Region</value>
   <value column="Help" original=""/>
  </row>
- <row id="200096" trl="N">
-  <value column="Name" original="Table Index">Table Index</value>
+ <row id="200096" trl="Y">
+  <value column="Name" original="Table Index">Tabellenindex</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200097" trl="N">
-  <value column="Name" original="Index Column">Index Column</value>
+ <row id="200097" trl="Y">
+  <value column="Name" original="Index Column">Indexspalte</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200098" trl="N">
-  <value column="Name" original="View Component">View Component</value>
+ <row id="200098" trl="Y">
+  <value column="Name" original="View Component">Ansichts-Komponente</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200099" trl="N">
-  <value column="Name" original="View Column">View Column</value>
+ <row id="200099" trl="Y">
+  <value column="Name" original="View Column">Ansichtsspalte</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200100" trl="N">
-  <value column="Name" original="Related Info Window">Related Info Window</value>
+ <row id="200100" trl="Y">
+  <value column="Name" original="Related Info Window">Zugehöriges Info-Fenster</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200102" trl="N">
-  <value column="Name" original="Cost Adjustment">Cost Adjustment</value>
+ <row id="200102" trl="Y">
+  <value column="Name" original="Cost Adjustment">Kostenkorrektur</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200103" trl="N">
-  <value column="Name" original="Cost Adjustment Line">Cost Adjustment Line</value>
+ <row id="200103" trl="Y">
+  <value column="Name" original="Cost Adjustment Line">Kostenkorrektionsposition</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200105" trl="N">
-  <value column="Name" original="Tax Provider Configuration">Tax Provider Configuration</value>
+ <row id="200105" trl="Y">
+  <value column="Name" original="Tax Provider Configuration">Steueranbieter-Konfiguration</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200106" trl="N">
-  <value column="Name" original="Tax Provider">Tax Provider</value>
+ <row id="200106" trl="Y">
+  <value column="Name" original="Tax Provider">Steueranbieter</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200107" trl="N">
-  <value column="Name" original="Address Validation">Address Validation</value>
+ <row id="200107" trl="Y">
+  <value column="Name" original="Address Validation">Adressvalidierung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200108" trl="N">
-  <value column="Name" original="Address Validation">Address Validation</value>
+ <row id="200108" trl="Y">
+  <value column="Name" original="Address Validation">Adressvalidierung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200109" trl="N">
-  <value column="Name" original="Estimated Landed Cost">Estimated Landed Cost</value>
+ <row id="200109" trl="Y">
+  <value column="Name" original="Estimated Landed Cost">Geschätzte Frachtnebenkosten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200110" trl="N">
-  <value column="Name" original="Estimated Landed Cost Allocation">Estimated Landed Cost Allocation</value>
+ <row id="200110" trl="Y">
+  <value column="Name" original="Estimated Landed Cost Allocation">Frachtnebenkosten-Zuteilung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200111" trl="N">
-  <value column="Name" original="Address Transaction">Address Transaction</value>
+ <row id="200111" trl="Y">
+  <value column="Name" original="Address Transaction">Adresstransaktion</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -6016,28 +6016,28 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200113" trl="N">
-  <value column="Name" original="Used in Info Column">Used in Info Column</value>
+ <row id="200113" trl="Y">
+  <value column="Name" original="Used in Info Column">Verwendet in Info-Spalte</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200114" trl="N">
-  <value column="Name" original="Status Line">Status Line</value>
+ <row id="200114" trl="Y">
+  <value column="Name" original="Status Line">Statuszeile</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200115" trl="N">
-  <value column="Name" original="Used In">Used In</value>
+ <row id="200115" trl="Y">
+  <value column="Name" original="Used In">Verwendet in</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200116" trl="N">
-  <value column="Name" original="Available Columns">Available Columns</value>
+ <row id="200116" trl="Y">
+  <value column="Name" original="Available Columns">Verfügbare Spalten</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="You can define on this tab which columns will be available as the print format items">You can define on this tab which columns will be available as the print format items</value>
+  <value column="Description" original="You can define on this tab which columns will be available as the print format items">Sie können auf diesem Register festlegen, welche Spalten als Druckformatelemente verfügbar sein sollen.</value>
   <value column="Help" original=""/>
  </row>
  <row id="200121" trl="Y">
@@ -6124,38 +6124,38 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200137" trl="N">
-  <value column="Name" original="Attributes">Attributes</value>
+ <row id="200137" trl="Y">
+  <value column="Name" original="Attributes">Attribute</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Product Instance Attribute Material Allocation">Product Instance Attribute Material Allocation</value>
   <value column="Help" original=""/>
  </row>
- <row id="200138" trl="N">
-  <value column="Name" original="Attributes">Attributes</value>
+ <row id="200138" trl="Y">
+  <value column="Name" original="Attributes">Attribute</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Product Instance Attribute Material Allocation">Product Instance Attribute Material Allocation</value>
   <value column="Help" original=""/>
  </row>
- <row id="200142" trl="N">
-  <value column="Name" original="Process">Process</value>
+ <row id="200142" trl="Y">
+  <value column="Name" original="Process">Prozess</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200143" trl="N">
-  <value column="Name" original="Translate">Translate</value>
+ <row id="200143" trl="Y">
+  <value column="Name" original="Translate">Übersetzen</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200144" trl="N">
-  <value column="Name" original="Role Access">Role Access</value>
+ <row id="200144" trl="Y">
+  <value column="Name" original="Role Access">Rollenzugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200154" trl="N">
-  <value column="Name" original="Recurring Group">Recurring Group</value>
+ <row id="200154" trl="Y">
+  <value column="Name" original="Recurring Group">Wiederkehrende Gruppe</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -6184,68 +6184,68 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200167" trl="N">
-  <value column="Name" original="Import Template">Import Template</value>
+ <row id="200167" trl="Y">
+  <value column="Name" original="Import Template">Importvorlage</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200168" trl="N">
-  <value column="Name" original="Import Template Access">Import Template Access</value>
+ <row id="200168" trl="Y">
+  <value column="Name" original="Import Template Access">Importvorlagenzugriff</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200189" trl="N">
-  <value column="Name" original="User Preference">User Preference</value>
+ <row id="200189" trl="Y">
+  <value column="Name" original="User Preference">Benutzereinstellung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200190" trl="N">
-  <value column="Name" original="Locator Type">Locator Type</value>
+ <row id="200190" trl="Y">
+  <value column="Name" original="Locator Type">Lagerorttyp</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200191" trl="N">
-  <value column="Name" original="Package Installation">Package Installation</value>
+ <row id="200191" trl="Y">
+  <value column="Name" original="Package Installation">Paketinstallation</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200209" trl="N">
-  <value column="Name" original="Menu entries">Menu entries</value>
+ <row id="200209" trl="Y">
+  <value column="Name" original="Menu entries">Menüeinträge</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="In this tab, you'll be able to manage favourites and entries which will open automatically on login">In this tab, you'll be able to manage favourites and entries which will open automatically on login</value>
   <value column="Help" original=""/>
  </row>
- <row id="200213" trl="N">
-  <value column="Name" original="CSS Style">CSS Style</value>
+ <row id="200213" trl="Y">
+  <value column="Name" original="CSS Style">CSS-Stil</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="CSS Inline Style Definitions">CSS Inline Style Definitions</value>
   <value column="Help" original=""/>
  </row>
- <row id="200214" trl="N">
-  <value column="Name" original="Style Line">Style Line</value>
+ <row id="200214" trl="Y">
+  <value column="Name" original="Style Line">Stilzeile</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="CSS Style Lines">CSS Style Lines</value>
   <value column="Help" original=""/>
  </row>
- <row id="200215" trl="N">
-  <value column="Name" original="Suggestions">Suggestions</value>
+ <row id="200215" trl="Y">
+  <value column="Name" original="Suggestions">Vorschläge</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200216" trl="N">
-  <value column="Name" original="Suggestion">Suggestion</value>
+ <row id="200216" trl="Y">
+  <value column="Name" original="Suggestion">Vorschlag</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200220" trl="N">
-  <value column="Name" original="Post-it">Post-it</value>
+ <row id="200220" trl="Y">
+  <value column="Name" original="Post-it">Notizzettel</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
@@ -6262,541 +6262,565 @@ Valid From/To is determined by the parent tax.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200224" trl="N">
-  <value column="Name" original="Attributes">Attributes</value>
+ <row id="200224" trl="Y">
+  <value column="Name" original="Attributes">Attribute</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200226" trl="N">
-  <value column="Name" original="Tenant">Client</value>
+ <row id="200226" trl="Y">
+  <value column="Name" original="Tenant">Mandant</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200227" trl="N">
-  <value column="Name" original="User">User</value>
+ <row id="200227" trl="Y">
+  <value column="Name" original="User">Benutzer</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200228" trl="N">
-  <value column="Name" original="User">User</value>
+ <row id="200228" trl="Y">
+  <value column="Name" original="User">Benutzer</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200230" trl="N">
-  <value column="Name" original="Approver">Approver</value>
+ <row id="200230" trl="Y">
+  <value column="Name" original="Approver">Genehmiger</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200231" trl="N">
-  <value column="Name" original="Approver">Approver</value>
+ <row id="200231" trl="Y">
+  <value column="Name" original="Approver">Genehmiger</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200234" trl="N">
-  <value column="Name" original="Process Customization">User defined Process</value>
+ <row id="200234" trl="Y">
+  <value column="Name" original="Process Customization">Prozessanpassung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="User defined Process">User defined Process</value>
-  <value column="Help" original="User defined Process">User defined Process</value>
+  <value column="Help" original="User defined Process">Benutzerdefinierter Prozess</value>
  </row>
- <row id="200235" trl="N">
-  <value column="Name" original="User defined Process Parameter">User defined Process Parameter</value>
+ <row id="200235" trl="Y">
+  <value column="Name" original="User defined Process Parameter">Benutzerdefinierter Prozessparameter</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="User defined Process Parameter">User defined Process Parameter</value>
-  <value column="Help" original="User defined Process Parameter">User defined Process Parameter</value>
+  <value column="Help" original="User defined Process Parameter">Benutzerdefinierter Prozessparameter</value>
  </row>
- <row id="200249" trl="N">
-  <value column="Name" original="Print Header/Footer">Print Header/Footer</value>
+ <row id="200249" trl="Y">
+  <value column="Name" original="Print Header/Footer">Druckkopf/-fußzeile</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200255" trl="N">
-  <value column="Name" original="Bank Transfer">Bank Transfer</value>
+ <row id="200255" trl="Y">
+  <value column="Name" original="Bank Transfer">Banküberweisung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200256" trl="N">
-  <value column="Name" original="Payments">Payments</value>
+ <row id="200256" trl="Y">
+  <value column="Name" original="Payments">Zahlungen</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200262" trl="N">
-  <value column="Name" original="User Roles">User Roles</value>
+ <row id="200262" trl="Y">
+  <value column="Name" original="User Roles">Benutzerrollen</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200263" trl="N">
-  <value column="Name" original="User Roles">User Roles</value>
+ <row id="200263" trl="Y">
+  <value column="Name" original="User Roles">Benutzerrollen</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200264" trl="N">
-  <value column="Name" original="Role">Role</value>
+ <row id="200264" trl="Y">
+  <value column="Name" original="Role">Rolle</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200265" trl="N">
-  <value column="Name" original="Role">Role</value>
+ <row id="200265" trl="Y">
+  <value column="Name" original="Role">Rolle</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200266" trl="N">
-  <value column="Name" original="User Roles">User Roles</value>
+ <row id="200266" trl="Y">
+  <value column="Name" original="User Roles">Benutzerrollen</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200269" trl="N">
-  <value column="Name" original="Used in Column (Lookup)">Used in Column (Lookup)</value>
+ <row id="200269" trl="Y">
+  <value column="Name" original="Used in Column (Lookup)">Verwendet in Spalte (Nachschlage)</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Used in Column (Lookup)">Used in Column (Lookup)</value>
   <value column="Help" original=""/>
  </row>
- <row id="200271" trl="N">
+ <row id="200271" trl="Y">
   <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200272" trl="N">
+ <row id="200272" trl="Y">
   <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200275" trl="N">
-  <value column="Name" original="User Queries">User Queries</value>
+ <row id="200275" trl="Y">
+  <value column="Name" original="User Queries">Gespeicherte Abfragen</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="View and maintain saved queries">View and maintain saved queries</value>
   <value column="Help" original=""/>
  </row>
- <row id="200279" trl="N">
-  <value column="Name" original="Column Customization">Column Customization</value>
+ <row id="200279" trl="Y">
+  <value column="Name" original="Column Customization">Spaltenanpassung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200280" trl="N">
-  <value column="Name" original="Info Window Customization">Info Window Customization</value>
+ <row id="200280" trl="Y">
+  <value column="Name" original="Info Window Customization">Info-Fenster-Anpassung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200281" trl="N">
-  <value column="Name" original="Related Customization">Related Customization</value>
+ <row id="200281" trl="Y">
+  <value column="Name" original="Related Customization">Zugehörige Anpassung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200282" trl="N">
-  <value column="Name" original="User favourite tree">User favourite tree</value>
+ <row id="200282" trl="Y">
+  <value column="Name" original="User favourite tree">Benutzer-Favoritenbaum</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="In this tab, you can see to manage user and role wise favourite tree references">In this tab, you can see to manage user and role wise favourite tree references</value>
   <value column="Help" original=""/>
  </row>
- <row id="200283" trl="N">
-  <value column="Name" original="Favorite tree node">Favorite tree node</value>
+ <row id="200283" trl="Y">
+  <value column="Name" original="Favorite tree node">Favoritenbaum-Knoten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200284" trl="N">
-  <value column="Name" original="Authorization Provider">Authorization Provider</value>
+ <row id="200284" trl="Y">
+  <value column="Name" original="Authorization Provider">Autorisierungsanbieter</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200285" trl="N">
-  <value column="Name" original="Authorization Scope Provider">Authorization Scope Provider</value>
+ <row id="200285" trl="Y">
+  <value column="Name" original="Authorization Scope Provider">Autorisierungsbereichsanbieter</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200286" trl="N">
-  <value column="Name" original="Authorization Credential">Authorization Credential</value>
+ <row id="200286" trl="Y">
+  <value column="Name" original="Authorization Credential">Autorisierungsdaten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200287" trl="N">
-  <value column="Name" original="Authorization Account">Authorization Account</value>
+ <row id="200287" trl="Y">
+  <value column="Name" original="Authorization Account">Autorisierungskonto</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200288" trl="N">
-  <value column="Name" original="MFA Method">MFA Method</value>
+ <row id="200288" trl="Y">
+  <value column="Name" original="MFA Method">MFA-Methode</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Multi-factor Authentication Method">Multi-factor Authentication Method</value>
   <value column="Help" original=""/>
  </row>
- <row id="200289" trl="N">
-  <value column="Name" original="MFA Registered Device">MFA Registered Device</value>
+ <row id="200289" trl="Y">
+  <value column="Name" original="MFA Registered Device">Vertrauenswürdiges MFA-Gerät</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200290" trl="N">
-  <value column="Name" original="MFA Registration">MFA Registration</value>
+ <row id="200290" trl="Y">
+  <value column="Name" original="MFA Registration">MFA-Registrierung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200291" trl="N">
-  <value column="Name" original="MFA Rule">MFA Rule</value>
+ <row id="200291" trl="Y">
+  <value column="Name" original="MFA Rule">MFA-Regel</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Multi-factor Authentication Rule">Multi-factor Authentication Rule</value>
   <value column="Help" original=""/>
  </row>
- <row id="200295" trl="N">
-  <value column="Name" original="Document Status Access">Document Status Access</value>
+ <row id="200295" trl="Y">
+  <value column="Name" original="Document Status Access">Belegstatuszugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200296" trl="N">
-  <value column="Name" original="Document Status Access">Document Status Access</value>
+ <row id="200296" trl="Y">
+  <value column="Name" original="Document Status Access">Belegstatuszugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200297" trl="N">
-  <value column="Name" original="Document Status Access">Document Status Access</value>
+ <row id="200297" trl="Y">
+  <value column="Name" original="Document Status Access">Belegstatuszugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200298" trl="N">
-  <value column="Name" original="SMTP Server">SMTP Server</value>
+ <row id="200298" trl="Y">
+  <value column="Name" original="SMTP Server">SMTP-Server</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200299" trl="N">
-  <value column="Name" original="Customization of the Wlistbox">Customization of the Wlistbox</value>
+ <row id="200299" trl="Y">
+  <value column="Name" original="Customization of the Wlistbox">Wlistbox-Anpassung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200300" trl="N">
-  <value column="Name" original="Reserved Quantity Log">Reserved Quantity Log</value>
+ <row id="200300" trl="Y">
+  <value column="Name" original="Reserved Quantity Log">Reservierte-Menge-Protokoll</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200301" trl="N">
-  <value column="Name" original="Ordered Quantity Log">Ordered Quantity Log</value>
+ <row id="200301" trl="Y">
+  <value column="Name" original="Ordered Quantity Log">Bestellte-Menge-Protokoll</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200302" trl="N">
-  <value column="Name" original="Tenant level messages">Tenant level messages</value>
+ <row id="200302" trl="Y">
+  <value column="Name" original="Tenant level messages">Mandantenebene Nachrichten</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200308" trl="N">
-  <value column="Name" original="Drill Rule">Drill Rule</value>
+ <row id="200308" trl="Y">
+  <value column="Name" original="Drill Rule">Drill-Regel</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200309" trl="N">
-  <value column="Name" original="Drill Rule Parameter">Drill Rule Parameter</value>
+ <row id="200309" trl="Y">
+  <value column="Name" original="Drill Rule Parameter">Drill-Regel-Parameter</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200317" trl="N">
-  <value column="Name" original="Label Category">Label Category</value>
+ <row id="200317" trl="Y">
+  <value column="Name" original="Label Category">Etikett-Kategorie</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200318" trl="N">
-  <value column="Name" original="Table Access">Table Access</value>
+ <row id="200318" trl="Y">
+  <value column="Name" original="Table Access">Tabellenzugriff</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200319" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200319" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200320" trl="N">
-  <value column="Name" original="Label">Label</value>
+ <row id="200320" trl="Y">
+  <value column="Name" original="Label">Etikett</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200321" trl="N">
-  <value column="Name" original="Translation">Translation</value>
+ <row id="200321" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200322" trl="N">
-  <value column="Name" original="Drill Rule Translation">Drill Rule Translation</value>
+ <row id="200322" trl="Y">
+  <value column="Name" original="Drill Rule Translation">Drill-Regel-Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200324" trl="N">
-  <value column="Name" original="Assignment">Assignment</value>
+ <row id="200324" trl="Y">
+  <value column="Name" original="Assignment">Zuweisung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200328" trl="N">
-  <value column="Name" original="SSO Configuration">SSO Configuration</value>
+ <row id="200328" trl="Y">
+  <value column="Name" original="SSO Configuration">SSO-Konfiguration</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200329" trl="N">
-  <value column="Name" original="Datasource Translation">Datasource Translation</value>
+ <row id="200329" trl="Y">
+  <value column="Name" original="Datasource Translation">Datenquellen-Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200346" trl="N">
-  <value column="Name" original="Verify Migration">Verify Migration</value>
+ <row id="200346" trl="Y">
+  <value column="Name" original="Verify Migration">Migrationsprüfung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200347" trl="N">
-  <value column="Name" original="Verify Migration Process">Verify Migration Process</value>
+ <row id="200347" trl="Y">
+  <value column="Name" original="Verify Migration Process">Migrationsprüfprozess</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200348" trl="N">
-  <value column="Name" original="Test UU Based Table">Test UU Based Table</value>
+ <row id="200348" trl="Y">
+  <value column="Name" original="Test UU Based Table">Test UUID-basierte Tabelle</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200349" trl="N">
-  <value column="Name" original="Test UU Detail">Test UU Detail</value>
+ <row id="200349" trl="Y">
+  <value column="Name" original="Test UU Detail">Test UUID-Detail</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200350" trl="N">
-  <value column="Name" original="Test UU Detail">Test UU Detail</value>
+ <row id="200350" trl="Y">
+  <value column="Name" original="Test UU Detail">Test UUID-Detail</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200351" trl="N">
-  <value column="Name" original="Document Base Type Group">Document Base Type Group</value>
+ <row id="200351" trl="Y">
+  <value column="Name" original="Document Base Type Group">Basisbelegtypgruppe</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200352" trl="N">
-  <value column="Name" original="Document Base Type Group Line">Document Base Type Group Line</value>
+ <row id="200352" trl="Y">
+  <value column="Name" original="Document Base Type Group Line">Basisbelegtypgruppen-Position</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200353" trl="N">
-  <value column="Name" original="Model Generator Template">Model Generator Template</value>
+ <row id="200353" trl="Y">
+  <value column="Name" original="Model Generator Template">Modellgenerator-Vorlage</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200355" trl="N">
-  <value column="Name" original="Info Window Translation">Info Window Translation</value>
+ <row id="200355" trl="Y">
+  <value column="Name" original="Info Window Translation">Info-Fenster-Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200356" trl="N">
-  <value column="Name" original="Info Column Translation">Info Column Translation</value>
+ <row id="200356" trl="Y">
+  <value column="Name" original="Info Column Translation">Info-Spalten-Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200358" trl="N">
-  <value column="Name" original="Table Translation">Table Translation</value>
+ <row id="200358" trl="Y">
+  <value column="Name" original="Table Translation">Tabellen-Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200359" trl="N">
-  <value column="Name" original="Column Translation">Column Translation</value>
+ <row id="200359" trl="Y">
+  <value column="Name" original="Column Translation">Spalten-Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200361" trl="N">
-  <value column="Name" original="Tax Rate">Tax Rate</value>
+ <row id="200361" trl="Y">
+  <value column="Name" original="Tax Rate">Steuersatz</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200371" trl="N">
-  <value column="Name" original="Test UU Based Table Trl">Test UU Based Table Trl</value>
+ <row id="200371" trl="Y">
+  <value column="Name" original="Test UU Based Table Trl">Test UUID-Tabelle Übersetzung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200381" trl="N">
-  <value column="Name" original="Table Partition">Table Partition</value>
+ <row id="200381" trl="Y">
+  <value column="Name" original="Table Partition">Tabellenpartition</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200382" trl="N">
-  <value column="Name" original="Private Access">Private Access</value>
+ <row id="200382" trl="Y">
+  <value column="Name" original="Private Access">Privater Zugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200383" trl="N">
-  <value column="Name" original="Department">Department</value>
+ <row id="200383" trl="Y">
+  <value column="Name" original="Department">Abteilung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200384" trl="N">
-  <value column="Name" original="Cost Center">Cost Center</value>
+ <row id="200384" trl="Y">
+  <value column="Name" original="Cost Center">Kostenstelle</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200385" trl="N">
-  <value column="Name" original="Dynamic Validation per Table">Dynamic Validation per Table</value>
+ <row id="200385" trl="Y">
+  <value column="Name" original="Dynamic Validation per Table">Dynamische Validierung pro Tabelle</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200386" trl="N">
-  <value column="Name" original="Theme Customization">Theme Customization</value>
+ <row id="200386" trl="Y">
+  <value column="Name" original="Theme Customization">Design-Anpassung</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200387" trl="N">
-  <value column="Name" original="Theme Customization Detail">Theme Customization Detail</value>
+ <row id="200387" trl="Y">
+  <value column="Name" original="Theme Customization Detail">Design-Anpassungsdetail</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200388" trl="N">
-  <value column="Name" original="Table Attribute Set">Table Attribute Set</value>
+ <row id="200388" trl="Y">
+  <value column="Name" original="Table Attribute Set">Tabellen-Attributgruppe</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200394" trl="N">
-  <value column="Name" original="Required Plugin">Required Plugin</value>
+ <row id="200394" trl="Y">
+  <value column="Name" original="Required Plugin">Erforderliches Plugin</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200396" trl="N">
-  <value column="Name" original="Table Attribute Set">Table Attribute Set</value>
+ <row id="200396" trl="Y">
+  <value column="Name" original="Table Attribute Set">Tabellen-Attributgruppe</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200397" trl="N">
-  <value column="Name" original="Table Attribute Value">Table Attribute Value</value>
+ <row id="200397" trl="Y">
+  <value column="Name" original="Table Attribute Value">Tabellen-Attributwert</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200398" trl="N">
-  <value column="Name" original="Attachment File">Attachment File</value>
+ <row id="200398" trl="Y">
+  <value column="Name" original="Attachment File">Anhangsdatei</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200399" trl="N">
-  <value column="Name" original="Role">Role</value>
+ <row id="200399" trl="Y">
+  <value column="Name" original="Role">Rolle</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Define responsibility roles">Define responsibility roles</value>
-  <value column="Help" original="Define the role and add the organizations the role has access to. You can give users access to this role and modify the access of this role to windows, forms, processes and reports as well as tasks. &lt;br&gt;&#10;If the Role User Level is Manual, the assigned access rights are not automatically updated (e.g. if a role has a restricted number of Windows/Processes it can access). You need to add organizational access unless the role has access to all organizations. The SuperUser and the user creating a new role are assigned to the role automatically.  &lt;br&gt;&#10;If you select an Organization Tree, the user has access to the leaves of  summary organizations.&#10;Note: You cannot change the System Administrator role." xml:space="preserve"><![CDATA[Define the role and add the organizations the role has access to. You can give users access to this role and modify the access of this role to windows, forms, processes and reports as well as tasks. <br>
-If the Role User Level is Manual, the assigned access rights are not automatically updated (e.g. if a role has a restricted number of Windows/Processes it can access). You need to add organizational access unless the role has access to all organizations. The SuperUser and the user creating a new role are assigned to the role automatically.  <br>
-If you select an Organization Tree, the user has access to the leaves of  summary organizations.
-Note: You cannot change the System Administrator role.]]></value>
+  <value column="Help" original="Define the role and add the organizations the role has access to. You can give users access to this role and modify the access of this role to windows, forms, processes and reports as well as tasks. &lt;br&gt;&#10;If the Role User Level is Manual, the assigned access rights are not automatically updated (e.g. if a role has a restricted number of Windows/Processes it can access). You need to add organizational access unless the role has access to all organizations. The SuperUser and the user creating a new role are assigned to the role automatically.  &lt;br&gt;&#10;If you select an Organization Tree, the user has access to the leaves of  summary organizations.&#10;Note: You cannot change the System Administrator role." xml:space="preserve"><![CDATA[Definieren Sie die Rolle und fügen Sie die Organisationen hinzu, auf die die Rolle Zugriff hat. Sie können Benutzern Zugriff auf diese Rolle gewähren und den Zugriff dieser Rolle auf Fenster, Formulare, Prozesse und Berichte sowie Aufgaben ändern.<br>
+Wenn die Benutzerebene der Rolle 'Manuell' ist, werden die zugewiesenen Zugriffsrechte nicht automatisch aktualisiert. Sie müssen Organisationszugang hinzufügen, es sei denn, die Rolle hat Zugang zu allen Organisationen. Der Superuser und der Benutzer, der eine neue Rolle erstellt, werden der Rolle automatisch zugewiesen.<br>
+Wenn Sie einen Organisationsbaum auswählen, hat der Benutzer Zugriff auf die Blätter zusammenfassender Organisationen.
+Hinweis: Die Systemadministratorrolle kann nicht geändert werden.]]></value>
  </row>
- <row id="200402" trl="N">
-  <value column="Name" original="Window Access">Window Access</value>
+ <row id="200402" trl="Y">
+  <value column="Name" original="Window Access">Fensterzugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Window Access">Window Access</value>
-  <value column="Help" original="The Window Access Tab defines the Windows and type of access that this Role is granted.">The Window Access Tab defines the Windows and type of access that this Role is granted.</value>
+  <value column="Help" original="The Window Access Tab defines the Windows and type of access that this Role is granted.">Das Register 'Fensterzugang' definiert die Fenster und den Zugriffstyp, der dieser Rolle gewährt wird.</value>
  </row>
- <row id="200403" trl="N">
-  <value column="Name" original="Process Access">Process Access</value>
+ <row id="200403" trl="Y">
+  <value column="Name" original="Process Access">Prozesszugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Process Access">Process Access</value>
-  <value column="Help" original="The Process Access Tab defines the Processes and type of access that this Role is granted.">The Process Access Tab defines the Processes and type of access that this Role is granted.</value>
+  <value column="Help" original="The Process Access Tab defines the Processes and type of access that this Role is granted.">Das Register 'Prozesszugang' definiert die Prozesse und den Zugriffstyp, der dieser Rolle gewährt wird.</value>
  </row>
- <row id="200404" trl="N">
-  <value column="Name" original="Form Access">Form Access</value>
+ <row id="200404" trl="Y">
+  <value column="Name" original="Form Access">Formularzugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Form Access">Form Access</value>
-  <value column="Help" original="The Form Access Tab defines the Forms and type of access that this Role is granted.">The Form Access Tab defines the Forms and type of access that this Role is granted.</value>
+  <value column="Help" original="The Form Access Tab defines the Forms and type of access that this Role is granted.">Das Register 'Formularzugang' definiert die Formulare und den Zugriffstyp, der dieser Rolle gewährt wird.</value>
  </row>
- <row id="200405" trl="N">
-  <value column="Name" original="Info Access">Info Access</value>
+ <row id="200405" trl="Y">
+  <value column="Name" original="Info Access">Info-Zugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200406" trl="N">
-  <value column="Name" original="Workflow Access">Workflow Access</value>
+ <row id="200406" trl="Y">
+  <value column="Name" original="Workflow Access">Workflow-Zugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Workflow Access">Workflow Access</value>
-  <value column="Help" original="The Workflow Access Tab defines the Workflows and type of access that this Role is granted.">The Workflow Access Tab defines the Workflows and type of access that this Role is granted.</value>
+  <value column="Help" original="The Workflow Access Tab defines the Workflows and type of access that this Role is granted.">Das Register 'Workflow-Zugang' definiert die Workflows und den Zugriffstyp, der dieser Rolle gewährt wird.</value>
  </row>
- <row id="200407" trl="N">
-  <value column="Name" original="Task Access">Task Access</value>
+ <row id="200407" trl="Y">
+  <value column="Name" original="Task Access">Aufgabenzugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Task Access">Task Access</value>
-  <value column="Help" original="The Task Access Tab defines the Task and type of access that this Role is granted.">The Task Access Tab defines the Task and type of access that this Role is granted.</value>
+  <value column="Help" original="The Task Access Tab defines the Task and type of access that this Role is granted.">Das Register 'Aufgabenzugang' definiert die Aufgaben und den Zugriffstyp, der dieser Rolle gewährt wird.</value>
  </row>
- <row id="200408" trl="N">
-  <value column="Name" original="Document Action Access">Document Action Access</value>
+ <row id="200408" trl="Y">
+  <value column="Name" original="Document Action Access">Belegaktionszugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Define access to document type / document action / role combinations.">Define access to document type / document action / role combinations.</value>
-  <value column="Help" original="Define access to document type / document action / role combinations.">Define access to document type / document action / role combinations.</value>
+  <value column="Help" original="Define access to document type / document action / role combinations.">Zugang zu Belegtyp/Belegaktion/Rollen-Kombinationen definieren.</value>
  </row>
- <row id="200410" trl="N">
-  <value column="Name" original="Document Status Access">Document Status Access</value>
+ <row id="200410" trl="Y">
+  <value column="Name" original="Document Status Access">Belegstatuszugang</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200416" trl="N">
-  <value column="Name" original="Extension Registry">Extension Registry</value>
+ <row id="200413" trl="Y">
+  <value column="Name" original="User defined Form">Benutzerdefiniertes Formular</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Manages the registry of bundled and external extensions">Manages the registry of bundled and external extensions</value>
+  <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
- <row id="200417" trl="N">
-  <value column="Name" original="Extension Entities">Extension Entities</value>
+ <row id="200416" trl="Y">
+  <value column="Name" original="Extension Registry">Erweiterungsregistrierung</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="The database dictionary objects belonging to an installed extension">The database dictionary objects belonging to an installed extension</value>
+  <value column="Description" original="Manages the registry of bundled and external extensions">Verwaltet die Registrierung gebündelter und externer Erweiterungen</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200417" trl="Y">
+  <value column="Name" original="Extension Entities">Erweiterungs-Entitäten</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original="The database dictionary objects belonging to an installed extension">Die Datenbankwörterbuch-Objekte, die zu einer installierten Erweiterung gehören</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200424" trl="Y">
+  <value column="Name" original="Sales Pipeline">Vertriebspipeline</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200425" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200427" trl="Y">
+  <value column="Name" original="Sales Pipeline / Sales Stage">Vertriebspipeline / Vertriebsphase</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
 </idempiereTrl>
