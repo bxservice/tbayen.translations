@@ -266,7 +266,7 @@
   <value column="DocumentNote" original=""/>
  </row>
  <row id="200001" trl="Y">
-  <value column="Name" original="Asset Vehicle">Anlagengut Fahrzeug</value>
+  <value column="Name" original="Asset Vehicle">Anlagegut Fahrzeug</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>

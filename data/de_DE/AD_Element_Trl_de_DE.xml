@@ -65957,6 +65957,28 @@ Strings may be in single quotes (optional)]]></value>
   <value column="PO_Name" original=""/>
   <value column="PO_PrintName" original=""/>
  </row>
+ <row id="204038" trl="Y">
+  <value column="Name" original="User defined Form">Benutzerdefiniertes Formular</value>
+  <value column="PrintName" original="User defined Form">Benutzerdefiniertes Formular</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204039" trl="Y">
+  <value column="Name" original="AD_UserDef_Form_UU">AD_UserDef_Form_UU</value>
+  <value column="PrintName" original="AD_UserDef_Form_UU">AD_UserDef_Form_UU</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
  <row id="204050" trl="Y">
   <value column="Name" original="Extension">Erweiterung</value>
   <value column="PrintName" original="Extension">Erweiterung</value>
@@ -66060,6 +66082,128 @@ Strings may be in single quotes (optional)]]></value>
   <value column="Name" original="External Trace ID">Externe Trace-ID</value>
   <value column="PrintName" original="External Trace ID">Externe Trace-ID</value>
   <value column="Description" original="External identifier used for audit tracing">Externe Trace-ID</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204061" trl="Y">
+  <value column="Name" original="Use Date Material Policy">Materialdatumsstrategie verwenden</value>
+  <value column="PrintName" original="Use Date Material Policy">Materialdatumsstrategie verwenden</value>
+  <value column="Description" original="Use transaction or guarantee date to track storage records per date">Transaktions- oder Garantiedatum zur datumsbasierten Verfolgung von Lagereinträgen verwenden</value>
+  <value column="Help" original="When enabled, storage records are created per Date Material Policy&#10;(transaction date or guarantee date depending on the product attribute set).&#10;This allows FIFO/LIFO costing and lot traceability at the cost of&#10;generating multiple storage records over time.&#10;&#10;When disabled, all storage movements for this product are consolidated&#10;into a single storage record using a fixed reference date (01/01/1900).&#10;Use this option for products where date-based tracking is not required&#10;and having a single on-hand record per locator is preferred.&#10;&#10;Only applicable to stocked products.">Wenn aktiviert, werden Lagereinträge pro Materialdatumsstrategie erstellt
+(Transaktionsdatum oder Garantiedatum, abhängig vom Produktmerkmalssatz).
+Dies ermöglicht FIFO/LIFO-Kostenrechnung und Chargenrückverfolgbarkeit,
+allerdings auf Kosten der Erzeugung mehrerer Lagereinträge über die Zeit.
+
+Wenn deaktiviert, werden alle Lagerbewegungen für dieses Produkt in einem
+einzigen Lagereintrag zusammengefasst, unter Verwendung eines festen
+Referenzdatums (01.01.1900).
+Verwenden Sie diese Option für Produkte, bei denen eine datumsbasierte
+Verfolgung nicht erforderlich ist und ein einziger Bestandseintrag pro
+Lagerort bevorzugt wird.
+
+Gilt nur für bestandsgeführte Produkte.</value>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204100" trl="Y">
+  <value column="Name" original="Export Format">Exportformat</value>
+  <value column="PrintName" original="Export Format">Exportformat</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204101" trl="Y">
+  <value column="Name" original="To User Element List 1">An Benutzerelementliste 1</value>
+  <value column="PrintName" original="To User Element List 1">An Benutzerelementliste 1</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204102" trl="Y">
+  <value column="Name" original="To User Element List 2">An Benutzerelementliste 2</value>
+  <value column="PrintName" original="To User Element List 2">An Benutzerelementliste 2</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204103" trl="Y">
+  <value column="Name" original="From User Element List 2">Von Benutzerelementliste 2</value>
+  <value column="PrintName" original="From User Element List 2">Von Benutzerelementliste 2</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204104" trl="Y">
+  <value column="Name" original="From User Element List 1">Von Benutzerelementliste 1</value>
+  <value column="PrintName" original="From User Element List 1">Von Benutzerelementliste 1</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204105" trl="Y">
+  <value column="Name" original="Sales Pipeline">Vertriebspipeline</value>
+  <value column="PrintName" original="Sales Pipeline">Vertriebspipeline</value>
+  <value column="Description" original="Defines a sales pipeline (e.g. &quot;Standard Sales&quot;, &quot;Complex Project&quot;, etc.)">Definiert eine Vertriebspipeline (z. B. „Standardverkauf", „Komplexes Projekt" usw.)</value>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204106" trl="Y">
+  <value column="Name" original="C_SalesPipeline_UU">C_SalesPipeline_UU</value>
+  <value column="PrintName" original="C_SalesPipeline_UU">C_SalesPipeline_UU</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204107" trl="Y">
+  <value column="Name" original="C_SalesPipeline_Trl_UU">C_SalesPipeline_Trl_UU</value>
+  <value column="PrintName" original="C_SalesPipeline_Trl_UU">C_SalesPipeline_Trl_UU</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="Placeholder" original=""/>
+  <value column="PO_Description" original=""/>
+  <value column="PO_Help" original=""/>
+  <value column="PO_Name" original=""/>
+  <value column="PO_PrintName" original=""/>
+ </row>
+ <row id="204110" trl="Y">
+  <value column="Name" original="C_SalesPipelineStage_UU">C_SalesPipelineStage_UU</value>
+  <value column="PrintName" original="C_SalesPipelineStage_UU">C_SalesPipelineStage_UU</value>
+  <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>

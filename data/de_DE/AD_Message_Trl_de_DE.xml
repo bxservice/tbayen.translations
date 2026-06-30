@@ -8380,6 +8380,10 @@ Bitte bestätigen Sie durch Eingabe von: <b>{1}<b/>]]></value>
   <value column="MsgText" original="A field marked as Always Updatable cannot have Read Only Logic">Ein als 'Immer aktualisierbar' markiertes Feld darf keine Schreibschutzlogik haben</value>
   <value column="MsgTip" original=""/>
  </row>
+ <row id="200985" trl="Y">
+  <value column="MsgText" original="Quantity received exceeds balance to receive, Line {0} Product {1} Quantity Balance {2}">Empfangene Menge überschreitet den zu empfangenden Saldo, Position {0} Produkt {1} Mengensaldo {2}</value>
+  <value column="MsgTip" original=""/>
+ </row>
  <row id="200987" trl="Y">
   <value column="MsgText" original="Template roles cannot be assigned directly to users.">Vorlagenrollen können Benutzern nicht direkt zugewiesen werden.</value>
   <value column="MsgTip" original="This is a template role. To assign these permissions, please create a standard role from this template.">Dies ist eine Vorlagenrolle. Um diese Berechtigungen zuzuweisen, erstellen Sie bitte eine Standardrolle aus dieser Vorlage.</value>
@@ -8562,6 +8566,14 @@ Bitte bestätigen Sie durch Eingabe von: <b>{1}<b/>]]></value>
  </row>
  <row id="201037" trl="Y">
   <value column="MsgText" original="Cannot uninstall/disable {0} because other extensions depend on it. Please remove/disable the following dependents first: [{1}]">{0} kann nicht deinstalliert/deaktiviert werden, da andere Erweiterungen davon abhängen. Bitte zuerst folgende Abhängigkeiten entfernen/deaktivieren: [{1}]</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="201040" trl="Y">
+  <value column="MsgText" original="Cannot change Use Date Material Policy when product has on hand quantity. Please consolidate or clear storage records first.">Die Materialdatumsstrategie kann nicht geändert werden, solange das Produkt einen vorhandenen Bestand aufweist. Bitte konsolidieren oder löschen Sie zuerst die Lagereinträge.</value>
+  <value column="MsgTip" original=""/>
+ </row>
+ <row id="201044" trl="Y">
+  <value column="MsgText" original="Load Mail Template">E-Mail-Vorlage laden</value>
   <value column="MsgTip" original=""/>
  </row>
  <row id="520010" trl="Y">

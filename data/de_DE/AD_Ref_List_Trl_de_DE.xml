@@ -5952,4 +5952,16 @@
   <value column="Name" original="Installing">Wird installiert</value>
   <value column="Description" original="Installation is in progress">Installation läuft</value>
  </row>
+ <row id="200770" trl="Y">
+  <value column="Name" original="XML">XML</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200771" trl="Y">
+  <value column="Name" original="JSON">JSON</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="200772" trl="Y">
+  <value column="Name" original="YAML">YAML</value>
+  <value column="Description" original=""/>
+ </row>
 </idempiereTrl>

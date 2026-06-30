@@ -2950,4 +2950,14 @@
   <value column="Description" original="List of valid states for an extension's lifecycle">Liste gültiger Zustände für den Lebenszyklus einer Erweiterung</value>
   <value column="Help" original="Defines the allowed deployment and operational states for records in the AD_Extension table">Definiert die zulässigen Bereitstellungs- und Betriebszustände für Datensätze in der AD_Extension-Tabelle</value>
  </row>
+ <row id="200286" trl="Y">
+  <value column="Name" original="2Pack Export Format">2Pack-Exportformat</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200287" trl="Y">
+  <value column="Name" original="C_SalesStage - for C_Opportunity">C_SalesStage - für C_Opportunity</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
 </idempiereTrl>

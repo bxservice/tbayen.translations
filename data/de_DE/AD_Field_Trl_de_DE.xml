@@ -113,7 +113,11 @@ Falls der Belegtyp des Belegs keine automatische Belegnummernkreis definiert hat
  <row id="11264" trl="Y">
   <value column="Name" original="Column SQL">Spalten-SQL</value>
   <value column="Description" original="Virtual Column (r/o)">Virtuelle Spalte (schreibgeschützt)</value>
-  <value column="Help" original="You can define virtual columns (not stored in the database). If defined, the Column name is the synonym of the SQL expression defined here. The SQL expression must be valid.&lt;br&gt;&#10;Example: &quot;Updated-Created&quot; would list the age of the entry in days.&lt;br&gt;&#10;It is not recommended to add complex queries in virtual columns as the impact on the database performance can be too expensive.&lt;br&gt;&#10;However, you can use the prefix @SQLFIND= for virtual columns that can be used for queries and reports, they have less impact on the database, but as a field they don't show values.&lt;br&gt;&#10;Additionally, the prefix @SQL= allows to define a virtual UI column, this is calculated on the fly and can use context variables in the query, virtual UI columns are shown in grid just on the current row, they are not searchable, and not shown in reports.">Sie können virtuelle Spalten definieren (nicht in der Datenbank gespeichert). Der Spaltenname ist das Synonym für den hier definierten SQL-Ausdruck.</value>
+  <value column="Help" original="You can define virtual columns (not stored in the database). If defined, the Column name is the synonym of the SQL expression defined here. The SQL expression must be valid.&lt;br&gt;&#10;Example: &quot;Updated-Created&quot; would list the age of the entry in days.&lt;br&gt;&#10;It is not recommended to add complex queries in virtual columns as the impact on the database performance can be too expensive.&lt;br&gt;&#10;However, you can use the prefix @SQLFIND= for virtual columns that can be used for queries and reports, they have less impact on the database, but as a field they don't show values.&lt;br&gt;&#10;Additionally, the prefix @SQL= allows to define a virtual UI column, this is calculated on the fly and can use context variables in the query, virtual UI columns are shown in grid just on the current row, they are not searchable, and not shown in reports." xml:space="preserve"><![CDATA[Sie können virtuelle Spalten definieren (nicht in der Datenbank gespeichert). Wenn definiert, ist der Spaltenname ein Synonym für den hier definierten SQL-Ausdruck. Der SQL-Ausdruck muss gültig sein.<br>
+Beispiel: „Updated-Created" würde das Alter des Eintrags in Tagen anzeigen.
+Es wird nicht empfohlen, komplexe Abfragen in virtuellen Spalten hinzuzufügen, da die Auswirkungen auf die Datenbankleistung zu kostspielig sein können.<br>
+Sie können jedoch das Präfix @SQLFIND= für virtuelle Spalten verwenden, die für Abfragen und Berichte genutzt werden können. Diese haben geringere Auswirkungen auf die Datenbank, zeigen jedoch als Feld keine Werte an.<br>
+Darüber hinaus ermöglicht das Präfix @SQL= die Definition einer virtuellen UI-Spalte. Diese wird dynamisch berechnet und kann Kontextvariablen in der Abfrage verwenden. Virtuelle UI-Spalten werden im Raster nur in der aktuellen Zeile angezeigt, sind nicht durchsuchbar und werden nicht in Berichten ausgegeben.]]></value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="11799" trl="Y">
@@ -125,7 +129,14 @@ Falls der Belegtyp des Belegs keine automatische Belegnummernkreis definiert hat
  <row id="12249" trl="Y">
   <value column="Name" original="Validation code">Validierungscode</value>
   <value column="Description" original="Validation Code">Validierungscode</value>
-  <value column="Help" original="The Validation Code displays the date, time and message of the error.&#10;&#10;You can add advanced SQL queries to your searches by filling this field with @SQL=[WHERE CLAUSE].&#10;Do not include the WHERE statement and use Fully qualified SQL statements. F.e:&#10;&#10;@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@ &#10;&#10;will filter orders by active and where the sales representative is the current user.">Der Validierungscode zeigt Datum, Uhrzeit und Fehlermeldung an. Sie können erweiterte SQL-Abfragen hinzufügen mit @SQL=[WHERE-KLAUSEL].</value>
+  <value column="Help" original="The Validation Code displays the date, time and message of the error.&#10;&#10;You can add advanced SQL queries to your searches by filling this field with @SQL=[WHERE CLAUSE].&#10;Do not include the WHERE statement and use Fully qualified SQL statements. F.e:&#10;&#10;@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@ &#10;&#10;will filter orders by active and where the sales representative is the current user.">Der Validierungscode zeigt Datum, Uhrzeit und Meldung des Fehlers an.
+
+Sie können erweiterte SQL-Abfragen zu Ihren Suchen hinzufügen, indem Sie dieses Feld mit @SQL=[WHERE-KLAUSEL] befüllen.
+Verwenden Sie nicht das Schlüsselwort WHERE und nutzen Sie vollständig qualifizierte SQL-Anweisungen. Zum Beispiel:
+
+@SQL=C_Order.isActive='Y' AND SalesRep_ID=@AD_User_ID@
+
+filtert Aufträge nach aktiven Einträgen und nach dem aktuellen Benutzer als Vertriebsmitarbeiter.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="12732" trl="Y">
@@ -992,8 +1003,8 @@ Wenn Sie Datumswerte in die Felder Gültig ab - bis eingeben, ermitteln wir die 
  <row id="207695" trl="Y">
   <value column="Name" original="DB Table Name">DB-Tabellenname</value>
   <value column="Description" original=""/>
-  <value column="Help" original="You can use % or a comma separated list of table names (case sensitive)&#10;Using '@TableName@' will change to current table when executing the process">You can use % or a comma separated list of table names (case sensitive)
-Using '@TableName@' will change to current table when executing the process</value>
+  <value column="Help" original="You can use % or a comma separated list of table names (case sensitive)&#10;Using '@TableName@' will change to current table when executing the process">Sie können % oder eine kommagetrennte Liste von Tabellennamen verwenden (Groß-/Kleinschreibung beachten).
+Die Verwendung von '@TableName@' wechselt zur aktuellen Tabelle bei der Ausführung des Prozesses.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="207825" trl="Y">

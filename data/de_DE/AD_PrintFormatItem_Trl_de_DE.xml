@@ -210,4 +210,14 @@
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
+ <row id="200534" trl="Y">
+  <value column="Name" original="Account">Konto</value>
+  <value column="PrintName" original="Account">Konto</value>
+  <value column="PrintNameSuffix" original=""/>
+ </row>
+ <row id="200535" trl="Y">
+  <value column="Name" original="BPartner">Geschäftspartner</value>
+  <value column="PrintName" original="Business Partner">Geschäftspartner</value>
+  <value column="PrintNameSuffix" original=""/>
+ </row>
 </idempiereTrl>

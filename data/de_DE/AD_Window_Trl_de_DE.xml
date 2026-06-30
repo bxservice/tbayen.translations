@@ -1857,9 +1857,19 @@ MRP - 110	 No exists Dem</value>
   <value column="Help" original="The Role Template Window allows you to define role templates for inclusion by role.  &#10;Note that access information is cached and requires re-login or reset of cache.">Das Fenster 'Rollenvorlage' ermöglicht die Definition von Rollenvorlagen zur Einbindung durch eine Rolle.
 Zugangsinformationen werden gecacht und erfordern eine erneute Anmeldung oder das Zurücksetzen des Caches.</value>
  </row>
+ <row id="200159" trl="Y">
+  <value column="Name" original="User defined Form">Benutzerdefiniertes Formular</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
  <row id="200160" trl="Y">
   <value column="Name" original="Extension Registry">Erweiterungsregistrierung</value>
   <value column="Description" original="Manages the registry of bundled and external extensions">Verwaltet die Registrierung von integrierten und externen Erweiterungen</value>
-  <value column="Help" original="Maintains a record of all extensions installed in the system, whether bundled or external. It stores the JSON manifest , tracks the current deployment state (e.g., Installing, Installed, Disabled) , and helps validate dependencies before deployment.">Führt einen Datensatz aller im System installierten Erweiterungen, ob integriert oder extern. Speichert das JSON-Manifest, verfolgt den aktuellen Bereitstellungsstatus (z.B. Installiert, Installiert, Deaktiviert) und hilft bei der Validierung von Abhängigkeiten vor der Bereitstellung.</value>
+  <value column="Help" original="Maintains a record of all extensions installed in the system, whether bundled or external. It stores the JSON manifest , tracks the current deployment state (e.g., Installing, Installed, Disabled) , and helps validate dependencies before deployment.">Verwaltet eine Aufzeichnung aller im System installierten Erweiterungen, sowohl gebündelte als auch externe. Es speichert das JSON-Manifest, verfolgt den aktuellen Bereitstellungsstatus (z. B. Wird installiert, Installiert, Deaktiviert) und hilft dabei, Abhängigkeiten vor der Bereitstellung zu validieren.</value>
+ </row>
+ <row id="200164" trl="Y">
+  <value column="Name" original="Sales Pipeline">Vertriebspipeline</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
  </row>
 </idempiereTrl>

@@ -6037,7 +6037,7 @@ Valid From/To is determined by the parent tax.]]></value>
  <row id="200116" trl="Y">
   <value column="Name" original="Available Columns">Verfügbare Spalten</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="You can define on this tab which columns will be available as the print format items">You can define on this tab which columns will be available as the print format items</value>
+  <value column="Description" original="You can define on this tab which columns will be available as the print format items">Sie können auf diesem Register festlegen, welche Spalten als Druckformatelemente verfügbar sein sollen.</value>
   <value column="Help" original=""/>
  </row>
  <row id="200121" trl="Y">
@@ -6787,16 +6787,40 @@ Hinweis: Die Systemadministratorrolle kann nicht geändert werden.]]></value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
+ <row id="200413" trl="Y">
+  <value column="Name" original="User defined Form">Benutzerdefiniertes Formular</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
  <row id="200416" trl="Y">
   <value column="Name" original="Extension Registry">Erweiterungsregistrierung</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="Manages the registry of bundled and external extensions">Manages the registry of bundled and external extensions</value>
+  <value column="Description" original="Manages the registry of bundled and external extensions">Verwaltet die Registrierung gebündelter und externer Erweiterungen</value>
   <value column="Help" original=""/>
  </row>
  <row id="200417" trl="Y">
   <value column="Name" original="Extension Entities">Erweiterungs-Entitäten</value>
   <value column="CommitWarning" original=""/>
-  <value column="Description" original="The database dictionary objects belonging to an installed extension">The database dictionary objects belonging to an installed extension</value>
+  <value column="Description" original="The database dictionary objects belonging to an installed extension">Die Datenbankwörterbuch-Objekte, die zu einer installierten Erweiterung gehören</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200424" trl="Y">
+  <value column="Name" original="Sales Pipeline">Vertriebspipeline</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200425" trl="Y">
+  <value column="Name" original="Translation">Übersetzung</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200427" trl="Y">
+  <value column="Name" original="Sales Pipeline / Sales Stage">Vertriebspipeline / Vertriebsphase</value>
+  <value column="CommitWarning" original=""/>
+  <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
 </idempiereTrl>

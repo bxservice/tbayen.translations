@@ -652,4 +652,28 @@
   <value column="Description" original="South Sudanese pound">Südsudan-Pfund</value>
   <value column="CurSymbol" original="SS£">SS£</value>
  </row>
+ <row id="200002" trl="Y">
+  <value column="Description" original="Chilean Unidad de Fomento">Chilenische Unidad de Fomento</value>
+  <value column="CurSymbol" original="UF">UF</value>
+ </row>
+ <row id="200003" trl="Y">
+  <value column="Description" original="Colombian Unidad de Valor Real">Kolumbianische Unidad de Valor Real</value>
+  <value column="CurSymbol" original="UVR">UVR</value>
+ </row>
+ <row id="200004" trl="Y">
+  <value column="Description" original="Mexican Unidad de Inversión">Mexikanische Unidad de Inversión</value>
+  <value column="CurSymbol" original="UDI">UDI</value>
+ </row>
+ <row id="200005" trl="Y">
+  <value column="Description" original="Bolivian Mvdol">Bolivianischer Mvdol</value>
+  <value column="CurSymbol" original="Mvdol">Mvdol</value>
+ </row>
+ <row id="200006" trl="Y">
+  <value column="Description" original="Uruguayan Indexed Unit">Uruguayische indexierte Einheit</value>
+  <value column="CurSymbol" original="UI">UI</value>
+ </row>
+ <row id="200007" trl="Y">
+  <value column="Description" original="Uruguayan Nominal Wage Index Unit">Uruguayische nominale Lohnindexeinheit</value>
+  <value column="CurSymbol" original="UP">UP</value>
+ </row>
 </idempiereTrl>

@@ -2271,7 +2271,7 @@ Menü erzeugen: wenn angewählt, wird der Prozess einen Menü-Eintrag für das n
   <value column="Help" original=""/>
  </row>
  <row id="200155" trl="Y">
-  <value column="Name" original="Switch Active Flag on this Test UU and its Details">Umschalt das Aktiv-Flag für dieses Test und dessen Details</value>
+  <value column="Name" original="Switch Active Flag on this Test UU and its Details">Aktiv-Flag für diesen Test UU und seine Details umschalten</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
  </row>
